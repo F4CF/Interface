@@ -6,7 +6,7 @@
 # Permissions
 You may use the decompiled/reconstructed vanilla source files in your mod **without** explicit permission.
 
- # Disclaimer
+# Disclaimer
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
