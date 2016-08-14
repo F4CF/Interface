@@ -1,0 +1,37 @@
+{
+	"build_systems":
+	[
+		{
+			"cmd":
+			[
+				"Systems\\Project_Repository.bat"
+			],
+			"name": "Update Repository"
+		}
+	],
+	"folders":
+	[
+		{
+			"name": "My Games",
+			"path": "C:\\Users\\Scrivener07\\Documents\\My Games\\Fallout4"
+		},
+		{
+			"name": "GitHub",
+			"path": "E:\\Lab\\Bethesda\\FO4\\FO4_Interface"
+		},
+		{
+			"name": "Project",
+			"path": "."
+		},
+		{
+			"name": "Interface",
+			"path": "D:\\Games\\Steam\\SteamApps\\common\\Fallout 4\\Data\\Interface"
+		}
+	],
+	"settings":
+	{
+		"tab_size": 4,
+		"trim_trailing_white_space_on_save": true,
+		"word_wrap": false
+	}
+}
