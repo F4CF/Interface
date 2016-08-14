@@ -1,0 +1,32 @@
+{
+	"folders":
+	[
+		{
+			"name": "My Games",
+			"path": "C:\\Users\\Scrivener07\\Documents\\My Games\\Fallout4"
+		},
+		{
+			"name": "Repository",
+			"path": "E:\\Lab\\Bethesda\\FO4\\Scrivener07\\FO4_Interface"
+		},
+		{
+			"file_include_patterns":
+			[
+				"FO4_Interface.*"
+			],
+			"folder_exclude_patterns":
+			[
+				"*"
+			],
+			"path": "."
+		},
+		{
+			"name": "Papyrus",
+			"path": "Scripts\\Source\\User"
+		},
+		{
+			"name": "Interface",
+			"path": "Interface\\Source"
+		},
+	],
+}

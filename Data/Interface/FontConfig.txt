@@ -1,0 +1,13 @@
+fontlib "Interface\fonts_en.swf"
+fontlib "Interface\fonts_console.swf"
+map "$HandwrittenFont" = "Handwritten_Institute" Normal
+map "$MAIN_Font" = "Roboto Condensed" Normal
+map "$MAIN_Font_Bold" = "Roboto Condensed" Bold
+map "$Terminal_Font" = "Share-TechMono" Normal
+map "$Controller_Buttons" = "Controller  Buttons" Normal
+map "$Controller_Buttons_inverted" = "Controller  Buttons inverted" Normal
+map "$ConsoleFont" = "Arial" Normal
+map "$DebugTextFont" = "Consolas" Normal
+map "$BRODY" = "Brody" Bold
+validNameChars "`1234567890-=~!@#$%^&*():_+QWERTYUIOP[]ASDFGHJKL;'ZXCVBNM,./qwertyuiop{}\\asdfghjkl;'zxcvbnm?|¡¢£¤¥¦§¨©ª«®¯°²³´¶·¸¹º»¼½¾¿ÄÀÁÂÃÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüış ÿ "
+validBookChars "`1234567890-=~!@#$%^&*():_+QWERTYUIOP[]ASDFGHJKL;'ZXCVBNM,./qwertyuiop{}\\asdfghjkl;'zxcvbnm<>?|¡¢£¤¥¦§¨©ª«®¯°²³´¶·¸¹º»¼½¾¿ÄÀÁÂÃÅÆÇÈÉÊËÌÍÎÏĞÑÒÓÔÕÖ×ØÙÚÛÜİŞßàáâãäåæçèéêëìíîïğñòóôõö÷øùúûüış ÿ "
