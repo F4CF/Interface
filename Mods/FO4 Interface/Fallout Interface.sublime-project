@@ -1,14 +1,4 @@
 {
-	"build_systems":
-	[
-		{
-			"cmd":
-			[
-				"Systems\\Project_Repository.bat"
-			],
-			"name": "Update Repository"
-		}
-	],
 	"folders":
 	[
 		{
