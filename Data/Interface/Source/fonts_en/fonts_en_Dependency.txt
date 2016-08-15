@@ -1,0 +1,15 @@
+Folder PATH listing for volume Storage
+Volume serial number is 22C3-B150
+D:\GAMES\STEAM\STEAMAPPS\COMMON\FALLOUT 4\MODS\FO4 INTERFACE\COMMANDS\OUTPUT\DECOMPILED\MENUS\FONTS_EN
+|   fonts_en.fla
+|   fonts_en_Dependency.txt
+|   
+\---scripts
+        $BRODY.as
+        $Controller_Buttons.as
+        $Controller_Buttons_inverted.as
+        $HandwrittenFont.as
+        $MAIN_Font.as
+        $MAIN_Font_Bold.as
+        $Terminal_Font.as
+        
