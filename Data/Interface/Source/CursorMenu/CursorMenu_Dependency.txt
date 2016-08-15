@@ -1,0 +1,9 @@
+Folder PATH listing for volume Storage
+Volume serial number is 22C3-B150
+D:\GAMES\STEAM\STEAMAPPS\COMMON\FALLOUT 4\MODS\FO4 INTERFACE\COMMANDS\OUTPUT\DECOMPILED\MENUS\CURSORMENU
+|   CursorMenu.fla
+|   CursorMenu_Dependency.txt
+|   
+\---scripts
+        CursorMenu.as
+        
