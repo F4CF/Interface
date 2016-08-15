@@ -1,0 +1,15 @@
+Folder PATH listing for volume Storage
+Volume serial number is 22C3-B150
+D:\GAMES\STEAM\STEAMAPPS\COMMON\FALLOUT 4\MODS\FO4 INTERFACE\COMMANDS\OUTPUT\DECOMPILED\MENUS\BSBUTTONHINTBAR
+|   BSButtonHintBar.fla
+|   BSButtonHintBar_Dependency.txt
+|   
+\---scripts
+    +---BSButtonHintBar_fla
+    |       BSButtonHint_IconHolder_5.as
+    |       
+    \---Shared
+        \---AS3
+                BSButtonHint.as
+                BSButtonHintBar.as
+                
