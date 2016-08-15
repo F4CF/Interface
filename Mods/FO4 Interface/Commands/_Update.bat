@@ -16,7 +16,7 @@ REM Files
 REM ===========================================================
 SET SWF01=Data\Interface\fonts_en.swf
 SET SWF02=Data\Interface\fonts_console.swf
-SET SWF03=Data\Interface\FontConfig.txt
+SET SWF03=Data\Programs\fonts_programs.swf
 
 ECHO Copying Files
 ECHO ===========================================================
