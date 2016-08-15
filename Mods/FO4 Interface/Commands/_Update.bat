@@ -1,6 +1,5 @@
 @ECHO off
 ECHO The batch script will update the repository.
-PAUSE
 ECHO.
 
 REM TODO Parameters
