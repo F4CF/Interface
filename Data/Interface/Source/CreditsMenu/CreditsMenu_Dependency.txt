@@ -1,0 +1,40 @@
+Folder PATH listing for volume Storage
+Volume serial number is 22C3-B150
+D:\GAMES\STEAM\STEAMAPPS\COMMON\FALLOUT 4\MODS\FO4 INTERFACE\COMMANDS\OUTPUT\DECOMPILED\MENUS\CREDITSMENU
+|   CreditsMenu.fla
+|   CreditsMenu_Dependency.txt
+|   
+\---scripts
+    |   CreationEngineLogo.as
+    |   CreditsMenu.as
+    |   Fallout4logo.as
+    |   MiddlewareLogos.as
+    |   SkyrimLogo.as
+    |   
+    +---CreditsMenu_fla
+    |       BSButtonHint_IconHolder_8.as
+    |       
+    +---scaleform
+    |   \---gfx
+    |           DisplayObjectEx.as
+    |           Extensions.as
+    |           InteractiveObjectEx.as
+    |           TextFieldEx.as
+    |           
+    \---Shared
+        |   GlobalFunc.as
+        |   IMenu.as
+        |   PlatformChangeEvent.as
+        |   PlatformRequestEvent.as
+        |   
+        \---AS3
+            |   BSBracketClip.as
+            |   BSButtonHint.as
+            |   BSButtonHintBar.as
+            |   BSButtonHintData.as
+            |   BSUIComponent.as
+            |   
+            \---COMPANIONAPP
+                    CompanionAppMode.as
+                    MobileButtonHint.as
+                    
