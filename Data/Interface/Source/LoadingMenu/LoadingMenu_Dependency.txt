@@ -1,0 +1,24 @@
+Folder PATH listing for volume Storage
+Volume serial number is 22C3-B150
+D:\GAMES\STEAM\STEAMAPPS\COMMON\FALLOUT 4\MODS\FO4 INTERFACE\COMMANDS\OUTPUT\DECOMPILED\MENUS\LOADINGMENU
+|   LoadingMenu.fla
+|   LoadingMenu_Dependency.txt
+|   
+\---scripts
+    |   LoadingMenu.as
+    |   Pipboy_Meter.as
+    |   
+    +---scaleform
+    |   \---gfx
+    |           Extensions.as
+    |           
+    \---Shared
+        |   GlobalFunc.as
+        |   IMenu.as
+        |   PlatformChangeEvent.as
+        |   PlatformRequestEvent.as
+        |   
+        \---AS3
+                BSBracketClip.as
+                BSUIComponent.as
+                
