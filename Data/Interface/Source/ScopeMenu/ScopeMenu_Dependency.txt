@@ -1,0 +1,34 @@
+Folder PATH listing for volume Storage
+Volume serial number is 22C3-B150
+D:\GAMES\STEAM\STEAMAPPS\COMMON\FALLOUT 4\MODS\FO4 INTERFACE\COMMANDS\OUTPUT\DECOMPILED\MENUS\SCOPEMENU
+|   ScopeMenu.fla
+|   ScopeMenu_Dependency.txt
+|   
+\---scripts
+    |   ScopeMenu.as
+    |   
+    +---scaleform
+    |   \---gfx
+    |           Extensions.as
+    |           
+    +---ScopeMenu_fla
+    |       BSButtonHint_IconHolder_29.as
+    |       Level01_9.as
+    |       
+    \---Shared
+        |   GlobalFunc.as
+        |   IMenu.as
+        |   PlatformChangeEvent.as
+        |   PlatformRequestEvent.as
+        |   
+        \---AS3
+            |   BSBracketClip.as
+            |   BSButtonHint.as
+            |   BSButtonHintBar.as
+            |   BSButtonHintData.as
+            |   BSUIComponent.as
+            |   
+            \---COMPANIONAPP
+                    CompanionAppMode.as
+                    MobileButtonHint.as
+                    
