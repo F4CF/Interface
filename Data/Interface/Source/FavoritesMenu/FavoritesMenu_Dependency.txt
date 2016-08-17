@@ -1,0 +1,33 @@
+Folder PATH listing for volume Storage
+Volume serial number is 22C3-B150
+D:\GAMES\STEAM\STEAMAPPS\COMMON\FALLOUT 4\MODS\FO4 INTERFACE\COMMANDS\OUTPUT\DECOMPILED\MENUS\FAVORITESMENU
+|   FavoritesMenu.fla
+|   FavoritesMenu_Dependency.txt
+|   
+\---scripts
+    |   FavoritesCross.as
+    |   FavoritesEntry.as
+    |   FavoritesMenu.as
+    |   
+    +---FavoritesMenu_fla
+    |       EntryHolder_3.as
+    |       HotkeyIcons_6.as
+    |       
+    +---scaleform
+    |   \---gfx
+    |           DisplayObjectEx.as
+    |           Extensions.as
+    |           InteractiveObjectEx.as
+    |           TextFieldEx.as
+    |           
+    \---Shared
+        |   CustomEvent.as
+        |   GlobalFunc.as
+        |   IMenu.as
+        |   PlatformChangeEvent.as
+        |   PlatformRequestEvent.as
+        |   
+        \---AS3
+                BSBracketClip.as
+                BSUIComponent.as
+                
