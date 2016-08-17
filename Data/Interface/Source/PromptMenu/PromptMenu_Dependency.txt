@@ -1,0 +1,27 @@
+Folder PATH listing for volume Storage
+Volume serial number is 22C3-B150
+D:\GAMES\STEAM\STEAMAPPS\COMMON\FALLOUT 4\MODS\FO4 INTERFACE\COMMANDS\OUTPUT\DECOMPILED\MENUS\PROMPTMENU
+|   PromptMenu.fla
+|   PromptMenu_Dependency.txt
+|   
+\---scripts
+    |   MessageHolder.as
+    |   PromptMenu.as
+    |   
+    +---PromptMenu_fla
+    |       PromptMenuPanel_1.as
+    |       
+    +---scaleform
+    |   \---gfx
+    |           Extensions.as
+    |           
+    \---Shared
+        |   GlobalFunc.as
+        |   IMenu.as
+        |   PlatformChangeEvent.as
+        |   PlatformRequestEvent.as
+        |   
+        \---AS3
+                BSBracketClip.as
+                BSUIComponent.as
+                
