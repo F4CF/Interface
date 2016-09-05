@@ -1,0 +1,31 @@
+{
+	"folders":
+	[
+		{
+			"name": "GitHub",
+			"path": "E:\\Lab\\Bethesda\\FO4\\Interface\\FO4_Interface"
+		},
+		{
+			"name": "My Games",
+			"path": "C:\\Users\\Scrivener07\\Documents\\My Games\\Fallout4"
+		},
+		{
+			"name": "Project",
+			"path": "."
+		},
+		{
+			"name": "Application",
+			"path": "..\\..\\Tools\\FO4 Interface"
+		},
+		{
+			"name": "Interface",
+			"path": "..\\..\\\\Data\\Interface\\Source"
+		}
+	],
+	"settings":
+	{
+		"tab_size": 4,
+		"trim_trailing_white_space_on_save": true,
+		"word_wrap": false
+	}
+}
