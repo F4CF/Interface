@@ -79,7 +79,8 @@ namespace FO4_Interface.Context.Options
 					if (SkipPrompt || Program.PromptYesNo(string.Format("Decompile '{0}'?", targetFile)))
 					{
 						string name = Path.GetFileNameWithoutExtension(targetFile).Trim();
-						string outputLocation = Path.Combine(OutputDirectory, name);
+						string subpath = Path.GetDirectoryName(targetFile.Replace(TargetDirectory, string.Empty)).Trim('\\');
+						string outputLocation = Path.Combine(OutputDirectory, subpath, name);
 						string outputFile = Path.Combine(outputLocation, name + ".fla");
 						string logFile = Path.Combine(outputLocation, name + ".txt");
 
