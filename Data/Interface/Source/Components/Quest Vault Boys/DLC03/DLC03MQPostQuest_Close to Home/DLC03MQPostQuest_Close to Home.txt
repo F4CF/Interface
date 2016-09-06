@@ -1,0 +1,15 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\DLCCoast - Main\Interface\Components\Quest Vault Boys\DLC03\DLC03MQPostQuest_Close to Home" "DLC03MQPostQuest_Close to Home.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\DLCCoast - Main\Interface\Components\Quest Vault Boys\DLC03'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.421
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00650075 22C3:B150
+D:.
+    DLC03MQPostQuest_Close to Home.fla
+    
+No subfolders exist 

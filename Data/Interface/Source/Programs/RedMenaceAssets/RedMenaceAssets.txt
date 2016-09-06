@@ -1,0 +1,89 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Programs\RedMenaceAssets" "RedMenaceAssets.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Programs'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:02.293
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00740065 22C3:B150
+D:.
+|   RedMenaceAssets.fla
+|   
+\---scripts
+    |   BombBonusMc.as
+    |   BombMc.as
+    |   btnMain.as
+    |   MiniBossBonusMc.as
+    |   miniBossMc.as
+    |   PauseIcon.as
+    |   
+    +---RedMenaceAssets_fla
+    |       Arrow_65.as
+    |       BombRolled_47.as
+    |       BombThrown_46.as
+    |       BonusTimerMc_94.as
+    |       Girlcopy3_14.as
+    |       GirlMc_42.as
+    |       IntroStateMc_12.as
+    |       LifeClip_96.as
+    |       PauseSymbolMc_98.as
+    |       PipboyAnimMc_53.as
+    |       PipboyMc_52.as
+    |       PowerArmorHelmet_31.as
+    |       Redforloading_19.as
+    |       RedMenaceMc_43.as
+    |       ResumeMc_100.as
+    |       Roller1_62.as
+    |       Stage3FloorsEnding_26.as
+    |       supportartanimation_39.as
+    |       
+    \---scaleform
+        +---clik
+        |   +---constants
+        |   |       ConstrainMode.as
+        |   |       FocusMode.as
+        |   |       InputValue.as
+        |   |       InvalidationType.as
+        |   |       NavigationCode.as
+        |   |       
+        |   +---controls
+        |   |       Button.as
+        |   |       ButtonGroup.as
+        |   |       
+        |   +---core
+        |   |       CLIK.as
+        |   |       UIComponent.as
+        |   |       
+        |   +---events
+        |   |       ButtonEvent.as
+        |   |       ComponentEvent.as
+        |   |       FocusHandlerEvent.as
+        |   |       InputEvent.as
+        |   |       ResizeEvent.as
+        |   |       
+        |   +---layout
+        |   |       LayoutData.as
+        |   |       
+        |   +---managers
+        |   |       FocusHandler.as
+        |   |       InputDelegate.as
+        |   |       PopUpManager.as
+        |   |       
+        |   +---ui
+        |   |       InputDetails.as
+        |   |       
+        |   \---utils
+        |           ConstrainedElement.as
+        |           Constraints.as
+        |           WeakReference.as
+        |           
+        \---gfx
+                Extensions.as
+                FocusEventEx.as
+                FocusManager.as
+                KeyboardEventEx.as
+                MouseEventEx.as
+                

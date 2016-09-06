@@ -1,0 +1,107 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Programs\PipFallAssets" "PipFallAssets.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Programs'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:02.257
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00000073 22C3:B150
+D:.
+|   PipFallAssets.fla
+|   
+\---scripts
+    |   $PipFallHUD.as
+    |   $Terminal_Font.as
+    |   Background0.as
+    |   Background1.as
+    |   Background2.as
+    |   Background3.as
+    |   Background4.as
+    |   Background5.as
+    |   BarrelsMc.as
+    |   BobbleHeadMc.as
+    |   btnMain.as
+    |   CrabsMc.as
+    |   LadderMc.as
+    |   LandMinesMc.as
+    |   LeftWallMc.as
+    |   MutatedBirdMc.as
+    |   MutatedMonsterMc.as
+    |   PauseIcon.as
+    |   PipFallMc.as
+    |   RadiationCloudMc.as
+    |   RadioactivePoolMc.as
+    |   RightWallMc.as
+    |   RopeMc.as
+    |   
+    +---PipFallAssets_fla
+    |       BarrelViewMc_88.as
+    |       BirdFireball_95.as
+    |       BirdViewMc_96.as
+    |       BobbleHeadViewMc_21.as
+    |       CrabViewMc_102.as
+    |       crab_eye_105.as
+    |       Flying_Mutant_121.as
+    |       GameLevelStateMc_25.as
+    |       GameOverStateMc_17.as
+    |       Heart_22.as
+    |       IntroTextAnimation_35.as
+    |       LandMineViewMc_109.as
+    |       PauseSymbolMc_39.as
+    |       PipFallAnimMc_149.as
+    |       RadiationCloudViewMc_132.as
+    |       ResumeMc_41.as
+    |       SkullAnimationMc_130.as
+    |       TimerMc_30.as
+    |       Title_Intro_3.as
+    |       
+    \---scaleform
+        +---clik
+        |   +---constants
+        |   |       ConstrainMode.as
+        |   |       FocusMode.as
+        |   |       InputValue.as
+        |   |       InvalidationType.as
+        |   |       NavigationCode.as
+        |   |       
+        |   +---controls
+        |   |       Button.as
+        |   |       ButtonGroup.as
+        |   |       
+        |   +---core
+        |   |       CLIK.as
+        |   |       UIComponent.as
+        |   |       
+        |   +---events
+        |   |       ButtonEvent.as
+        |   |       ComponentEvent.as
+        |   |       FocusHandlerEvent.as
+        |   |       InputEvent.as
+        |   |       ResizeEvent.as
+        |   |       
+        |   +---layout
+        |   |       LayoutData.as
+        |   |       
+        |   +---managers
+        |   |       FocusHandler.as
+        |   |       InputDelegate.as
+        |   |       PopUpManager.as
+        |   |       
+        |   +---ui
+        |   |       InputDetails.as
+        |   |       
+        |   \---utils
+        |           ConstrainedElement.as
+        |           Constraints.as
+        |           WeakReference.as
+        |           
+        \---gfx
+                Extensions.as
+                FocusEventEx.as
+                FocusManager.as
+                KeyboardEventEx.as
+                MouseEventEx.as
+                

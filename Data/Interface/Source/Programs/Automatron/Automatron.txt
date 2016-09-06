@@ -1,0 +1,189 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\DLCRobot - Main\Programs\Automatron\Automatron" "Automatron.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\DLCRobot - Main\Programs\Automatron'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:01.342
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00000200 22C3:B150
+D:.
+|   Automatron.fla
+|   
+\---scripts
+    |   Main.as
+    |   MainGame.as
+    |   
+    +---aze
+    |   \---motion
+    |       |   eaze.as
+    |       |   EazeTween.as
+    |       |   
+    |       +---easing
+    |       |       Linear.as
+    |       |       Quadratic.as
+    |       |       
+    |       \---specials
+    |               EazeSpecial.as
+    |               PropertyBezier.as
+    |               PropertyColorMatrix.as
+    |               PropertyFilter.as
+    |               PropertyFrame.as
+    |               PropertyRect.as
+    |               PropertyShortRotation.as
+    |               PropertyTint.as
+    |               PropertyVolume.as
+    |               
+    +---bhvr
+    |   +---ai
+    |   |       Path.as
+    |   |       
+    |   +---constants
+    |   |       GameConfig.as
+    |   |       GameConstants.as
+    |   |       GameInputs.as
+    |   |       
+    |   +---controller
+    |   |       CharacterController.as
+    |   |       EnemyController.as
+    |   |       GameController.as
+    |   |       HumanController.as
+    |   |       LevelController.as
+    |   |       StateController.as
+    |   |       
+    |   +---data
+    |   |       CursorType.as
+    |   |       EnemiesParser.as
+    |   |       EnemyBulletData.as
+    |   |       EnemyData.as
+    |   |       EnemyPathData.as
+    |   |       EnemySpawnData.as
+    |   |       GamePersistantData.as
+    |   |       GameScore.as
+    |   |       LevelData.as
+    |   |       LevelsParser.as
+    |   |       LevelUpVariables.as
+    |   |       LocalizationStrings.as
+    |   |       SoundList.as
+    |   |       
+    |   +---debug
+    |   |       Log.as
+    |   |       
+    |   +---events
+    |   |       EventWithParams.as
+    |   |       GameEvents.as
+    |   |       
+    |   +---external
+    |   |       BGSExternalAnimation.as
+    |   |       
+    |   +---interfaces
+    |   |       ICharacter.as
+    |   |       IExternalCommunication.as
+    |   |       
+    |   +---loader
+    |   |       AssetsLoader.as
+    |   |       
+    |   +---manager
+    |   |       InputManager.as
+    |   |       SoundManager.as
+    |   |       
+    |   +---states
+    |   |       ConfirmQuitState.as
+    |   |       GameFlow.as
+    |   |       GameLevelState.as
+    |   |       GameOverState.as
+    |   |       GameState.as
+    |   |       GameStateFactory.as
+    |   |       InstructionsState.as
+    |   |       PauseState.as
+    |   |       TitleState.as
+    |   |       
+    |   +---utils
+    |   |       DataPool.as
+    |   |       FlashUtil.as
+    |   |       MathUtil.as
+    |   |       XMLLoader.as
+    |   |       
+    |   \---views
+    |           Bullet.as
+    |           Character.as
+    |           CustomCursor.as
+    |           Enemy.as
+    |           EnemyBrain.as
+    |           EnemyBullet.as
+    |           EnemyElectrode.as
+    |           EnemyEnforcer.as
+    |           EnemyGrunt.as
+    |           EnemyHulk.as
+    |           EnemySpheroid.as
+    |           Hero.as
+    |           HeroBullet.as
+    |           Hud.as
+    |           Human.as
+    |           
+    +---Holotapes
+    |   \---Common
+    |       +---touch
+    |       |       Touch.as
+    |       |       
+    |       \---views
+    |               PauseButton.as
+    |               
+    +---scaleform
+    |   +---clik
+    |   |   +---constants
+    |   |   |       ConstrainMode.as
+    |   |   |       FocusMode.as
+    |   |   |       InputValue.as
+    |   |   |       InvalidationType.as
+    |   |   |       NavigationCode.as
+    |   |   |       
+    |   |   +---controls
+    |   |   |       UILoader.as
+    |   |   |       
+    |   |   +---core
+    |   |   |       CLIK.as
+    |   |   |       UIComponent.as
+    |   |   |       
+    |   |   +---events
+    |   |   |       ButtonEvent.as
+    |   |   |       ComponentEvent.as
+    |   |   |       FocusHandlerEvent.as
+    |   |   |       InputEvent.as
+    |   |   |       ResizeEvent.as
+    |   |   |       
+    |   |   +---layout
+    |   |   |       LayoutData.as
+    |   |   |       
+    |   |   +---managers
+    |   |   |       FocusHandler.as
+    |   |   |       InputDelegate.as
+    |   |   |       PopUpManager.as
+    |   |   |       
+    |   |   +---ui
+    |   |   |       InputDetails.as
+    |   |   |       
+    |   |   \---utils
+    |   |           ConstrainedElement.as
+    |   |           Constraints.as
+    |   |           WeakReference.as
+    |   |           
+    |   \---gfx
+    |           DisplayObjectEx.as
+    |           Extensions.as
+    |           FocusEventEx.as
+    |           FocusManager.as
+    |           InteractiveObjectEx.as
+    |           KeyboardEventEx.as
+    |           TextFieldEx.as
+    |           
+    \---Shared
+        |   BGSExternalInterface.as
+        |   PlatformChangeEvent.as
+        |   
+        \---AS3
+            \---COMPANIONAPP
+                    CompanionAppMode.as
+                    

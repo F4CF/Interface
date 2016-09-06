@@ -1,0 +1,84 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Programs\AtomicCommandAssets" "AtomicCommandAssets.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Programs'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:01.248
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00410064 22C3:B150
+D:.
+|   AtomicCommandAssets.fla
+|   
+\---scripts
+    |   $AtomicCommand_HUD.as
+    |   BomberMc.as
+    |   btnMain.as
+    |   CursorMc.as
+    |   CursorTargetMc.as
+    |   MissileMc.as
+    |   NukeMc.as
+    |   PauseIcon.as
+    |   
+    +---AtomicCommandAssets_fla
+    |       CanonNukeExplosion_44.as
+    |       CityExplosion_58.as
+    |       CloudTop_61.as
+    |       IntroAnimationsMc_5.as
+    |       LandmarkMc_47.as
+    |       NukeMissileExplosion_96.as
+    |       NukeSplitExplosion_98.as
+    |       PauseSymbolMc_75.as
+    |       PlaneExplosion_89.as
+    |       ResumeMc_77.as
+    |       TitleStateMc_2.as
+    |       
+    \---scaleform
+        +---clik
+        |   +---constants
+        |   |       ConstrainMode.as
+        |   |       FocusMode.as
+        |   |       InputValue.as
+        |   |       InvalidationType.as
+        |   |       NavigationCode.as
+        |   |       
+        |   +---controls
+        |   |       Button.as
+        |   |       ButtonGroup.as
+        |   |       
+        |   +---core
+        |   |       CLIK.as
+        |   |       UIComponent.as
+        |   |       
+        |   +---events
+        |   |       ButtonEvent.as
+        |   |       ComponentEvent.as
+        |   |       FocusHandlerEvent.as
+        |   |       InputEvent.as
+        |   |       ResizeEvent.as
+        |   |       
+        |   +---layout
+        |   |       LayoutData.as
+        |   |       
+        |   +---managers
+        |   |       FocusHandler.as
+        |   |       InputDelegate.as
+        |   |       PopUpManager.as
+        |   |       
+        |   +---ui
+        |   |       InputDetails.as
+        |   |       
+        |   \---utils
+        |           ConstrainedElement.as
+        |           Constraints.as
+        |           WeakReference.as
+        |           
+        \---gfx
+                Extensions.as
+                FocusEventEx.as
+                FocusManager.as
+                KeyboardEventEx.as
+                MouseEventEx.as
+                

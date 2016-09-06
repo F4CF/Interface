@@ -1,0 +1,15 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\DLCCoast - Main\Interface\Components\Far Harbor Survivalist" "Far Harbor Survivalist.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\DLCCoast - Main\Interface\Components'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.453
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00720075 22C3:B150
+D:.
+    Far Harbor Survivalist.fla
+    
+No subfolders exist 

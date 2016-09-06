@@ -1,0 +1,18 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\Components\Faction Vault boys\Minutemen\Min301_Form Ranks" "Min301_Form Ranks.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface\Components\Faction Vault boys\Minutemen'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.515
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00610052 22C3:B150
+D:.
+|   Min301_Form Ranks.fla
+|   
+\---scripts
+    \---Min301_FormRanks_fla
+            Min301_FormRanks_1.as
+            

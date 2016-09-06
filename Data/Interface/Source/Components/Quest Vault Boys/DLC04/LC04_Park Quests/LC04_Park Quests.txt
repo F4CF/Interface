@@ -1,0 +1,15 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\DLCNukaWorld - Main\Interface\99439_DLC04 Quest animations\SWF\LC04_Park Quests" "LC04_Park Quests.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\DLCNukaWorld - Main\Interface\99439_DLC04 Quest animations\SWF'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.265
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00730065 22C3:B150
+D:.
+    LC04_Park Quests.fla
+    
+No subfolders exist 

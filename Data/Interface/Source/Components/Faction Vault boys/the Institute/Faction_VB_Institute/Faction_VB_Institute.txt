@@ -1,0 +1,15 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\Components\Faction Vault boys\the Institute\Faction_VB_Institute" "Faction_VB_Institute.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface\Components\Faction Vault boys\the Institute'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.983
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 0073006E 22C3:B150
+D:.
+    Faction_VB_Institute.fla
+    
+No subfolders exist 

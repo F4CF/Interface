@@ -1,0 +1,338 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Programs\Grognak" "Grognak.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Programs'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:02.404
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00000200 22C3:B150
+D:.
+|   Grognak.fla
+|   
+\---scripts
+    |   en_US$utils_properties.as
+    |   Main.as
+    |   _CompiledResourceBundleInfo.as
+    |   
+    +---aze
+    |   \---motion
+    |       |   eaze.as
+    |       |   EazeTween.as
+    |       |   
+    |       +---easing
+    |       |       Linear.as
+    |       |       Quadratic.as
+    |       |       
+    |       \---specials
+    |               EazeSpecial.as
+    |               PropertyBezier.as
+    |               PropertyColorMatrix.as
+    |               PropertyFilter.as
+    |               PropertyFrame.as
+    |               PropertyRect.as
+    |               PropertyShortRotation.as
+    |               PropertyTint.as
+    |               PropertyVolume.as
+    |               
+    +---bhvr
+    |   +---constants
+    |   |       GameConfig.as
+    |   |       GameConstants.as
+    |   |       GameInputs.as
+    |   |       
+    |   +---controller
+    |   |       BaseEventController.as
+    |   |       CombatController.as
+    |   |       GameController.as
+    |   |       InteractionEventController.as
+    |   |       MapController.as
+    |   |       PartySelectEventController.as
+    |   |       RewardEventController.as
+    |   |       ShipAnimationController.as
+    |   |       StateController.as
+    |   |       
+    |   +---data
+    |   |   |   GamePersistantData.as
+    |   |   |   LocalizationStrings.as
+    |   |   |   SoundList.as
+    |   |   |   StoryConditionType.as
+    |   |   |   
+    |   |   +---assets
+    |   |   |       CombatVfxSymbols.as
+    |   |   |       PortraitSymbols.as
+    |   |   |       TileSymbols.as
+    |   |   |       
+    |   |   +---database
+    |   |   |   |   BaseItem.as
+    |   |   |   |   Character.as
+    |   |   |   |   CombatEvent.as
+    |   |   |   |   Dialogue.as
+    |   |   |   |   DialogueBranch.as
+    |   |   |   |   DialogueItemOption.as
+    |   |   |   |   DialogueOption.as
+    |   |   |   |   DialogueRevivalOption.as
+    |   |   |   |   DialogueSentence.as
+    |   |   |   |   DialogueTree.as
+    |   |   |   |   Enemy.as
+    |   |   |   |   GameDatabase.as
+    |   |   |   |   Hero.as
+    |   |   |   |   HeroSpecialAttack.as
+    |   |   |   |   InteractionEvent.as
+    |   |   |   |   InventoryDialogue.as
+    |   |   |   |   Item.as
+    |   |   |   |   MapBlockerData.as
+    |   |   |   |   MapEnemyData.as
+    |   |   |   |   MapEvent.as
+    |   |   |   |   MapHeroData.as
+    |   |   |   |   MapLocationData.as
+    |   |   |   |   MapObjectData.as
+    |   |   |   |   MapPath.as
+    |   |   |   |   MapShipData.as
+    |   |   |   |   MapTilesData.as
+    |   |   |   |   NPC.as
+    |   |   |   |   RevivalDialogue.as
+    |   |   |   |   RewardEvent.as
+    |   |   |   |   ShopItem.as
+    |   |   |   |   StoryItem.as
+    |   |   |   |   TileData.as
+    |   |   |   |   
+    |   |   |   \---creators
+    |   |   |       |   CombatEventDataCreator.as
+    |   |   |       |   DialogueDataCreator.as
+    |   |   |       |   EnemyDataCreator.as
+    |   |   |       |   HeroDataCreator.as
+    |   |   |       |   HeroSpecialAttackDataCreator.as
+    |   |   |       |   InteractionEventDataCreator.as
+    |   |   |       |   ItemDataCreator.as
+    |   |   |       |   MapBlockerDataCreator.as
+    |   |   |       |   MapEnemyDataCreator.as
+    |   |   |       |   MapHeroDataCreator.as
+    |   |   |       |   MapLocationDataCreator.as
+    |   |   |       |   MapPathDataCreator.as
+    |   |   |       |   MapShipDataCreator.as
+    |   |   |       |   MapTilesDataCreator.as
+    |   |   |       |   NPCDataCreator.as
+    |   |   |       |   RewardEventDataCreator.as
+    |   |   |       |   
+    |   |   |       +---bases
+    |   |   |       |       BaseCombatEventDataCreator.as
+    |   |   |       |       BaseDataCreator.as
+    |   |   |       |       BaseDialogueDataCreator.as
+    |   |   |       |       BaseEnemyDataCreator.as
+    |   |   |       |       BaseHeroDataCreator.as
+    |   |   |       |       BaseHeroSpecialAttackDataCreator.as
+    |   |   |       |       BaseInteractionEventDataCreator.as
+    |   |   |       |       BaseItemDataCreator.as
+    |   |   |       |       BaseMapBlockerDataCreator.as
+    |   |   |       |       BaseMapEnemyDataCreator.as
+    |   |   |       |       BaseMapHeroDataCreator.as
+    |   |   |       |       BaseMapLocationDataCreator.as
+    |   |   |       |       BaseMapPathDataCreator.as
+    |   |   |       |       BaseMapShipDataCreator.as
+    |   |   |       |       BaseMapTilesDataCreator.as
+    |   |   |       |       BaseNPCDataCreator.as
+    |   |   |       |       BaseRewardEventDataCreator.as
+    |   |   |       |       
+    |   |   |       \---contexts
+    |   |   |               DialogueCreatorContext.as
+    |   |   |               DialogueItemOptionCreatorContext.as
+    |   |   |               DialogueOptionCreatorContext.as
+    |   |   |               DialogueTreeCreatorContext.as
+    |   |   |               InventoryDialogueCreatorContext.as
+    |   |   |               RevivalDialogueCreatorContext.as
+    |   |   |               
+    |   |   \---serializer
+    |   |           Bitfield.as
+    |   |           GamePersistantDataSerializer.as
+    |   |           
+    |   +---debug
+    |   |       Log.as
+    |   |       
+    |   +---events
+    |   |       CombatControllerEvents.as
+    |   |       EventWithParams.as
+    |   |       InteractionControllerEvents.as
+    |   |       MapEvents.as
+    |   |       PartySelectControllerEvents.as
+    |   |       RewardControllerEvents.as
+    |   |       ShipEvents.as
+    |   |       
+    |   +---interfaces
+    |   |       IExternalCommunication.as
+    |   |       IFighterStats.as
+    |   |       
+    |   +---manager
+    |   |       InputManager.as
+    |   |       SaveManager.as
+    |   |       SoundManager.as
+    |   |       
+    |   +---module
+    |   |   +---combat
+    |   |   |       CombatActions.as
+    |   |   |       DamageInfo.as
+    |   |   |       HeroSpecialAttacks.as
+    |   |   |       HeroStats.as
+    |   |   |       InCombatEnemyStats.as
+    |   |   |       InCombatHeroStats.as
+    |   |   |       
+    |   |   +---event
+    |   |   |   |   EventControllerListenerInfo.as
+    |   |   |   |   SentenceInfo.as
+    |   |   |   |   
+    |   |   |   \---operations
+    |   |   |           ActionEnablingOperation.as
+    |   |   |           EventContinuationOperation.as
+    |   |   |           SentenceOperation.as
+    |   |   |           SimpleOperation.as
+    |   |   |           
+    |   |   +---interaction
+    |   |   |       InteractionEventActions.as
+    |   |   |       
+    |   |   +---map
+    |   |   |       MapActions.as
+    |   |   |       TileType.as
+    |   |   |       
+    |   |   \---reward
+    |   |           RewardEventActions.as
+    |   |           
+    |   +---states
+    |   |       BaseEventState.as
+    |   |       CombatState.as
+    |   |       ConfirmQuitState.as
+    |   |       GameOverState.as
+    |   |       GameState.as
+    |   |       InteractionState.as
+    |   |       MapState.as
+    |   |       PartySelectState.as
+    |   |       PauseState.as
+    |   |       RewardState.as
+    |   |       TitleState.as
+    |   |       
+    |   +---utils
+    |   |       FlashUtil.as
+    |   |       ItemUtil.as
+    |   |       MathUtil.as
+    |   |       XMLLoader.as
+    |   |       
+    |   \---views
+    |           GrognakView.as
+    |           MapBlocker.as
+    |           MapEnemy.as
+    |           MapLocation.as
+    |           MapObject.as
+    |           MapShip.as
+    |           Tile.as
+    |           UIMap.as
+    |           UIWindowEvent.as
+    |           
+    +---Holotapes
+    |   +---Common
+    |   |   +---touch
+    |   |   |       Touch.as
+    |   |   |       
+    |   |   \---views
+    |   |           PauseButton.as
+    |   |           
+    |   \---Grognak
+    |       \---src
+    |           \---bhvr
+    |               \---module
+    |                   \---partyselect
+    |                           PartySelectEventActions.as
+    |                           
+    +---mx
+    |   +---core
+    |   |       IFlexModuleFactory.as
+    |   |       mx_internal.as
+    |   |       RSLData.as
+    |   |       Singleton.as
+    |   |       
+    |   +---events
+    |   |       FlexEvent.as
+    |   |       ModuleEvent.as
+    |   |       Request.as
+    |   |       ResourceEvent.as
+    |   |       
+    |   +---managers
+    |   |       SystemManagerGlobals.as
+    |   |       
+    |   +---modules
+    |   |       IModuleInfo.as
+    |   |       ModuleManager.as
+    |   |       ModuleManagerGlobals.as
+    |   |       
+    |   +---resources
+    |   |       IResourceBundle.as
+    |   |       IResourceManager.as
+    |   |       IResourceModule.as
+    |   |       LocaleSorter.as
+    |   |       ResourceBundle.as
+    |   |       ResourceManager.as
+    |   |       ResourceManagerImpl.as
+    |   |       
+    |   \---utils
+    |           Base64Decoder.as
+    |           Base64Encoder.as
+    |           StringUtil.as
+    |           
+    +---scaleform
+    |   +---clik
+    |   |   +---constants
+    |   |   |       ConstrainMode.as
+    |   |   |       FocusMode.as
+    |   |   |       InputValue.as
+    |   |   |       InvalidationType.as
+    |   |   |       NavigationCode.as
+    |   |   |       
+    |   |   +---controls
+    |   |   |       Button.as
+    |   |   |       ButtonGroup.as
+    |   |   |       UILoader.as
+    |   |   |       
+    |   |   +---core
+    |   |   |       CLIK.as
+    |   |   |       UIComponent.as
+    |   |   |       
+    |   |   +---events
+    |   |   |       ButtonEvent.as
+    |   |   |       ComponentEvent.as
+    |   |   |       FocusHandlerEvent.as
+    |   |   |       InputEvent.as
+    |   |   |       ResizeEvent.as
+    |   |   |       
+    |   |   +---layout
+    |   |   |       LayoutData.as
+    |   |   |       
+    |   |   +---managers
+    |   |   |       FocusHandler.as
+    |   |   |       InputDelegate.as
+    |   |   |       PopUpManager.as
+    |   |   |       
+    |   |   +---ui
+    |   |   |       InputDetails.as
+    |   |   |       
+    |   |   \---utils
+    |   |           ConstrainedElement.as
+    |   |           Constraints.as
+    |   |           WeakReference.as
+    |   |           
+    |   \---gfx
+    |           DisplayObjectEx.as
+    |           Extensions.as
+    |           FocusEventEx.as
+    |           FocusManager.as
+    |           InteractiveObjectEx.as
+    |           KeyboardEventEx.as
+    |           MouseEventEx.as
+    |           TextFieldEx.as
+    |           
+    \---Shared
+        |   BGSExternalInterface.as
+        |   
+        \---AS3
+            \---COMPANIONAPP
+                    CompanionAppMode.as
+                    

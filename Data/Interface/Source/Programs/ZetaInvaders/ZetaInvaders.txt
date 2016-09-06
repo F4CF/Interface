@@ -1,0 +1,163 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Programs\ZetaInvaders" "ZetaInvaders.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Programs'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:01.123
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 22C3-B150
+D:.
+|   ZetaInvaders.fla
+|   
+\---scripts
+    |   Main.as
+    |   
+    +---aze
+    |   \---motion
+    |       |   eaze.as
+    |       |   EazeTween.as
+    |       |   
+    |       +---easing
+    |       |       Linear.as
+    |       |       Quadratic.as
+    |       |       
+    |       \---specials
+    |               EazeSpecial.as
+    |               PropertyBezier.as
+    |               PropertyColorMatrix.as
+    |               PropertyFilter.as
+    |               PropertyFrame.as
+    |               PropertyRect.as
+    |               PropertyShortRotation.as
+    |               PropertyTint.as
+    |               PropertyVolume.as
+    |               
+    +---bhvr
+    |   +---constatnts
+    |   |       GameConfig.as
+    |   |       GameConstants.as
+    |   |       GameInputs.as
+    |   |       
+    |   +---controller
+    |   |       GameController.as
+    |   |       StateController.as
+    |   |       
+    |   +---data
+    |   |       GamePersistantData.as
+    |   |       GameScore.as
+    |   |       LocalizationStrings.as
+    |   |       SoundList.as
+    |   |       
+    |   +---debug
+    |   |       Log.as
+    |   |       
+    |   +---events
+    |   |       EventWithParams.as
+    |   |       GameEvents.as
+    |   |       
+    |   +---interfaces
+    |   |       IExternalCommunication.as
+    |   |       IGameSystem.as
+    |   |       
+    |   +---manager
+    |   |       InputManager.as
+    |   |       SoundManager.as
+    |   |       
+    |   +---modules
+    |   |       AlienColumn.as
+    |   |       AlienWave.as
+    |   |       AttackSystem.as
+    |   |       BarnController.as
+    |   |       DefenseSystem.as
+    |   |       
+    |   +---states
+    |   |       ConfirmQuitState.as
+    |   |       GameLevelState.as
+    |   |       GameState.as
+    |   |       PauseState.as
+    |   |       TitleState.as
+    |   |       
+    |   +---utils
+    |   |       Collision.as
+    |   |       FlashUtil.as
+    |   |       MathUtil.as
+    |   |       XMLLoader.as
+    |   |       
+    |   \---views
+    |           Alien.as
+    |           AlienProjectile.as
+    |           Barn.as
+    |           Cow.as
+    |           Hud.as
+    |           Laser.as
+    |           LaserProjectile.as
+    |           MotherShip.as
+    |           Projectile.as
+    |           Target.as
+    |           
+    +---Holotapes
+    |   \---Common
+    |       +---touch
+    |       |       Touch.as
+    |       |       
+    |       \---views
+    |               PauseButton.as
+    |               
+    +---scaleform
+    |   +---clik
+    |   |   +---constants
+    |   |   |       ConstrainMode.as
+    |   |   |       FocusMode.as
+    |   |   |       InputValue.as
+    |   |   |       InvalidationType.as
+    |   |   |       NavigationCode.as
+    |   |   |       
+    |   |   +---controls
+    |   |   |       UILoader.as
+    |   |   |       
+    |   |   +---core
+    |   |   |       CLIK.as
+    |   |   |       UIComponent.as
+    |   |   |       
+    |   |   +---events
+    |   |   |       ButtonEvent.as
+    |   |   |       ComponentEvent.as
+    |   |   |       FocusHandlerEvent.as
+    |   |   |       InputEvent.as
+    |   |   |       ResizeEvent.as
+    |   |   |       
+    |   |   +---layout
+    |   |   |       LayoutData.as
+    |   |   |       
+    |   |   +---managers
+    |   |   |       FocusHandler.as
+    |   |   |       InputDelegate.as
+    |   |   |       PopUpManager.as
+    |   |   |       
+    |   |   +---ui
+    |   |   |       InputDetails.as
+    |   |   |       
+    |   |   \---utils
+    |   |           ConstrainedElement.as
+    |   |           Constraints.as
+    |   |           WeakReference.as
+    |   |           
+    |   \---gfx
+    |           DisplayObjectEx.as
+    |           Extensions.as
+    |           FocusEventEx.as
+    |           FocusManager.as
+    |           InteractiveObjectEx.as
+    |           KeyboardEventEx.as
+    |           TextFieldEx.as
+    |           
+    \---Shared
+        |   BGSExternalInterface.as
+        |   
+        \---AS3
+            \---COMPANIONAPP
+                    CompanionAppMode.as
+                    
