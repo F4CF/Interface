@@ -1,0 +1,49 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\VATSMenu" "VATSMenu.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.733
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00000200 22C3:B150
+D:.
+|   VATSMenu.fla
+|   
+\---scripts
+    |   PartInfo.as
+    |   ResistanceEntry.as
+    |   VATSMenu.as
+    |   
+    +---scaleform
+    |   \---gfx
+    |           Extensions.as
+    |           
+    +---Shared
+    |   |   GlobalFunc.as
+    |   |   IMenu.as
+    |   |   PlatformChangeEvent.as
+    |   |   PlatformRequestEvent.as
+    |   |   
+    |   \---AS3
+    |       |   BSBracketClip.as
+    |       |   BSButtonHint.as
+    |       |   BSButtonHintBar.as
+    |       |   BSButtonHintData.as
+    |       |   BSUIComponent.as
+    |       |   
+    |       \---COMPANIONAPP
+    |               CompanionAppMode.as
+    |               MobileButtonHint.as
+    |               
+    \---VATSMenu_fla
+            BracketsHolder_32.as
+            BSButtonHint_IconHolder_23.as
+            DamageIcons_12.as
+            Fourleafclover_7.as
+            MainTimeline.as
+            PartInfoTinted_27.as
+            VaultboyBC_5.as
+            

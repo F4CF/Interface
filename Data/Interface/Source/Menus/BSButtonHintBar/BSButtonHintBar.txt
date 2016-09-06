@@ -1,0 +1,23 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\BSButtonHintBar" "BSButtonHintBar.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.280
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00610042 22C3:B150
+D:.
+|   BSButtonHintBar.fla
+|   
+\---scripts
+    +---BSButtonHintBar_fla
+    |       BSButtonHint_IconHolder_5.as
+    |       
+    \---Shared
+        \---AS3
+                BSButtonHint.as
+                BSButtonHintBar.as
+                

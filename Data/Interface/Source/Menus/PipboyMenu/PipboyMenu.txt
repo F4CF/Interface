@@ -1,0 +1,81 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\PipboyMenu" "PipboyMenu.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.921
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00000200 22C3:B150
+D:.
+|   PipboyMenu.fla
+|   
+\---scripts
+    |   BB_DMGDRWidget.as
+    |   BB_DMGDRWidget_Entry.as
+    |   MapPlaceholder.as
+    |   PipboyChangeEvent.as
+    |   PipboyMenu.as
+    |   PipboyPage.as
+    |   PipboySubMenu.as
+    |   PipboyUpdateMask.as
+    |   Pipboy_BottomBar.as
+    |   Pipboy_DataObj.as
+    |   Pipboy_Header.as
+    |   Pipboy_Meter.as
+    |   ReadOnlyWarning.as
+    |   
+    +---Mobile
+    |   \---ScrollList
+    |           EventWithParams.as
+    |           FlashUtil.as
+    |           MobileListItemRenderer.as
+    |           MobileScrollList.as
+    |           
+    +---Pipboy
+    |   \---COMPANIONAPP
+    |           MobileBackButtonEvent.as
+    |           
+    +---PipboyMenu_fla
+    |       BottomBar_Info_3.as
+    |       BSButtonHint_IconHolder_21.as
+    |       DamageIcons_27.as
+    |       MobileButtonBackgroundMc_36.as
+    |       TabHeader_14.as
+    |       WeaponArmorHolder_10.as
+    |       
+    +---scaleform
+    |   \---gfx
+    |           DisplayObjectEx.as
+    |           Extensions.as
+    |           InteractiveObjectEx.as
+    |           TextFieldEx.as
+    |           
+    \---Shared
+        |   BGSExternalInterface.as
+        |   CustomEvent.as
+        |   GlobalFunc.as
+        |   IMenu.as
+        |   PlatformChangeEvent.as
+        |   PlatformRequestEvent.as
+        |   
+        \---AS3
+            |   BSBracketClip.as
+            |   BSButtonHint.as
+            |   BSButtonHintBar.as
+            |   BSButtonHintData.as
+            |   BSScrollingList.as
+            |   BSScrollingListEntry.as
+            |   BSUIComponent.as
+            |   ListFilterer.as
+            |   
+            \---COMPANIONAPP
+                    BSScrollingListInterface.as
+                    CompanionAppMode.as
+                    MobileButtonHint.as
+                    MobileScrollListProperties.as
+                    PipboyLoader.as
+                    SwipeZone.as
+                    

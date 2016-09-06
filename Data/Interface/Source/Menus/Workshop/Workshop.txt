@@ -1,0 +1,67 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\Workshop" "Workshop.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.858
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00000200 22C3:B150
+D:.
+|   Workshop.fla
+|   
+\---scripts
+    |   ArrowHead.as
+    |   DescriptionBase.as
+    |   PerkLoaderClip.as
+    |   Pipboy_Meter.as
+    |   RequirementsListEntry.as
+    |   Workshop.as
+    |   
+    +---Components
+    |       SWFLoaderClip.as
+    |       
+    +---Mobile
+    |   \---ScrollList
+    |           EventWithParams.as
+    |           FlashUtil.as
+    |           MobileListItemRenderer.as
+    |           MobileScrollList.as
+    |           
+    +---scaleform
+    |   \---gfx
+    |           DisplayObjectEx.as
+    |           Extensions.as
+    |           InteractiveObjectEx.as
+    |           TextFieldEx.as
+    |           
+    +---Shared
+    |   |   BGSExternalInterface.as
+    |   |   GlobalFunc.as
+    |   |   IMenu.as
+    |   |   PlatformChangeEvent.as
+    |   |   PlatformRequestEvent.as
+    |   |   
+    |   \---AS3
+    |       |   BSBracketClip.as
+    |       |   BSButtonHint.as
+    |       |   BSButtonHintBar.as
+    |       |   BSButtonHintData.as
+    |       |   BSScrollingList.as
+    |       |   BSScrollingListEntry.as
+    |       |   BSUIComponent.as
+    |       |   ListFilterer.as
+    |       |   
+    |       \---COMPANIONAPP
+    |               BSScrollingListInterface.as
+    |               CompanionAppMode.as
+    |               MobileButtonHint.as
+    |               MobileScrollListProperties.as
+    |               
+    \---Workshop_fla
+            BSButtonHint_IconHolder_63.as
+            DirectionArrow_58.as
+            RequirementsBase_35.as
+            

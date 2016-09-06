@@ -1,0 +1,225 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\HUDMenu" "HUDMenu.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:02.059
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00000200 22C3:B150
+D:.
+|   HUDMenu.fla
+|   
+\---scripts
+    |   ActionPointBarSegment.as
+    |   ActionPointMeter.as
+    |   AirfieldMarker.as
+    |   BoSMarker.as
+    |   BottlingPlantMarker.as
+    |   BracketPairFadeHolder.as
+    |   BrownstoneMarker.as
+    |   BunkerHillMarker.as
+    |   BunkerMarker.as
+    |   CamperMarker.as
+    |   CarMarker.as
+    |   CastleMarker.as
+    |   CaveMarker.as
+    |   ChurchMarker.as
+    |   CityMarker.as
+    |   CompassMarkerWidget.as
+    |   CountryClubMarker.as
+    |   CritMeterBar.as
+    |   CritMeterStar.as
+    |   CritMeterStarHolder.as
+    |   CrosshairBase.as
+    |   CustomHouseMarker.as
+    |   DiamondCityMarker.as
+    |   DirectionalHitIndicator.as
+    |   DirectionMarkerWidget.as
+    |   DisciplesMarker.as
+    |   DogmeatMarker.as
+    |   DoorMarker.as
+    |   DriveInMarker.as
+    |   ElevatedHighwayMarker.as
+    |   EncampmentMarker.as
+    |   EnemyHealthOptionalBar.as
+    |   ExplosiveAmmoCount.as
+    |   ExplosiveIndicator.as
+    |   FactoryMarker.as
+    |   FaneuilHallMarker.as
+    |   FarmMarker.as
+    |   FillingStationMarker.as
+    |   FlashLightWidget.as
+    |   FloatingTarget.as
+    |   ForestedMarker.as
+    |   GalacticMarker.as
+    |   GoodneighborMarker.as
+    |   GraveyardMarker.as
+    |   HospitalMarker.as
+    |   HubMarker.as
+    |   HUDActiveEffectClip.as
+    |   HUDActiveEffectsWidget.as
+    |   HUDCompassWidget.as
+    |   HUDConditionBoyWidget.as
+    |   HUDCrosshair.as
+    |   HUDFadingListItem.as
+    |   HUDMenu.as
+    |   HUDMessageItem.as
+    |   HUDMessageItemData.as
+    |   HUDObjectiveItem.as
+    |   HUDObjectiveItemData.as
+    |   HUDObjectiveUpdates.as
+    |   IndustrialDomeMarker.as
+    |   IndustrialStacksMarker.as
+    |   InstituteMarker.as
+    |   IrishPrideMarker.as
+    |   JunkyardMarker.as
+    |   KiddieKingdomMarker.as
+    |   LandmarkMarker.as
+    |   LeftMeters.as
+    |   LeftToRightTextAnim.as
+    |   LibertaliaMarker.as
+    |   LowRiseMarker.as
+    |   MechanistMarker.as
+    |   Messages.as
+    |   MeterBar.as
+    |   MeterBarWidget.as
+    |   MetroMarker.as
+    |   MilitaryBaseMarker.as
+    |   MinutemenMarker.as
+    |   MonorailMarker.as
+    |   MonumentMarker.as
+    |   ObservatoryMarker.as
+    |   OfficeMarker.as
+    |   OperatorsMarker.as
+    |   PackMarker.as
+    |   PAWarningText.as
+    |   PerkVaultBoy.as
+    |   PierMarker.as
+    |   PlayerSetMarker.as
+    |   POIMarker.as
+    |   PoliceStationMarker.as
+    |   PondLakeMarker.as
+    |   PotentialVassalSettlementMarker.as
+    |   PowerArmorLocMarker.as
+    |   PromptMessageWidget.as
+    |   PrydwenMarker.as
+    |   QuarryMarker.as
+    |   QuestDoorMarker.as
+    |   QuestMarker.as
+    |   QuestUpdates.as
+    |   QuestUpdateVaultBoy.as
+    |   QuickContainerItem.as
+    |   QuickContainerItemData.as
+    |   QuickContainerWidget.as
+    |   RadioactiveAreaMarker.as
+    |   RadioTowerMarker.as
+    |   RaiderSettlementMarker.as
+    |   RailroadFactionMarker.as
+    |   RailroadMarker.as
+    |   RidesMarker.as
+    |   RolloverWidget.as
+    |   SafariMarker.as
+    |   SalemMarker.as
+    |   SancHillsMarker.as
+    |   SatelliteMarker.as
+    |   SchoolMarker.as
+    |   SentinelMarker.as
+    |   SettlementMarker.as
+    |   SewerMarker.as
+    |   ShipwreckMarker.as
+    |   SkyscraperMarker.as
+    |   StealthMeter.as
+    |   SubmarineMarker.as
+    |   Subtitles.as
+    |   SwanPondMarker.as
+    |   SynthHeadMarker.as
+    |   TeammateMarker.as
+    |   TownMarker.as
+    |   TownRuinsMarker.as
+    |   TutorialText.as
+    |   UrbanRuinsMarker.as
+    |   USSConstitutionMarker.as
+    |   VassalSettlementMarker.as
+    |   VaultBoyImageInternal.as
+    |   VaultMarker.as
+    |   WarningTextHolder.as
+    |   WildWestMarker.as
+    |   
+    +---HUDMenu_fla
+    |       activate2command_97.as
+    |       activate2crosshair_96.as
+    |       activate2dot_95.as
+    |       activate2none_94.as
+    |       activateLoop_93.as
+    |       BottomCenterGroup_24.as
+    |       BSButtonHint_IconHolder_133.as
+    |       command2activate_92.as
+    |       command2crosshair_91.as
+    |       command2dot_90.as
+    |       command2none_89.as
+    |       commandLoop_88.as
+    |       CompassMarker_Enemy_148.as
+    |       CritMeter_34.as
+    |       crosshair2activate_87.as
+    |       crosshair2command_86.as
+    |       crosshair2dot_85.as
+    |       crosshair2none_84.as
+    |       crosshairLoop_83.as
+    |       dot2activate_82.as
+    |       dot2command_81.as
+    |       dot2crosshair_80.as
+    |       dot2none_78.as
+    |       dotLoop_79.as
+    |       ExplosiveAmmoCountIcon_21.as
+    |       Explosiveindicator_ICON_154.as
+    |       HitIndicator_101.as
+    |       HotkeyIcons_166.as
+    |       HPMeter_41.as
+    |       HUDNotificationsGroup_116.as
+    |       HUDObjectiveIcons_mc_231.as
+    |       ListHeaderAndBracket_50.as
+    |       MeterBarInternal_6.as
+    |       none2activate_75.as
+    |       none2command_73.as
+    |       none2crosshair_68.as
+    |       none2dot_66.as
+    |       noneLoop_65.as
+    |       PlayerSetCompassMarker_143.as
+    |       QuestCompassMarkers_136.as
+    |       QuestDoorCompassMarkers_140.as
+    |       ReconScopeMarker_146.as
+    |       RightMeters_2.as
+    |       tick_119.as
+    |       TutorialHeads_125.as
+    |       XPMeter_117.as
+    |       
+    +---scaleform
+    |   \---gfx
+    |           DisplayObjectEx.as
+    |           Extensions.as
+    |           InteractiveObjectEx.as
+    |           TextFieldEx.as
+    |           
+    \---Shared
+        |   GlobalFunc.as
+        |   IMenu.as
+        |   PlatformChangeEvent.as
+        |   PlatformRequestEvent.as
+        |   
+        \---AS3
+            |   BSBracketClip.as
+            |   BSButtonHint.as
+            |   BSButtonHintBar.as
+            |   BSButtonHintData.as
+            |   BSUIComponent.as
+            |   ConditionBoy.as
+            |   VaultBoyImageLoader.as
+            |   
+            \---COMPANIONAPP
+                    CompanionAppMode.as
+                    MobileButtonHint.as
+                    PipboyLoader.as
+                    

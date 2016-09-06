@@ -1,0 +1,155 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\Pipboy_InvPage" "Pipboy_InvPage.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:01.576
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00650067 22C3:B150
+D:.
+|   Pipboy_InvPage.fla
+|   
+\---scripts
+    |   ComponentListEntry.as
+    |   ComponentOwnersItemRendererMc.as
+    |   ComponentOwnersList.as
+    |   ComponentOwnersListEntry.as
+    |   FavoritesCross.as
+    |   FavoritesEntry.as
+    |   InventoryItemRendererMc.as
+    |   InvList.as
+    |   InvListEntry.as
+    |   ItemCard_AmmoEntry.as
+    |   ItemCard_MultiEntry_Value.as
+    |   ItemCard_StandardEntry.as
+    |   minusCLIK.as
+    |   PaperDoll.as
+    |   PaperDoll_ResistEntry.as
+    |   PipboyChangeEvent.as
+    |   PipboyFavoritesMenu.as
+    |   PipboyPage.as
+    |   PipboySubMenu.as
+    |   PipboyUpdateMask.as
+    |   Pipboy_DataObj.as
+    |   Pipboy_InvPage.as
+    |   plusCLIK.as
+    |   Quantity_Slider.as
+    |   SliderCLIK.as
+    |   sliderThumb.as
+    |   sliderTrack.as
+    |   
+    +---Components
+    |       ItemCard.as
+    |       ItemCard_ComponentEntry_Entry.as
+    |       ItemCard_ComponentsEntry.as
+    |       ItemCard_DescriptionEntry.as
+    |       ItemCard_Entry.as
+    |       ItemCard_MultiEntry.as
+    |       ItemCard_MultiEntry_Value.as
+    |       ItemCard_TimedEntry.as
+    |       
+    +---Mobile
+    |   \---ScrollList
+    |           EventWithParams.as
+    |           FlashUtil.as
+    |           MobileListItemRenderer.as
+    |           MobileScrollList.as
+    |           
+    +---Pipboy
+    |   \---COMPANIONAPP
+    |           InventoryListItemRenderer.as
+    |           MobileBackButtonEvent.as
+    |           PipboyListItemRenderer.as
+    |           
+    +---Pipboy_InvPage_fla
+    |       Arm_Left_Anim_11.as
+    |       Arm_Right_Anim_9.as
+    |       DamageIcons_24.as
+    |       FavoriteIcon_42.as
+    |       GasMask_Anim_21.as
+    |       Goggles_Anim_17.as
+    |       Helmet_Anim_19.as
+    |       HotkeyIcons_56.as
+    |       ItemCard_Comparison_130.as
+    |       Leg_Left_Anim_15.as
+    |       Leg_Right_Anim_13.as
+    |       Torso_Anim_7.as
+    |       
+    +---scaleform
+    |   +---clik
+    |   |   +---constants
+    |   |   |       ConstrainMode.as
+    |   |   |       FocusMode.as
+    |   |   |       InputValue.as
+    |   |   |       InvalidationType.as
+    |   |   |       NavigationCode.as
+    |   |   |       
+    |   |   +---controls
+    |   |   |       Button.as
+    |   |   |       ButtonGroup.as
+    |   |   |       Slider.as
+    |   |   |       
+    |   |   +---core
+    |   |   |       CLIK.as
+    |   |   |       UIComponent.as
+    |   |   |       
+    |   |   +---events
+    |   |   |       ButtonEvent.as
+    |   |   |       ComponentEvent.as
+    |   |   |       FocusHandlerEvent.as
+    |   |   |       InputEvent.as
+    |   |   |       ResizeEvent.as
+    |   |   |       SliderEvent.as
+    |   |   |       
+    |   |   +---layout
+    |   |   |       LayoutData.as
+    |   |   |       
+    |   |   +---managers
+    |   |   |       FocusHandler.as
+    |   |   |       InputDelegate.as
+    |   |   |       PopUpManager.as
+    |   |   |       
+    |   |   +---ui
+    |   |   |       InputDetails.as
+    |   |   |       
+    |   |   \---utils
+    |   |           ConstrainedElement.as
+    |   |           Constraints.as
+    |   |           WeakReference.as
+    |   |           
+    |   \---gfx
+    |           DisplayObjectEx.as
+    |           Extensions.as
+    |           FocusEventEx.as
+    |           FocusManager.as
+    |           InteractiveObjectEx.as
+    |           KeyboardEventEx.as
+    |           MouseEventEx.as
+    |           TextFieldEx.as
+    |           
+    \---Shared
+        |   BGSExternalInterface.as
+        |   CustomEvent.as
+        |   GlobalFunc.as
+        |   PlatformChangeEvent.as
+        |   PlatformRequestEvent.as
+        |   QuantityMenuNEW.as
+        |   
+        \---AS3
+            |   BSBracketClip.as
+            |   BSButtonHintData.as
+            |   BSScrollingList.as
+            |   BSScrollingListEntry.as
+            |   BSSlider.as
+            |   BSUIComponent.as
+            |   ListFilterer.as
+            |   
+            \---COMPANIONAPP
+                    BSScrollingListInterface.as
+                    CompanionAppMode.as
+                    MobileQuantityMenu.as
+                    MobileScrollListProperties.as
+                    

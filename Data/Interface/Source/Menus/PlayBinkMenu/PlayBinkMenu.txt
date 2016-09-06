@@ -1,0 +1,42 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\PlayBinkMenu" "PlayBinkMenu.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.500
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 22C3-B150
+D:.
+|   PlayBinkMenu.fla
+|   
+\---scripts
+    |   PlayBinkMenu.as
+    |   VertibirdMenu.as
+    |   
+    +---PlayBinkMenu_fla
+    |       BSButtonHint_IconHolder_6.as
+    |       
+    +---scaleform
+    |   \---gfx
+    |           Extensions.as
+    |           
+    \---Shared
+        |   GlobalFunc.as
+        |   IMenu.as
+        |   PlatformChangeEvent.as
+        |   PlatformRequestEvent.as
+        |   
+        \---AS3
+            |   BSBracketClip.as
+            |   BSButtonHint.as
+            |   BSButtonHintBar.as
+            |   BSButtonHintData.as
+            |   BSUIComponent.as
+            |   
+            \---COMPANIONAPP
+                    CompanionAppMode.as
+                    MobileButtonHint.as
+                    
