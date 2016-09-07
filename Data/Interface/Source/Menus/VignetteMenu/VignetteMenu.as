@@ -1,12 +1,12 @@
-package
+﻿package
 {
 	import flash.display.MovieClip;
 	
 	public class VignetteMenu extends MovieClip
 	{
 		 
-		
 		public var BGSCodeObj:Object;
+		
 		
 		public function VignetteMenu()
 		{
@@ -23,5 +23,7 @@ package
 		{
 			this.BGSCodeObj.OnAnimateOutComplete();
 		}
+		
+		
 	}
 }
