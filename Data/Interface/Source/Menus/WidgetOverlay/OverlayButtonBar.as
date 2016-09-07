@@ -1,3 +1,4 @@
+// 5000: The class 'OverlayButtonBar' must subclass 'flash.display.MovieClip' since it is linked to a library symbol of that type.
 package
 {
 	import scaleform.clik.controls.ButtonBar;
@@ -8,16 +9,14 @@ package
 	
 	public class OverlayButtonBar extends ButtonBar
 	{
-		 
 		
 		public var Border:MovieClip;
-		
 		public var BGSCodeObj:Object;
-		
+
 		private const BUTTON_DEFINITION_STRIDE:Number = 2;
-		
 		private var _buttonHeight:Number;
 		
+
 		public function OverlayButtonBar()
 		{
 			super();
@@ -32,12 +31,13 @@ package
 			return this._buttonHeight;
 		}
 		
+
 		public function set buttonHeight(param1:Number) : void
 		{
 			this._buttonHeight = param1;
 			invalidate();
 		}
-		
+
 		override protected function setupRenderer(param1:Button, param2:uint) : void
 		{
 			super.setupRenderer(param1,param2);
@@ -75,5 +75,7 @@ package
 		{
 			this.BGSCodeObj.onButtonPress(this.selectedIndex,this.data);
 		}
+
+		
 	}
 }

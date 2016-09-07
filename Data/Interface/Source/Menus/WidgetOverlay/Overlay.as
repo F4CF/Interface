@@ -5,14 +5,12 @@ package
 	
 	public class Overlay extends MovieClip
 	{
-		 
-		
+		 		
 		public var Focus:MovieClip;
-		
 		public var Background:MovieClip;
-		
 		private var _NumWidgets:uint;
 		
+
 		public function Overlay()
 		{
 			super();
@@ -20,6 +18,7 @@ package
 			this.Focus.visible = false;
 		}
 		
+
 		public function AddWidget(param1:String) : MovieClip
 		{
 			var symbolClass:Class = null;
@@ -80,5 +79,7 @@ package
 		{
 			return this._NumWidgets;
 		}
+
+
 	}
 }

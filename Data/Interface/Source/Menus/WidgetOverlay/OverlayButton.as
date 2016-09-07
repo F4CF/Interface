@@ -1,3 +1,4 @@
+// 1152: A conflict exists with inherited definition scaleform.clik.controls:Button.textField in namespace public.
 package
 {
 	import scaleform.clik.controls.Button;
@@ -5,10 +6,9 @@ package
 	public class OverlayButton extends Button
 	{
 		 
-		
 		public function OverlayButton()
 		{
-			addFrameScript(9,this.frame10,19,this.frame20,29,this.frame30,39,this.frame40);
+			addFrameScript(9, this.frame10, 19, this.frame20, 29, this.frame30, 39, this.frame40);
 			super();
 			focusable = false;
 		}
@@ -32,5 +32,7 @@ package
 		{
 			stop();
 		}
+		
+		
 	}
 }
