@@ -125,13 +125,13 @@ package Shared.AS3
 			addEventListener(MouseEvent.MOUSE_OUT,this.onMouseOut);
 		}
 		
-		public function set ButtonHintData(param1:Shared.AS3.BSButtonHintData) : void
+		public function set ButtonHintData(value:Shared.AS3.BSButtonHintData) : void
 		{
 			if(this._buttonHintData)
 			{
 				this._buttonHintData.removeEventListener(Shared.AS3.BSButtonHintData.BUTTON_HINT_DATA_CHANGE,this.onButtonHintDataDirtyEvent);
 			}
-			this._buttonHintData = param1;
+			this._buttonHintData = value;
 			if(this._buttonHintData)
 			{
 				this._buttonHintData.addEventListener(Shared.AS3.BSButtonHintData.BUTTON_HINT_DATA_CHANGE,this.onButtonHintDataDirtyEvent);
@@ -139,7 +139,7 @@ package Shared.AS3
 			SetIsDirty();
 		}
 		
-		private function onButtonHintDataDirtyEvent(param1:Event) : void
+		private function onButtonHintDataDirtyEvent(arEvent:Event) : void
 		{
 			SetIsDirty();
 		}
@@ -169,71 +169,71 @@ package Shared.AS3
 		
 		public function get ControllerButton() : String
 		{
-			var _loc1_:String = "";
+			var controllerButtonName:String = "";
 			if(iPlatform != PlatformChangeEvent.PLATFORM_MOBILE && this.UsePCKey)
 			{
-				_loc1_ = this.PCKey;
+				controllerButtonName = this.PCKey;
 			}
 			else
 			{
 				switch(iPlatform)
 				{
 					case PlatformChangeEvent.PLATFORM_PC_KB_MOUSE:
-						_loc1_ = this._buttonHintData.PCKey;
+						controllerButtonName = this._buttonHintData.PCKey;
 						break;
 					case PlatformChangeEvent.PLATFORM_PC_GAMEPAD:
 					case PlatformChangeEvent.PLATFORM_XB1:
 					default:
-						_loc1_ = this._buttonHintData.XenonButton;
+						controllerButtonName = this._buttonHintData.XenonButton;
 						break;
 					case PlatformChangeEvent.PLATFORM_PS4:
-						_loc1_ = this._buttonHintData.PSNButton;
+						controllerButtonName = this._buttonHintData.PSNButton;
 						break;
 					case PlatformChangeEvent.PLATFORM_MOBILE:
-						_loc1_ = "";
+						controllerButtonName = "";
 				}
-				if(NameToTextMap.hasOwnProperty(_loc1_))
+				if(NameToTextMap.hasOwnProperty(controllerButtonName))
 				{
-					_loc1_ = NameToTextMap[_loc1_];
+					controllerButtonName = NameToTextMap[controllerButtonName];
 				}
 			}
-			return _loc1_;
+			return controllerButtonName;
 		}
 		
 		public function get SecondaryControllerButton() : String
 		{
-			var _loc1_:String = "";
+			var controllerButtonName:String = "";
 			if(this._buttonHintData.hasSecondaryButton)
 			{
 				if(iPlatform != PlatformChangeEvent.PLATFORM_MOBILE && this.UsePCKey)
 				{
-					_loc1_ = this.SecondaryPCKey;
+					controllerButtonName = this.SecondaryPCKey;
 				}
 				else
 				{
 					switch(iPlatform)
 					{
 						case PlatformChangeEvent.PLATFORM_PC_KB_MOUSE:
-							_loc1_ = this._buttonHintData.SecondaryPCKey;
+							controllerButtonName = this._buttonHintData.SecondaryPCKey;
 							break;
 						case PlatformChangeEvent.PLATFORM_PC_GAMEPAD:
 						case PlatformChangeEvent.PLATFORM_XB1:
 						default:
-							_loc1_ = this._buttonHintData.SecondaryXenonButton;
+							controllerButtonName = this._buttonHintData.SecondaryXenonButton;
 							break;
 						case PlatformChangeEvent.PLATFORM_PS4:
-							_loc1_ = this._buttonHintData.SecondaryPSNButton;
+							controllerButtonName = this._buttonHintData.SecondaryPSNButton;
 							break;
 						case PlatformChangeEvent.PLATFORM_MOBILE:
-							_loc1_ = "";
+							controllerButtonName = "";
 					}
-					if(NameToTextMap.hasOwnProperty(_loc1_))
+					if(NameToTextMap.hasOwnProperty(controllerButtonName))
 					{
-						_loc1_ = NameToTextMap[_loc1_];
+						controllerButtonName = NameToTextMap[controllerButtonName];
 					}
 				}
 			}
-			return _loc1_;
+			return controllerButtonName;
 		}
 		
 		public function get ButtonText() : String
@@ -275,7 +275,7 @@ package Shared.AS3
 			return this._buttonHintData.DynamicMovieClipName.length > 0;
 		}
 		
-		public function onTextClick(param1:Event) : void
+		public function onTextClick(MouseEvent:Event) : void
 		{
 			if(!this.ButtonDisabled && this.ButtonVisible)
 			{
@@ -288,11 +288,11 @@ package Shared.AS3
 			return this._bButtonPressed;
 		}
 		
-		public function set bButtonPressed(param1:Boolean) : *
+		public function set bButtonPressed(abButtonPressed:Boolean) : *
 		{
-			if(this._bButtonPressed != param1)
+			if(this._bButtonPressed != abButtonPressed)
 			{
-				this._bButtonPressed = param1;
+				this._bButtonPressed = abButtonPressed;
 				SetIsDirty();
 			}
 		}
@@ -302,21 +302,21 @@ package Shared.AS3
 			return this._bMouseOver;
 		}
 		
-		public function set bMouseOver(param1:Boolean) : *
+		public function set bMouseOver(abMouseOver:Boolean) : *
 		{
-			if(this._bMouseOver != param1)
+			if(this._bMouseOver != abMouseOver)
 			{
-				this._bMouseOver = param1;
+				this._bMouseOver = abMouseOver;
 				SetIsDirty();
 			}
 		}
 		
-		private function onMouseOver(param1:MouseEvent) : *
+		private function onMouseOver(event:MouseEvent) : *
 		{
 			this.bMouseOver = true;
 		}
 		
-		protected function onMouseOut(param1:MouseEvent) : *
+		protected function onMouseOut(event:MouseEvent) : *
 		{
 			this.bMouseOver = false;
 		}
@@ -343,37 +343,37 @@ package Shared.AS3
 			}
 		}
 		
-		public function SetFlashing(param1:Boolean) : *
+		public function SetFlashing(abFlash:Boolean) : *
 		{
-			if(param1 != this.bButtonFlashing)
+			if(abFlash != this.bButtonFlashing)
 			{
-				this.bButtonFlashing = param1;
-				this.IconHolderInstance.gotoAndPlay(!!param1?"Flashing":"Default");
+				this.bButtonFlashing = abFlash;
+				this.IconHolderInstance.gotoAndPlay(!!abFlash?"Flashing":"Default");
 			}
 		}
 		
-		private function UpdateIconTextField(param1:TextField, param2:String) : *
+		private function UpdateIconTextField(icon_tf:TextField, controllerText:String) : *
 		{
-			var _loc6_:* = undefined;
-			param1.text = param2;
-			var _loc3_:String = this.GetExpectedFont();
-			var _loc4_:String = param1.getTextFormat().font;
-			if(_loc3_ != _loc4_)
+			var formatUpdate:* = undefined;
+			icon_tf.text = controllerText;
+			var expectedFont:String = this.GetExpectedFont();
+			var currentFont:String = icon_tf.getTextFormat().font;
+			if(expectedFont != currentFont)
 			{
-				_loc6_ = new TextFormat(_loc3_);
-				param1.setTextFormat(_loc6_);
+				formatUpdate = new TextFormat(expectedFont);
+				icon_tf.setTextFormat(formatUpdate);
 			}
-			var _loc5_:Number = !!this.UsePCKey?Number(-1.5):Number(0);
-			if(param1.y != _loc5_)
+			var expectedY:Number = !!this.UsePCKey?Number(-1.5):Number(0);
+			if(icon_tf.y != expectedY)
 			{
-				param1.y = _loc5_;
+				icon_tf.y = expectedY;
 			}
 		}
 		
 		private function redrawDynamicMovieClip() : void
 		{
-			var _loc1_:Class = null;
-			var _loc2_:Number = NaN;
+			var clipClass:Class = null;
+			var clipScale:Number = NaN;
 			if(this._buttonHintData.DynamicMovieClipName != this._strCurrentDynamicMovieClipName)
 			{
 				if(this.DynamicMovieClip)
@@ -382,12 +382,12 @@ package Shared.AS3
 				}
 				if(this.UseDynamicMovieClip)
 				{
-					_loc1_ = getDefinitionByName(this._buttonHintData.DynamicMovieClipName) as Class;
-					this.DynamicMovieClip = new (_loc1_ as Class)();
+					clipClass = getDefinitionByName(this._buttonHintData.DynamicMovieClipName) as Class;
+					this.DynamicMovieClip = new (clipClass as Class)();
 					addChild(this.DynamicMovieClip);
-					_loc2_ = this._DyanmicMovieHeight / this.DynamicMovieClip.height;
-					this.DynamicMovieClip.scaleX = _loc2_;
-					this.DynamicMovieClip.scaleY = _loc2_;
+					clipScale = this._DyanmicMovieHeight / this.DynamicMovieClip.height;
+					this.DynamicMovieClip.scaleX = clipScale;
+					this.DynamicMovieClip.scaleY = clipScale;
 					this.DynamicMovieClip.alpha = !!this.AllButtonsDisabled?Number(DISABLED_GREY_OUT_ALPHA):Number(1);
 					this.DynamicMovieClip.x = this.Justification == JUSTIFY_LEFT?Number(this.IconHolderInstance.width + DYNAMIC_MOVIE_CLIP_BUFFER):Number(this.IconHolderInstance.x - this.DynamicMovieClip.width - DYNAMIC_MOVIE_CLIP_BUFFER);
 					this.DynamicMovieClip.y = this._DynamicMovieY;
@@ -426,33 +426,33 @@ package Shared.AS3
 		
 		private function redrawHitArea() : void
 		{
-			var _loc1_:* = this.getBounds(this);
-			this._hitArea.x = _loc1_.x;
-			this._hitArea.width = _loc1_.width;
-			this._hitArea.y = _loc1_.y;
-			this._hitArea.height = _loc1_.height;
+			var bounds:* = this.getBounds(this);
+			this._hitArea.x = bounds.x;
+			this._hitArea.width = bounds.width;
+			this._hitArea.y = bounds.y;
+			this._hitArea.height = bounds.height;
 		}
 		
 		private function GetExpectedFont() : String
 		{
-			var _loc1_:String = null;
-			var _loc2_:Boolean = false;
+			var expectedFormat:String = null;
+			var bUseInverted:Boolean = false;
 			if(this.UsePCKey)
 			{
-				_loc1_ = "$MAIN_Font";
+				expectedFormat = "$MAIN_Font";
 			}
 			else
 			{
-				_loc2_ = !this.bMouseOver && !this.bButtonPressed;
-				_loc1_ = !!_loc2_?"$Controller_buttons_inverted":"$Controller_buttons";
+				bUseInverted = !this.bMouseOver && !this.bButtonPressed;
+				expectedFormat = !!bUseInverted?"$Controller_buttons_inverted":"$Controller_buttons";
 			}
-			return _loc1_;
+			return expectedFormat;
 		}
 		
-		private function SetUpTextFields(param1:TextField) : *
+		private function SetUpTextFields(aTextField:TextField) : *
 		{
-			param1.autoSize = TextFieldAutoSize.LEFT;
-			param1.antiAliasType = AntiAliasType.NORMAL;
+			aTextField.autoSize = TextFieldAutoSize.LEFT;
+			aTextField.antiAliasType = AntiAliasType.NORMAL;
 		}
 	}
 }

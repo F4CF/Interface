@@ -44,14 +44,14 @@ package Shared.AS3
 			graphics.clear();
 		}
 		
-		public function redrawUIComponent(param1:BSUIComponent, param2:Number, param3:Number, param4:Point, param5:String) : *
+		public function redrawUIComponent(aDrawClip:BSUIComponent, aLineThickness:Number, aCornerLength:Number, aPadding:Point, aStyle:String) : *
 		{
-			this._clipRect = param1.getBounds(param1);
-			this._lineThickness = param2;
-			this._cornerLength = param3;
-			this._padding = param4;
+			this._clipRect = aDrawClip.getBounds(aDrawClip);
+			this._lineThickness = aLineThickness;
+			this._cornerLength = aCornerLength;
+			this._padding = aPadding;
 			this._clipRect.inflatePoint(this._padding);
-			this._style = param5;
+			this._style = aStyle;
 			this.ClearBrackets();
 			graphics.lineStyle(this._lineThickness,16777215,1,false,"normal",CapsStyle.SQUARE,JointStyle.MITER,3);
 			switch(this._style)
@@ -123,27 +123,27 @@ package Shared.AS3
 			this.LineX(this._clipRect.left);
 		}
 		
-		private function LineX(param1:Number) : *
+		private function LineX(newX:Number) : *
 		{
-			this._drawPos.x = param1;
+			this._drawPos.x = newX;
 			this.lineTo();
 		}
 		
-		private function LineY(param1:Number) : *
+		private function LineY(newY:Number) : *
 		{
-			this._drawPos.y = param1;
+			this._drawPos.y = newY;
 			this.lineTo();
 		}
 		
-		private function MoveX(param1:Number) : *
+		private function MoveX(newX:Number) : *
 		{
-			this._drawPos.x = param1;
+			this._drawPos.x = newX;
 			this.moveTo();
 		}
 		
-		private function MoveY(param1:Number) : *
+		private function MoveY(newY:Number) : *
 		{
-			this._drawPos.y = param1;
+			this._drawPos.y = newY;
 			this.moveTo();
 		}
 		

@@ -27,7 +27,7 @@ package scaleform.gfx
 			super();
 		}
 		
-		public static function set enabled(param1:Boolean) : void
+		public static function set enabled(value:Boolean) : void
 		{
 		}
 		
@@ -36,7 +36,7 @@ package scaleform.gfx
 			return false;
 		}
 		
-		public static function set noInvisibleAdvance(param1:Boolean) : void
+		public static function set noInvisibleAdvance(value:Boolean) : void
 		{
 		}
 		
@@ -45,21 +45,21 @@ package scaleform.gfx
 			return false;
 		}
 		
-		public static function getTopMostEntity(param1:Number, param2:Number, param3:Boolean = true) : DisplayObject
+		public static function getTopMostEntity(x:Number, y:Number, testAll:Boolean = true) : DisplayObject
 		{
 			return null;
 		}
 		
-		public static function getMouseTopMostEntity(param1:Boolean = true, param2:uint = 0) : DisplayObject
+		public static function getMouseTopMostEntity(testAll:Boolean = true, mouseIndex:uint = 0) : DisplayObject
 		{
 			return null;
 		}
 		
-		public static function setMouseCursorType(param1:String, param2:uint = 0) : void
+		public static function setMouseCursorType(cursor:String, mouseIndex:uint = 0) : void
 		{
 		}
 		
-		public static function getMouseCursorType(param1:uint = 0) : String
+		public static function getMouseCursorType(mouseIndex:uint = 0) : String
 		{
 			return "";
 		}
@@ -74,16 +74,16 @@ package scaleform.gfx
 			return new Rectangle(0,0,0,0);
 		}
 		
-		public static function getEdgeAAMode(param1:DisplayObject) : uint
+		public static function getEdgeAAMode(dispObj:DisplayObject) : uint
 		{
 			return EDGEAA_INHERIT;
 		}
 		
-		public static function setEdgeAAMode(param1:DisplayObject, param2:uint) : void
+		public static function setEdgeAAMode(dispObj:DisplayObject, mode:uint) : void
 		{
 		}
 		
-		public static function setIMEEnabled(param1:TextField, param2:Boolean) : void
+		public static function setIMEEnabled(textField:TextField, isEnabled:Boolean) : void
 		{
 		}
 		

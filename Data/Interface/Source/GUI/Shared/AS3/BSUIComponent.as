@@ -75,11 +75,11 @@ package Shared.AS3
 			return this._bShowBrackets;
 		}
 		
-		public function set bShowBrackets(param1:Boolean) : *
+		public function set bShowBrackets(abShowBrackets:Boolean) : *
 		{
-			if(this.bShowBrackets != param1)
+			if(this.bShowBrackets != abShowBrackets)
 			{
-				this._bShowBrackets = param1;
+				this._bShowBrackets = abShowBrackets;
 				this.SetIsDirty();
 			}
 		}
@@ -89,11 +89,11 @@ package Shared.AS3
 			return this._bracketLineWidth;
 		}
 		
-		public function set bracketLineWidth(param1:Number) : void
+		public function set bracketLineWidth(aBracketLineWidth:Number) : void
 		{
-			if(this._bracketLineWidth != param1)
+			if(this._bracketLineWidth != aBracketLineWidth)
 			{
-				this._bracketLineWidth = param1;
+				this._bracketLineWidth = aBracketLineWidth;
 				this.SetIsDirty();
 			}
 		}
@@ -103,11 +103,11 @@ package Shared.AS3
 			return this._bracketCornerLength;
 		}
 		
-		public function set bracketCornerLength(param1:Number) : void
+		public function set bracketCornerLength(aBracketCornerLength:Number) : void
 		{
-			if(this._bracketCornerLength != param1)
+			if(this._bracketCornerLength != aBracketCornerLength)
 			{
-				this._bracketCornerLength = param1;
+				this._bracketCornerLength = aBracketCornerLength;
 				this.SetIsDirty();
 			}
 		}
@@ -117,11 +117,11 @@ package Shared.AS3
 			return this._bracketPaddingX;
 		}
 		
-		public function set bracketPaddingX(param1:Number) : void
+		public function set bracketPaddingX(aBracketPaddingX:Number) : void
 		{
-			if(this._bracketPaddingX != param1)
+			if(this._bracketPaddingX != aBracketPaddingX)
 			{
-				this._bracketPaddingX = param1;
+				this._bracketPaddingX = aBracketPaddingX;
 				this.SetIsDirty();
 			}
 		}
@@ -131,11 +131,11 @@ package Shared.AS3
 			return this._bracketPaddingY;
 		}
 		
-		public function set bracketPaddingY(param1:Number) : void
+		public function set bracketPaddingY(aBracketPaddingY:Number) : void
 		{
-			if(this._bracketPaddingY != param1)
+			if(this._bracketPaddingY != aBracketPaddingY)
 			{
-				this._bracketPaddingY = param1;
+				this._bracketPaddingY = aBracketPaddingY;
 				this.SetIsDirty();
 			}
 		}
@@ -145,11 +145,11 @@ package Shared.AS3
 			return this._bracketStyle;
 		}
 		
-		public function set BracketStyle(param1:String) : *
+		public function set BracketStyle(aBracketStyle:String) : *
 		{
-			if(this._bracketStyle != param1)
+			if(this._bracketStyle != aBracketStyle)
 			{
-				this._bracketStyle = param1;
+				this._bracketStyle = aBracketStyle;
 				this.SetIsDirty();
 			}
 		}
@@ -159,11 +159,11 @@ package Shared.AS3
 			return this._bUseShadedBackground;
 		}
 		
-		public function set bUseShadedBackground(param1:Boolean) : *
+		public function set bUseShadedBackground(abUseShadedBackground:Boolean) : *
 		{
-			if(this._bUseShadedBackground != param1)
+			if(this._bUseShadedBackground != abUseShadedBackground)
 			{
-				this._bUseShadedBackground = param1;
+				this._bUseShadedBackground = abUseShadedBackground;
 				this.SetIsDirty();
 			}
 		}
@@ -173,11 +173,11 @@ package Shared.AS3
 			return this._shadedBackgroundType;
 		}
 		
-		public function set ShadedBackgroundType(param1:String) : *
+		public function set ShadedBackgroundType(aShadedBackgroundType:String) : *
 		{
-			if(this._shadedBackgroundType != param1)
+			if(this._shadedBackgroundType != aShadedBackgroundType)
 			{
-				this._shadedBackgroundType = param1;
+				this._shadedBackgroundType = aShadedBackgroundType;
 				this.SetIsDirty();
 			}
 		}
@@ -187,11 +187,11 @@ package Shared.AS3
 			return this._shadedBackgroundMethod;
 		}
 		
-		public function set ShadedBackgroundMethod(param1:String) : *
+		public function set ShadedBackgroundMethod(aShadedBackgroundMethod:String) : *
 		{
-			if(this._shadedBackgroundMethod != param1)
+			if(this._shadedBackgroundMethod != aShadedBackgroundMethod)
 			{
-				this._shadedBackgroundMethod = param1;
+				this._shadedBackgroundMethod = aShadedBackgroundMethod;
 				this.SetIsDirty();
 			}
 		}
@@ -212,7 +212,7 @@ package Shared.AS3
 			this._bAcquiredByNativeCode = true;
 		}
 		
-		private final function onEnterFrameEvent(param1:Event) : void
+		private final function onEnterFrameEvent(arEvent:Event) : void
 		{
 			removeEventListener(Event.ENTER_FRAME,this.onEnterFrameEvent,false);
 			if(this.bIsDirty)
@@ -221,7 +221,7 @@ package Shared.AS3
 			}
 		}
 		
-		private final function onAddedToStageEvent(param1:Event) : void
+		private final function onAddedToStageEvent(arEvent:Event) : void
 		{
 			removeEventListener(Event.ADDED_TO_STAGE,this.onAddedToStageEvent);
 			this.onAddedToStage();
@@ -238,19 +238,18 @@ package Shared.AS3
 			}
 		}
 		
-		private final function onRemovedFromStageEvent(param1:Event) : void
+		private final function onRemovedFromStageEvent(arEvent:Event) : void
 		{
 			removeEventListener(Event.REMOVED_FROM_STAGE,this.onRemovedFromStageEvent);
 			this.onRemovedFromStage();
 			addEventListener(Event.ADDED_TO_STAGE,this.onAddedToStageEvent);
 		}
 		
-		private final function onRenderEvent(param1:Event) : void
+		private final function onRenderEvent(arEvent:Event) : void
 		{
 			var bBracketsDrawn:* = undefined;
 			var preDrawBounds:Rectangle = null;
 			var postDrawBounds:Rectangle = null;
-			var arEvent:Event = param1;
 			removeEventListener(Event.ENTER_FRAME,this.onEnterFrameEvent,false);
 			if(stage)
 			{
@@ -282,17 +281,17 @@ package Shared.AS3
 			}
 		}
 		
-		private final function onSetPlatformEvent(param1:Event) : *
+		private final function onSetPlatformEvent(event:Event) : *
 		{
-			var _loc2_:PlatformChangeEvent = param1 as PlatformChangeEvent;
-			this.SetPlatform(_loc2_.uiPlatform,_loc2_.bPS3Switch);
+			var e:PlatformChangeEvent = event as PlatformChangeEvent;
+			this.SetPlatform(e.uiPlatform,e.bPS3Switch);
 		}
 		
-		public function UpdateBrackets(param1:Boolean) : *
+		public function UpdateBrackets(bRedrawBrackets:Boolean) : *
 		{
 			if(this._bShowBrackets && width > this.bracketCornerLength && height > this._bracketCornerLength)
 			{
-				if(param1)
+				if(bRedrawBrackets)
 				{
 					this._bracketPair.redrawUIComponent(this,this.bracketLineWidth,this.bracketCornerLength,new Point(this._bracketPaddingX,this.bracketPaddingY),this.BracketStyle);
 				}
@@ -330,12 +329,12 @@ package Shared.AS3
 		{
 		}
 		
-		public function SetPlatform(param1:Number, param2:Boolean) : void
+		public function SetPlatform(aiPlatform:Number, abPS3Switch:Boolean) : void
 		{
-			if(this._iPlatform != param1 || this._bPS3Switch != param2)
+			if(this._iPlatform != aiPlatform || this._bPS3Switch != abPS3Switch)
 			{
-				this._iPlatform = param1;
-				this._bPS3Switch = param2;
+				this._iPlatform = aiPlatform;
+				this._bPS3Switch = abPS3Switch;
 				this.SetIsDirty();
 			}
 		}
