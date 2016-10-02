@@ -31,7 +31,7 @@ package scaleform.clik.utils
 		
 		public var scope:DisplayObject;
 		
-		public var scaleMode:String = "counterScale";
+		public var scaleMode:String;
 		
 		public var parentXAdjust:Number = 1;
 		
@@ -47,78 +47,79 @@ package scaleform.clik.utils
 		
 		public var lastHeight:Number = NaN;
 		
-		public function Constraints(param1:Sprite, param2:String = "counterScale")
+		public function Constraints(scope:Sprite, scaleMode:String = "counterScale")
 		{
+			this.scaleMode = ConstrainMode.COUNTER_SCALE;
 			super();
-			this.scope = param1;
-			this.scaleMode = param2;
+			this.scope = scope;
+			this.scaleMode = scaleMode;
 			this.elements = {};
-			this.lastWidth = param1.width;
-			this.lastHeight = param1.height;
-			param1.addEventListener(Event.ADDED_TO_STAGE,this.handleScopeAddedToStage,false,0,true);
-			param1.addEventListener(Event.REMOVED_FROM_STAGE,this.handleScopeAddedToStage,false,0,true);
+			this.lastWidth = scope.width;
+			this.lastHeight = scope.height;
+			scope.addEventListener(Event.ADDED_TO_STAGE,this.handleScopeAddedToStage,false,0,true);
+			scope.addEventListener(Event.REMOVED_FROM_STAGE,this.handleScopeAddedToStage,false,0,true);
 		}
 		
-		public function addElement(param1:String, param2:DisplayObject, param3:uint) : void
+		public function addElement(name:String, clip:DisplayObject, edges:uint) : void
 		{
-			if(param2 == null)
+			if(clip == null)
 			{
 				return;
 			}
-			var _loc4_:Number = this.scope.width;
-			var _loc5_:Number = this.scope.height;
+			var w:Number = this.scope.width;
+			var h:Number = this.scope.height;
 			if(this.scope.parent != null && this.scope.parent is Stage)
 			{
-				_loc4_ = this.scope.stage.stageWidth;
-				_loc5_ = this.scope.stage.stageHeight;
+				w = this.scope.stage.stageWidth;
+				h = this.scope.stage.stageHeight;
 			}
-			var _loc6_:ConstrainedElement = new ConstrainedElement(param2,param3,param2.x,param2.y,_loc4_ / this.scope.scaleX - (param2.x + param2.width),_loc5_ / this.scope.scaleY - (param2.y + param2.height),param2.scaleX,param2.scaleY);
-			if(this.elements[param1] == null)
+			var element:ConstrainedElement = new ConstrainedElement(clip,edges,clip.x,clip.y,w / this.scope.scaleX - (clip.x + clip.width),h / this.scope.scaleY - (clip.y + clip.height),clip.scaleX,clip.scaleY);
+			if(this.elements[name] == null)
 			{
 				this.elementCount++;
 			}
-			this.elements[param1] = _loc6_;
+			this.elements[name] = element;
 		}
 		
-		public function removeElement(param1:String) : void
+		public function removeElement(name:String) : void
 		{
-			if(this.elements[param1] != null)
+			if(this.elements[name] != null)
 			{
 				this.elementCount--;
 			}
-			delete this.elements[param1];
+			delete this.elements[name];
 		}
 		
 		public function removeAllElements() : void
 		{
-			var _loc1_:* = null;
-			for(_loc1_ in this.elements)
+			var name:* = null;
+			for(name in this.elements)
 			{
-				if(this.elements[_loc1_] is ConstrainedElement)
+				if(this.elements[name] is ConstrainedElement)
 				{
 					this.elementCount--;
-					delete this.elements[_loc1_];
+					delete this.elements[name];
 				}
 			}
 		}
 		
-		public function getElement(param1:String) : ConstrainedElement
+		public function getElement(name:String) : ConstrainedElement
 		{
-			return this.elements[param1] as ConstrainedElement;
+			return this.elements[name] as ConstrainedElement;
 		}
 		
-		public function updateElement(param1:String, param2:DisplayObject) : void
+		public function updateElement(name:String, clip:DisplayObject) : void
 		{
-			if(param2 == null)
+			if(clip == null)
 			{
 				return;
 			}
-			var _loc3_:ConstrainedElement = this.elements[param1] as ConstrainedElement;
-			if(_loc3_ == null)
+			var element:ConstrainedElement = this.elements[name] as ConstrainedElement;
+			if(element == null)
 			{
 				return;
 			}
-			_loc3_.clip = param2;
+			element.clip = clip;
 		}
 		
 		public function getXAdjust() : Number
@@ -139,135 +140,135 @@ package scaleform.clik.utils
 			return this.parentYAdjust / this.scope.scaleY;
 		}
 		
-		public function update(param1:Number, param2:Number) : void
+		public function update(width:Number, height:Number) : void
 		{
-			var _loc6_:* = null;
-			var _loc7_:ConstrainedElement = null;
-			var _loc8_:uint = 0;
-			var _loc9_:DisplayObject = null;
-			var _loc10_:Number = NaN;
-			var _loc11_:Number = NaN;
-			this.lastWidth = param1;
-			this.lastHeight = param2;
+			var n:* = null;
+			var element:ConstrainedElement = null;
+			var edges:uint = 0;
+			var clip:DisplayObject = null;
+			var nw:Number = NaN;
+			var nh:Number = NaN;
+			this.lastWidth = width;
+			this.lastHeight = height;
 			if(this.elementCount == 0)
 			{
 				return;
 			}
-			var _loc3_:Number = this.getXAdjust();
-			var _loc4_:Number = this.getYAdjust();
-			var _loc5_:* = this.scaleMode == ConstrainMode.COUNTER_SCALE;
-			for(_loc6_ in this.elements)
+			var xAdjust:Number = this.getXAdjust();
+			var yAdjust:Number = this.getYAdjust();
+			var counterScale:Boolean = this.scaleMode == ConstrainMode.COUNTER_SCALE;
+			for(n in this.elements)
 			{
-				_loc7_ = this.elements[_loc6_] as ConstrainedElement;
-				_loc8_ = _loc7_.edges;
-				_loc9_ = _loc7_.clip;
-				if(_loc5_)
+				element = this.elements[n] as ConstrainedElement;
+				edges = element.edges;
+				clip = element.clip;
+				if(counterScale)
 				{
-					_loc9_.scaleX = _loc7_.scaleX * _loc3_;
-					_loc9_.scaleY = _loc7_.scaleY * _loc4_;
-					if((_loc8_ & scaleform.clik.utils.Constraints.CENTER_H) == 0)
+					clip.scaleX = element.scaleX * xAdjust;
+					clip.scaleY = element.scaleY * yAdjust;
+					if((edges & Constraints.CENTER_H) == 0)
 					{
-						if((_loc8_ & scaleform.clik.utils.Constraints.LEFT) > 0)
+						if((edges & Constraints.LEFT) > 0)
 						{
-							_loc9_.x = _loc7_.left * _loc3_;
-							if((_loc8_ & scaleform.clik.utils.Constraints.RIGHT) > 0)
+							clip.x = element.left * xAdjust;
+							if((edges & Constraints.RIGHT) > 0)
 							{
-								_loc10_ = param1 - _loc7_.left - _loc7_.right;
-								if(!(_loc9_ is TextField))
+								nw = width - element.left - element.right;
+								if(!(clip is TextField))
 								{
-									_loc10_ = _loc10_ * _loc3_;
+									nw = nw * xAdjust;
 								}
-								_loc9_.width = _loc10_;
+								clip.width = nw;
 							}
 						}
-						else if((_loc8_ & scaleform.clik.utils.Constraints.RIGHT) > 0)
+						else if((edges & Constraints.RIGHT) > 0)
 						{
-							_loc9_.x = (param1 - _loc7_.right) * _loc3_ - _loc9_.width;
+							clip.x = (width - element.right) * xAdjust - clip.width;
 						}
 					}
-					if((_loc8_ & scaleform.clik.utils.Constraints.CENTER_V) == 0)
+					if((edges & Constraints.CENTER_V) == 0)
 					{
-						if((_loc8_ & scaleform.clik.utils.Constraints.TOP) > 0)
+						if((edges & Constraints.TOP) > 0)
 						{
-							_loc9_.y = _loc7_.top * _loc4_;
-							if((_loc8_ & scaleform.clik.utils.Constraints.BOTTOM) > 0)
+							clip.y = element.top * yAdjust;
+							if((edges & Constraints.BOTTOM) > 0)
 							{
-								_loc11_ = param2 - _loc7_.top - _loc7_.bottom;
-								if(!(_loc9_ is TextField))
+								nh = height - element.top - element.bottom;
+								if(!(clip is TextField))
 								{
-									_loc11_ = _loc11_ * _loc4_;
+									nh = nh * yAdjust;
 								}
-								_loc9_.height = _loc11_;
+								clip.height = nh;
 							}
 						}
-						else if((_loc8_ & scaleform.clik.utils.Constraints.BOTTOM) > 0)
+						else if((edges & Constraints.BOTTOM) > 0)
 						{
-							_loc9_.y = (param2 - _loc7_.bottom) * _loc4_ - _loc9_.height;
+							clip.y = (height - element.bottom) * yAdjust - clip.height;
 						}
 					}
 				}
 				else
 				{
-					if((_loc8_ & scaleform.clik.utils.Constraints.CENTER_H) == 0 && (_loc8_ & scaleform.clik.utils.Constraints.RIGHT) > 0)
+					if((edges & Constraints.CENTER_H) == 0 && (edges & Constraints.RIGHT) > 0)
 					{
-						if((_loc8_ & scaleform.clik.utils.Constraints.LEFT) > 0)
+						if((edges & Constraints.LEFT) > 0)
 						{
-							_loc9_.width = param1 - _loc7_.left - _loc7_.right;
+							clip.width = width - element.left - element.right;
 						}
 						else
 						{
-							_loc9_.x = param1 - _loc9_.width - _loc7_.right;
+							clip.x = width - clip.width - element.right;
 						}
 					}
-					if((_loc8_ & scaleform.clik.utils.Constraints.CENTER_V) == 0 && (_loc8_ & scaleform.clik.utils.Constraints.BOTTOM) > 0)
+					if((edges & Constraints.CENTER_V) == 0 && (edges & Constraints.BOTTOM) > 0)
 					{
-						if((_loc8_ & scaleform.clik.utils.Constraints.TOP) > 0)
+						if((edges & Constraints.TOP) > 0)
 						{
-							_loc9_.height = param2 - _loc7_.top - _loc7_.bottom;
+							clip.height = height - element.top - element.bottom;
 						}
 						else
 						{
-							_loc9_.y = param2 - _loc9_.height - _loc7_.bottom;
+							clip.y = height - clip.height - element.bottom;
 						}
 					}
-					if(_loc9_ is UIComponent)
+					if(clip is UIComponent)
 					{
-						(_loc9_ as UIComponent).validateNow();
+						(clip as UIComponent).validateNow();
 					}
 				}
-				if((_loc8_ & scaleform.clik.utils.Constraints.CENTER_H) > 0)
+				if((edges & Constraints.CENTER_H) > 0)
 				{
-					_loc9_.x = param1 * 0.5 * _loc3_ - _loc9_.width * 0.5;
+					clip.x = width * 0.5 * xAdjust - clip.width * 0.5;
 				}
-				if((_loc8_ & scaleform.clik.utils.Constraints.CENTER_V) > 0)
+				if((edges & Constraints.CENTER_V) > 0)
 				{
-					_loc9_.y = param2 * 0.5 * _loc4_ - _loc9_.height * 0.5;
+					clip.y = height * 0.5 * yAdjust - clip.height * 0.5;
 				}
 			}
-			if(!_loc5_)
+			if(!counterScale)
 			{
 				this.scope.scaleX = this.parentXAdjust;
 				this.scope.scaleY = this.parentYAdjust;
 			}
 			if(hasEventListener(ResizeEvent.RESIZE))
 			{
-				dispatchEvent(new ResizeEvent(ResizeEvent.RESIZE,_loc3_,_loc4_));
+				dispatchEvent(new ResizeEvent(ResizeEvent.RESIZE,xAdjust,yAdjust));
 			}
 		}
 		
 		override public function toString() : String
 		{
-			var _loc3_:* = null;
-			var _loc1_:uint = this.elements.length;
-			var _loc2_:* = "[CLIK Constraints (" + _loc1_ + ")]";
-			for(_loc3_ in this.elements)
+			var n:* = null;
+			var l:uint = this.elements.length;
+			var str:String = "[CLIK Constraints (" + l + ")]";
+			for(n in this.elements)
 			{
-				_loc2_ = _loc2_ + ("\n\t" + _loc3_ + ": " + this.elements[_loc3_].toString());
+				str = str + ("\n\t" + n + ": " + this.elements[n].toString());
 			}
-			return _loc2_;
+			return str;
 		}
 		
-		protected function handleScopeAddedToStage(param1:Event) : void
+		protected function handleScopeAddedToStage(event:Event) : void
 		{
 			this.addToParentConstraints();
 		}
@@ -279,18 +280,18 @@ package scaleform.clik.utils
 				this.parentConstraints.removeEventListener(ResizeEvent.RESIZE,this.handleParentConstraintsResize);
 			}
 			this.parentConstraints = null;
-			var _loc1_:DisplayObjectContainer = this.scope.parent;
-			if(_loc1_ == null)
+			var p:DisplayObjectContainer = this.scope.parent;
+			if(p == null)
 			{
 				return;
 			}
 			while(true)
 			{
-				if(_loc1_ != null)
+				if(p != null)
 				{
-					if(_loc1_.hasOwnProperty("constraints"))
+					if(p.hasOwnProperty("constraints"))
 					{
-						this.parentConstraints = _loc1_["constraints"] as scaleform.clik.utils.Constraints;
+						this.parentConstraints = p["constraints"] as Constraints;
 						if(this.parentConstraints != null && this.parentConstraints.scaleMode == ConstrainMode.REFLOW)
 						{
 							break;
@@ -304,7 +305,7 @@ package scaleform.clik.utils
 							this.parentConstraints.addEventListener(ResizeEvent.RESIZE,this.handleParentConstraintsResize,false,0,true);
 						}
 					}
-					_loc1_ = _loc1_.parent;
+					p = p.parent;
 					continue;
 				}
 				if(this.parentConstraints != null)
@@ -316,10 +317,10 @@ package scaleform.clik.utils
 			}
 		}
 		
-		protected function handleParentConstraintsResize(param1:ResizeEvent) : void
+		protected function handleParentConstraintsResize(event:ResizeEvent) : void
 		{
-			this.parentXAdjust = param1.scaleX;
-			this.parentYAdjust = param1.scaleY;
+			this.parentXAdjust = event.scaleX;
+			this.parentYAdjust = event.scaleY;
 			this.update(this.lastWidth,this.lastHeight);
 		}
 	}

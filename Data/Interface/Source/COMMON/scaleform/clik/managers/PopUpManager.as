@@ -28,45 +28,45 @@ package scaleform.clik.managers
 			super();
 		}
 		
-		public static function init(param1:Stage) : void
+		public static function init(stage:Stage) : void
 		{
 			if(initialized)
 			{
 				return;
 			}
-			PopUpManager._stage = param1;
+			PopUpManager._stage = stage;
 			_defaultPopupCanvas = new MovieClip();
 			_defaultPopupCanvas.addEventListener(Event.REMOVED,handleRemovePopup,false,0,true);
 			_stage.addChild(_defaultPopupCanvas);
 			initialized = true;
 		}
 		
-		public static function show(param1:DisplayObject, param2:Number = 0, param3:Number = 0, param4:DisplayObjectContainer = null) : void
+		public static function show(mc:DisplayObject, x:Number = 0, y:Number = 0, scope:DisplayObjectContainer = null) : void
 		{
 			if(!_stage)
 			{
 				trace("PopUpManager has not been initialized. Automatic initialization has not occured or has failed; call PopUpManager.init() manually.");
 				return;
 			}
-			if(param1.parent)
+			if(mc.parent)
 			{
-				param1.parent.removeChild(param1);
+				mc.parent.removeChild(mc);
 			}
 			handleStageAddedEvent(null);
-			_defaultPopupCanvas.addChild(param1);
-			if(!param4)
+			_defaultPopupCanvas.addChild(mc);
+			if(!scope)
 			{
-				param4 = _stage;
+				scope = _stage;
 			}
-			var _loc5_:Point = new Point(param2,param3);
-			_loc5_ = param4.localToGlobal(_loc5_);
-			param1.x = _loc5_.x;
-			param1.y = _loc5_.y;
+			var p:Point = new Point(x,y);
+			p = scope.localToGlobal(p);
+			mc.x = p.x;
+			mc.y = p.y;
 			_stage.setChildIndex(_defaultPopupCanvas,_stage.numChildren - 1);
 			_stage.addEventListener(Event.ADDED,PopUpManager.handleStageAddedEvent,false,0,true);
 		}
 		
-		public static function showModal(param1:Sprite, param2:Number = 0, param3:Number = 0, param4:Sprite = null, param5:uint = 0, param6:Sprite = null) : void
+		public static function showModal(mc:Sprite, mcX:Number = 0, mcY:Number = 0, bg:Sprite = null, controllerIdx:uint = 0, newFocus:Sprite = null) : void
 		{
 			if(!_stage)
 			{
@@ -77,41 +77,41 @@ package scaleform.clik.managers
 			{
 				_defaultPopupCanvas.removeChild(_modalMc);
 			}
-			if(param1 == null)
+			if(mc == null)
 			{
 				return;
 			}
-			if(param4 == null)
+			if(bg == null)
 			{
-				param4 = new Sprite();
-				param4.graphics.lineStyle(0,16777215,0);
-				param4.graphics.beginFill(16777215,0);
-				param4.graphics.drawRect(0,0,_stage.stageWidth,_stage.stageHeight);
-				param4.graphics.endFill();
+				bg = new Sprite();
+				bg.graphics.lineStyle(0,16777215,0);
+				bg.graphics.beginFill(16777215,0);
+				bg.graphics.drawRect(0,0,_stage.stageWidth,_stage.stageHeight);
+				bg.graphics.endFill();
 			}
-			_modalMc = param1;
-			_modalBg = param4;
-			_modalMc.x = param2;
-			_modalMc.y = param3;
+			_modalMc = mc;
+			_modalBg = bg;
+			_modalMc.x = mcX;
+			_modalMc.y = mcY;
 			_defaultPopupCanvas.addChild(_modalBg);
 			_defaultPopupCanvas.addChild(_modalMc);
-			FocusHandler.getInstance().setFocus(param6,param5,false);
-			FocusManager.setModalClip(_modalMc,param5);
+			FocusHandler.getInstance().setFocus(newFocus,controllerIdx,false);
+			FocusManager.setModalClip(_modalMc,controllerIdx);
 			_modalMc.addEventListener(Event.REMOVED_FROM_STAGE,handleRemoveModalMc,false,0,true);
 			_stage.addEventListener(Event.ADDED,PopUpManager.handleStageAddedEvent,false,0,true);
 		}
 		
-		protected static function handleStageAddedEvent(param1:Event) : void
+		protected static function handleStageAddedEvent(e:Event) : void
 		{
 			_stage.setChildIndex(_defaultPopupCanvas,_stage.numChildren - 1);
 		}
 		
-		protected static function handleRemovePopup(param1:Event) : void
+		protected static function handleRemovePopup(e:Event) : void
 		{
 			removeAddedToStageListener();
 		}
 		
-		protected static function handleRemoveModalMc(param1:Event) : void
+		protected static function handleRemoveModalMc(e:Event) : void
 		{
 			_modalBg.removeEventListener(Event.REMOVED_FROM_STAGE,handleRemoveModalMc,false);
 			if(_modalBg)

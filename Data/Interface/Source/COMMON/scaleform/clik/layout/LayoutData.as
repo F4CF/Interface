@@ -32,17 +32,17 @@ package scaleform.clik.layout
 		
 		public var layoutIdentifier:String = null;
 		
-		public function LayoutData(param1:String = "none", param2:String = "none", param3:int = -1, param4:int = -1, param5:String = null, param6:String = null, param7:int = -1, param8:String = null)
+		public function LayoutData(_alignH:String = "none", _alignV:String = "none", _offsetH:int = -1, _offsetV:int = -1, _relativeToH:String = null, _relativeToV:String = null, _layoutIndex:int = -1, _layoutIdentifer:String = null)
 		{
 			super();
-			this.alignH = param1;
-			this.alignV = param2;
-			this.offsetH = param3;
-			this.offsetV = param4;
-			this.relativeToH = param5;
-			this.relativeToV = param6;
-			this.layoutIndex = param7;
-			this.layoutIdentifier = param8;
+			this.alignH = _alignH;
+			this.alignV = _alignV;
+			this.offsetH = _offsetH;
+			this.offsetV = _offsetV;
+			this.relativeToH = _relativeToH;
+			this.relativeToV = _relativeToV;
+			this.layoutIndex = _layoutIndex;
+			this.layoutIdentifier = _layoutIdentifer;
 			this.offsetHashH = new Dictionary();
 			this.offsetHashV = new Dictionary();
 		}

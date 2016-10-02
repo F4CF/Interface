@@ -8,19 +8,19 @@ package scaleform.clik.utils
 		
 		protected var _dictionary:Dictionary;
 		
-		public function WeakReference(param1:Object)
+		public function WeakReference(obj:Object)
 		{
 			super();
 			this._dictionary = new Dictionary(true);
-			this._dictionary[param1] = 1;
+			this._dictionary[obj] = 1;
 		}
 		
 		public function get value() : Object
 		{
-			var _loc1_:* = null;
-			for(_loc1_ in this._dictionary)
+			var dvalue:* = null;
+			for(dvalue in this._dictionary)
 			{
-				return _loc1_;
+				return dvalue;
 			}
 			return null;
 		}

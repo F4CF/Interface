@@ -24,13 +24,13 @@ package scaleform.clik.events
 		
 		public var isRepeat:Boolean = false;
 		
-		public function ButtonEvent(param1:String, param2:Boolean = true, param3:Boolean = false, param4:uint = 0, param5:uint = 0, param6:Boolean = false, param7:Boolean = false)
+		public function ButtonEvent(type:String, bubbles:Boolean = true, cancelable:Boolean = false, controllerIdx:uint = 0, buttonIdx:uint = 0, isKeyboard:Boolean = false, isRepeat:Boolean = false)
 		{
-			super(param1,param2,param3);
-			this.controllerIdx = param4;
-			this.buttonIdx = param5;
-			this.isKeyboard = param6;
-			this.isRepeat = param7;
+			super(type,bubbles,cancelable);
+			this.controllerIdx = controllerIdx;
+			this.buttonIdx = buttonIdx;
+			this.isKeyboard = isKeyboard;
+			this.isRepeat = isRepeat;
 		}
 		
 		override public function clone() : Event

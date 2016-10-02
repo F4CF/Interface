@@ -22,17 +22,17 @@ package scaleform.clik.utils
 		
 		public var scaleY:Number;
 		
-		public function ConstrainedElement(param1:DisplayObject, param2:uint, param3:Number, param4:Number, param5:Number, param6:Number, param7:Number, param8:Number)
+		public function ConstrainedElement(clip:DisplayObject, edges:uint, left:Number, top:Number, right:Number, bottom:Number, scaleX:Number, scaleY:Number)
 		{
 			super();
-			this.clip = param1;
-			this.edges = param2;
-			this.left = param3;
-			this.top = param4;
-			this.right = param5;
-			this.bottom = param6;
-			this.scaleX = param7;
-			this.scaleY = param8;
+			this.clip = clip;
+			this.edges = edges;
+			this.left = left;
+			this.top = top;
+			this.right = right;
+			this.bottom = bottom;
+			this.scaleX = scaleX;
+			this.scaleY = scaleY;
 		}
 		
 		public function toString() : String

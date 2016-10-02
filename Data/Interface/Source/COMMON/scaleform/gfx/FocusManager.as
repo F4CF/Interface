@@ -13,7 +13,7 @@ package scaleform.gfx
 			super();
 		}
 		
-		public static function set alwaysEnableArrowKeys(param1:Boolean) : void
+		public static function set alwaysEnableArrowKeys(enable:Boolean) : void
 		{
 		}
 		
@@ -22,7 +22,7 @@ package scaleform.gfx
 			return false;
 		}
 		
-		public static function set disableFocusKeys(param1:Boolean) : void
+		public static function set disableFocusKeys(disable:Boolean) : void
 		{
 		}
 		
@@ -31,22 +31,22 @@ package scaleform.gfx
 			return false;
 		}
 		
-		public static function moveFocus(param1:String, param2:InteractiveObject = null, param3:Boolean = false, param4:uint = 0) : InteractiveObject
+		public static function moveFocus(keyToSimulate:String, startFromMovie:InteractiveObject = null, includeFocusEnabledChars:Boolean = false, controllerIdx:uint = 0) : InteractiveObject
 		{
 			return null;
 		}
 		
-		public static function findFocus(param1:String, param2:DisplayObjectContainer = null, param3:Boolean = false, param4:InteractiveObject = null, param5:Boolean = false, param6:uint = 0) : InteractiveObject
+		public static function findFocus(keyToSimulate:String, parentMovie:DisplayObjectContainer = null, loop:Boolean = false, startFromMovie:InteractiveObject = null, includeFocusEnabledChars:Boolean = false, controllerIdx:uint = 0) : InteractiveObject
 		{
 			return null;
 		}
 		
-		public static function setFocus(param1:InteractiveObject, param2:uint = 0) : void
+		public static function setFocus(obj:InteractiveObject, controllerIdx:uint = 0) : void
 		{
 			trace("FocusManager.setFocus is only usable with GFx. Use stage.focus property in Flash.");
 		}
 		
-		public static function getFocus(param1:uint = 0) : InteractiveObject
+		public static function getFocus(controllerIdx:uint = 0) : InteractiveObject
 		{
 			trace("FocusManager.getFocus is only usable with GFx. Use stage.focus property in Flash.");
 			return null;
@@ -57,36 +57,36 @@ package scaleform.gfx
 			return 1;
 		}
 		
-		public static function setFocusGroupMask(param1:InteractiveObject, param2:uint) : void
+		public static function setFocusGroupMask(obj:InteractiveObject, mask:uint) : void
 		{
 		}
 		
-		public static function getFocusGroupMask(param1:InteractiveObject) : uint
+		public static function getFocusGroupMask(obj:InteractiveObject) : uint
 		{
 			return 1;
 		}
 		
-		public static function setControllerFocusGroup(param1:uint, param2:uint) : Boolean
+		public static function setControllerFocusGroup(controllerIdx:uint, focusGroupIdx:uint) : Boolean
 		{
 			return false;
 		}
 		
-		public static function getControllerFocusGroup(param1:uint) : uint
+		public static function getControllerFocusGroup(controllerIdx:uint) : uint
 		{
 			return 0;
 		}
 		
-		public static function getControllerMaskByFocusGroup(param1:uint) : uint
+		public static function getControllerMaskByFocusGroup(focusGroupIdx:uint) : uint
 		{
 			return 0;
 		}
 		
-		public static function getModalClip(param1:uint = 0) : Sprite
+		public static function getModalClip(controllerIdx:uint = 0) : Sprite
 		{
 			return null;
 		}
 		
-		public static function setModalClip(param1:Sprite, param2:uint = 0) : void
+		public static function setModalClip(mc:Sprite, controllerIdx:uint = 0) : void
 		{
 		}
 	}

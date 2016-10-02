@@ -20,17 +20,17 @@ package scaleform.clik.ui
 		
 		public var shiftKey:Boolean;
 		
-		public function InputDetails(param1:String, param2:Number, param3:*, param4:String = null, param5:uint = 0, param6:Boolean = false, param7:Boolean = false, param8:Boolean = false)
+		public function InputDetails(type:String, code:Number, value:*, navEquivalent:String = null, controllerIndex:uint = 0, ctrlKey:Boolean = false, altKey:Boolean = false, shiftKey:Boolean = false)
 		{
 			super();
-			this.type = param1;
-			this.code = param2;
-			this.value = param3;
-			this.navEquivalent = param4;
-			this.controllerIndex = param5;
-			this.ctrlKey = param6;
-			this.altKey = param7;
-			this.shiftKey = param8;
+			this.type = type;
+			this.code = code;
+			this.value = value;
+			this.navEquivalent = navEquivalent;
+			this.controllerIndex = controllerIndex;
+			this.ctrlKey = ctrlKey;
+			this.altKey = altKey;
+			this.shiftKey = shiftKey;
 		}
 		
 		public function toString() : String
