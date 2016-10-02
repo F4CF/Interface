@@ -1,0 +1,84 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\WidgetOverlay" "WidgetOverlay.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.900
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00000079 22C3:B150
+D:.
+|   WidgetOverlay.fla
+|   
+\---scripts
+    |   Graph.as
+    |   Overlay.as
+    |   OverlayButton.as
+    |   OverlayButtonBar.as
+    |   TextureWidget.as
+    |   TextWidget.as
+    |   
+    +---scaleform
+    |   +---clik
+    |   |   +---constants
+    |   |   |       ConstrainMode.as
+    |   |   |       FocusMode.as
+    |   |   |       InputValue.as
+    |   |   |       InvalidationType.as
+    |   |   |       NavigationCode.as
+    |   |   |       
+    |   |   +---controls
+    |   |   |       Button.as
+    |   |   |       ButtonBar.as
+    |   |   |       ButtonGroup.as
+    |   |   |       
+    |   |   +---core
+    |   |   |       CLIK.as
+    |   |   |       UIComponent.as
+    |   |   |       
+    |   |   +---data
+    |   |   |       DataProvider.as
+    |   |   |       
+    |   |   +---events
+    |   |   |       ButtonBarEvent.as
+    |   |   |       ButtonEvent.as
+    |   |   |       ComponentEvent.as
+    |   |   |       FocusHandlerEvent.as
+    |   |   |       IndexEvent.as
+    |   |   |       InputEvent.as
+    |   |   |       ResizeEvent.as
+    |   |   |       
+    |   |   +---interfaces
+    |   |   |       IDataProvider.as
+    |   |   |       
+    |   |   +---layout
+    |   |   |       LayoutData.as
+    |   |   |       
+    |   |   +---managers
+    |   |   |       FocusHandler.as
+    |   |   |       InputDelegate.as
+    |   |   |       PopUpManager.as
+    |   |   |       
+    |   |   +---ui
+    |   |   |       InputDetails.as
+    |   |   |       
+    |   |   \---utils
+    |   |           ConstrainedElement.as
+    |   |           Constraints.as
+    |   |           WeakReference.as
+    |   |           
+    |   \---gfx
+    |           Extensions.as
+    |           FocusEventEx.as
+    |           FocusManager.as
+    |           KeyboardEventEx.as
+    |           MouseEventEx.as
+    |           
+    +---Shared
+    |       GlobalFunc.as
+    |       
+    \---WidgetOverlay_fla
+            MainTimeline.as
+            

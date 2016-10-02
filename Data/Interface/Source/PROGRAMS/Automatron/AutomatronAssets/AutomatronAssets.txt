@@ -1,0 +1,97 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\DLCRobot - Main\Programs\Automatron\AutomatronAssets" "AutomatronAssets.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\DLCRobot - Main\Programs\Automatron'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:06.787
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00650073 22C3:B150
+D:.
+|   AutomatronAssets.fla
+|   
+\---scripts
+    |   $AtomicCommand_HUD.as
+    |   BrainBulletMc.as
+    |   btnMain.as
+    |   CursorMc.as
+    |   EnemyScoreMc.as
+    |   EnemyType0.as
+    |   EnemyType1.as
+    |   EnemyType2.as
+    |   EnemyType3.as
+    |   EnemyType4.as
+    |   EnemyType5.as
+    |   EnforcerBulletMc.as
+    |   Hero.as
+    |   HeroBulletMc.as
+    |   HeroLifeMc.as
+    |   Human.as
+    |   HumanDeathMc.as
+    |   HumanScoreMc.as
+    |   PauseIcon.as
+    |   
+    +---AutomatronAssets_fla
+    |       EnemyType0View_37.as
+    |       EnemyType2View_44.as
+    |       EnemyType3View_46.as
+    |       EnemyType4View_48.as
+    |       EnemyType5View_50.as
+    |       HeroAnimMc_52.as
+    |       HumanView_58.as
+    |       IconPlaneExplosion_38.as
+    |       PauseSymbolMc_20.as
+    |       ResumeMc_22.as
+    |       TitleStateMc_2.as
+    |       TransitionWaveMc_18.as
+    |       Window_Open_11.as
+    |       
+    \---scaleform
+        +---clik
+        |   +---constants
+        |   |       ConstrainMode.as
+        |   |       FocusMode.as
+        |   |       InputValue.as
+        |   |       InvalidationType.as
+        |   |       NavigationCode.as
+        |   |       
+        |   +---controls
+        |   |       Button.as
+        |   |       ButtonGroup.as
+        |   |       
+        |   +---core
+        |   |       CLIK.as
+        |   |       UIComponent.as
+        |   |       
+        |   +---events
+        |   |       ButtonEvent.as
+        |   |       ComponentEvent.as
+        |   |       FocusHandlerEvent.as
+        |   |       InputEvent.as
+        |   |       ResizeEvent.as
+        |   |       
+        |   +---layout
+        |   |       LayoutData.as
+        |   |       
+        |   +---managers
+        |   |       FocusHandler.as
+        |   |       InputDelegate.as
+        |   |       PopUpManager.as
+        |   |       
+        |   +---ui
+        |   |       InputDetails.as
+        |   |       
+        |   \---utils
+        |           ConstrainedElement.as
+        |           Constraints.as
+        |           WeakReference.as
+        |           
+        \---gfx
+                Extensions.as
+                FocusEventEx.as
+                FocusManager.as
+                KeyboardEventEx.as
+                MouseEventEx.as
+                

@@ -1,0 +1,15 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\Components\Quest Vault Boys\Miscellaneous Quests\MS13_Diamond City Blues" "MS13_Diamond City Blues.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface\Components\Quest Vault Boys\Miscellaneous Quests'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.877
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00430020 22C3:B150
+D:.
+    MS13_Diamond City Blues.fla
+    
+No subfolders exist 

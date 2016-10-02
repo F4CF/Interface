@@ -1,0 +1,41 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\TerminalButtons" "TerminalButtons.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.491
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 006E006F 22C3:B150
+D:.
+|   TerminalButtons.fla
+|   
+\---scripts
+    |   TerminalButtons.as
+    |   
+    +---scaleform
+    |   \---gfx
+    |           Extensions.as
+    |           
+    +---Shared
+    |   |   GlobalFunc.as
+    |   |   IMenu.as
+    |   |   PlatformChangeEvent.as
+    |   |   PlatformRequestEvent.as
+    |   |   
+    |   \---AS3
+    |       |   BSBracketClip.as
+    |       |   BSButtonHint.as
+    |       |   BSButtonHintBar.as
+    |       |   BSButtonHintData.as
+    |       |   BSUIComponent.as
+    |       |   
+    |       \---COMPANIONAPP
+    |               CompanionAppMode.as
+    |               MobileButtonHint.as
+    |               
+    \---TerminalButtons_fla
+            BSButtonHint_IconHolder_6.as
+            

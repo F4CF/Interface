@@ -1,0 +1,34 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Programs\TurretHack" "TurretHack.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Programs'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.494
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00000200 22C3:B150
+D:.
+|   TurretHack.fla
+|   
+\---scripts
+    |   TurretHack.as
+    |   TurretListEntry.as
+    |   
+    +---scaleform
+    |   \---gfx
+    |           DisplayObjectEx.as
+    |           Extensions.as
+    |           InteractiveObjectEx.as
+    |           TextFieldEx.as
+    |           
+    \---Shared
+        |   GlobalFunc.as
+        |   PlatformChangeEvent.as
+        |   
+        \---AS3
+                BSScrollingList.as
+                BSScrollingListEntry.as
+                ListFilterer.as
+                

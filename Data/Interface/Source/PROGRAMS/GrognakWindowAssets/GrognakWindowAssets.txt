@@ -1,0 +1,72 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Programs\GrognakWindowAssets" "GrognakWindowAssets.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Programs'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:01.227
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00410077 22C3:B150
+D:.
+|   GrognakWindowAssets.fla
+|   
+\---scripts
+    |   ActionButton.as
+    |   PauseIcon.as
+    |   
+    +---GrognakWindowAssets_fla
+    |       btnAnim_8.as
+    |       Main_1.as
+    |       VFXAttackMc_12.as
+    |       WindowImageAnimMc_11.as
+    |       WindowImageMc_10.as
+    |       
+    \---scaleform
+        +---clik
+        |   +---constants
+        |   |       ConstrainMode.as
+        |   |       FocusMode.as
+        |   |       InputValue.as
+        |   |       InvalidationType.as
+        |   |       NavigationCode.as
+        |   |       
+        |   +---controls
+        |   |       Button.as
+        |   |       ButtonGroup.as
+        |   |       
+        |   +---core
+        |   |       CLIK.as
+        |   |       UIComponent.as
+        |   |       
+        |   +---events
+        |   |       ButtonEvent.as
+        |   |       ComponentEvent.as
+        |   |       FocusHandlerEvent.as
+        |   |       InputEvent.as
+        |   |       ResizeEvent.as
+        |   |       
+        |   +---layout
+        |   |       LayoutData.as
+        |   |       
+        |   +---managers
+        |   |       FocusHandler.as
+        |   |       InputDelegate.as
+        |   |       PopUpManager.as
+        |   |       
+        |   +---ui
+        |   |       InputDetails.as
+        |   |       
+        |   \---utils
+        |           ConstrainedElement.as
+        |           Constraints.as
+        |           WeakReference.as
+        |           
+        \---gfx
+                Extensions.as
+                FocusEventEx.as
+                FocusManager.as
+                KeyboardEventEx.as
+                MouseEventEx.as
+                

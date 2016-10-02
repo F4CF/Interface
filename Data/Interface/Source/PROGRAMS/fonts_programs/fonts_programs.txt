@@ -1,0 +1,21 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Programs\fonts_programs" "fonts_programs.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Programs'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.533
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 0073006D 22C3:B150
+D:.
+|   fonts_programs.fla
+|   
+\---scripts
+        $AtomicCommand_HUD.as
+        $Grognak.as
+        $PipFallHUD.as
+        $PipFallSplashScreen.as
+        $Terminal_Font.as
+        

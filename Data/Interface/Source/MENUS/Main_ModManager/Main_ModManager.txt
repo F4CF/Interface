@@ -1,0 +1,79 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\Main_ModManager" "Main_ModManager.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:01.045
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00650067 22C3:B150
+D:.
+|   Main_ModManager.fla
+|   
+\---scripts
+    |   Icon_Downloaded.as
+    |   Icon_Followed.as
+    |   Icon_Installed.as
+    |   ISubmenu.as
+    |   Main_ModManager.as
+    |   ModAccountSettingsList.as
+    |   ModAccountSettings_Entry.as
+    |   ModCategoryList.as
+    |   ModDetailsPage.as
+    |   ModDetails_DescRating.as
+    |   ModDetails_OptionRating.as
+    |   ModDetails_OptionsEntry.as
+    |   ModDetails_OptionsList.as
+    |   ModDetails_RatingHolder.as
+    |   ModLibraryPage.as
+    |   ModLibrary_List.as
+    |   ModLibrary_ListEntry.as
+    |   ModListEntry.as
+    |   ScreenshotCarousel.as
+    |   Star_Empty.as
+    |   Star_Full.as
+    |   Star_HalfFull.as
+    |   
+    +---Main_ModManager_fla
+    |       ModAccountSettingsPage_20.as
+    |       ModListsHolder_1.as
+    |       
+    +---Mobile
+    |   \---ScrollList
+    |           EventWithParams.as
+    |           FlashUtil.as
+    |           MobileListItemRenderer.as
+    |           MobileScrollList.as
+    |           
+    +---scaleform
+    |   \---gfx
+    |           DisplayObjectEx.as
+    |           Extensions.as
+    |           InteractiveObjectEx.as
+    |           TextFieldEx.as
+    |           
+    \---Shared
+        |   BGSExternalInterface.as
+        |   CustomEvent.as
+        |   GlobalFunc.as
+        |   PlatformChangeEvent.as
+        |   PlatformRequestEvent.as
+        |   
+        \---AS3
+            |   BSBracketClip.as
+            |   BSButtonHint.as
+            |   BSButtonHintBar.as
+            |   BSButtonHintData.as
+            |   BSScrollingList.as
+            |   BSScrollingListEntry.as
+            |   BSUIComponent.as
+            |   ListFilterer.as
+            |   
+            \---COMPANIONAPP
+                    BSScrollingListInterface.as
+                    CompanionAppMode.as
+                    MobileButtonHint.as
+                    MobileScrollListProperties.as
+                    

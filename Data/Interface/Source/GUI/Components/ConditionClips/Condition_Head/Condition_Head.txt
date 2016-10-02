@@ -1,0 +1,18 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\Components\ConditionClips\Condition_Head" "Condition_Head.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface\Components\ConditionClips'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.277
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00640061 22C3:B150
+D:.
+|   Condition_Head.fla
+|   
+\---scripts
+    \---Condition_Head_fla
+            MainTimeline.as
+            

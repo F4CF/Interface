@@ -1,0 +1,67 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\LooksMenu" "LooksMenu.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:01.001
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00000200 22C3:B150
+D:.
+|   LooksMenu.fla
+|   
+\---scripts
+    |   FeatureList.as
+    |   FeatureListEntry.as
+    |   LooksMenu.as
+    |   LooksMenuOptionStepper.as
+    |   Option_Scrollbar.as
+    |   RotationIcon.as
+    |   ScaleIcon.as
+    |   SlideIcon.as
+    |   
+    +---LooksMenu_fla
+    |       BSButtonHint_IconHolder_34.as
+    |       FeatureListBrackets_5.as
+    |       FeaturePanel_2.as
+    |       Race_Sex_cursor_19.as
+    |       
+    +---Mobile
+    |   \---ScrollList
+    |           EventWithParams.as
+    |           FlashUtil.as
+    |           MobileListItemRenderer.as
+    |           MobileScrollList.as
+    |           
+    +---scaleform
+    |   \---gfx
+    |           DisplayObjectEx.as
+    |           Extensions.as
+    |           InteractiveObjectEx.as
+    |           TextFieldEx.as
+    |           
+    \---Shared
+        |   BGSExternalInterface.as
+        |   GlobalFunc.as
+        |   IMenu.as
+        |   PlatformChangeEvent.as
+        |   PlatformRequestEvent.as
+        |   
+        \---AS3
+            |   BSBracketClip.as
+            |   BSButtonHint.as
+            |   BSButtonHintBar.as
+            |   BSButtonHintData.as
+            |   BSScrollingList.as
+            |   BSScrollingListEntry.as
+            |   BSUIComponent.as
+            |   ListFilterer.as
+            |   
+            \---COMPANIONAPP
+                    BSScrollingListInterface.as
+                    CompanionAppMode.as
+                    MobileButtonHint.as
+                    MobileScrollListProperties.as
+                    

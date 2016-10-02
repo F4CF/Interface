@@ -1,0 +1,152 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\LevelUpMenu" "LevelUpMenu.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:08.452
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00000200 22C3:B150
+D:.
+|   LevelUpMenu.fla
+|   
+\---scripts
+    |   DefaultBoy.as
+    |   LevelUpMenu.as
+    |   PerkAnimHolder.as
+    |   PerkClip19aa3.as
+    |   PerkClip1d02b5.as
+    |   PerkClip1d2451.as
+    |   PerkClip1d2456.as
+    |   PerkClip1d245e.as
+    |   PerkClip1d2461.as
+    |   PerkClip1d246b.as
+    |   PerkClip1d246f.as
+    |   PerkClip1d2479.as
+    |   PerkClip1d247c.as
+    |   PerkClip1d247f.as
+    |   PerkClip1d2487.as
+    |   PerkClip1d248a.as
+    |   PerkClip1dafe.as
+    |   PerkClip1e67f.as
+    |   PerkClip207d1.as
+    |   PerkClip221fc.as
+    |   PerkClip24aff.as
+    |   PerkClip264d9.as
+    |   PerkClip4a09f.as
+    |   PerkClip4a0ab.as
+    |   PerkClip4a0b0.as
+    |   PerkClip4a0b5.as
+    |   PerkClip4a0b6.as
+    |   PerkClip4a0b9.as
+    |   PerkClip4a0bb.as
+    |   PerkClip4a0c5.as
+    |   PerkClip4a0cf.as
+    |   PerkClip4a0d4.as
+    |   PerkClip4a0d5.as
+    |   PerkClip4a0d6.as
+    |   PerkClip4a0da.as
+    |   PerkClip4b24e.as
+    |   PerkClip4b253.as
+    |   PerkClip4b254.as
+    |   PerkClip4b258.as
+    |   PerkClip4b259.as
+    |   PerkClip4b26d.as
+    |   PerkClip4c91f.as
+    |   PerkClip4c923.as
+    |   PerkClip4c926.as
+    |   PerkClip4c929.as
+    |   PerkClip4c92a.as
+    |   PerkClip4c92d.as
+    |   PerkClip4c935.as
+    |   PerkClip4c93b.as
+    |   PerkClip4c942.as
+    |   PerkClip4d869.as
+    |   PerkClip4d872.as
+    |   PerkClip4d87a.as
+    |   PerkClip4d881.as
+    |   PerkClip4d886.as
+    |   PerkClip4d887.as
+    |   PerkClip4d888.as
+    |   PerkClip4d889.as
+    |   PerkClip4d88a.as
+    |   PerkClip4d88d.as
+    |   PerkClip4d890.as
+    |   PerkClip4d895.as
+    |   PerkClip4d89b.as
+    |   PerkClip4d89e.as
+    |   PerkClip4d8a2.as
+    |   PerkClip4d8a6.as
+    |   PerkClip4d8a7.as
+    |   PerkClip4ddee.as
+    |   PerkClip523ff.as
+    |   PerkClip52403.as
+    |   PerkClip65df9.as
+    |   PerkClip65e65.as
+    |   PerkClipca99d.as
+    |   PerkClipd2287.as
+    |   PerkClipd9784.as
+    |   PerkClipd9789.as
+    |   PerkClipd978e.as
+    |   PerkClipd9793.as
+    |   PerkClipd9798.as
+    |   PerkClipd979d.as
+    |   PerkClipd97a2.as
+    |   PerkClipe36f9.as
+    |   PerkClipe36ff.as
+    |   PerkClipe9453.as
+    |   PerkGrid.as
+    |   PerkRankStar.as
+    |   SelectionRect.as
+    |   SPECIALStar.as
+    |   SPECIALStarHolder.as
+    |   XPMeter.as
+    |   XPMeter_Holder.as
+    |   
+    +---Components
+    |       GhostBarMeter.as
+    |       
+    +---fl
+    |   +---motion
+    |   |       AdjustColor.as
+    |   |       ColorMatrix.as
+    |   |       DynamicMatrix.as
+    |   |       
+    |   \---transitions
+    |       |   Tween.as
+    |       |   TweenEvent.as
+    |       |   
+    |       \---easing
+    |               Strong.as
+    |               
+    +---LevelUpMenu_fla
+    |       BSButtonHint_IconHolder_187.as
+    |       for_DemolitionExpert_55.as
+    |       
+    +---scaleform
+    |   \---gfx
+    |           DisplayObjectEx.as
+    |           Extensions.as
+    |           InteractiveObjectEx.as
+    |           MouseEventEx.as
+    |           TextFieldEx.as
+    |           
+    \---Shared
+        |   GlobalFunc.as
+        |   IMenu.as
+        |   PlatformChangeEvent.as
+        |   PlatformRequestEvent.as
+        |   
+        \---AS3
+            |   BSBracketClip.as
+            |   BSButtonHint.as
+            |   BSButtonHintBar.as
+            |   BSButtonHintData.as
+            |   BSUIComponent.as
+            |   
+            \---COMPANIONAPP
+                    CompanionAppMode.as
+                    MobileButtonHint.as
+                    

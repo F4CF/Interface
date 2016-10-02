@@ -1,0 +1,96 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\MainMenu" "MainMenu.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:01.192
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00000200 22C3:B150
+D:.
+|   MainMenu.fla
+|   
+\---scripts
+    |   BlackLoading.as
+    |   ConfirmPanel.as
+    |   DLCList.as
+    |   DLCListEntry.as
+    |   HelpList.as
+    |   InputMappingList.as
+    |   InputMappingListEntry.as
+    |   ISubmenu.as
+    |   MainMenu.as
+    |   MainMenuHelpListEntry.as
+    |   MainMenuList.as
+    |   MainMenuListEntry.as
+    |   OptionsList.as
+    |   Option_ButtonMapping.as
+    |   Option_Checkbox.as
+    |   Option_OptionStepper.as
+    |   Option_Scrollbar.as
+    |   Pipboy_Meter.as
+    |   PromptMessageWidget.as
+    |   SaveLoadList.as
+    |   SaveLoadListEntry.as
+    |   SaveLoadPanel.as
+    |   SettingsCategoryListEntry.as
+    |   SettingsList.as
+    |   SettingsOptionItem.as
+    |   
+    +---fl
+    |   \---controls
+    |           UIScrollBar.as
+    |           
+    +---MainMenu_fla
+    |       BSButtonHint_IconHolder_52.as
+    |       ControlsFader_34.as
+    |       ControlsPanel_33.as
+    |       DLCPanel_16.as
+    |       HelpPanel_mc_30.as
+    |       MainListPanel_44.as
+    |       OptionsListFader_37.as
+    |       OptionsListPanel_36.as
+    |       SaveLoadPanelHolder_39.as
+    |       SettingsListPanel_25.as
+    |       
+    +---Mobile
+    |   \---ScrollList
+    |           EventWithParams.as
+    |           FlashUtil.as
+    |           MobileListItemRenderer.as
+    |           MobileScrollList.as
+    |           
+    +---scaleform
+    |   \---gfx
+    |           DisplayObjectEx.as
+    |           Extensions.as
+    |           InteractiveObjectEx.as
+    |           TextFieldEx.as
+    |           
+    \---Shared
+        |   BGSExternalInterface.as
+        |   GlobalFunc.as
+        |   IMenu.as
+        |   PlatformChangeEvent.as
+        |   PlatformRequestEvent.as
+        |   
+        \---AS3
+            |   BSBracketClip.as
+            |   BSButtonHint.as
+            |   BSButtonHintBar.as
+            |   BSButtonHintData.as
+            |   BSReversedScrollingList.as
+            |   BSScrollingList.as
+            |   BSScrollingListEntry.as
+            |   BSScrollingListFadeEntry.as
+            |   BSUIComponent.as
+            |   ListFilterer.as
+            |   
+            \---COMPANIONAPP
+                    BSScrollingListInterface.as
+                    CompanionAppMode.as
+                    MobileButtonHint.as
+                    MobileScrollListProperties.as
+                    

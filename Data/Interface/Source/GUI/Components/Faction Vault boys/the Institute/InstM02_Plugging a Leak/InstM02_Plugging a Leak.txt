@@ -1,0 +1,15 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\Components\Faction Vault boys\the Institute\InstM02_Plugging a Leak" "InstM02_Plugging a Leak.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface\Components\Faction Vault boys\the Institute'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:01.465
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00690067 22C3:B150
+D:.
+    InstM02_Plugging a Leak.fla
+    
+No subfolders exist 

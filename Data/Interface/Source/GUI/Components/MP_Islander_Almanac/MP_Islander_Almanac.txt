@@ -1,0 +1,15 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\DLCCoast - Main\Interface\Components\MP_Islander_Almanac" "MP_Islander_Almanac.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\DLCCoast - Main\Interface\Components'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.436
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 006C0041 22C3:B150
+D:.
+    MP_Islander_Almanac.fla
+    
+No subfolders exist 

@@ -1,0 +1,15 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\Components\Magazine perks\MP_RobCo_Fun" "MP_RobCo_Fun.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface\Components\Magazine perks'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.302
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 22C3-B150
+D:.
+    MP_RobCo_Fun.fla
+    
+No subfolders exist 

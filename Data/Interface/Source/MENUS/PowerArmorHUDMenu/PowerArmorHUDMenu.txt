@@ -1,0 +1,128 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\PowerArmorHUDMenu" "PowerArmorHUDMenu.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.892
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 004D0044 22C3:B150
+D:.
+|   PowerArmorHUDMenu.fla
+|   
+\---scripts
+    |   AirfieldMarker.as
+    |   BoSMarker.as
+    |   BottlingPlantMarker.as
+    |   BrownstoneMarker.as
+    |   BunkerHillMarker.as
+    |   BunkerMarker.as
+    |   CamperMarker.as
+    |   CarMarker.as
+    |   CastleMarker.as
+    |   CaveMarker.as
+    |   ChurchMarker.as
+    |   CityMarker.as
+    |   CompassMarkerWidget.as
+    |   CountryClubMarker.as
+    |   CustomHouseMarker.as
+    |   DiamondCityMarker.as
+    |   DirectionMarkerWidget.as
+    |   DisciplesMarker.as
+    |   DogmeatMarker.as
+    |   DriveInMarker.as
+    |   ElevatedHighwayMarker.as
+    |   EncampmentMarker.as
+    |   FactoryMarker.as
+    |   FaneuilHallMarker.as
+    |   FarmMarker.as
+    |   FillingStationMarker.as
+    |   ForestedMarker.as
+    |   GalacticMarker.as
+    |   GoodneighborMarker.as
+    |   GraveyardMarker.as
+    |   HospitalMarker.as
+    |   HubMarker.as
+    |   HUDCompassWidget.as
+    |   IndustrialDomeMarker.as
+    |   IndustrialStacksMarker.as
+    |   InstituteMarker.as
+    |   IrishPrideMarker.as
+    |   JunkyardMarker.as
+    |   KiddieKingdomMarker.as
+    |   LandmarkMarker.as
+    |   LibertaliaMarker.as
+    |   LowRiseMarker.as
+    |   MechanistMarker.as
+    |   MetroMarker.as
+    |   MilitaryBaseMarker.as
+    |   MinutemenMarker.as
+    |   MonorailMarker.as
+    |   MonumentMarker.as
+    |   ObservatoryMarker.as
+    |   OfficeMarker.as
+    |   OperatorsMarker.as
+    |   PackMarker.as
+    |   PierMarker.as
+    |   PlayerSetMarker.as
+    |   POIMarker.as
+    |   PoliceStationMarker.as
+    |   PondLakeMarker.as
+    |   PotentialVassalSettlementMarker.as
+    |   PowerArmorHUDMenu.as
+    |   PowerArmorLocMarker.as
+    |   PrydwenMarker.as
+    |   QuarryMarker.as
+    |   QuestDoorMarker.as
+    |   QuestMarker.as
+    |   RadioactiveAreaMarker.as
+    |   RadioTowerMarker.as
+    |   RaiderSettlementMarker.as
+    |   RailroadFactionMarker.as
+    |   RailroadMarker.as
+    |   RidesMarker.as
+    |   SafariMarker.as
+    |   SalemMarker.as
+    |   SancHillsMarker.as
+    |   SatelliteMarker.as
+    |   SchoolMarker.as
+    |   SentinelMarker.as
+    |   SettlementMarker.as
+    |   SewerMarker.as
+    |   ShipwreckMarker.as
+    |   SkyscraperMarker.as
+    |   SubmarineMarker.as
+    |   SwanPondMarker.as
+    |   SynthHeadMarker.as
+    |   TeammateMarker.as
+    |   TownMarker.as
+    |   TownRuinsMarker.as
+    |   UrbanRuinsMarker.as
+    |   USSConstitutionMarker.as
+    |   VassalSettlementMarker.as
+    |   VaultMarker.as
+    |   WildWestMarker.as
+    |   
+    +---PowerArmorHUDMenu_fla
+    |       CompassMarker_Enemy_92.as
+    |       PlayerSetCompassMarker_89.as
+    |       QuestCompassMarkers_82.as
+    |       QuestDoorCompassMarkers_86.as
+    |       ReconScopeMarker_90.as
+    |       
+    +---scaleform
+    |   \---gfx
+    |           Extensions.as
+    |           
+    \---Shared
+        |   GlobalFunc.as
+        |   IMenu.as
+        |   PlatformChangeEvent.as
+        |   PlatformRequestEvent.as
+        |   
+        \---AS3
+                BSBracketClip.as
+                BSUIComponent.as
+                

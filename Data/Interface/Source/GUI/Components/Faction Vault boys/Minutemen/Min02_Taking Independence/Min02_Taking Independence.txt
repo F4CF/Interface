@@ -1,0 +1,15 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\Components\Faction Vault boys\Minutemen\Min02_Taking Independence" "Min02_Taking Independence.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface\Components\Faction Vault boys\Minutemen'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.377
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00490020 22C3:B150
+D:.
+    Min02_Taking Independence.fla
+    
+No subfolders exist 

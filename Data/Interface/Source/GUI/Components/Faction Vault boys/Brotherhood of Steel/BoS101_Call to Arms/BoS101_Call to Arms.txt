@@ -1,0 +1,15 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\Components\Faction Vault boys\Brotherhood of Steel\BoS101_Call to Arms" "BoS101_Call to Arms.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface\Components\Faction Vault boys\Brotherhood of Steel'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.853
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 006F0074 22C3:B150
+D:.
+    BoS101_Call to Arms.fla
+    
+No subfolders exist 

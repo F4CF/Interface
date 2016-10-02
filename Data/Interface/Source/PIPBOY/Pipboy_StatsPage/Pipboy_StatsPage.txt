@@ -1,0 +1,86 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\Pipboy_StatsPage" "Pipboy_StatsPage.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:01.031
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00610050 22C3:B150
+D:.
+|   Pipboy_StatsPage.fla
+|   
+\---scripts
+    |   ActiveEffectsWidget.as
+    |   ActiveEffects_Entry.as
+    |   PerkRankStar.as
+    |   PerksItemRendererMc.as
+    |   PerksList.as
+    |   PerksListEntry.as
+    |   PerksTab.as
+    |   PipboyChangeEvent.as
+    |   PipboyPage.as
+    |   PipboySubMenu.as
+    |   PipboyTab.as
+    |   PipboyUpdateMask.as
+    |   Pipboy_DataObj.as
+    |   Pipboy_Meter.as
+    |   Pipboy_StatsPage.as
+    |   SPECIALItemRendererMc.as
+    |   SPECIALList.as
+    |   SPECIALListEntry.as
+    |   SPECIALTab.as
+    |   Stats_DMGDRWidget.as
+    |   Stats_DMGDRWidget_Entry.as
+    |   StatusTab.as
+    |   
+    +---Mobile
+    |   \---ScrollList
+    |           EventWithParams.as
+    |           FlashUtil.as
+    |           MobileListItemRenderer.as
+    |           MobileScrollList.as
+    |           
+    +---Pipboy
+    |   \---COMPANIONAPP
+    |           MobileBackButtonEvent.as
+    |           PipboyListItemRenderer.as
+    |           StatsPerksListItemRenderer.as
+    |           StatsSpecialListItemRenderer.as
+    |           
+    +---Pipboy_StatsPage_fla
+    |       DamageIcons_91.as
+    |       HotkeyIcons_30.as
+    |       WeaponArmorHolder_14.as
+    |       
+    +---scaleform
+    |   \---gfx
+    |           DisplayObjectEx.as
+    |           Extensions.as
+    |           InteractiveObjectEx.as
+    |           TextFieldEx.as
+    |           
+    \---Shared
+        |   BGSExternalInterface.as
+        |   GlobalFunc.as
+        |   PlatformChangeEvent.as
+        |   PlatformRequestEvent.as
+        |   
+        \---AS3
+            |   BSBracketClip.as
+            |   BSButtonHintData.as
+            |   BSScrollingList.as
+            |   BSScrollingListEntry.as
+            |   BSUIComponent.as
+            |   ConditionBoy.as
+            |   ListFilterer.as
+            |   
+            \---COMPANIONAPP
+                    BSScrollingListInterface.as
+                    CompanionAppMode.as
+                    MobileScrollListProperties.as
+                    MobileScrollMovieClip.as
+                    PipboyLoader.as
+                    

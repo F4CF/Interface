@@ -1,0 +1,56 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\PipboyMessageBox" "PipboyMessageBox.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.597
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00420065 22C3:B150
+D:.
+|   PipboyMessageBox.fla
+|   
+\---scripts
+    |   MessageBoxButtonEntry.as
+    |   MessageBoxButtonList.as
+    |   MessageBoxMenu.as
+    |   PipboyMessageItemRenderer.as
+    |   
+    +---Mobile
+    |   \---ScrollList
+    |           EventWithParams.as
+    |           FlashUtil.as
+    |           MobileListItemRenderer.as
+    |           MobileScrollList.as
+    |           
+    +---Pipboy
+    |   \---COMPANIONAPP
+    |           PipboyListItemRenderer.as
+    |           PipboyMessageListItemRenderer.as
+    |           
+    +---scaleform
+    |   \---gfx
+    |           DisplayObjectEx.as
+    |           Extensions.as
+    |           InteractiveObjectEx.as
+    |           TextFieldEx.as
+    |           
+    \---Shared
+        |   BGSExternalInterface.as
+        |   GlobalFunc.as
+        |   IMenu.as
+        |   PlatformChangeEvent.as
+        |   PlatformRequestEvent.as
+        |   
+        \---AS3
+            |   BSScrollingList.as
+            |   BSScrollingListEntry.as
+            |   ListFilterer.as
+            |   
+            \---COMPANIONAPP
+                    BSScrollingListInterface.as
+                    CompanionAppMode.as
+                    MobileScrollListProperties.as
+                    

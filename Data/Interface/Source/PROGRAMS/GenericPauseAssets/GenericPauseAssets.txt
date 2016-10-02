@@ -1,0 +1,68 @@
+FileName:'D:\Games\Steam\steamapps\common\Fallout 4\Tools\FFDec\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Programs\GenericPauseAssets" "GenericPauseAssets.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Programs'
+==================================================
+JPEXS Free Flash Decompiler v.9.0.0
+-----------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.578
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00730041 22C3:B150
+D:.
+|   GenericPauseAssets.fla
+|   
+\---scripts
+    |   btnMain.as
+    |   
+    +---GenericPauseAssets_fla
+    |       PauseSymbolMc_2.as
+    |       ResumeMc_4.as
+    |       
+    \---scaleform
+        +---clik
+        |   +---constants
+        |   |       ConstrainMode.as
+        |   |       FocusMode.as
+        |   |       InputValue.as
+        |   |       InvalidationType.as
+        |   |       NavigationCode.as
+        |   |       
+        |   +---controls
+        |   |       Button.as
+        |   |       ButtonGroup.as
+        |   |       
+        |   +---core
+        |   |       CLIK.as
+        |   |       UIComponent.as
+        |   |       
+        |   +---events
+        |   |       ButtonEvent.as
+        |   |       ComponentEvent.as
+        |   |       FocusHandlerEvent.as
+        |   |       InputEvent.as
+        |   |       ResizeEvent.as
+        |   |       
+        |   +---layout
+        |   |       LayoutData.as
+        |   |       
+        |   +---managers
+        |   |       FocusHandler.as
+        |   |       InputDelegate.as
+        |   |       PopUpManager.as
+        |   |       
+        |   +---ui
+        |   |       InputDetails.as
+        |   |       
+        |   \---utils
+        |           ConstrainedElement.as
+        |           Constraints.as
+        |           WeakReference.as
+        |           
+        \---gfx
+                Extensions.as
+                FocusEventEx.as
+                FocusManager.as
+                KeyboardEventEx.as
+                MouseEventEx.as
+                
