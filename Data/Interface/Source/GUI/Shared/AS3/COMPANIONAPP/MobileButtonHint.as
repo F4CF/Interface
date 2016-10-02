@@ -14,6 +14,8 @@ package Shared.AS3.COMPANIONAPP
 		
 		private const BUTTON_MARGIN:Number = 4;
 		
+		private const JUSTIFY_RIGHT_MARGIN:Number = 48;
+		
 		public function MobileButtonHint()
 		{
 			super();
@@ -61,6 +63,8 @@ package Shared.AS3.COMPANIONAPP
 				{
 					hitArea.x = 0;
 				}
+				this.x = this.stage.stageWidth - this.width - this.JUSTIFY_RIGHT_MARGIN;
+				SetIsDirty();
 			}
 			if(hitArea)
 			{
