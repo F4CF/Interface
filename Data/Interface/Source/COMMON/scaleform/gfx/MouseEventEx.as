@@ -18,9 +18,9 @@ package scaleform.gfx
 		
 		public var buttonIdx:uint = 0;
 		
-		public function MouseEventEx(param1:String)
+		public function MouseEventEx(type:String)
 		{
-			super(param1);
+			super(type);
 		}
 	}
 }

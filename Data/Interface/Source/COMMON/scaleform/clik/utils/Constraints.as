@@ -31,7 +31,7 @@ package scaleform.clik.utils
 		
 		public var scope:DisplayObject;
 		
-		public var scaleMode:String;
+		public var scaleMode:String = "counterScale";
 		
 		public var parentXAdjust:Number = 1;
 		
@@ -49,7 +49,6 @@ package scaleform.clik.utils
 		
 		public function Constraints(scope:Sprite, scaleMode:String = "counterScale")
 		{
-			this.scaleMode = ConstrainMode.COUNTER_SCALE;
 			super();
 			this.scope = scope;
 			this.scaleMode = scaleMode;

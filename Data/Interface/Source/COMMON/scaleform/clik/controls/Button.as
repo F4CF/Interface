@@ -22,6 +22,17 @@ package scaleform.clik.controls
 	import flash.events.TimerEvent;
 	import flash.display.DisplayObject;
 	
+	[Event(name="RELEASE_OUTSIDE",type="scaleform.clik.events.ButtonEvent")]
+	[Event(name="DRAG_OUT",type="scaleform.clik.events.ButtonEvent")]
+	[Event(name="DRAG_OVER",type="scaleform.clik.events.ButtonEvent")]
+	[Event(name="CLICK",type="scaleform.clik.events.ButtonEvent")]
+	[Event(name="PRESS",type="scaleform.clik.events.ButtonEvent")]
+	[Event(name="STATE_CHANGE",type="scaleform.clik.events.ComponentEvent")]
+	[Event(name="SELECT",type="flash.events.Event")]
+	[Event(name="FOCUS_OUT",type="scaleform.clik.events.FocusHandlerEvent")]
+	[Event(name="FOCUS_IN",type="scaleform.clik.events.FocusHandlerEvent")]
+	[Event(name="HIDE",type="scaleform.clik.events.ComponentEvent")]
+	[Event(name="SHOW",type="scaleform.clik.events.ComponentEvent")]
 	public class Button extends UIComponent
 	{
 		 
@@ -121,65 +132,70 @@ package scaleform.clik.controls
 			tabEnabled = true;
 		}
 		
+		[Inspectable(defaultValue="",type="string")]
 		public function get data() : Object
 		{
 			return this._data;
 		}
 		
-		public function set data(param1:Object) : void
+		public function set data(value:Object) : void
 		{
-			this._data = param1;
+			this._data = value;
 		}
 		
+		[Inspectable(defaultValue="false")]
 		public function get autoRepeat() : Boolean
 		{
 			return this._autoRepeat;
 		}
 		
-		public function set autoRepeat(param1:Boolean) : void
+		public function set autoRepeat(value:Boolean) : void
 		{
-			this._autoRepeat = param1;
+			this._autoRepeat = value;
 		}
 		
+		[Inspectable(defaultValue="true")]
 		override public function get enabled() : Boolean
 		{
 			return super.enabled;
 		}
 		
-		override public function set enabled(param1:Boolean) : void
+		override public function set enabled(value:Boolean) : void
 		{
-			var _loc2_:String = null;
-			super.enabled = param1;
+			var state:String = null;
+			super.enabled = value;
 			mouseChildren = false;
 			if(super.enabled)
 			{
-				_loc2_ = this._focusIndicator == null && (_displayFocus || _focused)?"over":"up";
+				state = this._focusIndicator == null && (_displayFocus || _focused)?"over":"up";
 			}
 			else
 			{
-				_loc2_ = "disabled";
+				state = "disabled";
 			}
-			this.setState(_loc2_);
+			this.setState(state);
 		}
 		
+		[Inspectable(defaultValue="true")]
 		override public function get focusable() : Boolean
 		{
 			return _focusable;
 		}
 		
-		override public function set focusable(param1:Boolean) : void
+		override public function set focusable(value:Boolean) : void
 		{
-			super.focusable = param1;
+			super.focusable = value;
 		}
 		
+		[Inspectable(defaultValue="false")]
 		public function get toggle() : Boolean
 		{
 			return this._toggle;
 		}
 		
-		public function set toggle(param1:Boolean) : void
+		public function set toggle(value:Boolean) : void
 		{
-			this._toggle = param1;
+			this._toggle = value;
 		}
 		
 		public function get owner() : UIComponent
@@ -187,9 +203,9 @@ package scaleform.clik.controls
 			return this._owner;
 		}
 		
-		public function set owner(param1:UIComponent) : void
+		public function set owner(value:UIComponent) : void
 		{
-			this._owner = param1;
+			this._owner = value;
 		}
 		
 		public function get state() : String
@@ -197,19 +213,20 @@ package scaleform.clik.controls
 			return this._state;
 		}
 		
+		[Inspectable(defaultValue="false")]
 		public function get selected() : Boolean
 		{
 			return this._selected;
 		}
 		
-		public function set selected(param1:Boolean) : void
+		public function set selected(value:Boolean) : void
 		{
-			var _loc2_:Boolean = false;
-			if(this._selected == param1)
+			var df:Boolean = false;
+			if(this._selected == value)
 			{
 				return;
 			}
-			this._selected = param1;
+			this._selected = value;
 			if(this.enabled)
 			{
 				if(!_focused)
@@ -226,9 +243,9 @@ package scaleform.clik.controls
 				}
 				if(this.owner)
 				{
-					_loc2_ = this._selected && this.owner != null && this.checkOwnerFocused();
-					this.setState(_loc2_ && this._focusIndicator == null?"selecting":"toggle");
-					displayFocus = _loc2_;
+					df = this._selected && this.owner != null && this.checkOwnerFocused();
+					this.setState(df && this._focusIndicator == null?"selecting":"toggle");
+					displayFocus = df;
 				}
 			}
 			else
@@ -244,13 +261,13 @@ package scaleform.clik.controls
 			return this._group;
 		}
 		
-		public function set group(param1:scaleform.clik.controls.ButtonGroup) : void
+		public function set group(value:scaleform.clik.controls.ButtonGroup) : void
 		{
 			if(this._group != null)
 			{
 				this._group.removeButton(this);
 			}
-			this._group = param1;
+			this._group = value;
 			if(this._group != null)
 			{
 				this._group.addButton(this);
@@ -262,17 +279,17 @@ package scaleform.clik.controls
 			return this._groupName;
 		}
 		
-		public function set groupName(param1:String) : void
+		public function set groupName(value:String) : void
 		{
-			if(_inspector && param1 == "")
+			if(_inspector && value == "")
 			{
 				return;
 			}
-			if(this._groupName == param1)
+			if(this._groupName == value)
 			{
 				return;
 			}
-			if(param1 != null)
+			if(value != null)
 			{
 				addEventListener(Event.ADDED,this.addToAutoGroup,false,0,true);
 				addEventListener(Event.REMOVED,this.addToAutoGroup,false,0,true);
@@ -282,37 +299,39 @@ package scaleform.clik.controls
 				removeEventListener(Event.ADDED,this.addToAutoGroup,false);
 				removeEventListener(Event.REMOVED,this.addToAutoGroup,false);
 			}
-			this._groupName = param1;
+			this._groupName = value;
 			this.addToAutoGroup(null);
 		}
 		
+		[Inspectable(defaultValue="")]
 		public function get label() : String
 		{
 			return this._label;
 		}
 		
-		public function set label(param1:String) : void
+		public function set label(value:String) : void
 		{
-			if(this._label == param1)
+			if(this._label == value)
 			{
 				return;
 			}
-			this._label = param1;
+			this._label = value;
 			invalidateData();
 		}
 		
+		[Inspectable(defaultValue="none",enumeration="none,left,right,center")]
 		public function get autoSize() : String
 		{
 			return this._autoSize;
 		}
 		
-		public function set autoSize(param1:String) : void
+		public function set autoSize(value:String) : void
 		{
-			if(param1 == this._autoSize)
+			if(value == this._autoSize)
 			{
 				return;
 			}
-			this._autoSize = param1;
+			this._autoSize = value;
 			invalidateData();
 		}
 		
@@ -321,35 +340,35 @@ package scaleform.clik.controls
 			return this._focusIndicator;
 		}
 		
-		public function set focusIndicator(param1:MovieClip) : void
+		public function set focusIndicator(value:MovieClip) : void
 		{
 			this._focusIndicatorLabelHash = null;
-			this._focusIndicator = param1;
+			this._focusIndicator = value;
 			this._focusIndicatorLabelHash = UIComponent.generateLabelHash(this._focusIndicator);
 		}
 		
-		override public function handleInput(param1:InputEvent) : void
+		override public function handleInput(event:InputEvent) : void
 		{
-			if(param1.isDefaultPrevented())
+			if(event.isDefaultPrevented())
 			{
 				return;
 			}
-			var _loc2_:InputDetails = param1.details;
-			var _loc3_:uint = _loc2_.controllerIndex;
-			switch(_loc2_.navEquivalent)
+			var details:InputDetails = event.details;
+			var index:uint = details.controllerIndex;
+			switch(details.navEquivalent)
 			{
 				case NavigationCode.ENTER:
-					if(_loc2_.value == InputValue.KEY_DOWN)
+					if(details.value == InputValue.KEY_DOWN)
 					{
-						this.handlePress(_loc3_);
-						param1.handled = true;
+						this.handlePress(index);
+						event.handled = true;
 					}
-					else if(_loc2_.value == InputValue.KEY_UP)
+					else if(details.value == InputValue.KEY_UP)
 					{
 						if(this._pressedByKeyboard)
 						{
-							this.handleRelease(_loc3_);
-							param1.handled = true;
+							this.handleRelease(index);
+							event.handled = true;
 						}
 					}
 			}
@@ -421,72 +440,72 @@ package scaleform.clik.controls
 			}
 		}
 		
-		protected function addToAutoGroup(param1:Event) : void
+		protected function addToAutoGroup(event:Event) : void
 		{
 			if(parent == null)
 			{
 				this.group = null;
 				return;
 			}
-			var _loc2_:scaleform.clik.controls.ButtonGroup = scaleform.clik.controls.ButtonGroup.getGroup(this._groupName,parent);
-			if(_loc2_ == this.group)
+			var g:scaleform.clik.controls.ButtonGroup = ButtonGroup.getGroup(this._groupName,parent);
+			if(g == this.group)
 			{
 				return;
 			}
-			this.group = _loc2_;
+			this.group = g;
 		}
 		
 		protected function checkOwnerFocused() : Boolean
 		{
-			var _loc2_:Object = null;
-			var _loc1_:* = false;
+			var ownerFocusTarget:Object = null;
+			var ownerFocused:Boolean = false;
 			if(this.owner != null)
 			{
-				_loc1_ = this._owner.focused != 0;
-				if(_loc1_ == 0)
+				ownerFocused = this._owner.focused != 0;
+				if(ownerFocused == 0)
 				{
-					_loc2_ = this._owner.focusTarget;
-					if(_loc2_ != null)
+					ownerFocusTarget = this._owner.focusTarget;
+					if(ownerFocusTarget != null)
 					{
-						_loc1_ = _loc2_ != 0;
+						ownerFocused = ownerFocusTarget != 0;
 					}
 				}
 			}
-			return _loc1_;
+			return ownerFocused;
 		}
 		
 		protected function calculateWidth() : Number
 		{
-			var _loc2_:ConstrainedElement = null;
-			var _loc1_:Number = actualWidth;
+			var element:ConstrainedElement = null;
+			var w:Number = actualWidth;
 			if(!this.constraintsDisabled)
 			{
-				_loc2_ = constraints.getElement("textField");
-				_loc1_ = Math.ceil(this.textField.textWidth + _loc2_.left + _loc2_.right + 5);
+				element = constraints.getElement("textField");
+				w = Math.ceil(this.textField.textWidth + element.left + element.right + 5);
 			}
-			return _loc1_;
+			return w;
 		}
 		
 		protected function alignForAutoSize() : void
 		{
-			var _loc1_:Number = NaN;
-			var _loc3_:Number = NaN;
-			var _loc4_:Number = NaN;
+			var oldWidth:Number = NaN;
+			var oldRight:Number = NaN;
+			var oldCenter:Number = NaN;
 			if(!initialized || this._autoSize == TextFieldAutoSize.NONE || this.textField == null)
 			{
 				return;
 			}
-			_loc1_ = _width;
-			var _loc2_:Number = _width = this.calculateWidth();
+			oldWidth = _width;
+			var newWidth:Number = _width = this.calculateWidth();
 			switch(this._autoSize)
 			{
 				case TextFieldAutoSize.RIGHT:
-					_loc3_ = x + _loc1_;
-					x = _loc3_ - _loc2_;
+					oldRight = x + oldWidth;
+					x = oldRight - newWidth;
 					break;
 				case TextFieldAutoSize.CENTER:
-					_loc4_ = x + _loc1_ * 0.5;
-					x = _loc4_ - _loc2_ * 0.5;
+					oldCenter = x + oldWidth * 0.5;
+					x = oldCenter - newWidth * 0.5;
 			}
 		}
 		
@@ -500,7 +519,7 @@ package scaleform.clik.controls
 		
 		override protected function changeFocus() : void
 		{
-			var _loc1_:String = null;
+			var focusFrame:String = null;
 			if(!this.enabled)
 			{
 				return;
@@ -521,8 +540,8 @@ package scaleform.clik.controls
 				}
 				else
 				{
-					_loc1_ = "state" + _focused;
-					if(this._focusIndicatorLabelHash[_loc1_])
+					focusFrame = "state" + _focused;
+					if(this._focusIndicatorLabelHash[focusFrame])
 					{
 						this._newFocusIndicatorFrame = "state" + _focused;
 					}
@@ -540,18 +559,18 @@ package scaleform.clik.controls
 			}
 		}
 		
-		protected function handleMouseRollOver(param1:MouseEvent) : void
+		protected function handleMouseRollOver(event:MouseEvent) : void
 		{
-			var _loc2_:MouseEventEx = param1 as MouseEventEx;
-			var _loc3_:uint = _loc2_ == null?uint(0):uint(_loc2_.mouseIdx);
-			if(param1.buttonDown)
+			var sfEvent:MouseEventEx = event as MouseEventEx;
+			var mouseIdx:uint = sfEvent == null?uint(0):uint(sfEvent.mouseIdx);
+			if(event.buttonDown)
 			{
 				dispatchEvent(new ButtonEvent(ButtonEvent.DRAG_OVER));
 				if(!this.enabled)
 				{
 					return;
 				}
-				if(this.lockDragStateChange && Boolean(this._mouseDown << _loc3_ & 1))
+				if(this.lockDragStateChange && Boolean(this._mouseDown << mouseIdx & 1))
 				{
 					return;
 				}
@@ -584,14 +603,14 @@ package scaleform.clik.controls
 			}
 		}
 		
-		protected function handleMouseRollOut(param1:MouseEvent) : void
+		protected function handleMouseRollOut(event:MouseEvent) : void
 		{
-			var _loc2_:MouseEventEx = param1 as MouseEventEx;
-			var _loc3_:uint = _loc2_ == null?uint(0):uint(_loc2_.mouseIdx);
-			if(param1.buttonDown)
+			var sfEvent:MouseEventEx = event as MouseEventEx;
+			var index:uint = sfEvent == null?uint(0):uint(sfEvent.mouseIdx);
+			if(event.buttonDown)
 			{
 				dispatchEvent(new ButtonEvent(ButtonEvent.DRAG_OUT));
-				if(Boolean(this._mouseDown & 1 << _loc3_))
+				if(Boolean(this._mouseDown & 1 << index))
 				{
 					if(stage != null)
 					{
@@ -631,48 +650,48 @@ package scaleform.clik.controls
 			}
 		}
 		
-		protected function handleMousePress(param1:MouseEvent) : void
+		protected function handleMousePress(event:MouseEvent) : void
 		{
-			var _loc5_:ButtonEvent = null;
-			var _loc2_:MouseEventEx = param1 as MouseEventEx;
-			var _loc3_:uint = _loc2_ == null?uint(0):uint(_loc2_.mouseIdx);
-			var _loc4_:uint = _loc2_ == null?uint(0):uint(_loc2_.buttonIdx);
-			if(_loc4_ != 0)
+			var sfButtonEvent:ButtonEvent = null;
+			var sfEvent:MouseEventEx = event as MouseEventEx;
+			var mouseIdx:uint = sfEvent == null?uint(0):uint(sfEvent.mouseIdx);
+			var btnIdx:uint = sfEvent == null?uint(0):uint(sfEvent.buttonIdx);
+			if(btnIdx != 0)
 			{
 				return;
 			}
-			this._mouseDown = this._mouseDown | 1 << _loc3_;
+			this._mouseDown = this._mouseDown | 1 << mouseIdx;
 			if(this.enabled)
 			{
 				this.setState("down");
 				if(this.autoRepeat && this._repeatTimer == null)
 				{
-					this._autoRepeatEvent = new ButtonEvent(ButtonEvent.CLICK,true,false,_loc3_,_loc4_,false,true);
+					this._autoRepeatEvent = new ButtonEvent(ButtonEvent.CLICK,true,false,mouseIdx,btnIdx,false,true);
 					this._repeatTimer = new Timer(this.repeatDelay,1);
 					this._repeatTimer.addEventListener(TimerEvent.TIMER_COMPLETE,this.beginRepeat,false,0,true);
 					this._repeatTimer.start();
 				}
-				_loc5_ = new ButtonEvent(ButtonEvent.PRESS,true,false,_loc3_,_loc4_,false,false);
-				dispatchEvent(_loc5_);
+				sfButtonEvent = new ButtonEvent(ButtonEvent.PRESS,true,false,mouseIdx,btnIdx,false,false);
+				dispatchEvent(sfButtonEvent);
 			}
 		}
 		
-		protected function handleMouseRelease(param1:MouseEvent) : void
+		protected function handleMouseRelease(event:MouseEvent) : void
 		{
-			var _loc5_:ButtonEvent = null;
+			var sfButtonEvent:ButtonEvent = null;
 			this._autoRepeatEvent = null;
 			if(!this.enabled)
 			{
 				return;
 			}
-			var _loc2_:MouseEventEx = param1 as MouseEventEx;
-			var _loc3_:uint = _loc2_ == null?uint(0):uint(_loc2_.mouseIdx);
-			var _loc4_:uint = _loc2_ == null?uint(0):uint(_loc2_.buttonIdx);
-			if(_loc4_ != 0)
+			var sfEvent:MouseEventEx = event as MouseEventEx;
+			var mouseIdx:uint = sfEvent == null?uint(0):uint(sfEvent.mouseIdx);
+			var btnIdx:uint = sfEvent == null?uint(0):uint(sfEvent.buttonIdx);
+			if(btnIdx != 0)
 			{
 				return;
 			}
-			this._mouseDown = this._mouseDown ^ 1 << _loc3_;
+			this._mouseDown = this._mouseDown ^ 1 << mouseIdx;
 			if(this._mouseDown == 0 && this._repeatTimer)
 			{
 				this._repeatTimer.stop();
@@ -682,26 +701,26 @@ package scaleform.clik.controls
 				this._repeatTimer = null;
 			}
 			this.setState("release");
-			this.handleClick(_loc3_);
+			this.handleClick(mouseIdx);
 			if(!this._isRepeating)
 			{
-				_loc5_ = new ButtonEvent(ButtonEvent.CLICK,true,false,_loc3_,_loc4_,false,false);
-				dispatchEvent(_loc5_);
+				sfButtonEvent = new ButtonEvent(ButtonEvent.CLICK,true,false,mouseIdx,btnIdx,false,false);
+				dispatchEvent(sfButtonEvent);
 			}
 			this._isRepeating = false;
 		}
 		
-		protected function handleReleaseOutside(param1:MouseEvent) : void
+		protected function handleReleaseOutside(event:MouseEvent) : void
 		{
 			this._autoRepeatEvent = null;
-			if(contains(param1.target as DisplayObject))
+			if(contains(event.target as DisplayObject))
 			{
 				return;
 			}
-			var _loc2_:MouseEventEx = param1 as MouseEventEx;
-			var _loc3_:uint = _loc2_ == null?uint(0):uint(_loc2_.mouseIdx);
-			var _loc4_:uint = _loc2_ == null?uint(0):uint(_loc2_.buttonIdx);
-			if(_loc4_ != 0)
+			var sfEvent:MouseEventEx = event as MouseEventEx;
+			var mouseIdx:uint = sfEvent == null?uint(0):uint(sfEvent.mouseIdx);
+			var btnIdx:uint = sfEvent == null?uint(0):uint(sfEvent.buttonIdx);
+			if(btnIdx != 0)
 			{
 				return;
 			}
@@ -709,7 +728,7 @@ package scaleform.clik.controls
 			{
 				stage.removeEventListener(MouseEvent.MOUSE_UP,this.handleReleaseOutside,false);
 			}
-			this._mouseDown = this._mouseDown ^ 1 << _loc3_;
+			this._mouseDown = this._mouseDown ^ 1 << mouseIdx;
 			dispatchEvent(new ButtonEvent(ButtonEvent.RELEASE_OUTSIDE));
 			if(!this.enabled)
 			{
@@ -728,7 +747,7 @@ package scaleform.clik.controls
 			}
 		}
 		
-		protected function handlePress(param1:uint = 0) : void
+		protected function handlePress(controllerIndex:uint = 0) : void
 		{
 			if(!this.enabled)
 			{
@@ -738,18 +757,18 @@ package scaleform.clik.controls
 			this.setState(this._focusIndicator == null?"down":"kb_down");
 			if(this.autoRepeat && this._repeatTimer == null)
 			{
-				this._autoRepeatEvent = new ButtonEvent(ButtonEvent.CLICK,true,false,param1,0,true,true);
+				this._autoRepeatEvent = new ButtonEvent(ButtonEvent.CLICK,true,false,controllerIndex,0,true,true);
 				this._repeatTimer = new Timer(this.repeatDelay,1);
 				this._repeatTimer.addEventListener(TimerEvent.TIMER_COMPLETE,this.beginRepeat,false,0,true);
 				this._repeatTimer.start();
 			}
-			var _loc2_:ButtonEvent = new ButtonEvent(ButtonEvent.PRESS,true,false,param1,0,true,false);
-			dispatchEvent(_loc2_);
+			var sfEvent:ButtonEvent = new ButtonEvent(ButtonEvent.PRESS,true,false,controllerIndex,0,true,false);
+			dispatchEvent(sfEvent);
 		}
 		
-		protected function handleRelease(param1:uint = 0) : void
+		protected function handleRelease(controllerIndex:uint = 0) : void
 		{
-			var _loc2_:ButtonEvent = null;
+			var sfEvent:ButtonEvent = null;
 			if(!this.enabled)
 			{
 				return;
@@ -763,17 +782,17 @@ package scaleform.clik.controls
 				this._repeatTimer.removeEventListener(TimerEvent.TIMER,this.handleRepeat);
 				this._repeatTimer = null;
 			}
-			this.handleClick(param1);
+			this.handleClick(controllerIndex);
 			this._pressedByKeyboard = false;
 			if(!this._isRepeating)
 			{
-				_loc2_ = new ButtonEvent(ButtonEvent.CLICK,true,false,param1,0,true,false);
-				dispatchEvent(_loc2_);
+				sfEvent = new ButtonEvent(ButtonEvent.CLICK,true,false,controllerIndex,0,true,false);
+				dispatchEvent(sfEvent);
 			}
 			this._isRepeating = false;
 		}
 		
-		protected function handleClick(param1:uint = 0) : void
+		protected function handleClick(controllerIndex:uint = 0) : void
 		{
 			if(this.toggle && (!this.selected || this.allowDeselect))
 			{
@@ -781,7 +800,7 @@ package scaleform.clik.controls
 			}
 		}
 		
-		protected function beginRepeat(param1:TimerEvent) : void
+		protected function beginRepeat(event:TimerEvent) : void
 		{
 			this._repeatTimer.delay = this.repeatInterval;
 			this._repeatTimer.repeatCount = 0;
@@ -791,7 +810,7 @@ package scaleform.clik.controls
 			this._repeatTimer.start();
 		}
 		
-		protected function handleRepeat(param1:TimerEvent) : void
+		protected function handleRepeat(event:TimerEvent) : void
 		{
 			if(this._mouseDown == 0 && !this._pressedByKeyboard)
 			{
@@ -808,38 +827,34 @@ package scaleform.clik.controls
 			}
 		}
 		
-		protected function setState(param1:String) : void
+		protected function setState(state:String) : void
 		{
-			var _loc6_:String = null;
-			var _loc7_:uint = 0;
-			var _loc8_:uint = 0;
-			var _loc9_:String = null;
-			this._state = param1;
-			var _loc2_:Vector.<String> = this.getStatePrefixes();
-			var _loc3_:Array = this._stateMap[param1];
-			if(_loc3_ == null || _loc3_.length == 0)
+			var prefix:String = null;
+			var sl:uint = 0;
+			var j:uint = 0;
+			var thisLabel:String = null;
+			this._state = state;
+			var prefixes:Vector.<String> = this.getStatePrefixes();
+			var states:Array = this._stateMap[state];
+			if(states == null || states.length == 0)
 			{
 				return;
 			}
-			var _loc4_:uint = _loc2_.length;
-			var _loc5_:uint = 0;
-			while(_loc5_ < _loc4_)
+			var l:uint = prefixes.length;
+			for(var i:uint = 0; i < l; i++)
 			{
-				_loc6_ = _loc2_[_loc5_];
-				_loc7_ = _loc3_.length;
-				_loc8_ = 0;
-				while(_loc8_ < _loc7_)
+				prefix = prefixes[i];
+				sl = states.length;
+				for(j = 0; j < sl; j++)
 				{
-					_loc9_ = _loc6_ + _loc3_[_loc8_];
-					if(_labelHash[_loc9_])
+					thisLabel = prefix + states[j];
+					if(_labelHash[thisLabel])
 					{
-						this._newFrame = _loc9_;
+						this._newFrame = thisLabel;
 						invalidateState();
 						return;
 					}
-					_loc8_++;
 				}
-				_loc5_++;
 			}
 		}
 		
