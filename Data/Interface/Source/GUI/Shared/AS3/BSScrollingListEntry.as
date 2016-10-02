@@ -6,60 +6,73 @@ package Shared.AS3
 	import flash.text.TextFieldAutoSize;
 	import Shared.GlobalFunc;
 	import scaleform.gfx.Extensions;
-	
+
 	public class BSScrollingListEntry extends MovieClip
 	{
-		 
-		
+
+
 		public var border:MovieClip;
-		
+
 		public var textField:TextField;
-		
+
 		protected var _clipIndex:uint;
-		
+
 		protected var _itemIndex:uint;
-		
+
 		protected var _selected:Boolean;
-		
+
 		public var ORIG_BORDER_HEIGHT:Number;
-		
+
+		protected var _HasDynamicHeight:Boolean;
+
 		public function BSScrollingListEntry()
 		{
 			super();
 			Extensions.enabled = true;
 			this.ORIG_BORDER_HEIGHT = this.border != null?Number(this.border.height):Number(0);
+			this._HasDynamicHeight = true;
 		}
-		
+
 		public function get clipIndex() : uint
 		{
 			return this._clipIndex;
 		}
-		
+
 		public function set clipIndex(newIndex:uint) : *
 		{
 			this._clipIndex = newIndex;
 		}
-		
+
 		public function get itemIndex() : uint
 		{
 			return this._itemIndex;
 		}
-		
+
 		public function set itemIndex(newIndex:uint) : *
 		{
 			this._itemIndex = newIndex;
 		}
-		
+
 		public function get selected() : Boolean
 		{
 			return this._selected;
 		}
-		
+
 		public function set selected(flag:Boolean) : *
 		{
 			this._selected = flag;
 		}
-		
+
+		public function get hasDynamicHeight() : Boolean
+		{
+			return this._HasDynamicHeight;
+		}
+
+		public function get defaultHeight() : Number
+		{
+			return this.ORIG_BORDER_HEIGHT;
+		}
+
 		public function SetEntryText(aEntryObject:Object, astrTextOption:String) : *
 		{
 			var vertSpacing:Number = NaN;
@@ -99,5 +112,7 @@ package Shared.AS3
 				}
 			}
 		}
+
+
 	}
 }
