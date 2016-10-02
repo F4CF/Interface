@@ -30,66 +30,64 @@ package Components
 			}
 		}
 		
-		public static function ShouldShowDifference(param1:Object) : Boolean
+		public static function ShouldShowDifference(aInfoObj:Object) : Boolean
 		{
-			var _loc2_:uint = param1.precision != undefined?uint(param1.precision):uint(0);
-			var _loc3_:Number = 1;
-			var _loc4_:uint = 0;
-			while(_loc4_ < _loc2_)
+			var precision:uint = aInfoObj.precision != undefined?uint(aInfoObj.precision):uint(0);
+			var smallestStep:Number = 1;
+			for(var radix:uint = 0; radix < precision; radix++)
 			{
-				_loc3_ = _loc3_ / 10;
-				_loc4_++;
+				smallestStep = smallestStep / 10;
 			}
-			return Math.abs(param1.difference) >= _loc3_;
+			return Math.abs(aInfoObj.difference) >= smallestStep;
 		}
 		
-		public function PopulateEntry(param1:Object) : *
+		public function PopulateEntry(aInfoObj:Object) : *
 		{
-			var _loc2_:* = null;
-			var _loc3_:Number = NaN;
-			var _loc4_:uint = 0;
-			var _loc5_:* = undefined;
+			var valueText:* = null;
+			var val:Number = NaN;
+			var precision:uint = 0;
+			var indexOfDecimal:* = undefined;
 			if(this.Label_tf != null)
 			{
-				GlobalFunc.SetText(this.Label_tf,param1.text,false);
+				GlobalFunc.SetText(this.Label_tf,aInfoObj.text,false);
 			}
 			if(this.Value_tf != null)
 			{
-				if(param1.value is String)
+				if(aInfoObj.value is String)
 				{
-					_loc2_ = param1.value;
+					valueText = aInfoObj.value;
 				}
 				else
 				{
-					_loc3_ = param1.value;
-					if(param1.scaleWithDuration)
+					val = aInfoObj.value;
+					if(aInfoObj.scaleWithDuration)
 					{
-						_loc3_ = _loc3_ * param1.duration;
+						val = val * aInfoObj.duration;
 					}
-					_loc2_ = _loc3_.toString();
-					_loc4_ = param1.precision != undefined?uint(param1.precision):uint(0);
-					_loc5_ = _loc2_.indexOf(".");
-					if(_loc5_ > -1)
+					valueText = val.toString();
+					precision = aInfoObj.precision != undefined?uint(aInfoObj.precision):uint(0);
+					indexOfDecimal = valueText.indexOf(".");
+					if(indexOfDecimal > -1)
 					{
-						if(_loc4_)
+						if(precision)
 						{
-							_loc2_ = _loc2_.substring(0,Math.min(_loc5_ + _loc4_ + 1,_loc2_.length));
+							valueText = valueText.substring(0,Math.min(indexOfDecimal + precision + 1,valueText.length));
 						}
 						else
 						{
-							_loc2_ = _loc2_.substring(0,_loc5_);
+							valueText = valueText.substring(0,indexOfDecimal);
 						}
 					}
-					if(param1.showAsPercent)
+					if(aInfoObj.showAsPercent)
 					{
-						_loc2_ = _loc2_ + "%";
+						valueText = valueText + "%";
 					}
 				}
-				GlobalFunc.SetText(this.Value_tf,_loc2_,false);
+				GlobalFunc.SetText(this.Value_tf,valueText,false);
 			}
-			if(this.Comparison_mc != null && ShouldShowDifference(param1))
+			if(this.Comparison_mc != null && ShouldShowDifference(aInfoObj))
 			{
-				switch(param1.diffRating)
+				switch(aInfoObj.diffRating)
 				{
 					case -3:
 						this.Comparison_mc.gotoAndStop("Worst");

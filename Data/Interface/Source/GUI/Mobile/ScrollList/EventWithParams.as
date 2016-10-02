@@ -9,10 +9,10 @@ package Mobile.ScrollList
 		
 		public var params:Object;
 		
-		public function EventWithParams(param1:String, param2:Object = null, param3:Boolean = false, param4:Boolean = false)
+		public function EventWithParams(_type:String, _params:Object = null, _bubbles:Boolean = false, _cancelable:Boolean = false)
 		{
-			super(param1,param3,param4);
-			this.params = param2;
+			super(_type,_bubbles,_cancelable);
+			this.params = _params;
 		}
 		
 		override public function clone() : Event

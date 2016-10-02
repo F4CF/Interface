@@ -19,22 +19,22 @@ package Components
 			this.currY = 0;
 		}
 		
-		override public function PopulateEntry(param1:Object) : *
+		override public function PopulateEntry(aInfoObj:Object) : *
 		{
-			var _loc2_:Object = null;
-			var _loc3_:ItemCard_ComponentEntry_Entry = null;
+			var component:Object = null;
+			var newEntry:ItemCard_ComponentEntry_Entry = null;
 			while(this.EntryHolder_mc.numChildren > 0)
 			{
 				this.EntryHolder_mc.removeChildAt(0);
 			}
 			this.currY = 0;
-			for each(_loc2_ in param1.components)
+			for each(component in aInfoObj.components)
 			{
-				_loc3_ = new ItemCard_ComponentEntry_Entry();
-				_loc3_.SetEntryText(_loc2_,BSScrollingList.TEXT_OPTION_SHRINK_TO_FIT);
-				this.EntryHolder_mc.addChild(_loc3_);
-				_loc3_.y = this.currY;
-				this.currY = this.currY + (_loc3_.height + this.ENTRY_SPACING);
+				newEntry = new ItemCard_ComponentEntry_Entry();
+				newEntry.SetEntryText(component,BSScrollingList.TEXT_OPTION_SHRINK_TO_FIT);
+				this.EntryHolder_mc.addChild(newEntry);
+				newEntry.y = this.currY;
+				this.currY = this.currY + (newEntry.height + this.ENTRY_SPACING);
 			}
 		}
 	}

@@ -18,20 +18,20 @@ package Mobile.ScrollList
 			super();
 		}
 		
-		public static function getLibraryItem(param1:MovieClip, param2:String) : DisplayObject
+		public static function getLibraryItem(mc:MovieClip, className:String) : DisplayObject
 		{
-			var _loc3_:Class = getLibraryClass(param1,param2);
-			if(getQualifiedSuperclassName(_loc3_) == BITMAP_DATA_CLASS_NAME)
+			var classRef:Class = getLibraryClass(mc,className);
+			if(getQualifiedSuperclassName(classRef) == BITMAP_DATA_CLASS_NAME)
 			{
-				return new Bitmap(new _loc3_(),"auto",true);
+				return new Bitmap(new classRef(),"auto",true);
 			}
-			return new _loc3_();
+			return new classRef();
 		}
 		
-		public static function getLibraryClass(param1:MovieClip, param2:String) : Class
+		public static function getLibraryClass(mc:MovieClip, className:String) : Class
 		{
-			var _loc3_:Class = param1.loaderInfo.applicationDomain.getDefinition(param2) as Class;
-			return _loc3_;
+			var classRef:Class = mc.loaderInfo.applicationDomain.getDefinition(className) as Class;
+			return classRef;
 		}
 	}
 }

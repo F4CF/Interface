@@ -23,14 +23,11 @@ package Shared.AS3
 		
 		public var ORIG_BORDER_HEIGHT:Number;
 		
-		protected var _HasDynamicHeight:Boolean;
-		
 		public function BSScrollingListEntry()
 		{
 			super();
 			Extensions.enabled = true;
 			this.ORIG_BORDER_HEIGHT = this.border != null?Number(this.border.height):Number(0);
-			this._HasDynamicHeight = true;
 		}
 		
 		public function get clipIndex() : uint
@@ -38,9 +35,9 @@ package Shared.AS3
 			return this._clipIndex;
 		}
 		
-		public function set clipIndex(param1:uint) : *
+		public function set clipIndex(newIndex:uint) : *
 		{
-			this._clipIndex = param1;
+			this._clipIndex = newIndex;
 		}
 		
 		public function get itemIndex() : uint
@@ -48,9 +45,9 @@ package Shared.AS3
 			return this._itemIndex;
 		}
 		
-		public function set itemIndex(param1:uint) : *
+		public function set itemIndex(newIndex:uint) : *
 		{
-			this._itemIndex = param1;
+			this._itemIndex = newIndex;
 		}
 		
 		public function get selected() : Boolean
@@ -58,39 +55,29 @@ package Shared.AS3
 			return this._selected;
 		}
 		
-		public function set selected(param1:Boolean) : *
+		public function set selected(flag:Boolean) : *
 		{
-			this._selected = param1;
+			this._selected = flag;
 		}
 		
-		public function get hasDynamicHeight() : Boolean
+		public function SetEntryText(aEntryObject:Object, astrTextOption:String) : *
 		{
-			return this._HasDynamicHeight;
-		}
-		
-		public function get defaultHeight() : Number
-		{
-			return this.ORIG_BORDER_HEIGHT;
-		}
-		
-		public function SetEntryText(param1:Object, param2:String) : *
-		{
-			var _loc3_:Number = NaN;
-			if(this.textField != null && param1 != null && param1.hasOwnProperty("text"))
+			var vertSpacing:Number = NaN;
+			if(this.textField != null && aEntryObject != null && aEntryObject.hasOwnProperty("text"))
 			{
-				if(param2 == BSScrollingList.TEXT_OPTION_SHRINK_TO_FIT)
+				if(astrTextOption == BSScrollingList.TEXT_OPTION_SHRINK_TO_FIT)
 				{
 					TextFieldEx.setTextAutoSize(this.textField,"shrink");
 				}
-				else if(param2 == BSScrollingList.TEXT_OPTION_MULTILINE)
+				else if(astrTextOption == BSScrollingList.TEXT_OPTION_MULTILINE)
 				{
 					this.textField.autoSize = TextFieldAutoSize.LEFT;
 					this.textField.multiline = true;
 					this.textField.wordWrap = true;
 				}
-				if(param1.text != undefined)
+				if(aEntryObject.text != undefined)
 				{
-					GlobalFunc.SetText(this.textField,param1.text,true);
+					GlobalFunc.SetText(this.textField,aEntryObject.text,true);
 				}
 				else
 				{
@@ -101,10 +88,10 @@ package Shared.AS3
 			if(this.border != null)
 			{
 				this.border.alpha = !!this.selected?Number(GlobalFunc.SELECTED_RECT_ALPHA):Number(0);
-				if(this.textField != null && param2 == BSScrollingList.TEXT_OPTION_MULTILINE && this.textField.numLines > 1)
+				if(this.textField != null && astrTextOption == BSScrollingList.TEXT_OPTION_MULTILINE && this.textField.numLines > 1)
 				{
-					_loc3_ = this.textField.y - this.border.y;
-					this.border.height = this.textField.textHeight + _loc3_ * 2 + 5;
+					vertSpacing = this.textField.y - this.border.y;
+					this.border.height = this.textField.textHeight + vertSpacing * 2 + 5;
 				}
 				else
 				{

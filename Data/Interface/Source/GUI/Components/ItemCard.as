@@ -41,14 +41,14 @@ package Components
 			return this._InfoObj;
 		}
 		
-		public function set InfoObj(param1:Array) : *
+		public function set InfoObj(aNewArray:Array) : *
 		{
-			this._InfoObj = param1;
+			this._InfoObj = aNewArray;
 		}
 		
-		public function set showItemDesc(param1:Boolean) : *
+		public function set showItemDesc(aVal:Boolean) : *
 		{
-			this._showItemDesc = param1;
+			this._showItemDesc = aVal;
 		}
 		
 		public function onDataChange() : *
@@ -58,125 +58,112 @@ package Components
 		
 		override public function redrawUIComponent() : void
 		{
-			var _loc1_:ItemCard_Entry = null;
-			var _loc4_:Object = null;
-			var _loc6_:uint = 0;
+			var newEntry:ItemCard_Entry = null;
+			var descriptionEntry:Object = null;
+			var entryType:uint = 0;
 			super.redrawUIComponent();
 			while(this.numChildren > 0)
 			{
 				this.removeChildAt(0);
 			}
 			this.currY = 0;
-			var _loc2_:Boolean = false;
-			var _loc3_:Boolean = false;
-			var _loc5_:int = this._InfoObj.length - 1;
-			while(_loc5_ >= 0)
+			var hasDMGEntry:Boolean = false;
+			var hasDREntry:Boolean = false;
+			for(var dataIdx:int = this._InfoObj.length - 1; dataIdx >= 0; dataIdx--)
 			{
-				if(this._InfoObj[_loc5_].text == ItemCard_MultiEntry.DMG_WEAP_ID)
+				if(this._InfoObj[dataIdx].text == ItemCard_MultiEntry.DMG_WEAP_ID)
 				{
-					_loc2_ = _loc2_ || ItemCard_MultiEntry.IsEntryValid(this._InfoObj[_loc5_]);
+					hasDMGEntry = hasDMGEntry || ItemCard_MultiEntry.IsEntryValid(this._InfoObj[dataIdx]);
 				}
-				else if(this._InfoObj[_loc5_].text == ItemCard_MultiEntry.DMG_ARMO_ID)
+				else if(this._InfoObj[dataIdx].text == ItemCard_MultiEntry.DMG_ARMO_ID)
 				{
-					_loc3_ = _loc3_ || ItemCard_MultiEntry.IsEntryValid(this._InfoObj[_loc5_]);
+					hasDREntry = hasDREntry || ItemCard_MultiEntry.IsEntryValid(this._InfoObj[dataIdx]);
 				}
-				else if(this._InfoObj[_loc5_].showAsDescription == true)
+				else if(this._InfoObj[dataIdx].showAsDescription == true)
 				{
-					_loc4_ = !!this._showItemDesc?this._InfoObj[_loc5_]:null;
+					descriptionEntry = !!this._showItemDesc?this._InfoObj[dataIdx]:null;
 				}
 				else
 				{
-					_loc6_ = this.GetEntryType(this._InfoObj[_loc5_]);
-					_loc1_ = this.CreateEntry(_loc6_);
-					if(_loc1_ != null)
+					entryType = this.GetEntryType(this._InfoObj[dataIdx]);
+					newEntry = this.CreateEntry(entryType);
+					if(newEntry != null)
 					{
-						_loc1_.PopulateEntry(this._InfoObj[_loc5_]);
-						addChild(_loc1_);
-						_loc1_.y = this.currY - _loc1_.height;
-						this.currY = this.currY - (_loc1_.height + this.ENTRY_SPACING);
+						newEntry.PopulateEntry(this._InfoObj[dataIdx]);
+						addChild(newEntry);
+						newEntry.y = this.currY - newEntry.height;
+						this.currY = this.currY - (newEntry.height + this.ENTRY_SPACING);
 					}
 				}
-				_loc5_--;
 			}
-			if(_loc2_)
+			if(hasDMGEntry || hasDREntry)
 			{
-				_loc1_ = this.CreateEntry(this.ET_DMG_WEAP);
-				if(_loc1_ != null)
+				newEntry = this.CreateEntry(!!hasDMGEntry?uint(this.ET_DMG_WEAP):uint(this.ET_DMG_ARMO));
+				if(newEntry != null)
 				{
-					(_loc1_ as ItemCard_MultiEntry).PopulateMultiEntry(this._InfoObj,ItemCard_MultiEntry.DMG_WEAP_ID);
-					addChild(_loc1_);
-					_loc1_.y = this.currY - _loc1_.height;
-					this.currY = this.currY - (_loc1_.height + this.ENTRY_SPACING);
+					(newEntry as ItemCard_MultiEntry).PopulateMultiEntry(this._InfoObj,!!hasDMGEntry?ItemCard_MultiEntry.DMG_WEAP_ID:ItemCard_MultiEntry.DMG_ARMO_ID);
+					addChild(newEntry);
+					newEntry.y = this.currY - newEntry.height;
+					this.currY = this.currY - (newEntry.height + this.ENTRY_SPACING);
 				}
 			}
-			if(_loc3_)
+			if(descriptionEntry != null)
 			{
-				_loc1_ = this.CreateEntry(this.ET_DMG_ARMO);
-				if(_loc1_ != null)
+				newEntry = this.CreateEntry(this.ET_ITEM_DESCRIPTION);
+				if(newEntry != null)
 				{
-					(_loc1_ as ItemCard_MultiEntry).PopulateMultiEntry(this._InfoObj,ItemCard_MultiEntry.DMG_ARMO_ID);
-					addChild(_loc1_);
-					_loc1_.y = this.currY - _loc1_.height;
-					this.currY = this.currY - (_loc1_.height + this.ENTRY_SPACING);
+					newEntry.PopulateEntry(descriptionEntry);
+					addChild(newEntry);
+					newEntry.y = this.currY - newEntry.height;
+					this.currY = this.currY - (newEntry.height + this.ENTRY_SPACING);
 				}
-			}
-			if(_loc4_ != null)
-			{
-				_loc1_ = this.CreateEntry(this.ET_ITEM_DESCRIPTION);
-				if(_loc1_ != null)
-				{
-					_loc1_.PopulateEntry(_loc4_);
-					addChild(_loc1_);
-					_loc1_.y = this.currY - _loc1_.height;
-					this.currY = this.currY - (_loc1_.height + this.ENTRY_SPACING);
-				}
-				_loc4_ = null;
+				descriptionEntry = null;
 			}
 		}
 		
-		private function GetEntryType(param1:Object) : uint
+		private function GetEntryType(aEntryObj:Object) : uint
 		{
-			var _loc2_:uint = this.ET_STANDARD;
-			if(param1.damageType == 10)
+			var returnVal:uint = this.ET_STANDARD;
+			if(aEntryObj.damageType == 10)
 			{
-				_loc2_ = this.ET_AMMO;
+				returnVal = this.ET_AMMO;
 			}
-			else if(param1.duration != null && param1.duration > 0)
+			else if(aEntryObj.duration != null && aEntryObj.duration > 0)
 			{
-				_loc2_ = this.ET_TIMED_EFFECT;
+				returnVal = this.ET_TIMED_EFFECT;
 			}
-			else if(param1.components is Array)
+			else if(aEntryObj.components is Array)
 			{
-				_loc2_ = this.ET_COMPONENTS_LIST;
+				returnVal = this.ET_COMPONENTS_LIST;
 			}
-			return _loc2_;
+			return returnVal;
 		}
 		
-		private function CreateEntry(param1:uint) : ItemCard_Entry
+		private function CreateEntry(aEntryType:uint) : ItemCard_Entry
 		{
-			var _loc2_:ItemCard_Entry = null;
-			switch(param1)
+			var returnVal:ItemCard_Entry = null;
+			switch(aEntryType)
 			{
 				case this.ET_STANDARD:
-					_loc2_ = new ItemCard_StandardEntry();
+					returnVal = new ItemCard_StandardEntry();
 					break;
 				case this.ET_AMMO:
-					_loc2_ = new ItemCard_AmmoEntry();
+					returnVal = new ItemCard_AmmoEntry();
 					break;
 				case this.ET_DMG_WEAP:
 				case this.ET_DMG_ARMO:
-					_loc2_ = new ItemCard_MultiEntry();
+					returnVal = new ItemCard_MultiEntry();
 					break;
 				case this.ET_TIMED_EFFECT:
-					_loc2_ = new ItemCard_TimedEntry();
+					returnVal = new ItemCard_TimedEntry();
 					break;
 				case this.ET_COMPONENTS_LIST:
-					_loc2_ = new ItemCard_ComponentsEntry();
+					returnVal = new ItemCard_ComponentsEntry();
 					break;
 				case this.ET_ITEM_DESCRIPTION:
-					_loc2_ = new ItemCard_DescriptionEntry();
+					returnVal = new ItemCard_DescriptionEntry();
 			}
-			return _loc2_;
+			return returnVal;
 		}
 	}
 }

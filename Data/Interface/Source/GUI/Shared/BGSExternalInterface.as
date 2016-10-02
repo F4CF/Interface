@@ -9,26 +9,26 @@ package Shared
 			super();
 		}
 		
-		public static function call(param1:Object, ... rest) : void
+		public static function call(BGSCodeObj:Object, ... args) : void
 		{
-			var _loc3_:String = null;
-			var _loc4_:Function = null;
-			if(param1 != null)
+			var funcName:String = null;
+			var func:Function = null;
+			if(BGSCodeObj != null)
 			{
-				_loc3_ = rest.shift();
-				_loc4_ = param1[_loc3_];
-				if(_loc4_ != null)
+				funcName = args.shift();
+				func = BGSCodeObj[funcName];
+				if(func != null)
 				{
-					_loc4_.apply(null,rest);
+					func.apply(null,args);
 				}
 				else
 				{
-					trace("BGSExternalInterface::call -- Can\'t call function \'" + _loc3_ + "\' on BGSCodeObj. This function doesn\'t exist!");
+					trace("BGSExternalInterface::call -- Can\'t call function \'" + funcName + "\' on BGSCodeObj. This function doesn\'t exist!");
 				}
 			}
 			else
 			{
-				trace("BGSExternalInterface::call -- Can\'t call function \'" + _loc3_ + "\' on BGSCodeObj. BGSCodeObj is null!");
+				trace("BGSExternalInterface::call -- Can\'t call function \'" + funcName + "\' on BGSCodeObj. BGSCodeObj is null!");
 			}
 		}
 	}

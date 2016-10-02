@@ -57,104 +57,104 @@ package Shared.AS3.COMPANIONAPP
 			super();
 		}
 		
-		public static function GetMobileScrollListProperties(param1:String) : MobileScrollListProperties
+		public static function GetMobileScrollListProperties(className:String) : MobileScrollListProperties
 		{
-			var _loc2_:MobileScrollListProperties = new MobileScrollListProperties();
-			switch(param1)
+			var props:MobileScrollListProperties = new MobileScrollListProperties();
+			switch(className)
 			{
 				case STATS_SPECIAL_ENTRY_LINKAGE_ID:
-					_loc2_.linkageId = STATS_SPECIAL_RENDERER_LINKAGE_ID;
-					_loc2_.maskDimension = 450;
-					_loc2_.scrollDirection = MobileScrollList.VERTICAL;
-					_loc2_.spaceBetweenButtons = 0;
-					_loc2_.clickable = true;
-					_loc2_.reversed = false;
+					props.linkageId = STATS_SPECIAL_RENDERER_LINKAGE_ID;
+					props.maskDimension = 450;
+					props.scrollDirection = MobileScrollList.VERTICAL;
+					props.spaceBetweenButtons = 0;
+					props.clickable = true;
+					props.reversed = false;
 					break;
 				case STATS_PERKS_ENTRY_LINKAGE_ID:
-					_loc2_.linkageId = STATS_PERKS_RENDERER_LINKAGE_ID;
-					_loc2_.maskDimension = 400;
-					_loc2_.scrollDirection = MobileScrollList.VERTICAL;
-					_loc2_.spaceBetweenButtons = 0;
-					_loc2_.clickable = true;
-					_loc2_.reversed = false;
+					props.linkageId = STATS_PERKS_RENDERER_LINKAGE_ID;
+					props.maskDimension = 400;
+					props.scrollDirection = MobileScrollList.VERTICAL;
+					props.spaceBetweenButtons = 0;
+					props.clickable = true;
+					props.reversed = false;
 					break;
 				case INVENTORY_COMPONENT_ENTRY_LINKAGE_ID:
 				case INVENTORY_ENTRY_LINKAGE_ID:
-					_loc2_.linkageId = INVENTORY_RENDERER_LINKAGE_ID;
-					_loc2_.maskDimension = 405;
-					_loc2_.scrollDirection = MobileScrollList.VERTICAL;
-					_loc2_.spaceBetweenButtons = 0;
-					_loc2_.clickable = true;
-					_loc2_.reversed = false;
+					props.linkageId = INVENTORY_RENDERER_LINKAGE_ID;
+					props.maskDimension = 405;
+					props.scrollDirection = MobileScrollList.VERTICAL;
+					props.spaceBetweenButtons = 0;
+					props.clickable = true;
+					props.reversed = false;
 					break;
 				case INVENTORY_COMPONENT_OWNERS_ENTRY_LINKAGE_ID:
-					_loc2_.linkageId = INVENTORY_COMPONENT_OWNERS_RENDERER_LINKAGE_ID;
-					_loc2_.maskDimension = 400;
-					_loc2_.scrollDirection = MobileScrollList.VERTICAL;
-					_loc2_.spaceBetweenButtons = 0;
-					_loc2_.clickable = true;
-					_loc2_.reversed = false;
+					props.linkageId = INVENTORY_COMPONENT_OWNERS_RENDERER_LINKAGE_ID;
+					props.maskDimension = 400;
+					props.scrollDirection = MobileScrollList.VERTICAL;
+					props.spaceBetweenButtons = 0;
+					props.clickable = true;
+					props.reversed = false;
 					break;
 				case DATA_STATS_CATEGORIES_ENTRY_LINKAGE_ID:
-					_loc2_.linkageId = DATA_STATS_CATEGORIES_RENDERER_LINKAGE_ID;
-					_loc2_.maskDimension = 400;
-					_loc2_.scrollDirection = MobileScrollList.VERTICAL;
-					_loc2_.spaceBetweenButtons = 2.25;
-					_loc2_.clickable = true;
-					_loc2_.reversed = false;
+					props.linkageId = DATA_STATS_CATEGORIES_RENDERER_LINKAGE_ID;
+					props.maskDimension = 400;
+					props.scrollDirection = MobileScrollList.VERTICAL;
+					props.spaceBetweenButtons = 2.25;
+					props.clickable = true;
+					props.reversed = false;
 					break;
 				case DATA_STATS_VALUES_ENTRY_LINKAGE_ID:
-					_loc2_.linkageId = DATA_STATS_VALUES_RENDERER_LINKAGE_ID;
-					_loc2_.maskDimension = 400;
-					_loc2_.scrollDirection = MobileScrollList.VERTICAL;
-					_loc2_.spaceBetweenButtons = 2.75;
-					_loc2_.clickable = false;
-					_loc2_.reversed = false;
+					props.linkageId = DATA_STATS_VALUES_RENDERER_LINKAGE_ID;
+					props.maskDimension = 400;
+					props.scrollDirection = MobileScrollList.VERTICAL;
+					props.spaceBetweenButtons = 2.75;
+					props.clickable = false;
+					props.reversed = false;
 					break;
 				case DATA_WORKSHOPS_ENTRY_LINKAGE_ID:
-					_loc2_.linkageId = DATA_WORKSHOPS_RENDERER_LINKAGE_ID;
-					_loc2_.maskDimension = 400;
-					_loc2_.scrollDirection = MobileScrollList.VERTICAL;
-					_loc2_.spaceBetweenButtons = 2.75;
-					_loc2_.clickable = true;
-					_loc2_.reversed = false;
+					props.linkageId = DATA_WORKSHOPS_RENDERER_LINKAGE_ID;
+					props.maskDimension = 400;
+					props.scrollDirection = MobileScrollList.VERTICAL;
+					props.spaceBetweenButtons = 2.75;
+					props.clickable = true;
+					props.reversed = false;
 					break;
 				case QUEST_ENTRY_LINKAGE_ID:
-					_loc2_.linkageId = QUEST_RENDERER_LINKAGE_ID;
-					_loc2_.maskDimension = 400;
-					_loc2_.scrollDirection = MobileScrollList.VERTICAL;
-					_loc2_.spaceBetweenButtons = 1.4;
-					_loc2_.clickable = true;
-					_loc2_.reversed = false;
+					props.linkageId = QUEST_RENDERER_LINKAGE_ID;
+					props.maskDimension = 400;
+					props.scrollDirection = MobileScrollList.VERTICAL;
+					props.spaceBetweenButtons = 1.4;
+					props.clickable = true;
+					props.reversed = false;
 					break;
 				case QUEST_OBJECTIVES_ENTRY_LINKAGE_ID:
-					_loc2_.linkageId = QUEST_OBJECTIVES_RENDERER_LINKAGE_ID;
-					_loc2_.maskDimension = 200;
-					_loc2_.scrollDirection = MobileScrollList.VERTICAL;
-					_loc2_.spaceBetweenButtons = 1.75;
-					_loc2_.clickable = false;
-					_loc2_.reversed = false;
+					props.linkageId = QUEST_OBJECTIVES_RENDERER_LINKAGE_ID;
+					props.maskDimension = 200;
+					props.scrollDirection = MobileScrollList.VERTICAL;
+					props.spaceBetweenButtons = 1.75;
+					props.clickable = false;
+					props.reversed = false;
 					break;
 				case RADIO_ENTRY_LINKAGE_ID:
-					_loc2_.linkageId = RADIO_RENDERER_LINKAGE_ID;
-					_loc2_.maskDimension = 400;
-					_loc2_.scrollDirection = MobileScrollList.VERTICAL;
-					_loc2_.spaceBetweenButtons = 1.4;
-					_loc2_.clickable = true;
-					_loc2_.reversed = false;
+					props.linkageId = RADIO_RENDERER_LINKAGE_ID;
+					props.maskDimension = 400;
+					props.scrollDirection = MobileScrollList.VERTICAL;
+					props.spaceBetweenButtons = 1.4;
+					props.clickable = true;
+					props.reversed = false;
 					break;
 				case PIPBOY_MESSAGE_ENTRY_LINKAGE_ID:
-					_loc2_.linkageId = PIPBOY_MESSAGE_RENDERER_LINKAGE_ID;
-					_loc2_.maskDimension = 150;
-					_loc2_.scrollDirection = MobileScrollList.VERTICAL;
-					_loc2_.spaceBetweenButtons = 4;
-					_loc2_.clickable = true;
-					_loc2_.reversed = false;
+					props.linkageId = PIPBOY_MESSAGE_RENDERER_LINKAGE_ID;
+					props.maskDimension = 150;
+					props.scrollDirection = MobileScrollList.VERTICAL;
+					props.spaceBetweenButtons = 4;
+					props.clickable = true;
+					props.reversed = false;
 					break;
 				default:
-					trace("Error: No mapping found between ListItemRenderer \'" + param1 + "\' used InGame and mobile ListItemRenderer");
+					trace("Error: No mapping found between ListItemRenderer \'" + className + "\' used InGame and mobile ListItemRenderer");
 			}
-			return _loc2_;
+			return props;
 		}
 	}
 }

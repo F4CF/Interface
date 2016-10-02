@@ -19,9 +19,9 @@ package Components
 			Label_tf.wordWrap = true;
 		}
 		
-		override public function PopulateEntry(param1:Object) : *
+		override public function PopulateEntry(aInfoObj:Object) : *
 		{
-			super.PopulateEntry(param1);
+			super.PopulateEntry(aInfoObj);
 			this.Background_mc.height = Label_tf.textHeight + 5;
 		}
 	}

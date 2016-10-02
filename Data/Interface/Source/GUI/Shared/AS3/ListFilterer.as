@@ -24,11 +24,11 @@ package Shared.AS3
 			return this.iItemFilter;
 		}
 		
-		public function set itemFilter(param1:int) : *
+		public function set itemFilter(aiNewFilter:int) : *
 		{
-			var _loc2_:* = this.iItemFilter != param1;
-			this.iItemFilter = param1;
-			if(_loc2_ == true)
+			var bdifferent:* = this.iItemFilter != aiNewFilter;
+			this.iItemFilter = aiNewFilter;
+			if(bdifferent == true)
 			{
 				dispatchEvent(new Event(FILTER_CHANGE,true,true));
 			}
@@ -39,91 +39,91 @@ package Shared.AS3
 			return this._filterArray;
 		}
 		
-		public function set filterArray(param1:Array) : *
+		public function set filterArray(aNewArray:Array) : *
 		{
-			this._filterArray = param1;
+			this._filterArray = aNewArray;
 		}
 		
-		public function EntryMatchesFilter(param1:Object) : Boolean
+		public function EntryMatchesFilter(aEntry:Object) : Boolean
 		{
-			return param1 != null && (!param1.hasOwnProperty("filterFlag") || (param1.filterFlag & this.iItemFilter) != 0);
+			return aEntry != null && (!aEntry.hasOwnProperty("filterFlag") || (aEntry.filterFlag & this.iItemFilter) != 0);
 		}
 		
-		public function GetPrevFilterMatch(param1:int) : int
+		public function GetPrevFilterMatch(aiStartIndex:int) : int
 		{
-			var _loc3_:int = 0;
-			var _loc2_:int = int.MAX_VALUE;
-			if(param1 != int.MAX_VALUE && this._filterArray != null)
+			var ientry:int = 0;
+			var imatchIndex:int = int.MAX_VALUE;
+			if(aiStartIndex != int.MAX_VALUE && this._filterArray != null)
 			{
-				_loc3_ = param1 - 1;
-				while(_loc3_ >= 0 && _loc2_ == int.MAX_VALUE)
+				ientry = aiStartIndex - 1;
+				while(ientry >= 0 && imatchIndex == int.MAX_VALUE)
 				{
-					if(this.EntryMatchesFilter(this._filterArray[_loc3_]))
+					if(this.EntryMatchesFilter(this._filterArray[ientry]))
 					{
-						_loc2_ = _loc3_;
+						imatchIndex = ientry;
 					}
-					_loc3_--;
+					ientry--;
 				}
 			}
-			return _loc2_;
+			return imatchIndex;
 		}
 		
-		public function GetNextFilterMatch(param1:int) : int
+		public function GetNextFilterMatch(aiStartIndex:int) : int
 		{
-			var _loc3_:int = 0;
-			var _loc2_:int = int.MAX_VALUE;
-			if(param1 != int.MAX_VALUE && this._filterArray != null)
+			var ientry:int = 0;
+			var imatchIndex:int = int.MAX_VALUE;
+			if(aiStartIndex != int.MAX_VALUE && this._filterArray != null)
 			{
-				_loc3_ = param1 + 1;
-				while(_loc3_ < this._filterArray.length && _loc2_ == int.MAX_VALUE)
+				ientry = aiStartIndex + 1;
+				while(ientry < this._filterArray.length && imatchIndex == int.MAX_VALUE)
 				{
-					if(this.EntryMatchesFilter(this._filterArray[_loc3_]))
+					if(this.EntryMatchesFilter(this._filterArray[ientry]))
 					{
-						_loc2_ = _loc3_;
+						imatchIndex = ientry;
 					}
-					_loc3_++;
+					ientry++;
 				}
 			}
-			return _loc2_;
+			return imatchIndex;
 		}
 		
-		public function ClampIndex(param1:int) : int
+		public function ClampIndex(aiStartIndex:int) : int
 		{
-			var _loc3_:int = 0;
-			var _loc4_:int = 0;
-			var _loc2_:* = param1;
-			if(param1 != int.MAX_VALUE && this._filterArray != null && !this.EntryMatchesFilter(this._filterArray[_loc2_]))
+			var inextIndex:int = 0;
+			var iprevIndex:int = 0;
+			var ireturnVal:* = aiStartIndex;
+			if(aiStartIndex != int.MAX_VALUE && this._filterArray != null && !this.EntryMatchesFilter(this._filterArray[ireturnVal]))
 			{
-				_loc3_ = this.GetNextFilterMatch(_loc2_);
-				_loc4_ = this.GetPrevFilterMatch(_loc2_);
-				if(_loc3_ != int.MAX_VALUE)
+				inextIndex = this.GetNextFilterMatch(ireturnVal);
+				iprevIndex = this.GetPrevFilterMatch(ireturnVal);
+				if(inextIndex != int.MAX_VALUE)
 				{
-					_loc2_ = _loc3_;
+					ireturnVal = inextIndex;
 				}
-				else if(_loc4_ != int.MAX_VALUE)
+				else if(iprevIndex != int.MAX_VALUE)
 				{
-					_loc2_ = _loc4_;
+					ireturnVal = iprevIndex;
 				}
 				else
 				{
-					_loc2_ = int.MAX_VALUE;
+					ireturnVal = int.MAX_VALUE;
 				}
-				if(_loc3_ != int.MAX_VALUE && _loc4_ != int.MAX_VALUE && _loc4_ != _loc3_ && _loc2_ == _loc3_ && this._filterArray[_loc4_].text == this._filterArray[param1].text)
+				if(inextIndex != int.MAX_VALUE && iprevIndex != int.MAX_VALUE && iprevIndex != inextIndex && ireturnVal == inextIndex && this._filterArray[iprevIndex].text == this._filterArray[aiStartIndex].text)
 				{
-					_loc2_ = _loc4_;
+					ireturnVal = iprevIndex;
 				}
 			}
-			return _loc2_;
+			return ireturnVal;
 		}
 		
-		public function IsFilterEmpty(param1:int) : Boolean
+		public function IsFilterEmpty(aiFilter:int) : Boolean
 		{
-			var _loc3_:* = false;
-			var _loc2_:int = this.iItemFilter;
-			this.iItemFilter = param1;
-			_loc3_ = this.ClampIndex(0) == int.MAX_VALUE;
-			this.iItemFilter = _loc2_;
-			return _loc3_;
+			var bresult:* = false;
+			var iprevFilter:int = this.iItemFilter;
+			this.iItemFilter = aiFilter;
+			bresult = this.ClampIndex(0) == int.MAX_VALUE;
+			this.iItemFilter = iprevFilter;
+			return bresult;
 		}
 	}
 }

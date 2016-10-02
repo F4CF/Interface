@@ -94,23 +94,23 @@ package Shared.AS3
 			return this.prevFocusObj;
 		}
 		
-		public function OpenMenu(param1:int, param2:InteractiveObject, param3:String = "", param4:* = 0) : *
+		public function OpenMenu(aiQuantity:int, aPrevFocusObj:InteractiveObject, asLabelText:String = "", auiItemValue:* = 0) : *
 		{
-			this.iQuantity = param1;
-			this.iMaxQuantity = param1;
+			this.iQuantity = aiQuantity;
+			this.iMaxQuantity = aiQuantity;
 			this.QuantityScrollbar_mc.MinValue = 0;
-			this.QuantityScrollbar_mc.MaxValue = param1;
-			this.iStepSize = Math.max(param1 / 20,1);
+			this.QuantityScrollbar_mc.MaxValue = aiQuantity;
+			this.iStepSize = Math.max(aiQuantity / 20,1);
 			this.QuantityScrollbar_mc.StepSize = this.iStepSize;
-			this.QuantityScrollbar_mc.value = param1;
-			this.uiItemValue = param4;
-			if(param3.length)
+			this.QuantityScrollbar_mc.value = aiQuantity;
+			this.uiItemValue = auiItemValue;
+			if(asLabelText.length)
 			{
-				GlobalFunc.SetText(this.Label_tf,param3,false);
+				GlobalFunc.SetText(this.Label_tf,asLabelText,false);
 			}
 			this.FitBrackets();
 			this.RefreshText();
-			this.prevFocusObj = param2;
+			this.prevFocusObj = aPrevFocusObj;
 			this.alpha = 1;
 			this.bOpened = true;
 		}
@@ -124,50 +124,50 @@ package Shared.AS3
 		
 		private function FitBrackets() : *
 		{
-			var _loc1_:Number = this.Label_tf.x + this.Label_tf.width * 0.5;
-			var _loc2_:Number = this.Label_tf.textWidth;
-			var _loc3_:MovieClip = this.QuantityBracketHolder_mc.QuantityMenuLeftBracket_mc;
-			var _loc4_:MovieClip = this.QuantityBracketHolder_mc.QuantityMenuRightBracket_mc;
-			var _loc5_:MovieClip = this.QuantityBracketHolder_mc.QuantityMenuBottomBracket_mc;
-			_loc3_.x = _loc1_ - _loc2_ * 0.5 - LabelBufferX - _loc3_.width - this.QuantityBracketHolder_mc.x;
-			_loc4_.x = _loc1_ + _loc2_ * 0.5 + LabelBufferX + _loc4_.width - this.QuantityBracketHolder_mc.x;
-			_loc5_.width = _loc4_.x - _loc3_.x;
-			_loc5_.x = _loc1_ - _loc5_.width * 0.5 - this.QuantityBracketHolder_mc.x;
-			if(this.QuantityScrollbar_mc.x < this.QuantityBracketHolder_mc.x + _loc3_.x + 20)
+			var midX:Number = this.Label_tf.x + this.Label_tf.width * 0.5;
+			var labelWidth:Number = this.Label_tf.textWidth;
+			var QuantityMenuLeftBracket_mc:MovieClip = this.QuantityBracketHolder_mc.QuantityMenuLeftBracket_mc;
+			var QuantityMenuRightBracket_mc:MovieClip = this.QuantityBracketHolder_mc.QuantityMenuRightBracket_mc;
+			var QuantityMenuBottomBracket_mc:MovieClip = this.QuantityBracketHolder_mc.QuantityMenuBottomBracket_mc;
+			QuantityMenuLeftBracket_mc.x = midX - labelWidth * 0.5 - LabelBufferX - QuantityMenuLeftBracket_mc.width - this.QuantityBracketHolder_mc.x;
+			QuantityMenuRightBracket_mc.x = midX + labelWidth * 0.5 + LabelBufferX + QuantityMenuRightBracket_mc.width - this.QuantityBracketHolder_mc.x;
+			QuantityMenuBottomBracket_mc.width = QuantityMenuRightBracket_mc.x - QuantityMenuLeftBracket_mc.x;
+			QuantityMenuBottomBracket_mc.x = midX - QuantityMenuBottomBracket_mc.width * 0.5 - this.QuantityBracketHolder_mc.x;
+			if(this.QuantityScrollbar_mc.x < this.QuantityBracketHolder_mc.x + QuantityMenuLeftBracket_mc.x + 20)
 			{
-				this.QuantityScrollbar_mc.x = this.QuantityBracketHolder_mc.x + _loc3_.x + 15;
-				this.QuantityScrollbar_mc.width = _loc4_.x - _loc3_.x - 15;
+				this.QuantityScrollbar_mc.x = this.QuantityBracketHolder_mc.x + QuantityMenuLeftBracket_mc.x + 15;
+				this.QuantityScrollbar_mc.width = QuantityMenuRightBracket_mc.x - QuantityMenuLeftBracket_mc.x - 15;
 			}
 		}
 		
 		private function RefreshText() : *
 		{
-			var _loc1_:uint = 0;
+			var uitotalValue:uint = 0;
 			GlobalFunc.SetText(this.Value_tf,this.iQuantity.toString(),false);
 			this.QuantityScrollbar_mc.value = this.iQuantity;
 			if(this.TotalValue_tf != null)
 			{
-				_loc1_ = this.iQuantity * this.uiItemValue;
-				GlobalFunc.SetText(this.TotalValue_tf,_loc1_.toString(),false);
+				uitotalValue = this.iQuantity * this.uiItemValue;
+				GlobalFunc.SetText(this.TotalValue_tf,uitotalValue.toString(),false);
 			}
 		}
 		
-		private function modifyQuantity(param1:int) : *
+		private function modifyQuantity(aiQuantity:int) : *
 		{
-			var _loc2_:int = this.iQuantity + param1;
-			_loc2_ = Math.min(_loc2_,this.iMaxQuantity);
-			_loc2_ = Math.max(_loc2_,1);
-			if(this.iQuantity != _loc2_)
+			var newQuantity:int = this.iQuantity + aiQuantity;
+			newQuantity = Math.min(newQuantity,this.iMaxQuantity);
+			newQuantity = Math.max(newQuantity,1);
+			if(this.iQuantity != newQuantity)
 			{
-				this.iQuantity = _loc2_;
+				this.iQuantity = newQuantity;
 				this.RefreshText();
-				dispatchEvent(new CustomEvent(QUANTITY_CHANGED,_loc2_,true));
+				dispatchEvent(new CustomEvent(QUANTITY_CHANGED,newQuantity,true));
 			}
 		}
 		
-		public function onKeyDown(param1:KeyboardEvent) : *
+		public function onKeyDown(event:KeyboardEvent) : *
 		{
-			if(param1.keyCode == Keyboard.RIGHT)
+			if(event.keyCode == Keyboard.RIGHT)
 			{
 				this.bIsScrolling = true;
 				this.uiScrollStartTime = getTimer();
@@ -176,7 +176,7 @@ package Shared.AS3
 				addEventListener(Event.ENTER_FRAME,this.onArrowTick);
 				removeEventListener(KeyboardEvent.KEY_DOWN,this.onKeyDown);
 			}
-			else if(param1.keyCode == Keyboard.LEFT)
+			else if(event.keyCode == Keyboard.LEFT)
 			{
 				this.bIsScrolling = true;
 				this.uiScrollStartTime = getTimer();
@@ -187,34 +187,34 @@ package Shared.AS3
 			}
 		}
 		
-		public function onKeyUp(param1:KeyboardEvent) : *
+		public function onKeyUp(event:KeyboardEvent) : *
 		{
-			if(param1.keyCode == Keyboard.UP || param1.keyCode == Keyboard.DOWN || param1.keyCode == Keyboard.RIGHT || param1.keyCode == Keyboard.LEFT)
+			if(event.keyCode == Keyboard.UP || event.keyCode == Keyboard.DOWN || event.keyCode == Keyboard.RIGHT || event.keyCode == Keyboard.LEFT)
 			{
 				this.bIsScrolling = false;
 				this.uiScrollCurSpeed = 1;
 				removeEventListener(Event.ENTER_FRAME,this.onArrowTick);
 				addEventListener(KeyboardEvent.KEY_DOWN,this.onKeyDown);
 			}
-			if(param1.keyCode == Keyboard.ENTER)
+			if(event.keyCode == Keyboard.ENTER)
 			{
 				dispatchEvent(new Event(CONFIRM,true,true));
 			}
 		}
 		
-		public function onMouseWheel(param1:MouseEvent) : *
+		public function onMouseWheel(event:MouseEvent) : *
 		{
-			if(param1.delta > 0)
+			if(event.delta > 0)
 			{
 				this.modifyQuantity(1);
 			}
-			else if(param1.delta < 0)
+			else if(event.delta < 0)
 			{
 				this.modifyQuantity(-1);
 			}
 		}
 		
-		function onArrowMouseUp(param1:Event) : void
+		function onArrowMouseUp(e:Event) : void
 		{
 			this.bIsScrolling = false;
 			this.uiScrollCurSpeed = 1;
@@ -222,35 +222,35 @@ package Shared.AS3
 			stage.removeEventListener(MouseEvent.MOUSE_UP,this.onArrowMouseUp);
 		}
 		
-		function onArrowTick(param1:Event) : void
+		function onArrowTick(e:Event) : void
 		{
-			var _loc2_:* = undefined;
+			var deltaTime:* = undefined;
 			if(this.bIsScrolling)
 			{
-				_loc2_ = getTimer() - this.uiScrollStartTime;
-				if(_loc2_ > SCROLL_STARTSPEED)
+				deltaTime = getTimer() - this.uiScrollStartTime;
+				if(deltaTime > SCROLL_STARTSPEED)
 				{
-					this.uiScrollCurSpeed = this.uiScrollCurSpeed + int(Math.floor(this.uiScrollCurSpeed * (_loc2_ / SCROLL_TIMECOEF)));
+					this.uiScrollCurSpeed = this.uiScrollCurSpeed + int(Math.floor(this.uiScrollCurSpeed * (deltaTime / SCROLL_TIMECOEF)));
 					this.uiScrollCurSpeed = Math.min(this.uiScrollCurSpeed,SCROLL_MAX);
 					this.modifyQuantity(this.uiScrollCurSpeed * this.iScrollSpeed);
 				}
 			}
 		}
 		
-		function onValueChange(param1:Event) : void
+		function onValueChange(e:Event) : void
 		{
 			this.iQuantity = this.QuantityScrollbar_mc.value;
 			this.RefreshText();
 		}
 		
-		public function onArrowMouseDown(param1:MouseEvent) : *
+		public function onArrowMouseDown(event:MouseEvent) : *
 		{
-			var _loc3_:MovieClip = null;
-			var _loc2_:Object = param1.target;
-			if(param1.target as MovieClip)
+			var clicktarget:MovieClip = null;
+			var otarget:Object = event.target;
+			if(event.target as MovieClip)
 			{
-				_loc3_ = param1.target as MovieClip;
-				if(_loc3_ == this.QuantityScrollbar_mc.RightCatcher_mc)
+				clicktarget = event.target as MovieClip;
+				if(clicktarget == this.QuantityScrollbar_mc.RightCatcher_mc)
 				{
 					this.bIsScrolling = true;
 					this.uiScrollStartTime = getTimer();
@@ -259,7 +259,7 @@ package Shared.AS3
 					stage.addEventListener(MouseEvent.MOUSE_UP,this.onArrowMouseUp);
 					addEventListener(Event.ENTER_FRAME,this.onArrowTick);
 				}
-				else if(_loc3_ == this.QuantityScrollbar_mc.LeftCatcher_mc)
+				else if(clicktarget == this.QuantityScrollbar_mc.LeftCatcher_mc)
 				{
 					this.bIsScrolling = true;
 					this.uiScrollStartTime = getTimer();
@@ -271,23 +271,23 @@ package Shared.AS3
 			}
 		}
 		
-		public function ProcessUserEvent(param1:String, param2:Boolean) : Boolean
+		public function ProcessUserEvent(asEvent:String, bData:Boolean) : Boolean
 		{
-			var _loc3_:Boolean = false;
-			if(!param2)
+			var bprocessed:Boolean = false;
+			if(!bData)
 			{
-				if(param1 == "LShoulder")
+				if(asEvent == "LShoulder")
 				{
 					this.modifyQuantity(-this.iStepSize);
-					_loc3_ = true;
+					bprocessed = true;
 				}
-				else if(param1 == "RShoulder")
+				else if(asEvent == "RShoulder")
 				{
 					this.modifyQuantity(this.iStepSize);
-					_loc3_ = true;
+					bprocessed = true;
 				}
 			}
-			return _loc3_;
+			return bprocessed;
 		}
 	}
 }

@@ -16,13 +16,13 @@ package Components
 			this.TIMER_ORIG_X = this.TimerIcon_mc.x;
 		}
 		
-		override public function PopulateEntry(param1:Object) : *
+		override public function PopulateEntry(aInfoObj:Object) : *
 		{
-			super.PopulateEntry(param1);
-			var _loc2_:Number = Value_tf.x + Value_tf.getLineMetrics(0).x - this.TimerIcon_mc.width / 2 - 10;
-			if(_loc2_ < this.TIMER_ORIG_X)
+			super.PopulateEntry(aInfoObj);
+			var newX:Number = Value_tf.x + Value_tf.getLineMetrics(0).x - this.TimerIcon_mc.width / 2 - 10;
+			if(newX < this.TIMER_ORIG_X)
 			{
-				this.TimerIcon_mc.x = _loc2_;
+				this.TimerIcon_mc.x = newX;
 			}
 		}
 	}

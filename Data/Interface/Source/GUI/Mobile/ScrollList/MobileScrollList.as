@@ -99,14 +99,14 @@ package Mobile.ScrollList
 		
 		private var _elasticity:Boolean = true;
 		
-		public function MobileScrollList(param1:Number, param2:Number = 0, param3:uint = 1)
+		public function MobileScrollList(scrollDimension:Number, deltaBetweenButtons:Number = 0, direction:uint = 1)
 		{
 			this._mouseDownPoint = new Point();
 			this._prevMouseDownPoint = new Point();
 			super();
-			this._scrollDim = param1;
-			this._deltaBetweenButtons = param2;
-			this._direction = param3;
+			this._scrollDim = scrollDimension;
+			this._deltaBetweenButtons = deltaBetweenButtons;
+			this._direction = direction;
 			this._selectedIndex = -1;
 			this._tempSelectedIndex = -1;
 			this._position = NaN;
@@ -132,18 +132,18 @@ package Mobile.ScrollList
 			return this._selectedIndex;
 		}
 		
-		public function set selectedIndex(param1:int) : void
+		public function set selectedIndex(value:int) : void
 		{
-			var _loc2_:Mobile.ScrollList.MobileListItemRenderer = this.getRendererAt(this._selectedIndex);
-			if(_loc2_ != null)
+			var currentSelection:Mobile.ScrollList.MobileListItemRenderer = this.getRendererAt(this._selectedIndex);
+			if(currentSelection != null)
 			{
-				_loc2_.unselectItem();
+				currentSelection.unselectItem();
 			}
-			this._selectedIndex = param1;
-			var _loc3_:Mobile.ScrollList.MobileListItemRenderer = this.getRendererAt(this._selectedIndex);
-			if(_loc3_ != null)
+			this._selectedIndex = value;
+			var renderer:Mobile.ScrollList.MobileListItemRenderer = this.getRendererAt(this._selectedIndex);
+			if(renderer != null)
 			{
-				_loc3_.selectItem();
+				renderer.selectItem();
 			}
 			this.setPosition();
 		}
@@ -158,14 +158,14 @@ package Mobile.ScrollList
 			return this._position;
 		}
 		
-		public function set position(param1:Number) : void
+		public function set position(value:Number) : void
 		{
-			this._position = param1;
+			this._position = value;
 		}
 		
-		public function set needFullRefresh(param1:Boolean) : void
+		public function set needFullRefresh(value:Boolean) : void
 		{
-			if(param1)
+			if(value)
 			{
 				this._selectedIndex = -1;
 				this._position = NaN;
@@ -175,8 +175,8 @@ package Mobile.ScrollList
 		
 		private function get canScroll() : Boolean
 		{
-			var _loc1_:Boolean = this._direction == HORIZONTAL?this._scrollList.width < this._bounds.width:this._scrollList.height < this._bounds.height;
-			if(!(this.noScrollShortList && _loc1_))
+			var hasShortList:Boolean = this._direction == HORIZONTAL?this._scrollList.width < this._bounds.width:this._scrollList.height < this._bounds.height;
+			if(!(this.noScrollShortList && hasShortList))
 			{
 				return true;
 			}
@@ -188,9 +188,9 @@ package Mobile.ScrollList
 			return this._itemRendererLinkageId;
 		}
 		
-		public function set itemRendererLinkageId(param1:String) : void
+		public function set itemRendererLinkageId(value:String) : void
 		{
-			this._itemRendererLinkageId = param1;
+			this._itemRendererLinkageId = value;
 		}
 		
 		public function get hasBackground() : Boolean
@@ -198,9 +198,9 @@ package Mobile.ScrollList
 			return this._hasBackground;
 		}
 		
-		public function set hasBackground(param1:Boolean) : void
+		public function set hasBackground(value:Boolean) : void
 		{
-			this._hasBackground = param1;
+			this._hasBackground = value;
 		}
 		
 		public function get backgroundColor() : int
@@ -208,9 +208,9 @@ package Mobile.ScrollList
 			return this._backgroundColor;
 		}
 		
-		public function set backgroundColor(param1:int) : void
+		public function set backgroundColor(value:int) : void
 		{
-			this._backgroundColor = param1;
+			this._backgroundColor = value;
 		}
 		
 		public function get noScrollShortList() : Boolean
@@ -218,9 +218,9 @@ package Mobile.ScrollList
 			return this._noScrollShortList;
 		}
 		
-		public function set noScrollShortList(param1:Boolean) : void
+		public function set noScrollShortList(value:Boolean) : void
 		{
-			this._noScrollShortList = param1;
+			this._noScrollShortList = value;
 		}
 		
 		public function get clickable() : Boolean
@@ -228,9 +228,9 @@ package Mobile.ScrollList
 			return this._clickable;
 		}
 		
-		public function set clickable(param1:Boolean) : void
+		public function set clickable(value:Boolean) : void
 		{
-			this._clickable = param1;
+			this._clickable = value;
 		}
 		
 		public function get endListAlign() : Boolean
@@ -238,9 +238,9 @@ package Mobile.ScrollList
 			return this._endListAlign;
 		}
 		
-		public function set endListAlign(param1:Boolean) : void
+		public function set endListAlign(value:Boolean) : void
 		{
-			this._endListAlign = param1;
+			this._endListAlign = value;
 		}
 		
 		public function get textOption() : String
@@ -248,9 +248,9 @@ package Mobile.ScrollList
 			return this._textOption;
 		}
 		
-		public function set textOption(param1:String) : void
+		public function set textOption(value:String) : void
 		{
-			this._textOption = param1;
+			this._textOption = value;
 		}
 		
 		public function get elasticity() : Boolean
@@ -258,21 +258,19 @@ package Mobile.ScrollList
 			return this._elasticity;
 		}
 		
-		public function set elasticity(param1:Boolean) : void
+		public function set elasticity(value:Boolean) : void
 		{
-			this._elasticity = param1;
+			this._elasticity = value;
 		}
 		
 		public function invalidateData() : void
 		{
-			var _loc1_:int = 0;
+			var i:int = 0;
 			if(this._data != null)
 			{
-				_loc1_ = 0;
-				while(_loc1_ < this._data.length)
+				for(i = 0; i < this._data.length; i++)
 				{
-					this.removeRenderer(_loc1_);
-					_loc1_++;
+					this.removeRenderer(i);
 				}
 			}
 			if(this._scrollMask != null)
@@ -306,11 +304,11 @@ package Mobile.ScrollList
 			this._mouseDown = false;
 		}
 		
-		public function setData(param1:Vector.<Object>) : void
+		public function setData(data:Vector.<Object>) : void
 		{
-			var _loc2_:int = 0;
+			var i:int = 0;
 			this.invalidateData();
-			this._data = param1;
+			this._data = data;
 			if(this.endListAlign)
 			{
 				this._data.reverse();
@@ -323,11 +321,9 @@ package Mobile.ScrollList
 				this._scrollList.addEventListener(MouseEvent.MOUSE_DOWN,this.mouseDownHandler,false,0,true);
 				this._scrollList.addEventListener(Event.ENTER_FRAME,this.enterFrameHandler,false,0,true);
 			}
-			_loc2_ = 0;
-			while(_loc2_ < this._data.length)
+			for(i = 0; i < this._data.length; i++)
 			{
-				this._renderers.push(this.addRenderer(_loc2_,this._data[_loc2_]));
-				_loc2_++;
+				this._renderers.push(this.addRenderer(i,this._data[i]));
 			}
 			if(this._deltaBetweenButtons > 0)
 			{
@@ -355,10 +351,10 @@ package Mobile.ScrollList
 			this.setDataOnVisibleRenderers();
 		}
 		
-		public function setScrollIndicators(param1:MovieClip, param2:MovieClip) : void
+		public function setScrollIndicators(prevIndicator:MovieClip, nextIndicator:MovieClip) : void
 		{
-			this._prevIndicator = param1;
-			this._nextIndicator = param2;
+			this._prevIndicator = prevIndicator;
+			this._nextIndicator = nextIndicator;
 			if(this._prevIndicator)
 			{
 				this._prevIndicator.visible = false;
@@ -371,44 +367,44 @@ package Mobile.ScrollList
 		
 		protected function setPosition() : void
 		{
-			var _loc4_:Number = NaN;
+			var selectedRendererPos:Number = NaN;
 			if(this._data == null)
 			{
 				return;
 			}
-			var _loc1_:Number = this._direction == HORIZONTAL?Number(this._scrollList.width):Number(this._scrollList.height);
-			var _loc2_:Number = this._direction == HORIZONTAL?Number(this._bounds.width):Number(this._bounds.height);
-			var _loc3_:Number = this._direction == HORIZONTAL?Number(this._scrollList.x):Number(this._scrollList.y);
+			var scrollDim:Number = this._direction == HORIZONTAL?Number(this._scrollList.width):Number(this._scrollList.height);
+			var boundsDim:Number = this._direction == HORIZONTAL?Number(this._bounds.width):Number(this._bounds.height);
+			var scrollPos:Number = this._direction == HORIZONTAL?Number(this._scrollList.x):Number(this._scrollList.y);
 			if(isNaN(this.position))
 			{
 				if(this.selectedIndex != -1)
 				{
-					_loc4_ = this._direction == HORIZONTAL?Number(this.selectedRenderer.x):Number(this.selectedRenderer.y);
+					selectedRendererPos = this._direction == HORIZONTAL?Number(this.selectedRenderer.x):Number(this.selectedRenderer.y);
 					if(this.canScroll)
 					{
-						if(_loc1_ - _loc4_ < _loc2_)
+						if(scrollDim - selectedRendererPos < boundsDim)
 						{
-							this._position = _loc2_ - _loc1_;
+							this._position = boundsDim - scrollDim;
 						}
 						else
 						{
-							this._position = -_loc4_;
+							this._position = -selectedRendererPos;
 						}
 					}
 					else
 					{
-						this._position = !!this.endListAlign?Number(_loc2_ - _loc1_):Number(0);
+						this._position = !!this.endListAlign?Number(boundsDim - scrollDim):Number(0);
 					}
 				}
 				else
 				{
 					if(this._direction == HORIZONTAL)
 					{
-						this._scrollList.x = !!this.endListAlign?Number(_loc2_ - _loc1_):Number(0);
+						this._scrollList.x = !!this.endListAlign?Number(boundsDim - scrollDim):Number(0);
 					}
 					else
 					{
-						this._scrollList.y = !!this.endListAlign?Number(_loc2_ - _loc1_):Number(0);
+						this._scrollList.y = !!this.endListAlign?Number(boundsDim - scrollDim):Number(0);
 					}
 					this.setDataOnVisibleRenderers();
 					return;
@@ -416,9 +412,9 @@ package Mobile.ScrollList
 			}
 			else if(this.canScroll)
 			{
-				if(this._position + _loc1_ < _loc2_)
+				if(this._position + scrollDim < boundsDim)
 				{
-					this._position = _loc2_ - _loc1_;
+					this._position = boundsDim - scrollDim;
 				}
 				else if(this._position > 0)
 				{
@@ -427,7 +423,7 @@ package Mobile.ScrollList
 			}
 			else
 			{
-				this._position = !!this.endListAlign?Number(_loc2_ - _loc1_):Number(0);
+				this._position = !!this.endListAlign?Number(boundsDim - scrollDim):Number(0);
 			}
 			if(this._direction == HORIZONTAL)
 			{
@@ -440,138 +436,138 @@ package Mobile.ScrollList
 			this.setDataOnVisibleRenderers();
 		}
 		
-		protected function addRenderer(param1:int, param2:Object) : Mobile.ScrollList.MobileListItemRenderer
+		protected function addRenderer(position:int, data:Object) : Mobile.ScrollList.MobileListItemRenderer
 		{
-			var _loc5_:Mobile.ScrollList.MobileListItemRenderer = null;
-			var _loc3_:Mobile.ScrollList.MobileListItemRenderer = this.acquireRenderer();
-			_loc3_.reset();
-			var _loc4_:Number = 0;
-			if(param1 > 0)
+			var previousRenderer:Mobile.ScrollList.MobileListItemRenderer = null;
+			var renderer:Mobile.ScrollList.MobileListItemRenderer = this.acquireRenderer();
+			renderer.reset();
+			var posY:Number = 0;
+			if(position > 0)
 			{
-				_loc5_ = this.getRendererAt(param1 - 1);
-				_loc4_ = _loc5_.y + _loc5_.height + this._deltaBetweenButtons;
+				previousRenderer = this.getRendererAt(position - 1);
+				posY = previousRenderer.y + previousRenderer.height + this._deltaBetweenButtons;
 			}
-			_loc3_.y = _loc4_;
+			renderer.y = posY;
 			if(this._textOption === BSScrollingList.TEXT_OPTION_MULTILINE)
 			{
-				this.setRendererData(_loc3_,param2,param1);
+				this.setRendererData(renderer,data,position);
 			}
-			_loc3_.visible = true;
-			return _loc3_;
+			renderer.visible = true;
+			return renderer;
 		}
 		
-		protected function addRendererListeners(param1:Mobile.ScrollList.MobileListItemRenderer) : void
+		protected function addRendererListeners(renderer:Mobile.ScrollList.MobileListItemRenderer) : void
 		{
-			param1.addEventListener(ITEM_SELECT,this.itemSelectHandler,false,0,true);
-			param1.addEventListener(ITEM_RELEASE,this.itemReleaseHandler,false,0,true);
-			param1.addEventListener(ITEM_RELEASE_OUTSIDE,this.itemReleaseOutsideHandler,false,0,true);
+			renderer.addEventListener(ITEM_SELECT,this.itemSelectHandler,false,0,true);
+			renderer.addEventListener(ITEM_RELEASE,this.itemReleaseHandler,false,0,true);
+			renderer.addEventListener(ITEM_RELEASE_OUTSIDE,this.itemReleaseOutsideHandler,false,0,true);
 		}
 		
-		protected function removeRenderer(param1:int) : void
+		protected function removeRenderer(position:int) : void
 		{
-			var _loc2_:Mobile.ScrollList.MobileListItemRenderer = this._renderers[param1];
-			if(_loc2_ != null)
+			var renderer:Mobile.ScrollList.MobileListItemRenderer = this._renderers[position];
+			if(renderer != null)
 			{
-				_loc2_.visible = false;
-				_loc2_.y = 0;
-				this.releaseRenderer(_loc2_);
+				renderer.visible = false;
+				renderer.y = 0;
+				this.releaseRenderer(renderer);
 			}
 		}
 		
-		protected function removeRendererListeners(param1:Mobile.ScrollList.MobileListItemRenderer) : void
+		protected function removeRendererListeners(renderer:Mobile.ScrollList.MobileListItemRenderer) : void
 		{
-			param1.removeEventListener(ITEM_SELECT,this.itemSelectHandler);
-			param1.removeEventListener(ITEM_RELEASE,this.itemReleaseHandler);
-			param1.removeEventListener(ITEM_RELEASE_OUTSIDE,this.itemReleaseOutsideHandler);
+			renderer.removeEventListener(ITEM_SELECT,this.itemSelectHandler);
+			renderer.removeEventListener(ITEM_RELEASE,this.itemReleaseHandler);
+			renderer.removeEventListener(ITEM_RELEASE_OUTSIDE,this.itemReleaseOutsideHandler);
 		}
 		
-		protected function getRendererAt(param1:int) : Mobile.ScrollList.MobileListItemRenderer
+		protected function getRendererAt(position:int) : Mobile.ScrollList.MobileListItemRenderer
 		{
-			if(this._data == null || this._renderers == null || param1 > this._data.length - 1 || param1 < 0)
+			if(this._data == null || this._renderers == null || position > this._data.length - 1 || position < 0)
 			{
 				return null;
 			}
 			if(this.endListAlign)
 			{
-				return this._renderers[this._data.length - 1 - param1];
+				return this._renderers[this._data.length - 1 - position];
 			}
-			return this._renderers[param1];
+			return this._renderers[position];
 		}
 		
 		private function acquireRenderer() : Mobile.ScrollList.MobileListItemRenderer
 		{
-			var _loc1_:Mobile.ScrollList.MobileListItemRenderer = null;
+			var renderer:Mobile.ScrollList.MobileListItemRenderer = null;
 			if(this._availableRenderers.length > 0)
 			{
 				return this._availableRenderers.pop();
 			}
-			_loc1_ = FlashUtil.getLibraryItem(this,this._itemRendererLinkageId) as Mobile.ScrollList.MobileListItemRenderer;
-			this._scrollList.addChild(_loc1_);
+			renderer = FlashUtil.getLibraryItem(this,this._itemRendererLinkageId) as Mobile.ScrollList.MobileListItemRenderer;
+			this._scrollList.addChild(renderer);
 			if(this._rendererRect === null)
 			{
-				this._rendererRect = new Rectangle(_loc1_.x,_loc1_.y,_loc1_.width,_loc1_.height);
+				this._rendererRect = new Rectangle(renderer.x,renderer.y,renderer.width,renderer.height);
 			}
-			this.addRendererListeners(_loc1_);
-			return _loc1_;
+			this.addRendererListeners(renderer);
+			return renderer;
 		}
 		
-		private function releaseRenderer(param1:Mobile.ScrollList.MobileListItemRenderer) : void
+		private function releaseRenderer(renderer:Mobile.ScrollList.MobileListItemRenderer) : void
 		{
-			this._availableRenderers.push(param1);
+			this._availableRenderers.push(renderer);
 		}
 		
-		protected function resetPressState(param1:Mobile.ScrollList.MobileListItemRenderer) : void
+		protected function resetPressState(renderer:Mobile.ScrollList.MobileListItemRenderer) : void
 		{
-			if(param1 != null && param1.data != null)
+			if(renderer != null && renderer.data != null)
 			{
-				if(this.selectedIndex == param1.data.id)
+				if(this.selectedIndex == renderer.data.id)
 				{
-					param1.selectItem();
+					renderer.selectItem();
 				}
 				else
 				{
-					param1.unselectItem();
+					renderer.unselectItem();
 				}
 			}
 		}
 		
-		protected function itemSelectHandler(param1:EventWithParams) : void
+		protected function itemSelectHandler(e:EventWithParams) : void
 		{
-			var _loc2_:Mobile.ScrollList.MobileListItemRenderer = null;
-			var _loc3_:int = 0;
+			var renderer:Mobile.ScrollList.MobileListItemRenderer = null;
+			var rendererId:int = 0;
 			if(this.clickable)
 			{
-				_loc2_ = param1.params.renderer as Mobile.ScrollList.MobileListItemRenderer;
-				_loc3_ = _loc2_.data.id;
+				renderer = e.params.renderer as Mobile.ScrollList.MobileListItemRenderer;
+				rendererId = renderer.data.id;
 				this._mousePressPos = this._direction == MobileScrollList.HORIZONTAL?Number(stage.mouseX):Number(stage.mouseY);
-				this._tempSelectedIndex = _loc3_;
-				_loc2_.pressItem();
+				this._tempSelectedIndex = rendererId;
+				renderer.pressItem();
 			}
 		}
 		
-		protected function itemReleaseHandler(param1:EventWithParams) : void
+		protected function itemReleaseHandler(e:EventWithParams) : void
 		{
-			var _loc2_:Mobile.ScrollList.MobileListItemRenderer = null;
-			var _loc3_:int = 0;
+			var renderer:Mobile.ScrollList.MobileListItemRenderer = null;
+			var rendererId:int = 0;
 			if(this.clickable)
 			{
-				_loc2_ = param1.params.renderer as Mobile.ScrollList.MobileListItemRenderer;
-				_loc3_ = _loc2_.data.id;
-				if(this._tempSelectedIndex == _loc3_)
+				renderer = e.params.renderer as Mobile.ScrollList.MobileListItemRenderer;
+				rendererId = renderer.data.id;
+				if(this._tempSelectedIndex == rendererId)
 				{
-					this.selectedIndex = _loc3_;
-					this.dispatchEvent(new EventWithParams(MobileScrollList.ITEM_SELECT,{"renderer":_loc2_}));
+					this.selectedIndex = rendererId;
+					this.dispatchEvent(new EventWithParams(MobileScrollList.ITEM_SELECT,{"renderer":renderer}));
 				}
 			}
 		}
 		
-		protected function itemReleaseOutsideHandler(param1:EventWithParams) : void
+		protected function itemReleaseOutsideHandler(e:EventWithParams) : void
 		{
-			var _loc2_:Mobile.ScrollList.MobileListItemRenderer = null;
+			var renderer:Mobile.ScrollList.MobileListItemRenderer = null;
 			if(this.clickable)
 			{
-				_loc2_ = param1.params.renderer as Mobile.ScrollList.MobileListItemRenderer;
-				this.resetPressState(_loc2_);
+				renderer = e.params.renderer as Mobile.ScrollList.MobileListItemRenderer;
+				this.resetPressState(renderer);
 				this._tempSelectedIndex = -1;
 			}
 		}
@@ -592,61 +588,61 @@ package Mobile.ScrollList
 			addChildAt(this._background,0);
 		}
 		
-		protected function createSprite(param1:int, param2:Rectangle, param3:Number = 1) : Sprite
+		protected function createSprite(color:int, rect:Rectangle, alpha:Number = 1) : Sprite
 		{
-			var _loc4_:* = new Sprite();
-			_loc4_.graphics.beginFill(param1,param3);
-			_loc4_.graphics.drawRect(param2.x,param2.y,param2.width,param2.height);
-			_loc4_.graphics.endFill();
-			return _loc4_;
+			var sprite:* = new Sprite();
+			sprite.graphics.beginFill(color,alpha);
+			sprite.graphics.drawRect(rect.x,rect.y,rect.width,rect.height);
+			sprite.graphics.endFill();
+			return sprite;
 		}
 		
-		protected function enterFrameHandler(param1:Event) : void
+		protected function enterFrameHandler(e:Event) : void
 		{
-			var _loc2_:* = undefined;
-			var _loc3_:Number = NaN;
-			var _loc4_:Number = NaN;
-			var _loc5_:Number = NaN;
-			var _loc6_:Number = NaN;
+			var velocityFactor:* = undefined;
+			var scrollDim:Number = NaN;
+			var maxDim:Number = NaN;
+			var scrollPos:Number = NaN;
+			var bouncing:Number = NaN;
 			if(this._bounds != null && this.canScroll)
 			{
-				_loc2_ = !!this._mouseDown?this.VELOCITY_MOUSE_DOWN_FACTOR:this.VELOCITY_MOUSE_UP_FACTOR;
-				this._velocity = this._velocity * _loc2_;
-				_loc3_ = this._direction == HORIZONTAL?Number(this._scrollList.width):Number(this._scrollList.height);
-				_loc4_ = this._direction == HORIZONTAL?Number(this._bounds.width):Number(this._bounds.height);
-				_loc5_ = this._direction == HORIZONTAL?Number(this._scrollList.x):Number(this._scrollList.y);
+				velocityFactor = !!this._mouseDown?this.VELOCITY_MOUSE_DOWN_FACTOR:this.VELOCITY_MOUSE_UP_FACTOR;
+				this._velocity = this._velocity * velocityFactor;
+				scrollDim = this._direction == HORIZONTAL?Number(this._scrollList.width):Number(this._scrollList.height);
+				maxDim = this._direction == HORIZONTAL?Number(this._bounds.width):Number(this._bounds.height);
+				scrollPos = this._direction == HORIZONTAL?Number(this._scrollList.x):Number(this._scrollList.y);
 				if(!this._mouseDown)
 				{
-					_loc6_ = 0;
-					if(_loc5_ >= 0 || _loc3_ <= _loc4_)
+					bouncing = 0;
+					if(scrollPos >= 0 || scrollDim <= maxDim)
 					{
 						if(this.elasticity)
 						{
-							_loc6_ = -_loc5_ * this.BOUNCE_FACTOR;
-							this._position = _loc5_ + this._velocity + _loc6_;
+							bouncing = -scrollPos * this.BOUNCE_FACTOR;
+							this._position = scrollPos + this._velocity + bouncing;
 						}
 						else
 						{
 							this._position = 0;
 						}
 					}
-					else if(_loc5_ + _loc3_ <= _loc4_)
+					else if(scrollPos + scrollDim <= maxDim)
 					{
 						if(this.elasticity)
 						{
-							_loc6_ = (_loc4_ - _loc3_ - _loc5_) * this.BOUNCE_FACTOR;
-							this._position = _loc5_ + this._velocity + _loc6_;
+							bouncing = (maxDim - scrollDim - scrollPos) * this.BOUNCE_FACTOR;
+							this._position = scrollPos + this._velocity + bouncing;
 						}
 						else
 						{
-							this._position = _loc4_ - _loc3_;
+							this._position = maxDim - scrollDim;
 						}
 					}
 					else
 					{
-						this._position = _loc5_ + this._velocity;
+						this._position = scrollPos + this._velocity;
 					}
-					if(Math.abs(this._velocity) > this.EPSILON || _loc6_ != 0)
+					if(Math.abs(this._velocity) > this.EPSILON || bouncing != 0)
 					{
 						if(this._direction == HORIZONTAL)
 						{
@@ -661,21 +657,21 @@ package Mobile.ScrollList
 				}
 				if(this._prevIndicator)
 				{
-					this._prevIndicator.visible = _loc5_ < 0;
+					this._prevIndicator.visible = scrollPos < 0;
 				}
 				if(this._nextIndicator)
 				{
-					this._nextIndicator.visible = _loc5_ > _loc4_ - _loc3_;
+					this._nextIndicator.visible = scrollPos > maxDim - scrollDim;
 				}
 			}
 		}
 		
-		protected function mouseDownHandler(param1:MouseEvent) : void
+		protected function mouseDownHandler(e:MouseEvent) : void
 		{
 			if(!this._mouseDown && this.canScroll)
 			{
-				this._mouseDownPoint = new Point(param1.stageX,param1.stageY);
-				this._prevMouseDownPoint = new Point(param1.stageX,param1.stageY);
+				this._mouseDownPoint = new Point(e.stageX,e.stageY);
+				this._prevMouseDownPoint = new Point(e.stageX,e.stageY);
 				this._mouseDown = true;
 				this._mouseDownPos = this._direction == HORIZONTAL?Number(this._scrollList.x):Number(this._scrollList.y);
 				this._scrollList.stage.addEventListener(MouseEvent.MOUSE_UP,this.mouseUpHandler,false,0,true);
@@ -684,68 +680,68 @@ package Mobile.ScrollList
 			}
 		}
 		
-		protected function mouseMoveHandler(param1:MouseEvent) : void
+		protected function mouseMoveHandler(e:MouseEvent) : void
 		{
-			var _loc2_:Point = null;
-			var _loc3_:Number = NaN;
+			var point:Point = null;
+			var nextScrollListPos:Number = NaN;
 			if(this._mouseDown && this.canScroll)
 			{
-				if(!isNaN(param1.stageX) && !isNaN(param1.stageY))
+				if(!isNaN(e.stageX) && !isNaN(e.stageY))
 				{
-					_loc2_ = new Point(param1.stageX,param1.stageY);
+					point = new Point(e.stageX,e.stageY);
 					if(this._direction == HORIZONTAL)
 					{
-						_loc3_ = _loc2_.x - this._prevMouseDownPoint.x;
+						nextScrollListPos = point.x - this._prevMouseDownPoint.x;
 						if(this._scrollList.x >= this._bounds.x || this._scrollList.x <= this._bounds.x - (this._scrollList.width - this._bounds.width))
 						{
 							if(this.elasticity)
 							{
-								this._scrollList.x = this._scrollList.x + _loc3_ * this.RESISTANCE_OUT_BOUNDS;
+								this._scrollList.x = this._scrollList.x + nextScrollListPos * this.RESISTANCE_OUT_BOUNDS;
 							}
-							else if(!(this._scrollList.x >= this._bounds.x && _loc3_ > 0 || this._scrollList.x <= this._bounds.x - (this._scrollList.width - this._bounds.width) && _loc3_ < 0))
+							else if(!(this._scrollList.x >= this._bounds.x && nextScrollListPos > 0 || this._scrollList.x <= this._bounds.x - (this._scrollList.width - this._bounds.width) && nextScrollListPos < 0))
 							{
-								this._scrollList.x = this._scrollList.x + _loc3_;
+								this._scrollList.x = this._scrollList.x + nextScrollListPos;
 							}
 						}
 						else
 						{
-							this._scrollList.x = this._scrollList.x + _loc3_;
+							this._scrollList.x = this._scrollList.x + nextScrollListPos;
 						}
 						this._position = this._scrollList.x;
-						if(Math.abs(_loc2_.x - this._mousePressPos) > this.DELTA_MOUSE_POS)
+						if(Math.abs(point.x - this._mousePressPos) > this.DELTA_MOUSE_POS)
 						{
 							this.resetPressState(this.getRendererAt(this._tempSelectedIndex));
 							this._tempSelectedIndex = -1;
 						}
-						this._velocity = this._velocity + (_loc2_.x - this._prevMouseDownPoint.x) * this.VELOCITY_MOVE_FACTOR;
+						this._velocity = this._velocity + (point.x - this._prevMouseDownPoint.x) * this.VELOCITY_MOVE_FACTOR;
 					}
 					else
 					{
-						_loc3_ = _loc2_.y - this._prevMouseDownPoint.y;
+						nextScrollListPos = point.y - this._prevMouseDownPoint.y;
 						if(this._scrollList.y >= this._bounds.y || this._scrollList.y <= this._bounds.y - (this._scrollList.height - this._bounds.height))
 						{
 							if(this.elasticity)
 							{
-								this._scrollList.y = this._scrollList.y + _loc3_ * this.RESISTANCE_OUT_BOUNDS;
+								this._scrollList.y = this._scrollList.y + nextScrollListPos * this.RESISTANCE_OUT_BOUNDS;
 							}
-							else if(!(this._scrollList.y >= this._bounds.y && _loc3_ > 0 || this._scrollList.y <= this._bounds.y - (this._scrollList.height - this._bounds.height) && _loc3_ < 0))
+							else if(!(this._scrollList.y >= this._bounds.y && nextScrollListPos > 0 || this._scrollList.y <= this._bounds.y - (this._scrollList.height - this._bounds.height) && nextScrollListPos < 0))
 							{
-								this._scrollList.y = this._scrollList.y + _loc3_;
+								this._scrollList.y = this._scrollList.y + nextScrollListPos;
 							}
 						}
 						else
 						{
-							this._scrollList.y = this._scrollList.y + _loc3_;
+							this._scrollList.y = this._scrollList.y + nextScrollListPos;
 						}
 						this._position = this._scrollList.y;
-						if(Math.abs(_loc2_.y - this._mousePressPos) > this.DELTA_MOUSE_POS)
+						if(Math.abs(point.y - this._mousePressPos) > this.DELTA_MOUSE_POS)
 						{
 							this.resetPressState(this.getRendererAt(this._tempSelectedIndex));
 							this._tempSelectedIndex = -1;
 						}
-						this._velocity = this._velocity + (_loc2_.y - this._prevMouseDownPoint.y) * this.VELOCITY_MOVE_FACTOR;
+						this._velocity = this._velocity + (point.y - this._prevMouseDownPoint.y) * this.VELOCITY_MOVE_FACTOR;
 					}
-					this._prevMouseDownPoint = _loc2_;
+					this._prevMouseDownPoint = point;
 				}
 				if(isNaN(this.mouseX) || isNaN(this.mouseY) || this.mouseY < this._bounds.y || this.mouseY > this._bounds.height + this._bounds.y || this.mouseX < this._bounds.x || this.mouseX > this._bounds.width + this._bounds.x)
 				{
@@ -755,7 +751,7 @@ package Mobile.ScrollList
 			}
 		}
 		
-		protected function mouseUpHandler(param1:MouseEvent) : void
+		protected function mouseUpHandler(e:MouseEvent) : void
 		{
 			if(this._mouseDown && this.canScroll)
 			{
@@ -768,27 +764,25 @@ package Mobile.ScrollList
 		
 		private function setDataOnVisibleRenderers() : void
 		{
-			var _loc2_:Number = NaN;
-			var _loc1_:int = 0;
-			while(_loc1_ < this._renderers.length)
+			var rendererPosition:Number = NaN;
+			for(var i:int = 0; i < this._renderers.length; i++)
 			{
-				if(this._renderers[_loc1_].data === null)
+				if(this._renderers[i].data === null)
 				{
-					_loc2_ = this._scrollList.y + this._renderers[_loc1_].y;
-					if(_loc2_ < this._bounds.y + this._bounds.height && _loc2_ + this._renderers[_loc1_].height > this._bounds.y)
+					rendererPosition = this._scrollList.y + this._renderers[i].y;
+					if(rendererPosition < this._bounds.y + this._bounds.height && rendererPosition + this._renderers[i].height > this._bounds.y)
 					{
-						this.setRendererData(this._renderers[_loc1_],this.data[_loc1_],_loc1_);
+						this.setRendererData(this._renderers[i],this.data[i],i);
 					}
 				}
-				_loc1_++;
 			}
 		}
 		
-		private function setRendererData(param1:Mobile.ScrollList.MobileListItemRenderer, param2:Object, param3:int) : void
+		private function setRendererData(renderer:Mobile.ScrollList.MobileListItemRenderer, data:Object, index:int) : void
 		{
-			param2.id = param3;
-			param2.textOption = this._textOption;
-			param1.setData(param2);
+			data.id = index;
+			data.textOption = this._textOption;
+			renderer.setData(data);
 		}
 		
 		public function destroy() : void
