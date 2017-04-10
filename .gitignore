@@ -1,1 +1,34 @@
+# Project
+# =========================
 Mods/
+
+# Bethesda Modding
+# =========================
+*.sublime-workspace
+*.pex
+*.swf
+*.wav
+*.nif
+*.hkx
+*.dds
+*.bgsm
+*.bgem
+*.ba2
+*.cdx
+*.bk2
+*.cdf
+*.dat
+
+# Windows
+# =========================
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.exe
+*.dll
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
