@@ -1,5 +1,5 @@
-- **BuildID:** Steam database build IDs are updated when a new "build" of an application is pushed.
-- **Version:** The current game version.
-- **Build:** The current game distribution.
-- **Language:** The current game language.
-- **Decompiler:** The decompiler name and version.
+- **BuildID:** 1599712
+- **Version:** 1.9.4.0
+- **Build:** Release
+- **Language:** English
+- **Decompiler:** FFDec v10.0.0
