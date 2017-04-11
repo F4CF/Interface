@@ -4,6 +4,8 @@ package Shared
 	import flash.display.MovieClip;
 	import flash.events.Event;
 	import flash.events.FocusEvent;
+	import flash.text.TextField;
+	import flash.text.TextFormat;
 	
 	public class IMenu extends MovieClip
 	{
@@ -19,8 +21,11 @@ package Shared
 		
 		private var safeY:Number = 0.0;
 		
+		private var textFieldSizeMap:Object;
+		
 		public function IMenu()
 		{
+			this.textFieldSizeMap = new Object();
 			super();
 			this._uiPlatform = PlatformChangeEvent.PLATFORM_INVALID;
 			this._bPS3Switch = false;
@@ -51,38 +56,38 @@ package Shared
 			return this.safeY;
 		}
 		
-		protected function onPlatformRequestEvent(param1:Event) : *
+		protected function onPlatformRequestEvent(arEvent:Event) : *
 		{
 			if(this.uiPlatform != PlatformChangeEvent.PLATFORM_INVALID)
 			{
-				(param1 as PlatformRequestEvent).RespondToRequest(this.uiPlatform,this.bPS3Switch);
+				(arEvent as PlatformRequestEvent).RespondToRequest(this.uiPlatform,this.bPS3Switch);
 			}
 		}
 		
-		protected function onStageInit(param1:Event) : *
+		protected function onStageInit(event:Event) : *
 		{
 			stage.stageFocusRect = false;
 			stage.addEventListener(FocusEvent.FOCUS_OUT,this.onFocusLost);
 			stage.addEventListener(FocusEvent.MOUSE_FOCUS_CHANGE,this.onMouseFocus);
 		}
 		
-		protected function onStageDestruct(param1:Event) : *
+		protected function onStageDestruct(event:Event) : *
 		{
 			stage.removeEventListener(FocusEvent.FOCUS_OUT,this.onFocusLost);
 			stage.removeEventListener(FocusEvent.MOUSE_FOCUS_CHANGE,this.onMouseFocus);
 		}
 		
-		public function SetPlatform(param1:uint, param2:Boolean) : *
+		public function SetPlatform(auiPlatform:uint, abPS3Switch:Boolean) : *
 		{
-			this._uiPlatform = param1;
+			this._uiPlatform = auiPlatform;
 			this._bPS3Switch = this.bPS3Switch;
 			dispatchEvent(new PlatformChangeEvent(this.uiPlatform,this.bPS3Switch));
 		}
 		
-		public function SetSafeRect(param1:Number, param2:Number) : *
+		public function SetSafeRect(aSafeX:Number, aSafeY:Number) : *
 		{
-			this.safeX = param1;
-			this.safeY = param2;
+			this.safeX = aSafeX;
+			this.safeY = aSafeY;
 			this.onSetSafeRect();
 		}
 		
@@ -90,24 +95,44 @@ package Shared
 		{
 		}
 		
-		private function onFocusLost(param1:FocusEvent) : *
+		private function onFocusLost(event:FocusEvent) : *
 		{
 			if(this._bRestoreLostFocus)
 			{
 				this._bRestoreLostFocus = false;
-				stage.focus = param1.target as InteractiveObject;
+				stage.focus = event.target as InteractiveObject;
 			}
 		}
 		
-		protected function onMouseFocus(param1:FocusEvent) : *
+		protected function onMouseFocus(event:FocusEvent) : *
 		{
-			if(param1.target == null || !(param1.target is InteractiveObject))
+			if(event.target == null || !(event.target is InteractiveObject))
 			{
 				stage.focus = null;
 			}
 			else
 			{
 				this._bRestoreLostFocus = true;
+			}
+		}
+		
+		public function ShrinkFontToFit(textField:TextField, amaxScrollV:int) : *
+		{
+			var tfSize:int = 0;
+			var textFormat:TextFormat = textField.getTextFormat();
+			if(this.textFieldSizeMap[textField] == null)
+			{
+				this.textFieldSizeMap[textField] = textFormat.size;
+			}
+			textFormat.size = this.textFieldSizeMap[textField];
+			textField.setTextFormat(textFormat);
+			var maxVScroll:int = textField.maxScrollV;
+			while(maxVScroll > amaxScrollV && textFormat.size > 4)
+			{
+				tfSize = textFormat.size as int;
+				textFormat.size = tfSize - 1;
+				textField.setTextFormat(textFormat);
+				maxVScroll = textField.maxScrollV;
 			}
 		}
 	}

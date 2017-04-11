@@ -51,11 +51,11 @@ package Shared.AS3
 			return this._bRedirectToButtonBarMenu;
 		}
 		
-		public function set bRedirectToButtonBarMenu(param1:Boolean) : *
+		public function set bRedirectToButtonBarMenu(abRedirectToButtonBarMenu:Boolean) : *
 		{
-			if(this._bRedirectToButtonBarMenu != param1)
+			if(this._bRedirectToButtonBarMenu != abRedirectToButtonBarMenu)
 			{
-				this._bRedirectToButtonBarMenu = param1;
+				this._bRedirectToButtonBarMenu = abRedirectToButtonBarMenu;
 				SetIsDirty();
 			}
 		}
@@ -65,11 +65,11 @@ package Shared.AS3
 			return this._backgroundColor;
 		}
 		
-		public function set BackgroundColor(param1:uint) : *
+		public function set BackgroundColor(abBackgroundColor:uint) : *
 		{
-			if(this._backgroundColor != param1)
+			if(this._backgroundColor != abBackgroundColor)
 			{
-				this._backgroundColor = param1;
+				this._backgroundColor = abBackgroundColor;
 				SetIsDirty();
 			}
 		}
@@ -79,11 +79,11 @@ package Shared.AS3
 			return this._backgroundAlpha;
 		}
 		
-		public function set BackgroundAlpha(param1:Number) : *
+		public function set BackgroundAlpha(abBackgroundAlpha:Number) : *
 		{
-			if(this._backgroundAlpha != param1)
+			if(this._backgroundAlpha != abBackgroundAlpha)
 			{
-				this._backgroundAlpha = param1;
+				this._backgroundAlpha = abBackgroundAlpha;
 			}
 		}
 		
@@ -92,9 +92,9 @@ package Shared.AS3
 			return this._bShowBrackets_Override;
 		}
 		
-		override public function set bShowBrackets(param1:Boolean) : *
+		override public function set bShowBrackets(abShowBrackets:Boolean) : *
 		{
-			this._bShowBrackets_Override = param1;
+			this._bShowBrackets_Override = abShowBrackets;
 			SetIsDirty();
 		}
 		
@@ -103,9 +103,9 @@ package Shared.AS3
 			return this._bUseShadedBackground_Override;
 		}
 		
-		override public function set bUseShadedBackground(param1:Boolean) : *
+		override public function set bUseShadedBackground(abUseShadedBackground:Boolean) : *
 		{
-			this._bUseShadedBackground_Override = param1;
+			this._bUseShadedBackground_Override = abUseShadedBackground;
 			SetIsDirty();
 		}
 		
@@ -116,39 +116,38 @@ package Shared.AS3
 		
 		override public function onAcquiredByNativeCode() : *
 		{
-			var _loc1_:Vector.<BSButtonHintData> = null;
+			var emptyButtonHintDataV:Vector.<BSButtonHintData> = null;
 			super.onAcquiredByNativeCode();
 			if(this.bRedirectToButtonBarMenu)
 			{
 				this.SetButtonHintData(this._buttonHintDataV);
-				_loc1_ = new Vector.<BSButtonHintData>();
-				this.SetButtonHintData_Impl(_loc1_);
+				emptyButtonHintDataV = new Vector.<BSButtonHintData>();
+				this.SetButtonHintData_Impl(emptyButtonHintDataV);
 				SetIsDirty();
 			}
 		}
 		
-		private function SetButtonHintData_Impl(param1:Vector.<BSButtonHintData>) : void
+		private function SetButtonHintData_Impl(abuttonHintDataV:Vector.<BSButtonHintData>) : void
 		{
-			var abuttonHintDataV:Vector.<BSButtonHintData> = param1;
-			this._buttonHintDataV.forEach(function(param1:BSButtonHintData, param2:int, param3:Vector.<BSButtonHintData>):*
+			this._buttonHintDataV.forEach(function(item:BSButtonHintData, index:int, vector:Vector.<BSButtonHintData>):*
 			{
-				if(param1)
+				if(item)
 				{
-					param1.removeEventListener(BSButtonHintData.BUTTON_HINT_DATA_CHANGE,this.onButtonHintDataDirtyEvent);
+					item.removeEventListener(BSButtonHintData.BUTTON_HINT_DATA_CHANGE,this.onButtonHintDataDirtyEvent);
 				}
 			},this);
 			this._buttonHintDataV = abuttonHintDataV;
-			this._buttonHintDataV.forEach(function(param1:BSButtonHintData, param2:int, param3:Vector.<BSButtonHintData>):*
+			this._buttonHintDataV.forEach(function(item:BSButtonHintData, index:int, vector:Vector.<BSButtonHintData>):*
 			{
-				if(param1)
+				if(item)
 				{
-					param1.addEventListener(BSButtonHintData.BUTTON_HINT_DATA_CHANGE,this.onButtonHintDataDirtyEvent);
+					item.addEventListener(BSButtonHintData.BUTTON_HINT_DATA_CHANGE,this.onButtonHintDataDirtyEvent);
 				}
 			},this);
 			this.CreateButtonHints();
 		}
 		
-		public function onButtonHintDataDirtyEvent(param1:Event) : void
+		public function onButtonHintDataDirtyEvent(arEvent:Event) : void
 		{
 			SetIsDirty();
 		}
@@ -167,50 +166,59 @@ package Shared.AS3
 					this.ButtonPoolV.push(new BSButtonHint());
 				}
 			}
-			var _loc1_:int = 0;
-			while(_loc1_ < this.ButtonPoolV.length)
+			for(var i:int = 0; i < this.ButtonPoolV.length; i++)
 			{
-				this.ButtonPoolV[_loc1_].ButtonHintData = _loc1_ < this._buttonHintDataV.length?this._buttonHintDataV[_loc1_]:null;
-				_loc1_++;
+				this.ButtonPoolV[i].ButtonHintData = i < this._buttonHintDataV.length?this._buttonHintDataV[i]:null;
 			}
 			SetIsDirty();
 		}
 		
 		override public function redrawUIComponent() : void
 		{
-			var _loc5_:BSButtonHint = null;
-			var _loc6_:Rectangle = null;
-			var _loc7_:Graphics = null;
+			var curButtonHelp:BSButtonHint = null;
+			var ourBounds:Rectangle = null;
+			var bgGraphics:Graphics = null;
 			super.redrawUIComponent();
 			if(this.ShadedBackground_mc && contains(this.ShadedBackground_mc))
 			{
 				removeChild(this.ShadedBackground_mc);
 			}
-			var _loc1_:* = false;
-			var _loc2_:Number = 0;
-			var _loc3_:Number = 0;
-			while(_loc3_ < this.ButtonPoolV.length)
+			var bHasVisibleButtons:* = false;
+			var nextX:Number = 0;
+			var nextRightAlignedX:Number = 0;
+			if(CompanionAppMode.isOn)
 			{
-				_loc5_ = this.ButtonPoolV[_loc3_];
-				if(_loc5_.ButtonVisible && this.CanBeVisible())
+				nextRightAlignedX = stage.stageWidth - 75;
+			}
+			for(var i:Number = 0; i < this.ButtonPoolV.length; i++)
+			{
+				curButtonHelp = this.ButtonPoolV[i];
+				if(curButtonHelp.ButtonVisible && this.CanBeVisible())
 				{
-					_loc1_ = true;
-					if(!this.ButtonHintBarInternal_mc.contains(_loc5_))
+					bHasVisibleButtons = true;
+					if(!this.ButtonHintBarInternal_mc.contains(curButtonHelp))
 					{
-						this.ButtonHintBarInternal_mc.addChild(_loc5_);
+						this.ButtonHintBarInternal_mc.addChild(curButtonHelp);
 					}
-					if(_loc5_.bIsDirty)
+					if(curButtonHelp.bIsDirty)
 					{
-						_loc5_.redrawUIComponent();
+						curButtonHelp.redrawUIComponent();
 					}
-					_loc5_.x = _loc2_;
-					_loc2_ = _loc2_ + (_loc5_.width + 20);
+					if(CompanionAppMode.isOn && curButtonHelp.Justification == BSButtonHint.JUSTIFY_RIGHT)
+					{
+						nextRightAlignedX = nextRightAlignedX - curButtonHelp.width;
+						curButtonHelp.x = nextRightAlignedX;
+					}
+					else
+					{
+						curButtonHelp.x = nextX;
+						nextX = nextX + (curButtonHelp.width + 20);
+					}
 				}
-				else if(this.ButtonHintBarInternal_mc.contains(_loc5_))
+				else if(this.ButtonHintBarInternal_mc.contains(curButtonHelp))
 				{
-					this.ButtonHintBarInternal_mc.removeChild(_loc5_);
+					this.ButtonHintBarInternal_mc.removeChild(curButtonHelp);
 				}
-				_loc3_++;
 			}
 			if(this.ButtonPoolV.length > this._buttonHintDataV.length)
 			{
@@ -220,9 +228,9 @@ package Shared.AS3
 			{
 				this.ButtonHintBarInternal_mc.x = -this.ButtonHintBarInternal_mc.width / 2;
 			}
-			var _loc4_:Rectangle = this.ButtonHintBarInternal_mc.getBounds(this);
-			this.ButtonBracket_Left_mc.x = _loc4_.left - this.ButtonBracket_Left_mc.width;
-			this.ButtonBracket_Right_mc.x = _loc4_.right;
+			var internalBounds:Rectangle = this.ButtonHintBarInternal_mc.getBounds(this);
+			this.ButtonBracket_Left_mc.x = internalBounds.left - this.ButtonBracket_Left_mc.width;
+			this.ButtonBracket_Right_mc.x = internalBounds.right;
 			this.ButtonBracket_Left_mc.visible = this.bShowBrackets && !CompanionAppMode.isOn;
 			this.ButtonBracket_Right_mc.visible = this.bShowBrackets && !CompanionAppMode.isOn;
 			if(ShadedBackgroundMethod == "Flash" && this.bUseShadedBackground)
@@ -231,15 +239,15 @@ package Shared.AS3
 				{
 					this.ShadedBackground_mc = new MovieClip();
 				}
-				_loc6_ = getBounds(this);
+				ourBounds = getBounds(this);
 				addChildAt(this.ShadedBackground_mc,0);
-				_loc7_ = this.ShadedBackground_mc.graphics;
-				_loc7_.clear();
-				_loc7_.beginFill(this.BackgroundColor,this.BackgroundAlpha);
-				_loc7_.drawRect(_loc6_.x,_loc6_.y,_loc6_.width,_loc6_.height);
-				_loc7_.endFill();
+				bgGraphics = this.ShadedBackground_mc.graphics;
+				bgGraphics.clear();
+				bgGraphics.beginFill(this.BackgroundColor,this.BackgroundAlpha);
+				bgGraphics.drawRect(ourBounds.x,ourBounds.y,ourBounds.width,ourBounds.height);
+				bgGraphics.endFill();
 			}
-			visible = _loc1_;
+			visible = bHasVisibleButtons;
 		}
 	}
 }

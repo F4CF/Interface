@@ -11,15 +11,15 @@ package Shared
 		
 		var _target:MovieClip;
 		
-		public function PlatformRequestEvent(param1:MovieClip)
+		public function PlatformRequestEvent(aTarget:MovieClip)
 		{
 			super(PLATFORM_REQUEST);
-			this._target = param1;
+			this._target = aTarget;
 		}
 		
-		public function RespondToRequest(param1:uint, param2:Boolean) : *
+		public function RespondToRequest(auiPlatform:uint, abPS3Switch:Boolean) : *
 		{
-			this._target.SetPlatform(param1,param2);
+			this._target.SetPlatform(auiPlatform,abPS3Switch);
 		}
 	}
 }

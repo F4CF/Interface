@@ -24,11 +24,11 @@ package Shared
 		
 		var _bPS3Switch:Boolean = false;
 		
-		public function PlatformChangeEvent(param1:uint, param2:Boolean)
+		public function PlatformChangeEvent(auiPlatform:uint, abPS3Switch:Boolean)
 		{
 			super(PLATFORM_CHANGE,true,true);
-			this.uiPlatform = param1;
-			this.bPS3Switch = param2;
+			this.uiPlatform = auiPlatform;
+			this.bPS3Switch = abPS3Switch;
 		}
 		
 		public function get uiPlatform() : *
@@ -36,9 +36,9 @@ package Shared
 			return this._uiPlatform;
 		}
 		
-		public function set uiPlatform(param1:uint) : *
+		public function set uiPlatform(auiPlatform:uint) : *
 		{
-			this._uiPlatform = param1;
+			this._uiPlatform = auiPlatform;
 		}
 		
 		public function get bPS3Switch() : *
@@ -46,9 +46,9 @@ package Shared
 			return this._bPS3Switch;
 		}
 		
-		public function set bPS3Switch(param1:Boolean) : *
+		public function set bPS3Switch(abPS3Switch:Boolean) : *
 		{
-			this._bPS3Switch = param1;
+			this._bPS3Switch = abPS3Switch;
 		}
 	}
 }
