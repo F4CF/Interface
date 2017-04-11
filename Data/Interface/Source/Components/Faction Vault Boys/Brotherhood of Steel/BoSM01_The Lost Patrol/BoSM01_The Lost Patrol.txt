@@ -1,0 +1,15 @@
+FileName:'E:\Software\Adobe\Flash\JPEXS\10.0.0\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\Components\Faction Vault boys\Brotherhood of Steel\BoSM01_The Lost Patrol" "BoSM01_The Lost Patrol.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface\Components\Faction Vault boys\Brotherhood of Steel'
+==================================================
+JPEXS Free Flash Decompiler v.10.0.0
+------------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.701
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 0073006F 22C3:B150
+D:.
+    BoSM01_The Lost Patrol.fla
+    
+No subfolders exist 

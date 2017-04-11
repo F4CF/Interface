@@ -1,0 +1,15 @@
+FileName:'E:\Software\Adobe\Flash\JPEXS\10.0.0\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\Components\Quest Vault Boys\Act 2 Quest\MQ205_Hunter-Hunted" "MQ205_Hunter-Hunted.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface\Components\Quest Vault Boys\Act 2 Quest'
+==================================================
+JPEXS Free Flash Decompiler v.10.0.0
+------------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.936
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 0048002D 22C3:B150
+D:.
+    MQ205_Hunter-Hunted.fla
+    
+No subfolders exist 

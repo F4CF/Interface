@@ -1,0 +1,15 @@
+FileName:'E:\Software\Adobe\Flash\JPEXS\10.0.0\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\Components\VaultBoys\Perks\PerkClip_1d2461" "PerkClip_1d2461.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface\Components\VaultBoys\Perks'
+==================================================
+JPEXS Free Flash Decompiler v.10.0.0
+------------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.560
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00360034 22C3:B150
+D:.
+    PerkClip_1d2461.fla
+    
+No subfolders exist 

@@ -1,0 +1,15 @@
+FileName:'E:\Software\Adobe\Flash\JPEXS\10.0.0\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\Components\Faction Vault boys\the Institute\InstM03_A House Divided" "InstM03_A House Divided.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface\Components\Faction Vault boys\the Institute'
+==================================================
+JPEXS Free Flash Decompiler v.10.0.0
+------------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:01.958
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00730075 22C3:B150
+D:.
+    InstM03_A House Divided.fla
+    
+No subfolders exist 
