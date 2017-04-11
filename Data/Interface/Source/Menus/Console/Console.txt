@@ -1,0 +1,28 @@
+FileName:'E:\Software\Adobe\Flash\JPEXS\10.0.0\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\Console" "Console.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.10.0.0
+------------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.405
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00000200 22C3:B150
+D:.
+|   Console.as
+|   Console.fla
+|   
++---Console_fla
+|       Console_1.as
+|       
++---scaleform
+|   \---gfx
+|           DisplayObjectEx.as
+|           Extensions.as
+|           InteractiveObjectEx.as
+|           TextFieldEx.as
+|           
+\---Shared
+        GlobalFunc.as
+        
