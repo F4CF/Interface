@@ -1,0 +1,17 @@
+FileName:'E:\Software\Adobe\Flash\JPEXS\10.0.0\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\fonts_console" "fonts_console.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.10.0.0
+------------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.421
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00000065 22C3:B150
+D:.
+    $ConsoleFont.as
+    $DebugTextFont.as
+    fonts_console.fla
+    
+No subfolders exist 
