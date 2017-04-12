@@ -1,0 +1,65 @@
+FileName:'E:\Software\Adobe\Flash\JPEXS\10.0.0\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\MapMarkers" "MapMarkers.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.10.0.0
+------------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.660
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00000200 22C3:B150
+D:.
+    AirfieldMarker.as
+    BunkerHillMarker.as
+    CamperMarker.as
+    CarMarker.as
+    CaveMarker.as
+    ChurchMarker.as
+    CityMarker.as
+    CountryClubMarker.as
+    CustomHouseMarker.as
+    DiamondCityMarker.as
+    DriveInMarker.as
+    ElevatedHighwayMarker.as
+    EncampmentMarker.as
+    FactoryMarker.as
+    FaneuilHallMarker.as
+    FarmMarker.as
+    FillingStationMarker.as
+    ForestedMarker.as
+    GoodneighborMarker.as
+    GraveyardMarker.as
+    HospitalMarker.as
+    IndustrialDomeMarker.as
+    IndustrialStacksMarker.as
+    InstituteMarker.as
+    IrishPrideMarker.as
+    JunkyardMarker.as
+    LandmarkMarker.as
+    MapMarkers.fla
+    MetroMarker.as
+    MilitaryBaseMarker.as
+    MonumentMarker.as
+    ObservatoryMarker.as
+    OfficeMarker.as
+    PierMarker.as
+    PondLakeMarker.as
+    QuarryMarker.as
+    RadioactiveAreaMarker.as
+    RadioTowerMarker.as
+    SalemMarker.as
+    SancHillsMarker.as
+    SchoolMarker.as
+    SettlementMarker.as
+    SewerMarker.as
+    ShipwreckMarker.as
+    SubmarineMarker.as
+    SwanPondMarker.as
+    SynthHeadMarker.as
+    TownMarker.as
+    TownRuinsMarker.as
+    UrbanRuinsMarker.as
+    VaultMarker.as
+    
+No subfolders exist 
