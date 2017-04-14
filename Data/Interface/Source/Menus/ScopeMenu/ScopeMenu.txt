@@ -1,0 +1,40 @@
+FileName:'E:\Software\Adobe\Flash\JPEXS\10.0.0\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\ScopeMenu" "ScopeMenu.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.10.0.0
+------------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:00.710
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00000200 22C3:B150
+D:.
+|   ScopeMenu.as
+|   ScopeMenu.fla
+|   
++---scaleform
+|   \---gfx
+|           Extensions.as
+|           
++---ScopeMenu_fla
+|       BSButtonHint_IconHolder_29.as
+|       Level01_9.as
+|       
+\---Shared
+    |   GlobalFunc.as
+    |   IMenu.as
+    |   PlatformChangeEvent.as
+    |   PlatformRequestEvent.as
+    |   
+    \---AS3
+        |   BSBracketClip.as
+        |   BSButtonHint.as
+        |   BSButtonHintBar.as
+        |   BSButtonHintData.as
+        |   BSUIComponent.as
+        |   
+        \---COMPANIONAPP
+                CompanionAppMode.as
+                MobileButtonHint.as
+                
