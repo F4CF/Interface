@@ -27,6 +27,8 @@ package Shared.AS3.COMPANIONAPP
 		
 		public static const RADIO_ENTRY_LINKAGE_ID:String = "RadioListEntry";
 		
+		public static const PIPBOY_MESSAGE_ENTRY_LINKAGE_ID:String = "MessageBoxButtonEntry";
+		
 		public static const STATS_SPECIAL_RENDERER_LINKAGE_ID:String = "SPECIALItemRendererMc";
 		
 		public static const STATS_PERKS_RENDERER_LINKAGE_ID:String = "PerksItemRendererMc";
@@ -46,6 +48,8 @@ package Shared.AS3.COMPANIONAPP
 		public static const QUEST_OBJECTIVES_RENDERER_LINKAGE_ID:String = "QuestsObjectivesItemRendererMc";
 		
 		public static const RADIO_RENDERER_LINKAGE_ID:String = "RadioItemRendererMc";
+		
+		public static const PIPBOY_MESSAGE_RENDERER_LINKAGE_ID:String = "PipboyMessageItemRenderer";
 		 
 		
 		public function BSScrollingListInterface()
@@ -136,6 +140,14 @@ package Shared.AS3.COMPANIONAPP
 					_loc2_.maskDimension = 400;
 					_loc2_.scrollDirection = MobileScrollList.VERTICAL;
 					_loc2_.spaceBetweenButtons = 1.4;
+					_loc2_.clickable = true;
+					_loc2_.reversed = false;
+					break;
+				case PIPBOY_MESSAGE_ENTRY_LINKAGE_ID:
+					_loc2_.linkageId = PIPBOY_MESSAGE_RENDERER_LINKAGE_ID;
+					_loc2_.maskDimension = 150;
+					_loc2_.scrollDirection = MobileScrollList.VERTICAL;
+					_loc2_.spaceBetweenButtons = 4;
 					_loc2_.clickable = true;
 					_loc2_.reversed = false;
 					break;

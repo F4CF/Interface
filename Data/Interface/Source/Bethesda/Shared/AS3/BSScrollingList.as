@@ -84,6 +84,8 @@ package Shared.AS3
 		
 		protected var bDisableSelection:Boolean;
 		
+		protected var bAllowWheelScrollNoSelectionChange:Boolean;
+		
 		protected var bDisableInput:Boolean;
 		
 		protected var bReverseList:Boolean;
@@ -101,6 +103,7 @@ package Shared.AS3
 			this.uiNumListItems = 0;
 			this.bRestoreListIndex = true;
 			this.bDisableSelection = false;
+			this.bAllowWheelScrollNoSelectionChange = false;
 			this.bDisableInput = false;
 			this.bMouseDrivenNav = false;
 			this.bReverseList = false;
@@ -135,7 +138,7 @@ package Shared.AS3
 		
 		private function get needMobileScrollList() : Boolean
 		{
-			return CompanionAppMode.isOn && this._itemRendererClassName != "MessageBoxButtonEntry";
+			return CompanionAppMode.isOn;
 		}
 		
 		public function onComponentInit(param1:Event) : *
@@ -186,23 +189,26 @@ package Shared.AS3
 		
 		public function onScrollArrowClick(param1:Event) : *
 		{
-			this.doSetSelectedIndex(-1);
-			if(param1.target == this.ScrollUp)
+			if(!this.bDisableInput && !this.bDisableSelection)
 			{
-				this.scrollPosition = this.scrollPosition - 1;
+				this.doSetSelectedIndex(-1);
+				if(param1.target == this.ScrollUp || param1.target.parent == this.ScrollUp)
+				{
+					this.scrollPosition = this.scrollPosition - 1;
+				}
+				else if(param1.target == this.ScrollDown || param1.target.parent == this.ScrollDown)
+				{
+					this.scrollPosition = this.scrollPosition + 1;
+				}
+				param1.stopPropagation();
 			}
-			else if(param1.target == this.ScrollDown)
-			{
-				this.scrollPosition = this.scrollPosition + 1;
-			}
-			param1.stopPropagation();
 		}
 		
 		public function onEntryRollover(param1:Event) : *
 		{
 			var _loc2_:* = undefined;
 			this.bMouseDrivenNav = true;
-			if(!this.bDisableInput)
+			if(!this.bDisableInput && !this.bDisableSelection)
 			{
 				_loc2_ = this.iSelectedIndex;
 				this.doSetSelectedIndex((param1.currentTarget as BSScrollingListEntry).itemIndex);
@@ -274,7 +280,7 @@ package Shared.AS3
 		public function onMouseWheel(param1:MouseEvent) : *
 		{
 			var _loc2_:* = undefined;
-			if(!this.bDisableInput && this.iMaxScrollPosition > 0)
+			if(!this.bDisableInput && (!this.bDisableSelection || this.bAllowWheelScrollNoSelectionChange) && this.iMaxScrollPosition > 0)
 			{
 				_loc2_ = this.scrollPosition;
 				if(param1.delta < 0)
@@ -587,6 +593,11 @@ package Shared.AS3
 		public function set disableSelection(param1:Boolean) : *
 		{
 			this.bDisableSelection = param1;
+		}
+		
+		public function set allowWheelScrollNoSelectionChange(param1:Boolean) : *
+		{
+			this.bAllowWheelScrollNoSelectionChange = param1;
 		}
 		
 		protected function SetNumListItems(param1:uint) : *
@@ -949,6 +960,10 @@ package Shared.AS3
 		protected function onMobileScrollListItemSelected(param1:EventWithParams) : void
 		{
 			var _loc2_:MobileListItemRenderer = param1.params.renderer as MobileListItemRenderer;
+			if(_loc2_.data == null)
+			{
+				return;
+			}
 			var _loc3_:int = _loc2_.data.id;
 			var _loc4_:* = this.iSelectedIndex;
 			this.iSelectedIndex = this.GetEntryFromClipIndex(_loc3_);
@@ -968,9 +983,13 @@ package Shared.AS3
 				{
 					this.iSelectedClipIndex = this.iSelectedIndex != -1?int(this.EntriesA[this.iSelectedIndex].clipIndex):-1;
 					dispatchEvent(new Event(SELECTION_CHANGE,true,true));
+					if(this.scrollList.itemRendererLinkageId == BSScrollingListInterface.PIPBOY_MESSAGE_RENDERER_LINKAGE_ID)
+					{
+						this.onItemPress();
+					}
 					dispatchEvent(new Event(MOBILE_ITEM_PRESS,true,true));
 				}
-				else if(this.scrollList.itemRendererLinkageId == BSScrollingListInterface.RADIO_RENDERER_LINKAGE_ID || this.scrollList.itemRendererLinkageId == BSScrollingListInterface.QUEST_RENDERER_LINKAGE_ID || this.scrollList.itemRendererLinkageId == BSScrollingListInterface.QUEST_OBJECTIVES_RENDERER_LINKAGE_ID || this.scrollList.itemRendererLinkageId == BSScrollingListInterface.INVENTORY_RENDERER_LINKAGE_ID)
+				else if(this.scrollList.itemRendererLinkageId == BSScrollingListInterface.RADIO_RENDERER_LINKAGE_ID || this.scrollList.itemRendererLinkageId == BSScrollingListInterface.QUEST_RENDERER_LINKAGE_ID || this.scrollList.itemRendererLinkageId == BSScrollingListInterface.QUEST_OBJECTIVES_RENDERER_LINKAGE_ID || this.scrollList.itemRendererLinkageId == BSScrollingListInterface.INVENTORY_RENDERER_LINKAGE_ID || this.scrollList.itemRendererLinkageId == BSScrollingListInterface.PIPBOY_MESSAGE_RENDERER_LINKAGE_ID)
 				{
 					this.onItemPress();
 				}

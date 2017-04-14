@@ -1,6 +1,7 @@
 package Mobile.ScrollList
 {
 	import Shared.AS3.BSScrollingList;
+	import Shared.BGSExternalInterface;
 	import flash.display.MovieClip;
 	import flash.display.Sprite;
 	import flash.events.Event;
@@ -168,6 +169,7 @@ package Mobile.ScrollList
 			{
 				this._selectedIndex = -1;
 				this._position = NaN;
+				this.setPosition();
 			}
 		}
 		
@@ -329,7 +331,7 @@ package Mobile.ScrollList
 			}
 			if(this._deltaBetweenButtons > 0)
 			{
-				this._touchZone = this.createSprite(16776960,new Rectangle(this._scrollList.x,this._scrollList.y,this._scrollList.width,this._scrollList.height),0);
+				this._touchZone = this.createSprite(16776960,new Rectangle(0,0,this._scrollList.width,this._scrollList.height),0);
 				this._scrollList.addChildAt(this._touchZone,0);
 			}
 			this._bounds = this._direction == HORIZONTAL?new Rectangle(0,0,this._scrollDim,this._rendererRect.height):new Rectangle(0,0,this._rendererRect.width,this._scrollDim);
@@ -520,7 +522,7 @@ package Mobile.ScrollList
 		
 		protected function resetPressState(param1:MobileListItemRenderer) : void
 		{
-			if(param1 != null)
+			if(param1 != null && param1.data != null)
 			{
 				if(this.selectedIndex == param1.data.id)
 				{
@@ -678,6 +680,7 @@ package Mobile.ScrollList
 				this._mouseDownPos = this._direction == HORIZONTAL?Number(this._scrollList.x):Number(this._scrollList.y);
 				this._scrollList.stage.addEventListener(MouseEvent.MOUSE_UP,this.mouseUpHandler,false,0,true);
 				this._scrollList.stage.addEventListener(MouseEvent.MOUSE_MOVE,this.mouseMoveHandler,false,0,true);
+				BGSExternalInterface.call(null,"OnScrollingStarted");
 			}
 		}
 		
@@ -759,6 +762,7 @@ package Mobile.ScrollList
 				this._mouseDown = false;
 				this._scrollList.stage.removeEventListener(MouseEvent.MOUSE_UP,this.mouseUpHandler);
 				this._scrollList.stage.removeEventListener(MouseEvent.MOUSE_MOVE,this.mouseMoveHandler);
+				BGSExternalInterface.call(null,"OnScrollingStopped");
 			}
 		}
 		
