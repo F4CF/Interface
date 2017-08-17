@@ -1,5 +1,7 @@
 package Shared
 {
+	import flash.external.ExternalInterface;
+	
 	public class BGSExternalInterface
 	{
 		 
@@ -13,6 +15,18 @@ package Shared
 		{
 			var _loc3_:String = null;
 			var _loc4_:Function = null;
+			if(AS3.COMPANIONAPP.CompanionAppMode.isOn)
+			{
+				if(ExternalInterface.available)
+				{
+					ExternalInterface.call.apply(null,rest);
+				}
+				else
+				{
+					trace("BGSExternalInterface::call -- ExternalInterface is not available!");
+				}
+				return;
+			}
 			if(param1 != null)
 			{
 				_loc3_ = rest.shift();

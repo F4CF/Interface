@@ -1,0 +1,106 @@
+FileName:'E:\Software\Adobe\Flash\JPEXS\10.0.0\ffdec.bat'
+Arguments:'-export fla "D:\Games\Steam\steamapps\common\Fallout 4\Output\Decompiled\Fallout4 - Interface\Interface\ExamineMenu" "ExamineMenu.swf"'
+Working:'D:\Games\Steam\steamapps\common\Fallout 4\Output\Extracted\Fallout4 - Interface\Interface'
+==================================================
+JPEXS Free Flash Decompiler v.10.0.0
+------------------------------------
+Exporting FLA...
+Export finished. Total export time: 00:01.614
+OK
+Folder PATH listing for volume Storage
+Volume serial number is 00000200 22C3:B150
+D:.
+|   ConfirmPanel.as
+|   ConfirmPanelComponentEntry.as
+|   ConfirmPanelComponentSourceEntry.as
+|   CurrentModList.as
+|   CurrentModListEntry.as
+|   ExamineMenu.as
+|   ExamineMenu.fla
+|   ExamineMenuList.as
+|   FeaturedItemVaultboy.as
+|   InvListEntry.as
+|   ItemCard_AmmoEntry.as
+|   ItemCard_MultiEntry_Value.as
+|   ItemCard_StandardEntry.as
+|   ItemSelectList.as
+|   ItemSelectListEntry.as
+|   ListInfoObject.as
+|   MessageBoxButtonList.as
+|   ModListEntry.as
+|   ModPartList.as
+|   ModPartListEntry.as
+|   PerkLoaderClip.as
+|   PropertyModList.as
+|   PropertyModListEntry.as
+|   QuestImageInternal.as
+|   RequirementList.as
+|   RequirementListEntry.as
+|   RightHandList.as
+|   VaultBoyImageInternal.as
+|   VignetteMenu.as
+|   
++---Components
+|       ItemCard.as
+|       ItemCard_ComponentEntry_Entry.as
+|       ItemCard_ComponentsEntry.as
+|       ItemCard_DescriptionEntry.as
+|       ItemCard_Entry.as
+|       ItemCard_MultiEntry.as
+|       ItemCard_MultiEntry_Value.as
+|       ItemCard_TimedEntry.as
+|       SWFLoaderClip.as
+|       TextEntry.as
+|       
++---ExamineMenu_fla
+|       BSButtonHint_IconHolder_32.as
+|       DamageIcons_57.as
+|       InventoryListBase_24.as
+|       ItemCard_Comparison_54.as
+|       List2Icon_36.as
+|       ModsBase_5.as
+|       ModSelectedIcon_80.as
+|       ModSlotBase_21.as
+|       VaultBoySafeRectGroup_2.as
+|       
++---Mobile
+|   \---ScrollList
+|           EventWithParams.as
+|           FlashUtil.as
+|           MobileListItemRenderer.as
+|           MobileScrollList.as
+|           
++---scaleform
+|   \---gfx
+|           DisplayObjectEx.as
+|           Extensions.as
+|           InteractiveObjectEx.as
+|           TextFieldEx.as
+|           
+\---Shared
+    |   BGSExternalInterface.as
+    |   GlobalFunc.as
+    |   IMenu.as
+    |   ModMenuConfirmListEntry.as
+    |   PlatformChangeEvent.as
+    |   PlatformRequestEvent.as
+    |   UpdateEventList.as
+    |   
+    \---AS3
+        |   BSBracketClip.as
+        |   BSButtonHint.as
+        |   BSButtonHintBar.as
+        |   BSButtonHintData.as
+        |   BSScrollingList.as
+        |   BSScrollingListEntry.as
+        |   BSScrollingListFadeEntry.as
+        |   BSUIComponent.as
+        |   ListFilterer.as
+        |   VaultBoyImageLoader.as
+        |   
+        \---COMPANIONAPP
+                BSScrollingListInterface.as
+                CompanionAppMode.as
+                MobileButtonHint.as
+                MobileScrollListProperties.as
+                
