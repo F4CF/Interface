@@ -1,0 +1,15 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ExamineMenu/VaultBoySafeRectGroup/VaultBoyImageInternal" itemID="5dd84748-000002f8" linkageExportForAS="true" linkageClassName="VaultBoyImageInternal" lastModified="1574558757">
+  <timeline>
+    <DOMTimeline name="VaultBoyImageInternal">
+      <layers>
+        <DOMLayer name="Empty" color="#00FFFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

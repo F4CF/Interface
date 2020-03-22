@@ -1,0 +1,31 @@
+<DOMDocument xmlns="http://ns.adobe.com/xfl/2008/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" currentTimeline="1" xflVersion="2.4" creatorInfo="JPEXS Free Flash Decompiler" platform="Windows" versionInfo="Saved by JPEXS Free Flash Decompiler v.11.2.0" majorVersion="11.2.0" buildNumber="" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" backgroundColor="#999999" frameRate="30" width="1280" height="800">
+  <symbols>
+    <Include href="Symbol 2.xml" loadImmediate="false" lastModified="1571730685"/>
+    <Include href="Symbol 10.xml" itemIcon="1" loadImmediate="false" lastModified="1571730685"/>
+    <Include href="Symbol 12.xml" loadImmediate="false" lastModified="1571730685"/>
+    <Include href="Symbol 13.xml" loadImmediate="false" lastModified="1571730685"/>
+    <Include href="Symbol 14.xml" loadImmediate="false" lastModified="1571730685"/>
+  </symbols>
+  <timelines>
+    <DOMTimeline name="Scene 1">
+      <layers>
+                    <DOMLayer name="Layer 1" color="#b16aad" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+  <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 14" name="Menu_mc" centerPoint3DX="640.0" centerPoint3DY="400.0">
+  <matrix>
+    <Matrix tx="0.0" ty="0.0"/>
+  </matrix>
+  <transformationPoint>
+    <Point/>
+  </transformationPoint>
+</DOMSymbolInstance>
+                                   </elements>
+</DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+    </DOMTimeline>
+  </timelines>
+</DOMDocument>

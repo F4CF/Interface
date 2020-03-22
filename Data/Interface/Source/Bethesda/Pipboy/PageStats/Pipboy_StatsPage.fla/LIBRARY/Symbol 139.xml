@@ -1,0 +1,88 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 139" itemID="5dc02675-0000005a" linkageExportForAS="true" linkageClassName="ActiveEffectsWidget" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 139">
+      <layers>
+        <DOMLayer name="Layer 1" color="#5D9CBC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 138" name="EntryHolder_mc" centerPoint3DX="77.9" centerPoint3DY="11.9">
+                  <matrix>
+                    <Matrix tx="77.9" ty="11.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#DFCB41">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 137" name="TimerIcon_mc" centerPoint3DX="58.45" centerPoint3DY="58.5">
+                  <matrix>
+                    <Matrix a="0.830551147460938" d="0.833328247070313" tx="48" ty="48"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#7F4AC1">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 135" name="Icon_mc" centerPoint3DX="55" centerPoint3DY="58.3">
+                  <matrix>
+                    <Matrix a="1.28073120117188" d="1.28244018554688" tx="28.45" ty="31.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#5283FB">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 2" name="EffectsBackground_mc" centerPoint3DX="112.5" centerPoint3DY="50.5">
+                  <matrix>
+                    <Matrix a="7.37002563476563" d="0.589996337890625" tx="62"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#DB5497" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 2" name="IconBackground_mc" centerPoint3DX="50.5" centerPoint3DY="50.5">
+                  <matrix>
+                    <Matrix a="0.589996337890625" d="0.589996337890625"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

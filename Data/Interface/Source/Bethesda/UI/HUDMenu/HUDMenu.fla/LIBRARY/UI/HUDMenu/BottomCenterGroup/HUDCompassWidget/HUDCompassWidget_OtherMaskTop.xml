@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/BottomCenterGroup/HUDCompassWidget/HUDCompassWidget_OtherMaskTop" itemID="5dc286a8-0000056d" lastModified="1573033138">
+  <timeline>
+    <DOMTimeline name="HUDCompassWidget_OtherMaskTop">
+      <layers>
+        <DOMLayer name="Graphic" color="#2B8ED8" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/BottomCenterGroup/HUDCompassWidget/HUDCompassWidget_MaskGraphic" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.844451904296875" d="1.19999694824219" ty="8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

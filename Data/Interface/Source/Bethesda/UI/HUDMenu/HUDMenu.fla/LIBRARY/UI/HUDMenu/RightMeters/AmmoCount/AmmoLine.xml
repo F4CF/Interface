@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/RightMeters/AmmoCount/AmmoLine" itemID="5dc28a67-000005ad" lastModified="1573030564">
+  <timeline>
+    <DOMTimeline name="AmmoLine">
+      <layers>
+        <DOMLayer name="Graphic" color="#D2B1CC" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BorderGraphic" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="7.33332824707031" d="0.333328247070313" tx="-22"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

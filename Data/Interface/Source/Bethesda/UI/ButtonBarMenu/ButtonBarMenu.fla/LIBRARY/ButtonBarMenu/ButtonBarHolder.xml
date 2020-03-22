@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="ButtonBarMenu/ButtonBarHolder" itemID="5daff0fe-000001f8" linkageExportForAS="true" linkageClassName="ButtonBarHolder" lastModified="1572018924">
+  <timeline>
+    <DOMTimeline name="ButtonBarHolder">
+      <layers>
+        <DOMLayer name="ButtonHintBar_mc" color="#D3D352" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/BSButtonHintBar/BSButtonHintBar" name="ButtonHintBar_mc" centerPoint3DX="19.45" centerPoint3DY="-16">
+                  <matrix>
+                    <Matrix ty="-32"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,80 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Pipboy/InvPage/Components/ComponentListEntry" itemID="5db05a39-000004f3" linkageExportForAS="true" linkageClassName="ComponentListEntry" lastModified="1571893878">
+  <timeline>
+    <DOMTimeline name="ComponentListEntry">
+      <layers>
+        <DOMLayer name="SearchIcon_mc" color="#35E4B7" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Icons/SearchIcon" name="SearchIcon_mc" centerPoint3DX="360" centerPoint3DY="29.95">
+                  <matrix>
+                    <Matrix tx="350" ty="20"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="EquipIcon_mc" color="#5AC970" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/ItemCard/Entries/EquipIcon" name="EquipIcon_mc" centerPoint3DX="19.6" centerPoint3DY="25.2">
+                  <matrix>
+                    <Matrix tx="14.1" ty="19.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="textField" color="#B0DFFB" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="textField" width="431" height="36.95" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="26.25" ty="3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Heavy Combat Armor Left Leg</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="5" lineHeight="28.8" size="24" bitmapSize="480" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="border" color="#8DE1ED" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/Border" name="border" centerPoint3DX="50.5" centerPoint3DY="50.5">
+                  <matrix>
+                    <Matrix a="4.62945556640625" d="0.400009155273438"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,68 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/BottomCenterGroup/HUDCompassWidget/CompassMarker_Enemy" itemID="5dc28c7f-000005c5" linkageExportForAS="true" linkageClassName="HUDMenu_fla.CompassMarker_Enemy_148" lastModified="1573031039">
+  <timeline>
+    <DOMTimeline name="CompassMarker_Enemy">
+      <layers>
+        <DOMLayer name="Labels Layer" color="#F769D7">
+          <frames>
+            <DOMFrame index="0" name="LevelWithPlayer" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="AbovePlayer" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" name="BelowPlayer" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#79EE23">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/BottomCenterGroup/HUDCompassWidget/QuestCompassMarkers_LevelArrow" centerPoint3DX="6.15" centerPoint3DY="-19.75">
+                  <matrix>
+                    <Matrix a="-1" d="-1" ty="-23"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/BottomCenterGroup/HUDCompassWidget/QuestCompassMarkers_LevelArrow" centerPoint3DX="6.15" centerPoint3DY="-3.75">
+                  <matrix>
+                    <Matrix ty="-7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#84A9F2" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/Symbol 443" name="MarkerShape_mc" centerPoint3DX="3" centerPoint3DY="-12">
+                  <matrix>
+                    <Matrix ty="-15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

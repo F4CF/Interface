@@ -1,0 +1,112 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#333333" width="1280" height="720" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" vanishingPoint3DX="640" vanishingPoint3DY="360" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="F8ABE55568988B48BCBECE7C6AC84500">
+     <folders>
+          <DOMFolderItem name="Shared" itemID="5dc37ffd-0000017f" isExpanded="true"/>
+          <DOMFolderItem name="Shared/Fonts" itemID="5dc386f0-00000224"/>
+          <DOMFolderItem name="Shared/HotkeyIcons" itemID="5dc38038-00000186"/>
+          <DOMFolderItem name="UI" itemID="5dc37fde-00000176" isExpanded="true"/>
+          <DOMFolderItem name="UI/FavoritesMenu" itemID="5dc383ce-000001d5" isExpanded="true"/>
+          <DOMFolderItem name="UI/FavoritesMenu/FavoritesCross" itemID="5dc382fd-000001cd"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Shared/Fonts/$HandwrittenFont" itemID="5daeb3ba-0000027f" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$HandwrittenFont" linkageURL="fonts_en.swf" font="Handwritten_Institute" size="0" id="146" sourceLastImported="1571434041" embeddedCharacters="!&quot;#$%&amp;&apos;()*+,-/:;&lt;=&gt;?@[\]^_{|}~¡¢£¤§©«¬®°±²µ¶»¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿĄąĆćĈĉĔęĜĝĤĥıĴĵŁłŃńŐőŒœŚśŜŝŠšŬŭŰűŸŹźŻżŽžƒμ‘’“”†‡•€™" embedRanges="1|2|3"/>
+          <DOMFontItem name="Shared/Fonts/$MAIN_Font" itemID="5daeb3ba-00000280" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$MAIN_Font" linkageURL="fonts_en.swf" font="RobotoCondensed-Regular" size="0" id="145" sourceLastImported="1571434121" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/$MAIN_Font_Bold" itemID="5daeb429-0000029e" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$MAIN_Font_Bold" linkageURL="fonts_en.swf" font="RobotoCondensed-Bold" size="0" id="144" sourceLastImported="1571730473" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/$Terminal_Font" itemID="5db577ff-000002a4" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$Terminal_Font" linkageURL="fonts_en.swf" font="Share-TechMono" size="0" id="143" sourceLastImported="1572311706" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЀЁЍАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёѝ–—‘’‚“”„†‡•…‰‹›⁄€™Ω∂∏∑∕√∞∧∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/$Controller_Buttons" itemID="5daeb3ba-00000282" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$Controller_Buttons" linkageURL="fonts_en.swf" font="Controller--Buttons" size="0" id="142" sourceLastImported="1572311727" embedRanges="1|2"/>
+          <DOMFontItem name="Shared/Fonts/$Controller_Buttons_inverted" itemID="5daeb3ba-00000283" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$Controller_Buttons_inverted" linkageURL="fonts_en.swf" font="ControllerButtonsInverted" size="0" id="141" sourceLastImported="1572311720" embedRanges="1|2"/>
+          <DOMFontItem name="Shared/Fonts/$BRODY" itemID="5daeb3ba-00000284" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$BRODY" linkageURL="fonts_en.swf" font="Brody" size="0" id="140" sourceLastImported="1572118724" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĂăĄąĆćČčĎďĐđĘęĚěĞğİıĹĺĽľŁłŃńŇňŐőŒœŔŕŘřŚśŞşŠšŢţŤťŮůŰűŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜ΔΣΩμπ–—‗‘’‚“”„†‡•…‰‹›‼ⁿ₣™Ω←→∂∏∕√∞∫≠≤≥■" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/$CClub_Font" itemID="5daeb3ba-00000285" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$CClub_Font" linkageURL="fonts_en.swf" font="Eurostile-LT-Cyr-Std" size="0" id="139" sourceLastImported="1571433864" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/$CClub_Font_Bold" itemID="5daeb3ba-00000286" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$CClub_Font_Bold" linkageURL="fonts_en.swf" font="Eurostile-Cyr-Std" size="0" id="138" sourceLastImported="1571730098" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+     </fonts>
+     <symbols>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons.xml" itemID="5dc3808e-0000018a" lastModified="1573093673"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_4.xml" loadImmediate="false" itemID="5dc38260-000001c7" lastModified="1573093984"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_6.xml" loadImmediate="false" itemID="5dc3825e-000001c6" lastModified="1573093982"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_8.xml" loadImmediate="false" itemID="5dc3825c-000001c5" lastModified="1573093980"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_10.xml" loadImmediate="false" itemID="5dc3825a-000001c4" lastModified="1573093978"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_12.xml" loadImmediate="false" itemID="5dc38259-000001c3" lastModified="1573093977"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_14.xml" loadImmediate="false" itemID="5dc38257-000001c2" lastModified="1573093975"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_16.xml" loadImmediate="false" itemID="5dc38255-000001c1" lastModified="1573093973"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_18.xml" loadImmediate="false" itemID="5dc38253-000001c0" lastModified="1573093971"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_20.xml" loadImmediate="false" itemID="5dc38251-000001bf" lastModified="1573093969"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_22.xml" loadImmediate="false" itemID="5dc3824f-000001be" lastModified="1573093967"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_24.xml" loadImmediate="false" itemID="5dc3824c-000001bd" lastModified="1573093964"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_26.xml" loadImmediate="false" itemID="5dc3824a-000001bc" lastModified="1573093962"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_28.xml" loadImmediate="false" itemID="5dc38248-000001bb" lastModified="1573093960"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_30.xml" loadImmediate="false" itemID="5dc38246-000001ba" lastModified="1573093958"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_32.xml" loadImmediate="false" itemID="5dc38244-000001b9" lastModified="1573093956"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_34.xml" loadImmediate="false" itemID="5dc38242-000001b8" lastModified="1573093954"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_36.xml" loadImmediate="false" itemID="5dc38240-000001b7" lastModified="1573093952"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_38.xml" loadImmediate="false" itemID="5dc3823d-000001b6" lastModified="1573093949"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_40.xml" loadImmediate="false" itemID="5dc3823b-000001b5" lastModified="1573093947"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_42.xml" loadImmediate="false" itemID="5dc38238-000001b4" lastModified="1573093944"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_44.xml" loadImmediate="false" itemID="5dc38236-000001b3" lastModified="1573093942"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_46.xml" loadImmediate="false" itemID="5dc38234-000001b2" lastModified="1573093940"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_48.xml" loadImmediate="false" itemID="5dc38231-000001b1" lastModified="1573093937"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_50.xml" loadImmediate="false" itemID="5dc3822f-000001b0" lastModified="1573093935"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_52.xml" loadImmediate="false" itemID="5dc3822d-000001af" lastModified="1573093933"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_54.xml" loadImmediate="false" itemID="5dc3822a-000001ae" lastModified="1573093930"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_56.xml" loadImmediate="false" itemID="5dc38227-000001ad" lastModified="1573093927"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_58.xml" loadImmediate="false" itemID="5dc38224-000001ac" lastModified="1573093924"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_60.xml" loadImmediate="false" itemID="5dc38223-000001ab" lastModified="1573093923"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_62.xml" loadImmediate="false" itemID="5dc38221-000001aa" lastModified="1573093921"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_64.xml" loadImmediate="false" itemID="5dc3821f-000001a9" lastModified="1573093919"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_66.xml" loadImmediate="false" itemID="5dc3821c-000001a8" lastModified="1573093916"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_68.xml" loadImmediate="false" itemID="5dc3821a-000001a7" lastModified="1573093914"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_70.xml" loadImmediate="false" itemID="5dc38217-000001a6" lastModified="1573093911"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_72.xml" loadImmediate="false" itemID="5dc38214-000001a5" lastModified="1573093908"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_74.xml" loadImmediate="false" itemID="5dc38212-000001a4" lastModified="1573093906"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_76.xml" loadImmediate="false" itemID="5dc38210-000001a3" lastModified="1573093904"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_78.xml" loadImmediate="false" itemID="5dc3820e-000001a2" lastModified="1573093902"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_80.xml" loadImmediate="false" itemID="5dc3820c-000001a1" lastModified="1573093900"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_82.xml" loadImmediate="false" itemID="5dc3820a-000001a0" lastModified="1573093898"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_84.xml" loadImmediate="false" itemID="5dc38208-0000019f" lastModified="1573093896"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_86.xml" loadImmediate="false" itemID="5dc38206-0000019e" lastModified="1573093894"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_88.xml" loadImmediate="false" itemID="5dc38204-0000019d" lastModified="1573093892"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_90.xml" loadImmediate="false" itemID="5dc38202-0000019c" lastModified="1573093890"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_92.xml" loadImmediate="false" itemID="5dc38200-0000019b" lastModified="1573093888"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_94.xml" loadImmediate="false" itemID="5dc381fe-0000019a" lastModified="1573093886"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_96.xml" loadImmediate="false" itemID="5dc381fc-00000199" lastModified="1573093884"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_98.xml" loadImmediate="false" itemID="5dc381fa-00000198" lastModified="1573093882"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_100.xml" loadImmediate="false" itemID="5dc381f7-00000197" lastModified="1573093879"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_102.xml" loadImmediate="false" itemID="5dc381f5-00000196" lastModified="1573093877"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_104.xml" loadImmediate="false" itemID="5dc381f3-00000195" lastModified="1573093875"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_106.xml" loadImmediate="false" itemID="5dc381f1-00000194" lastModified="1573093873"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_108.xml" loadImmediate="false" itemID="5dc381ee-00000193" lastModified="1573093870"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_110.xml" loadImmediate="false" itemID="5dc381ec-00000192" lastModified="1573093868"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_112.xml" loadImmediate="false" itemID="5dc381ea-00000191" lastModified="1573093866"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_114.xml" loadImmediate="false" itemID="5dc381e8-00000190" lastModified="1573093864"/>
+          <Include href="Shared/HotkeyIcons/HotkeyIcons_116.xml" loadImmediate="false" itemID="5dc381e3-0000018f" lastModified="1573093859"/>
+          <Include href="UI/FavoritesMenu/FavoritesCross/EntryHolder.xml" itemID="5dc380e4-0000018b" lastModified="1573094801"/>
+          <Include href="UI/FavoritesMenu/FavoritesCross/FavoritesCross.xml" itemID="5dc380ec-0000018d" lastModified="1573094796"/>
+          <Include href="UI/FavoritesMenu/FavoritesCross/FavoritesEntry.xml" itemID="5dc380e8-0000018c" lastModified="1573094844"/>
+          <Include href="UI/FavoritesMenu/FavoritesCross/FavoritesEntry_Border.xml" loadImmediate="false" itemID="5dc3836a-000001d0" lastModified="1573094261"/>
+          <Include href="UI/FavoritesMenu/FavoritesCross/Selection.xml" loadImmediate="false" itemID="5dc382b9-000001c8" lastModified="1573094798"/>
+          <Include href="UI/FavoritesMenu/FavoritesMenu.xml" itemID="5dc380ef-0000018e" lastModified="1573094909"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Menu_mc" color="#00FF00" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="UI/FavoritesMenu/FavoritesMenu" name="Menu_mc" selected="true" centerPoint3DX="1424.8" centerPoint3DY="933.15">
+                                             <matrix>
+                                                  <Matrix a="0.748580932617188" d="0.74835205078125" tx="1216" ty="684"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

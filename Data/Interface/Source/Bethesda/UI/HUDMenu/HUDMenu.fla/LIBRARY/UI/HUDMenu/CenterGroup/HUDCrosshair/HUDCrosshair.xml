@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/HUDCrosshair/HUDCrosshair" itemID="5dc272b7-000004d3" linkageExportForAS="true" linkageClassName="HUDCrosshair" lastModified="1573026611">
+  <timeline>
+    <DOMTimeline name="HUDCrosshair">
+      <layers>
+        <DOMLayer name="CrosshairBase_mc" color="#16B3FE" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairBase" name="CrosshairBase_mc" selected="true" centerPoint3DX="36.75" centerPoint3DY="37.35">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

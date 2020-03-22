@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/MapMarkers/Symbol 208" itemID="5dc13d4a-0000006b" linkageExportForAS="true" linkageClassName="DoorMarker" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 208">
+      <layers>
+        <DOMLayer name="Layer 1" color="#D7F23B" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!261 283|267 323!267 323|261 364!261 364[254 380 245 380!245 380[236 380 230 364!230 364[223 347 223 323!223 323[223 300 230 283!230 283[236 266 245 266!245 266[254 266 261 283!47 33|417 33!417 33|417 606!417 606|71 606!71 606|302 570
+!302 570|296 64!296 64|47 33!0 640|451 640!451 640|451 0!451 0|0 0!0 0|0 640"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

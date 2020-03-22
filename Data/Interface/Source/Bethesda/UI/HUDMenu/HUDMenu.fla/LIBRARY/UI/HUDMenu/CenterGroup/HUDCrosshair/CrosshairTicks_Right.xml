@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairTicks_Right" itemID="5dc273e1-000004e6" lastModified="1573024809">
+  <timeline>
+    <DOMTimeline name="CrosshairTicks_Right">
+      <layers>
+        <DOMLayer name="Graphic" color="#FD72D9" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BorderGraphic" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="2.96665954589844" d="0.25" tx="8.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClips_Activate_Activate" itemID="5dc27b03-0000052c" linkageExportForAS="true" linkageClassName="HUDMenu_fla.activateLoop_93" lastModified="1573026563">
+  <timeline>
+    <DOMTimeline name="CrosshairClips_Activate_Activate">
+      <layers>
+        <DOMLayer name="Layer 1" color="#BE04F6" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="3" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!143 -336|333 -336!333 -336|333 -146!333 -146|363 -146!363 -146|363 -366!363 -366|143 -366!143 -366|143 -336!333 143|333 333!333 333|143 333!143 333|143 363!143 363|363 363!363 363|363 143!363 143|333 143!-143 -366|-363 -366!-363 -366
+|-363 -146!-363 -146|-333 -146!-333 -146|-333 -336!-333 -336|-143 -336!-143 -336|-143 -366!-362 143|-362 363!-362 363|-142 363!-142 363|-142 333!-142 333|-332 333!-332 333|-332 143!-332 143|-362 143"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/Icons/TaggedIcon" itemID="5dd9dae3-000007b1" lastModified="1574559143">
+  <timeline>
+    <DOMTimeline name="TaggedIcon">
+      <layers>
+        <DOMLayer name="Shape" color="#F55D7C" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!54 -240S1[-7 -300 -93 -300!-93 -300[-179 -300 -239 -240!-239 -240[-300 -179 -300 -93!-300 -93[-300 -7 -239 53!-239 53[-178 114 -93 114!-93 114[-23 114 34 70!34 70|62 98!62 98|59 102!59 102[52 110 52 120!52 120[52 131 59 138!59 138|213
+ 292!213 292[221 300 232 300!232 300[243 300 250 292!250 292|293 249!293 249[301 242 301 231!301 231[301 221 293 213!293 213|139 59!139 59[132 52 121 52!121 52[110 52 102 59!102 59|99 62!99 62|71 34!71 34[114 -23 114 -93!114 -93[114 -179
+ 54 -240!50 -93[50 -34 8 7!8 7[-34 49 -93 49!-93 49[-151 49 -193 7!-193 7[-235 -34 -235 -93!-235 -93[-235 -152 -193 -194!-193 -194[-152 -236 -93 -236!-93 -236[-34 -236 8 -194!8 -194[50 -152 50 -93"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

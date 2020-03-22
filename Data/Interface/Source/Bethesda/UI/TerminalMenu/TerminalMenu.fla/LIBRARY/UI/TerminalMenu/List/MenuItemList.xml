@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/TerminalMenu/List/MenuItemList" itemID="5dc00055-00000153" linkageExportForAS="true" linkageClassName="MenuItemList" lastModified="1572864946">
+  <timeline>
+    <DOMTimeline name="MenuItemList">
+      <layers>
+        <DOMLayer name="ScrollDown" color="#B16AAD" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/TerminalMenu/List/ScrollArrow" name="ScrollDown" selected="true" centerPoint3DX="0.35" centerPoint3DY="481.75">
+                  <matrix>
+                    <Matrix a="0" b="1.99998474121094" c="-0.571426391601563" d="0" tx="-4" ty="473"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ScrollUp" color="#9CD465" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/TerminalMenu/List/ScrollArrow" name="ScrollUp" selected="true" centerPoint3DX="-9.65" centerPoint3DY="24.75">
+                  <matrix>
+                    <Matrix a="0" b="-1.99998474121094" c="0.571426391601563" d="0" tx="-14" ty="16"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="border" color="#D3D352" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/TerminalMenu/List/Border" name="border" selected="true" centerPoint3DX="228.4" centerPoint3DY="75.5">
+                  <matrix>
+                    <Matrix a="2.3499755859375" d="3.34649658203125"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

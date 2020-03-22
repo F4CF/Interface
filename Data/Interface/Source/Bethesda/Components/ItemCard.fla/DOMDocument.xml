@@ -1,0 +1,27 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#666666" width="1280" height="720" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" guidesVisible="false" vanishingPoint3DX="640" vanishingPoint3DY="360" templateFilename="C:\Users\Scrivener07\AppData\Local\Adobe\Animate CC 2019\en_US\Configuration\Templates\Fallout 4\Standard.fla" templateDescription="A standard full screen scaleform document uses a size of 1280x720 at 30 frames per second. All Scaleform documents in Fallout 4 will target Flash Player 11.2 with Actionscript 3.0." nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="9560039DD4321D4BB7363147AE182788">
+     <timelines>
+          <DOMTimeline name="Scene 1" layerDepthEnabled="true">
+               <layers>
+                    <DOMLayer name="Empty" color="#00FFFF" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="86" publishTime="1574540994" publishDebug="true"/>
+          <PublishItem publishSize="86" publishTime="1574540984" publishDebug="true"/>
+          <PublishItem publishSize="475" publishTime="1574535843" publishDebug="true"/>
+          <PublishItem publishSize="470" publishTime="1574535837" publishDebug="true"/>
+          <PublishItem publishSize="86" publishTime="1574535755" publishDebug="true"/>
+          <PublishItem publishSize="86" publishTime="1574535730" publishDebug="true"/>
+          <PublishItem publishSize="86" publishTime="1574535726" publishDebug="true"/>
+          <PublishItem publishSize="86" publishTime="1574535700" publishDebug="true"/>
+     </publishHistory>
+</DOMDocument>

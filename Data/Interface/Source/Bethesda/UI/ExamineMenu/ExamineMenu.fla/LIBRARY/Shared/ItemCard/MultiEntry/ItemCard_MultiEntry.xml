@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/ItemCard/MultiEntry/ItemCard_MultiEntry" itemID="5dd9cfa8-000006fa" linkageExportForAS="true" linkageClassName="Components.ItemCard_MultiEntry" lastModified="1574555560">
+  <timeline>
+    <DOMTimeline name="ItemCard_MultiEntry">
+      <layers>
+        <DOMLayer name="Layer 1" color="#F391E3">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu_UNK/Symbol 97" name="EntryHolder_mc" centerPoint3DX="-73.15" centerPoint3DY="-3.4">
+                  <matrix>
+                    <Matrix tx="-73.15" ty="-3.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#5CFFDF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="Label_tf" width="129.05" height="33.6" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="-233.45" ty="-0.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>DMG Resist</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineHeight="31.3" size="28" bitmapSize="560" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#E6DE2E" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu_UNK/Symbol 78" name="Background_mc" centerPoint3DX="-189.2" centerPoint3DY="50.5">
+                  <matrix>
+                    <Matrix a="1.636474609375" d="0.330490112304688" tx="-239.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,226 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMessageItem" itemID="5dc28c30-000005b6" linkageExportForAS="true" linkageClassName="HUDMessageItem" lastModified="1573033481">
+  <timeline>
+    <DOMTimeline name="HUDMessageItem">
+      <layers>
+        <DOMLayer name="Labels" color="#666666" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="5" name="Reset" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" duration="8" name="FadeIn" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="72" name="FadeOut" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="HUDMessageItemInternal_mc" color="#A5D8F2" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMessageItemInternal" name="HUDMessageItemInternal_mc" selected="true" centerPoint3DX="165" centerPoint3DY="14.5">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMessageItemInternal" name="HUDMessageItemInternal_mc" centerPoint3DX="165" centerPoint3DY="14.5">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.140625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMessageItemInternal" name="HUDMessageItemInternal_mc" centerPoint3DX="165" centerPoint3DY="14.5">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.28125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMessageItemInternal" name="HUDMessageItemInternal_mc" centerPoint3DX="165" centerPoint3DY="14.5">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.421875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMessageItemInternal" name="HUDMessageItemInternal_mc" centerPoint3DX="165" centerPoint3DY="14.5">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5703125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMessageItemInternal" name="HUDMessageItemInternal_mc" centerPoint3DX="165" centerPoint3DY="14.5">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.7109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMessageItemInternal" name="HUDMessageItemInternal_mc" centerPoint3DX="165" centerPoint3DY="14.5">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8515625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="59" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMessageItemInternal" name="HUDMessageItemInternal_mc" centerPoint3DX="164.95" centerPoint3DY="14.5">
+                  <matrix>
+                    <Matrix tx="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMessageItemInternal" name="HUDMessageItemInternal_mc" centerPoint3DX="164.95" centerPoint3DY="14.5">
+                  <matrix>
+                    <Matrix tx="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8515625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="72" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMessageItemInternal" name="HUDMessageItemInternal_mc" centerPoint3DX="164.95" centerPoint3DY="14.5">
+                  <matrix>
+                    <Matrix tx="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.7109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="73" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMessageItemInternal" name="HUDMessageItemInternal_mc" centerPoint3DX="164.95" centerPoint3DY="14.5">
+                  <matrix>
+                    <Matrix tx="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5703125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="74" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMessageItemInternal" name="HUDMessageItemInternal_mc" centerPoint3DX="164.95" centerPoint3DY="14.5">
+                  <matrix>
+                    <Matrix tx="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.421875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="75" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMessageItemInternal" name="HUDMessageItemInternal_mc" centerPoint3DX="164.95" centerPoint3DY="14.5">
+                  <matrix>
+                    <Matrix tx="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.28125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="76" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMessageItemInternal" name="HUDMessageItemInternal_mc" centerPoint3DX="164.95" centerPoint3DY="14.5">
+                  <matrix>
+                    <Matrix tx="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.140625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="77" duration="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMessageItemInternal" name="HUDMessageItemInternal_mc" centerPoint3DX="164.95" centerPoint3DY="14.5">
+                  <matrix>
+                    <Matrix tx="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

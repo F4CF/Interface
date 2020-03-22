@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/TopCenterGroup/EnemyHealthMeter/EnemyHealthOptionalBar" itemID="5dc269ba-0000046c" linkageExportForAS="true" linkageClassName="EnemyHealthOptionalBar" lastModified="1573022359">
+  <timeline>
+    <DOMTimeline name="EnemyHealthOptionalBar">
+      <layers>
+        <DOMLayer name="MeterBarInternal_mc" color="#76A1A1" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/TopCenterGroup/EnemyHealthMeter/EnemyHealthOptionalBarInternal" name="MeterBarInternal_mc" centerPoint3DX="100" centerPoint3DY="3">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

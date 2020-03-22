@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/MapMarkers/Symbol 84" itemID="5dc1239a-00000043" linkageExportForAS="true" linkageClassName="DogmeatMarker" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 84">
+      <layers>
+        <DOMLayer name="Labels Layer" color="#BEE1FA">
+          <frames>
+            <DOMFrame index="0" name="LevelWithPlayer" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="AbovePlayer" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" name="BelowPlayer" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#D3B46A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/PowerArmorHUDMenu/Symbol 81" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/PowerArmorHUDMenu/Symbol 56" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix ty="-16.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#D9B746" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!22 -190[40 -186 46 -164!46 -164|34 -165!34 -165|22 -164!22 -164[17 -179 22 -190!76 -126[93 -107 93 -84!93 -84[94 -64 81 -47!81 -47[68 -29 44 -34!44 -34[21 -41 18 -88!18 -88[14 -137 40 -142!40 -142[59 -145 76 -126!85 -23|102 -26!102 -26
+|119 -24!119 -24[148 -11 139 36!139 36[128 83 92 74!92 74[81 72 69 53!69 53[51 34 51 27!51 27[50 18 64 -1!64 -1|85 -23!123 -64[134 -57 136 -31!136 -31|124 -35!124 -35|113 -40!113 -40[113 -48 123 -64!36 78|61 107!61 107[79 126 81 137!81
+ 137[85 153 78 167!78 167|57 186!57 186|25 188!25 188|-7 182!-7 182|-35 186!-35 186|-62 190!-62 190[-81 188 -95 168!-95 168[-111 148 -104 128!-104 128[-101 119 -78 103!-78 103|-48 75!-48 75|-36 47!-36 47[-30 32 -9 31!-9 31[12 30 22 45
+!22 45|36 78!-23 -183[-15 -191 -7 -190!-7 -190[-5 -170 -9 -164!-9 -164|-33 -164!-33 -164|-23 -183!-120 -66|-115 -84!-115 -84[-108 -94 -100 -96!-100 -96[-95 -87 -95 -70!-95 -70|-108 -70!-108 -70|-120 -66!-69 -24|-57 -6!-57 -6|-51 12!-51
+ 12|-57 24!-57 24|-69 36!-69 36|-77 48!-77 48[-82 56 -89 57!-89 57[-128 64 -139 9!-139 9[-150 -47 -110 -53!-110 -53[-95 -55 -86 -46!-86 -46|-69 -24!-77 -99[-73 -145 -39 -149!-39 -149[-3 -153 -5 -97!-5 -97[-8 -41 -47 -46!-47 -46[-82 -52
+ -77 -99"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

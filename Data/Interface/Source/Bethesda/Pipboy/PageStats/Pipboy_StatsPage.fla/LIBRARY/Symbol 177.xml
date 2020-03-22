@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 177" itemID="5dc02675-00000070" linkageExportForAS="true" linkageClassName="SPECIALList" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 177">
+      <layers>
+        <DOMLayer name="Layer 1" color="#EC4A92" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 144" name="border" centerPoint3DX="50.5" centerPoint3DY="52.35">
+                  <matrix>
+                    <Matrix a="3.949951171875" d="2.84988403320313"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

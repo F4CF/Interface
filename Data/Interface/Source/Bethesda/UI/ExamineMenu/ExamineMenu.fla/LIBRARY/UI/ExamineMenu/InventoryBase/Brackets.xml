@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ExamineMenu/InventoryBase/Brackets" itemID="5dd84c62-00000367" lastModified="1574456709">
+  <timeline>
+    <DOMTimeline name="Brackets">
+      <layers>
+        <DOMLayer name="Border" color="#E09079" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBase/Border" centerPoint3DX="351.55" centerPoint3DY="-14">
+                  <matrix>
+                    <Matrix tx="350.8" ty="-14.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shape" color="#BCCF51" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="0.1" joints="miter">
+                        <fill>
+                          <SolidColor color="#FFFFFF" alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-19 4046S1|13211 4046!13211 4046|13211 3913!13211 3913|13181 3913!13181 3913|13181 4015!13181 4015|9 4015!9 4015|9 3913!9 3913|-19 3913!-19 3913|-19 3917!-19 3917|-19 4014"/>
+                    <Edge strokeStyle="1" edges="!-19 3917S4|-21 3917!-21 3917|-19 4014"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!-19 4014S5|-19 4046"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

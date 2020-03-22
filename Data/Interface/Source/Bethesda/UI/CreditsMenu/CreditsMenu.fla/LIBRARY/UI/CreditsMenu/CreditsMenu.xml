@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/CreditsMenu/CreditsMenu" itemID="5dc0404d-00000168" linkageExportForAS="true" linkageClassName="CreditsMenu" lastModified="1572880694">
+  <timeline>
+    <DOMTimeline name="CreditsMenu">
+      <layers>
+        <DOMLayer name="ButtonHintBar_mc" color="#0099FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BSButtonHintBar/BSButtonHintBar" name="ButtonHintBar_mc" centerPoint3DX="659.45" centerPoint3DY="636">
+                  <matrix>
+                    <Matrix tx="640" ty="620"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CreditsContainer" color="#00CC00" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/CreditsMenu/CreditsMenuContainer" name="CreditsContainer">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Background_mc" color="#CC0000" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/CreditsMenu/Background" name="Background_mc" centerPoint3DX="640" centerPoint3DY="350">
+                  <matrix>
+                    <Matrix a="1.0546875" d="1.125" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

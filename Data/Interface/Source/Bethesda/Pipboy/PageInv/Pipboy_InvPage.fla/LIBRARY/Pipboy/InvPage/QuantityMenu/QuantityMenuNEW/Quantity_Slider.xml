@@ -1,0 +1,110 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Pipboy/InvPage/QuantityMenu/QuantityMenuNEW/Quantity_Slider" itemID="5db050dd-000004bd" linkageExportForAS="true" linkageClassName="Quantity_Slider" lastModified="1571836469">
+  <timeline>
+    <DOMTimeline name="Quantity_Slider">
+      <layers>
+        <DOMLayer name="Marker_mc" color="#FF9900" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/QuantityMenu/QuantityMenuNEW/Quantity_Slider_Marker" name="Marker_mc" centerPoint3DX="198.55" centerPoint3DY="15">
+                  <matrix>
+                    <Matrix tx="188.45" ty="-1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SliderBackground_mc" color="#9966FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/QuantityMenu/QuantityMenuNEW/Quantity_Slider_SliderBackground" name="SliderBackground_mc" centerPoint3DX="99.45" centerPoint3DY="18.1">
+                  <matrix>
+                    <Matrix tx="9.5" ty="4.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="RightArrow_mc" color="#D3D352" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/QuantityMenu/QuantityMenuNEW/Quantity_Slider_Arrow" name="RightArrow_mc" centerPoint3DX="210.25" centerPoint3DY="36.25">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="200.65" ty="24.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="LeftArrow_mc" color="#0099FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/QuantityMenu/QuantityMenuNEW/Quantity_Slider_Arrow" name="LeftArrow_mc" centerPoint3DX="9.6" centerPoint3DY="17.25">
+                  <matrix>
+                    <Matrix ty="5.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shape" color="#00CC00" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="2" joints="miter">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!3808 465S4|208 465!208 465|208 125!208 125|3808 125!3808 125|3808 465"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Fill_mc" color="#FF0000" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/QuantityMenu/QuantityMenuNEW/Fill" name="Fill_mc" centerPoint3DX="61.95" centerPoint3DY="55.65">
+                  <matrix>
+                    <Matrix a="1.76969909667969" d="0.169998168945313" tx="11.45" ty="5.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

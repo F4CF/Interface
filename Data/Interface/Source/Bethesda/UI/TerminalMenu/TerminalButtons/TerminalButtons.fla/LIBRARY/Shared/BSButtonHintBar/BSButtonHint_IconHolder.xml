@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/BSButtonHintBar/BSButtonHint_IconHolder" itemID="5dc005c6-00000156" linkageExportForAS="true" linkageClassName="TerminalButtons_fla.BSButtonHint_IconHolder_6" lastModified="1572865902" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="BSButtonHint_IconHolder" currentFrame="2">
+      <layers>
+        <DOMLayer name="Labels" color="#9B42CE" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" name="Default" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="59" name="Flashing" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="IconAnimInstance" color="#9FE08C" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BSButtonHintBar/IconAnimation" name="IconAnimInstance" centerPoint3DX="50" centerPoint3DY="12.4">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="28" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BSButtonHintBar/IconAnimation" name="IconAnimInstance" centerPoint3DX="50" centerPoint3DY="12.4">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BSButtonHintBar/IconAnimation" name="IconAnimInstance" centerPoint3DX="50" centerPoint3DY="12.4">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BSButtonHintBar/IconAnimation" name="IconAnimInstance" centerPoint3DX="50" centerPoint3DY="12.4">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

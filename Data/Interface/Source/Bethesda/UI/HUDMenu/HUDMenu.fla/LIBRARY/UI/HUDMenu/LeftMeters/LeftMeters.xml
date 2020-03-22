@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/LeftMeters/LeftMeters" itemID="5dc14861-000002c5" linkageExportForAS="true" linkageClassName="LeftMeters" lastModified="1573028295">
+  <timeline>
+    <DOMTimeline name="LeftMeters">
+      <layers>
+        <DOMLayer name="LocationText_mc" color="#1EA5E2" locked="true" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/LeftMeters/LocationText" name="LocationText_mc" selected="true" centerPoint3DX="193" centerPoint3DY="-100.85">
+                  <matrix>
+                    <Matrix ty="-116"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="RadsMeter_mc" color="#009900" locked="true" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/LeftMeters/RadsMeter" name="RadsMeter_mc" selected="true" centerPoint3DX="401.5" centerPoint3DY="0.6">
+                  <matrix>
+                    <Matrix tx="262" ty="-46"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="HPMeter_mc" color="#CC0000" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/LeftMeters/HPMeter" name="HPMeter_mc" selected="true" centerPoint3DX="150.5" centerPoint3DY="-13.55">
+                  <matrix>
+                    <Matrix tx="32" ty="-32"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

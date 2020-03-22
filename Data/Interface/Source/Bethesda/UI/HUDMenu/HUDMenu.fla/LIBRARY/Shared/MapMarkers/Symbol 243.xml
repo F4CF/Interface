@@ -1,0 +1,54 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/MapMarkers/Symbol 243" itemID="5dc13d4a-00000077" linkageExportForAS="true" linkageClassName="BunkerMarker" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 243">
+      <layers>
+        <DOMLayer name="Labels Layer" color="#CF3980">
+          <frames>
+            <DOMFrame index="0" name="Discovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="Undiscovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#80ECB6" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!171 -98[162 -106 151 -106!151 -106|-152 -106!-152 -106[-164 -106 -171 -98!-171 -98|-180 -78!-180 -78|-189 107!-189 107|95 107!95 107|95 56!95 56|128 56!128 56|128 107!128 107|189 107!189 107|179 -78!179 -78|171 -98!134 -69|134 -31!134
+ -31|18 -31!18 -31|18 -69!18 -69|134 -69!-23 -69|-23 -31!-23 -31|-139 -31!-139 -31|-139 -69!-139 -69|-23 -69"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!150 -128|-152 -128!-152 -128[-172 -128 -187 -113!-187 -113[-202 -99 -202 -78!-202 -78|-214 128!-214 128|212 128!212 128|201 -78!201 -78[201 -99 186 -113!186 -113[171 -128 150 -128!178 -78|188 106!188 106|128 106!128 106|128 56!128 56
+|95 56!95 56|95 106!95 106|-190 106!-190 106|-180 -78!-180 -78[-180 -89 -172 -97!-172 -97[-163 -105 -152 -105!-152 -105|150 -105!150 -105[162 -105 170 -97!170 -97[178 -89 178 -78!134 -68|19 -68!19 -68|19 -31!19 -31|134 -31!134 -31|134
+ -68!-24 -68|-138 -68!-138 -68|-138 -31!-138 -31|-24 -31!-24 -31|-24 -68"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

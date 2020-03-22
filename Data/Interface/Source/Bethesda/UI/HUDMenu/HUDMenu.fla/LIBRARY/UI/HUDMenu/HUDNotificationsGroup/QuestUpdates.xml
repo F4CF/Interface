@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/HUDNotificationsGroup/QuestUpdates" itemID="5dc1e237-000002d4" linkageExportForAS="true" linkageClassName="QuestUpdates" lastModified="1573020072">
+  <timeline>
+    <DOMTimeline name="QuestUpdates">
+      <layers>
+        <DOMLayer name="UpdateType_tf" color="#4FE260" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="UpdateType_tf" selected="true" width="184" height="26.35" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>COMPLETED:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="1" lineHeight="22.35" size="20" bitmapSize="400" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="QuestName_tf" color="#FF9900" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="QuestName_tf" selected="true" width="496" height="92.3" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="2" ty="21"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MUSEUM OF FREEDOM DISCOVERED</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="-0.1" lineSpacing="0" lineHeight="39.1" size="35" bitmapSize="700" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

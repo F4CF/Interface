@@ -1,0 +1,44 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 208" itemID="5dc12b90-0000007b" symbolType="graphic" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 208">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1231 -1047[1346 -1114 1450 -1251!1450 -1251[1456 -1259 1447 -1259!1447 -1259|1433 -1257!1433 -1257[1402 -1247 1392 -1234!1392 -1234[1295 -1107 1207 -1055!1207 -1055[1178 -1038 1195 -1036!1195 -1036[1211 -1035 1231 -1047"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1250 -1180[1423 -1397 1393 -1730!1393 -1730|1361 -1724!1361 -1724[1330 -1713 1331 -1701!1331 -1701[1358 -1372 1192 -1163!1192 -1163|1214 -1162!1214 -1162[1243 -1171 1250 -1180"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

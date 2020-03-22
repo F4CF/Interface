@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_32" itemID="5dc38244-000001b9" lastModified="1573093956">
+  <timeline>
+    <DOMTimeline name="HotkeyIcons_32" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#BB6D6E" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!132 -74[124 -119 101 -163!101 -163[77 -208 39 -246!39 -246[-30 -315 -139 -319!-139 -319[-219 -323 -294 -293!-294 -293[-320 -219 -318 -140!-318 -140[-315 -29 -247 41!-247 41|-164 101!-164 101[-121 123 -77 131!-77 131|-89 204!-89 204|26
+ 319!26 319|56 291!56 291|7 242!7 242|51 199!51 199|100 248!100 248|171 176!171 176|173 172!173 172|244 101!244 101|197 54!197 54|239 10!239 10|288 58!288 58|318 29!318 29|201 -86!201 -86|132 -74"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

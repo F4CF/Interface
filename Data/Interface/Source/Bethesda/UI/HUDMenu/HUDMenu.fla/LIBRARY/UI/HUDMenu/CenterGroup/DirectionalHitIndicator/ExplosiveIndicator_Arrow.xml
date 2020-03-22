@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/DirectionalHitIndicator/ExplosiveIndicator_Arrow" itemID="5dc2924b-000005eb" lastModified="1573032573">
+  <timeline>
+    <DOMTimeline name="ExplosiveIndicator_Arrow">
+      <layers>
+        <DOMLayer name="Shape" color="#A7F300" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!3067 -111S1|3178 0!3178 0|3067 112!3067 112|3096 140!3096 140|3234 0!3234 0|3095 -139!3095 -139|3067 -111"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

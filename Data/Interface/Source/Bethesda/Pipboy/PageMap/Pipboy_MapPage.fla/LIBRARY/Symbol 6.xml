@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 6" itemID="5dc02709-0000015b" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 6">
+      <layers>
+        <DOMLayer name="Layer 1" color="#9FE08C">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 5" name="RadioStationIcon_mc" centerPoint3DX="12.55" centerPoint3DY="22.55">
+                  <matrix>
+                    <Matrix ty="12"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#AECB44" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="MessageText_tf" fontRenderingMode="standard" width="323.55" height="44.5" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="4" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ANIMATING TEXT FIELDS FOR MESSAGE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="2" letterSpacing="-0.4" lineHeight="21.25" rightMargin="2" size="19" bitmapSize="380" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="7" blurY="7" color="#000000" strength="10"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

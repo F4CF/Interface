@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ContainerMenu/Lists/Border" itemID="5dae8c6d-000002c0" lastModified="1571720301">
+  <timeline>
+    <DOMTimeline name="Border">
+      <layers>
+        <DOMLayer name="Layer 1" color="#B93CFD" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!8801 0|8781 0!8781 0|419 0!419 0|197 399!197 399|419 798!419 798|8781 798!8781 798|8801 798!8801 798|8801 0!0 399|221 798!221 798|321 798!321 798|100 399!100 399|321 0!321 0|221 0!221 0|0 399"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

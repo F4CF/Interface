@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/RightMeters/FlashLightWidget/FlashLightWidget" itemID="5dc2878e-00000571" linkageExportForAS="true" linkageClassName="FlashLightWidget" lastModified="1573030355">
+  <timeline>
+    <DOMTimeline name="FlashLightWidget">
+      <layers>
+        <DOMLayer name="Icon" color="#6538F5" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/RightMeters/FlashLightWidget/FlashLightWidget_Icon" centerPoint3DX="-22.05" centerPoint3DY="-22.05">
+                  <matrix>
+                    <Matrix tx="-40.3" ty="-40.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Border" color="#309BFA" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/RightMeters/FlashLightWidget/FlashLightWidget_Border" centerPoint3DX="22" centerPoint3DY="22">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/SelectionRect" itemID="5dd9f622-00000727" linkageExportForAS="true" linkageClassName="SelectionRect" lastModified="1574568715">
+  <timeline>
+    <DOMTimeline name="SelectionRect">
+      <layers>
+        <DOMLayer name="Shape" color="#B677B1" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333333" alpha="0.349019607843137"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!4600 3200S2|0 3200!0 3200|0 0!0 0|4600 0!4600 0|4600 3200"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1386" itemID="5dc12b90-00000214" symbolType="graphic" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 1386">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FFEB33"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!50 -2691[63 -2645 93 -2617!93 -2617[123 -2588 161 -2585!161 -2585[198 -2585 230 -2611!230 -2611[262 -2637 279 -2681!279 -2681[284 -2694 297 -2694!297 -2694|301 -2694!301 -2694[317 -2690 317 -2675!317 -2675|314 -2639!314 -2639[301 -2571
+ 256 -2526!256 -2526[212 -2482 157 -2482!157 -2482|156 -2482!156 -2482[102 -2485 60 -2534!60 -2534[19 -2583 11 -2652!11 -2652|11 -2687!11 -2687|14 -2696!14 -2696|17 -2700!17 -2700|29 -2705!29 -2705[42 -2705 48 -2697!48 -2697|50 -2691"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!31 -2686|31 -2654!31 -2654[38 -2592 74 -2548!74 -2548[110 -2505 157 -2502!157 -2502[204 -2502 243 -2542!243 -2542[282 -2582 294 -2643!294 -2643|297 -2675!297 -2675[278 -2625 241 -2595!241 -2595[204 -2565 161 -2565!161 -2565[116 -2568
+ 81 -2601!81 -2601[45 -2634 31 -2686"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

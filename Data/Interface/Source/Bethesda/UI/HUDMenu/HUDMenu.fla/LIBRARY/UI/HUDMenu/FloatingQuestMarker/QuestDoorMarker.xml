@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/FloatingQuestMarker/QuestDoorMarker" itemID="5dc28c41-000005b9" linkageExportForAS="true" linkageClassName="QuestDoorMarker" lastModified="1573031908">
+  <timeline>
+    <DOMTimeline name="QuestDoorMarker">
+      <layers>
+        <DOMLayer name="Graphic" color="#93BC6A" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/FloatingQuestMarker/QuestDoorMarkerGraphic" selected="true" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

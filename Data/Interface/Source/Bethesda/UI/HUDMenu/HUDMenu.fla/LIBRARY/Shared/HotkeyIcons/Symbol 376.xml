@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/HotkeyIcons/Symbol 376" itemID="5dc13d4a-000000bb" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 376">
+      <layers>
+        <DOMLayer name="Layer 1" color="#C20AED" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1 -321|-108 -177!-108 -177[-219 -18 -219 58!-219 58[-219 150 -154 214!-154 214[-90 279 1 279!1 279[93 279 157 214!157 214[222 150 222 58!222 58[222 -18 112 -177!112 -177|1 -321!-23 -222[-20 -222 -24 -216!-24 -216[-59 -149 -86 -69!-86
+ -69[-115 17 -115 56!-115 56[-115 95 -87 130!-87 130[-61 162 -20 182!-20 182[-2 193 -20 214!-20 214[-39 236 -62 225!-62 225[-172 171 -172 56!-172 56[-172 4 -113 -99!-113 -99[-68 -177 -31 -221!-31 -221|-23 -222"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

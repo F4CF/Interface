@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ExamineMenu_UNK/Lists/ExamineMenuList" itemID="5dd84765-00000300" linkageExportForAS="true" linkageClassName="ExamineMenuList" lastModified="1574559916">
+  <timeline>
+    <DOMTimeline name="ExamineMenuList">
+      <layers>
+        <DOMLayer name="ScrollDown" color="#F5B0A5" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/ScrollingList/ScrollArrow" name="ScrollDown" centerPoint3DX="32.15" centerPoint3DY="185.25">
+                  <matrix>
+                    <Matrix a="0" b="1.99998474121094" c="-0.571426391601563" d="0" tx="29.2" ty="175.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ScrollUp" color="#ED9EB0" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/ScrollingList/ScrollArrow" name="ScrollUp" centerPoint3DX="22.15" centerPoint3DY="14.15">
+                  <matrix>
+                    <Matrix a="0" b="-1.99998474121094" c="0.571426391601563" d="0" tx="19.2" ty="4.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="border" color="#AA6BCF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/ScrollingList/ScrollBorder" name="border" centerPoint3DX="50.5" centerPoint3DY="56.5">
+                  <matrix>
+                    <Matrix a="2.76847839355469" d="1.71708679199219" ty="6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

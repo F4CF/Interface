@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 582" itemID="5dc12b90-000000eb" symbolType="graphic" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 582">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-1183 -1453[-1199 -1396 -1199 -1359!-1199 -1359[-1199 -1296 -1165 -1216!-1165 -1216[-1132 -1136 -1132 -1092!-1132 -1092[-1132 -1071 -1135 -1055!-1135 -1055|-1138 -1003!-1138 -1003|-1142 -1002!-1142 -1002|-1148 -1003!-1148 -1003|-1148
+ -1039!-1148 -1039[-1142 -1066 -1142 -1093!-1142 -1093[-1142 -1129 -1176 -1212!-1176 -1212[-1210 -1294 -1210 -1359!-1210 -1359|-1208 -1409!-1208 -1409[-1204 -1433 -1185 -1461!-1185 -1461|-1183 -1453!-1193 -1109|-1193 -1092!-1193 -1092
+[-1193 -1026 -1166 -937!-1166 -937[-1140 -847 -1140 -812!-1140 -812[-1140 -784 -1148 -757!-1148 -757[-1159 -723 -1163 -689!-1163 -689|-1167 -688!-1167 -688[-1173 -689 -1173 -696!-1173 -696|-1162 -742!-1162 -742[-1151 -782 -1151 -814!-1151
+ -814[-1151 -847 -1177 -936!-1177 -936[-1203 -1024 -1203 -1091!-1203 -1091[-1203 -1106 -1193 -1109"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

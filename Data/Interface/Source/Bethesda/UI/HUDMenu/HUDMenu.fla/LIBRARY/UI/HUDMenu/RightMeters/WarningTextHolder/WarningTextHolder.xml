@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/RightMeters/WarningTextHolder/WarningTextHolder" itemID="5dc287f3-00000576" linkageExportForAS="true" linkageClassName="WarningTextHolder" lastModified="1573029935">
+  <timeline>
+    <DOMTimeline name="WarningTextHolder">
+      <layers>
+        <DOMLayer name="PowerArmorLowBatteryWarning_tf" color="#DFD529" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="PowerArmorLowBatteryWarning_tf" selected="true" fontRenderingMode="standard" width="396" height="21.1" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="-398" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" rotation="true" lineSpacing="0" lineHeight="13.7"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

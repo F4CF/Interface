@@ -1,0 +1,77 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/MessageBoxMenu/MessageBoxMenu" itemID="5dc0350b-0000030d" linkageExportForAS="true" linkageClassName="MessageBoxMenu" lastModified="1572877948">
+  <timeline>
+    <DOMTimeline name="MessageBoxMenu">
+      <layers>
+        <DOMLayer name="List_mc" color="#FFCC00" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/MessageBoxMenu/List/MessageBoxButtonList" name="List_mc" centerPoint3DX="285.35" centerPoint3DY="162.9">
+                  <matrix>
+                    <Matrix tx="45" ty="69.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Body_tf" color="#0099FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="Body_tf" selected="true" width="316" height="51.55" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="112" ty="18"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Message Content.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="20.1" size="18" bitmapSize="360" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BGRectBlack_mc" color="#00CC00" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/MessageBoxMenu/BGRectBlack" name="BGRectBlack_mc" centerPoint3DX="171.3" centerPoint3DY="111.3">
+                  <matrix>
+                    <Matrix a="1.58824157714844" d="1.22723388671875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BGRect_mc" color="#CC0000" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/MessageBoxMenu/BGRect" name="BGRect_mc" centerPoint3DX="171.25" centerPoint3DY="111.25">
+                  <matrix>
+                    <Matrix a="1.58824157714844" d="1.22727966308594"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

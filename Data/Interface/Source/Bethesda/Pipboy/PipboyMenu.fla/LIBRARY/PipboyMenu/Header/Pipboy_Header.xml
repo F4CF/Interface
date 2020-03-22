@@ -1,0 +1,69 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PipboyMenu/Header/Pipboy_Header" itemID="5db00bfa-0000029d" linkageExportForAS="true" linkageClassName="Pipboy_Header" lastModified="1572060825" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Pipboy_Header">
+      <layers>
+        <DOMLayer name="RightTriggerButton_mc" color="#CCCC00" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BSButtonHintBar/BSButtonHint" name="RightTriggerButton_mc" centerPoint3DX="871.75" centerPoint3DY="17.9">
+                  <matrix>
+                    <Matrix a="1.51724243164063" d="1.43339538574219" tx="720" ty="-6.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="100" y="17.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="LeftTriggerButton_mc" color="#0099FF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BSButtonHintBar/BSButtonHint" name="LeftTriggerButton_mc" centerPoint3DX="141.75" centerPoint3DY="17.9">
+                  <matrix>
+                    <Matrix a="1.51750183105469" d="1.43339538574219" tx="-10" ty="-6.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="100" y="17.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PageHeader_mc" color="#00CC00" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PipboyMenu/Header/PageHeader/PageHeader" name="PageHeader_mc" centerPoint3DX="398.3" centerPoint3DY="30.85">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TabHeader_mc" color="#FF0000" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PipboyMenu/Header/TabHeader/TabHeader" name="TabHeader_mc" centerPoint3DX="466.25" centerPoint3DY="71.05">
+                  <matrix>
+                    <Matrix tx="111.95" ty="48.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

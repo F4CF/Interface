@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/HitIndicator/HitHolder_TintBase" itemID="5dc27210-000004d0" lastModified="1573024283">
+  <timeline>
+    <DOMTimeline name="HitHolder_TintBase">
+      <layers>
+        <DOMLayer name="Shape" color="#A5B869" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!630 101S1|651 122!651 122|752 21!752 21|731 0!731 0|630 101!8 27|108 127!108 127|129 106!129 106|29 6!29 6|8 27!0 731|21 752!21 752|121 652!121 652|100 631!100 631|0 731!659 636|638 657!638 657|738 757!738 757|759 736!759 736|659 636"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

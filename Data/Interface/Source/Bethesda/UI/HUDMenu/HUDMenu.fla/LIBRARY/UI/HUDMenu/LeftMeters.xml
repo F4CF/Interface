@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/LeftMeters" itemID="5dc14861-000002c5" linkageExportForAS="true" linkageClassName="LeftMeters" lastModified="1572948065">
+  <timeline>
+    <DOMTimeline name="LeftMeters">
+      <layers>
+        <DOMLayer name="Layer 1" color="#1EA5E2">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/_1/Symbol 573" name="LocationText_mc" centerPoint3DX="193" centerPoint3DY="-100.85">
+                  <matrix>
+                    <Matrix ty="-116"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#F448A7">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/_1/Symbol 571" name="RadsMeter_mc" centerPoint3DX="401.5" centerPoint3DY="0.6">
+                  <matrix>
+                    <Matrix tx="262" ty="-46"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#6AB2F9" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/_0/Symbol 566" name="HPMeter_mc" centerPoint3DX="150.5" centerPoint3DY="-13.55">
+                  <matrix>
+                    <Matrix tx="32" ty="-32"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

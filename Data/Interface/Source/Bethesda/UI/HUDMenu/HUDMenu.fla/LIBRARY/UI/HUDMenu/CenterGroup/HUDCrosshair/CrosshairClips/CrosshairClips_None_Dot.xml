@@ -1,0 +1,93 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClips_None_Dot" itemID="5dc27633-0000050b" linkageExportForAS="true" linkageClassName="HUDMenu_fla.none2dot_66" lastModified="1573025609">
+  <timeline>
+    <DOMTimeline name="CrosshairClips_None_Dot">
+      <layers>
+        <DOMLayer name="Border" color="#617CC4" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsBorder" selected="true" centerPoint3DX="1.25" centerPoint3DY="1.25">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsBorder" centerPoint3DX="1.25" centerPoint3DY="1.25">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.16015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsBorder" centerPoint3DX="1.25" centerPoint3DY="1.25">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.328125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsBorder" centerPoint3DX="1.25" centerPoint3DY="1.25">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsBorder" centerPoint3DX="1.25" centerPoint3DY="1.25">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.66015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsBorder" centerPoint3DX="1.25" centerPoint3DY="1.25">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.828125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsBorder" centerPoint3DX="1.25" centerPoint3DY="1.25">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PipboyMenu/PipboyMenu" itemID="5db0041f-00000211" linkageExportForAS="true" linkageClassName="PipboyMenu" lastModified="1571934112">
+  <timeline>
+    <DOMTimeline name="PipboyMenu">
+      <layers>
+        <DOMLayer name="ButtonHintBar_mc" color="#0099FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BSButtonHintBar/BSButtonHintBar" name="ButtonHintBar_mc" centerPoint3DX="457.45" centerPoint3DY="591">
+                  <matrix>
+                    <Matrix tx="438" ty="575"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Header_mc" color="#00CC00" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PipboyMenu/Header/Pipboy_Header" name="Header_mc" centerPoint3DX="713.65" centerPoint3DY="72.85">
+                  <matrix>
+                    <Matrix tx="80.75" ty="21.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BottomBar_mc" color="#FF0000" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PipboyMenu/BottomBar/Pipboy_BottomBar" name="BottomBar_mc" centerPoint3DX="445.45" centerPoint3DY="652.45">
+                  <matrix>
+                    <Matrix tx="38.1" ty="629.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

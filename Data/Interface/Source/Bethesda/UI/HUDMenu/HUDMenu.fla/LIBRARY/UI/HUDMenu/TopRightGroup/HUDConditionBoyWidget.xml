@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/TopRightGroup/HUDConditionBoyWidget" itemID="5dc26b84-00000473" linkageExportForAS="true" linkageClassName="HUDConditionBoyWidget" lastModified="1573030890">
+  <timeline>
+    <DOMTimeline name="HUDConditionBoyWidget">
+      <layers>
+        <DOMLayer name="ConditionBoy_mc" color="#D38F77" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/TopRightGroup/ConditionBoy" name="ConditionBoy_mc" selected="true">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,84 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClips_Standard_Standard" itemID="5dc27618-00000502" linkageExportForAS="true" linkageClassName="HUDMenu_fla.crosshairLoop_83" lastModified="1573025541">
+  <timeline>
+    <DOMTimeline name="CrosshairClips_Standard_Standard" currentFrame="1">
+      <layers>
+        <DOMLayer name="Down" color="#50EBC4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairTicks_Down" name="Down" centerPoint3DX="0.7" centerPoint3DY="26.9">
+                  <matrix>
+                    <Matrix d="1.19863891601563" tx="-0.05" ty="19.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Right" color="#B3F06C" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairTicks_Right" name="Right" selected="true" centerPoint3DX="27.85" centerPoint3DY="0.7">
+                  <matrix>
+                    <Matrix tx="18.95" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Up" color="#83F086" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairTicks_Up" name="Up" selected="true" centerPoint3DX="0.7" centerPoint3DY="-12.1">
+                  <matrix>
+                    <Matrix d="1.19863891601563" tx="-0.05" ty="-19.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Left" color="#9A1BCC" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairTicks_Left" name="Left" selected="true" centerPoint3DX="-10.05" centerPoint3DY="0.7">
+                  <matrix>
+                    <Matrix tx="-18.95" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

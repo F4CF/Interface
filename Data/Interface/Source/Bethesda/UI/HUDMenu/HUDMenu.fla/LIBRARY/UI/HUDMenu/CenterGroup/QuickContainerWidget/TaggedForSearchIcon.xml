@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/QuickContainerWidget/TaggedForSearchIcon" itemID="5dc27bef-00000536" lastModified="1573026997">
+  <timeline>
+    <DOMTimeline name="TaggedForSearchIcon">
+      <layers>
+        <DOMLayer name="Graphic" color="#9F8ACA" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/RolloverWidget/TaggedForSearchIconGraphic" selected="true" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

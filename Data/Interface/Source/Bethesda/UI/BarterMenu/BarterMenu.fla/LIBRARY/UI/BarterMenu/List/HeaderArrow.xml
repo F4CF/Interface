@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/List/HeaderArrow" itemID="5dc04373-000001ab" linkageExportForAS="true" linkageClassName="HeaderArrow" lastModified="1572883538">
+  <timeline>
+    <DOMTimeline name="HeaderArrow">
+      <layers>
+        <DOMLayer name="Graphic" color="#58FD69" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/List/Symbol 88" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,155 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile/MobileQuantityMenu" itemID="5db053d1-000004d1" linkageExportForAS="true" linkageClassName="Shared.AS3.COMPANIONAPP.MobileQuantityMenu" lastModified="1571840740">
+  <timeline>
+    <DOMTimeline name="MobileQuantityMenu">
+      <layers>
+        <DOMLayer name="Count_tf" color="#A170F6" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="Count_tf" selected="true" width="197.9" height="79.1" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="337.65" ty="267.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="14.45" bitmapSize="240" face="$MAIN_Font_Bold*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="plusCLIK" color="#CB8AD7" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile/PlusCLIK" name="plusCLIK" centerPoint3DX="642.9" centerPoint3DY="382.05">
+                  <matrix>
+                    <Matrix tx="605.2" ty="345.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="minusCLIK" color="#52EEC1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile/MinusCLIK" name="minusCLIK" centerPoint3DX="263.5" centerPoint3DY="381.75">
+                  <matrix>
+                    <Matrix d="0.999984741210938" tx="225.8" ty="345.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="sliderCLIK" color="#D16A80" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile/SliderCLIK" name="sliderCLIK" centerPoint3DX="436.7" centerPoint3DY="366.9">
+                  <matrix>
+                    <Matrix tx="285.7" ty="345.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Header_tf" color="#47ACE2" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="Header_tf" width="468.9" height="50.1" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="203.8" ty="173.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$DROP</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="45.6" size="38" bitmapSize="760" face="$MAIN_Font_Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TopBracketHolder_mc" color="#EF80A6" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile/TopBracketHolder" name="TopBracketHolder_mc" centerPoint3DX="188.3" centerPoint3DY="201.9">
+                  <matrix>
+                    <Matrix tx="188.3" ty="201.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shape" color="#A0826C" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="2" joints="miter">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!13766 4038S4|13766 10038!13766 10038|3766 10038!3766 10038|3766 4038"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Background_mc" color="#73BC75" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/Border" name="Background_mc" centerPoint3DX="238.8" centerPoint3DY="252.4">
+                  <matrix>
+                    <Matrix a="5" d="2.99998474121094" tx="188.3" ty="201.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0" blueMultiplier="0" greenMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

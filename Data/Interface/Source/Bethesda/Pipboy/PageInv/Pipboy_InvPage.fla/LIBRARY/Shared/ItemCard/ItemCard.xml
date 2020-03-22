@@ -1,0 +1,15 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/ItemCard/ItemCard" itemID="5db04f0f-000004b0" linkageExportForAS="true" linkageClassName="Components.ItemCard" lastModified="1574556894">
+  <timeline>
+    <DOMTimeline name="ItemCard">
+      <layers>
+        <DOMLayer name="Empty" color="#4FFF4F" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

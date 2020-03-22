@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/HotkeyIcons/Symbol 378" itemID="5dc13d4a-000000bc" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 378">
+      <layers>
+        <DOMLayer name="Layer 1" color="#DFA61B" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!167 -310[106 -310 62 -267!62 -267|-89 -116!-89 -116[-70 -38 -14 18!-14 18[44 74 120 93!120 93|270 -56!270 -56[314 -100 314 -161!314 -161[314 -223 271 -266!271 -266[228 -309 167 -310!161 -232|6 -78!6 -78[2 -73 -5 -73!-5 -73[-12 -73 -17
+ -78!-17 -78|-22 -89!-22 -89|-17 -101!-17 -101|137 -256!137 -256[149 -266 161 -256!161 -256[171 -244 161 -232!-137 291[-76 290 -33 247!-33 247|92 121!92 121[17 97 -38 42!-38 42[-94 -14 -117 -88!-117 -88|-243 38!-243 38[-286 81 -286 143
+!-286 143[-286 204 -242 248!-242 248[-198 291 -137 291"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

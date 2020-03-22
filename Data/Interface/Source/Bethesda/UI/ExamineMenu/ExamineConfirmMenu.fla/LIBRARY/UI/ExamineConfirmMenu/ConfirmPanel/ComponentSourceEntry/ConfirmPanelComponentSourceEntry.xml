@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ExamineConfirmMenu/ConfirmPanel/ComponentSourceEntry/ConfirmPanelComponentSourceEntry" itemID="5ddaa924-00000273" linkageExportForAS="true" linkageClassName="ConfirmPanelComponentSourceEntry" lastModified="1574611819">
+  <timeline>
+    <DOMTimeline name="ConfirmPanelComponentSourceEntry">
+      <layers>
+        <DOMLayer name="textField" color="#B93CFD" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="textField" selected="true" width="166" height="28.8" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="4.5" ty="2.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Adhesive</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" rotation="true" letterSpacing="-0.1" lineSpacing="0" lineHeight="21.25" size="19" bitmapSize="380" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

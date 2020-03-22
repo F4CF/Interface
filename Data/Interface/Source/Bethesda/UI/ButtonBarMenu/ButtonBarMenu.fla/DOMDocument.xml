@@ -1,0 +1,72 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#666666" width="1280" height="720" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" vanishingPoint3DX="640" vanishingPoint3DY="360" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="43366D1B3B6BF1499ADBDD1B283818C2">
+     <folders>
+          <DOMFolderItem name="Assets" itemID="5dbfb159-00000143" isExpanded="true"/>
+          <DOMFolderItem name="Assets/BSButtonHintBar" itemID="5daea614-0000030f"/>
+          <DOMFolderItem name="Assets/Fonts" itemID="5dbfb186-00000147"/>
+          <DOMFolderItem name="Assets/Fonts/fonts_en" itemID="5daa28a4-000001eb"/>
+          <DOMFolderItem name="ButtonBarMenu" itemID="5daff0aa-000001f0" isExpanded="true"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Assets/Fonts/fonts_en/$MAIN_Font_Bold" itemID="5daeb429-0000029e" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$MAIN_Font_Bold" linkageURL="fonts_en.swf" font="RobotoCondensed-Bold" size="0" id="67" sourceLastImported="1571730473" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Assets/Fonts/fonts_en/$Controller_Buttons_inverted" itemID="5daeb3ba-00000283" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$Controller_Buttons_inverted" linkageURL="fonts_en.swf" font="ControllerButtonsInverted" size="0" id="66" sourceLastImported="1571433949" embedRanges="1|2"/>
+          <DOMFontItem name="Assets/Fonts/fonts_en/$CClub_Font_Bold" itemID="5daeb3ba-00000286" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$CClub_Font_Bold" linkageURL="fonts_en.swf" font="Eurostile-Cyr-Std" size="0" id="34" sourceLastImported="1571730098" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Assets/Fonts/fonts_en/$CClub_Font" itemID="5daeb3ba-00000285" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$CClub_Font" linkageURL="fonts_en.swf" font="Eurostile-LT-Cyr-Std" size="0" id="33" sourceLastImported="1571433864" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Assets/Fonts/fonts_en/$BRODY" itemID="5daeb3ba-00000284" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$BRODY" linkageURL="fonts_en.swf" font="Brody" size="0" id="32" sourceLastImported="1571730554" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĂăĄąĆćČčĎďĐđĘęĚěĞğİıĹĺĽľŁłŃńŇňŐőŒœŔŕŘřŚśŞşŠšŢţŤťŮůŰűŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜ΔΣΩμπ–—‗‘’‚“”„†‡•…‰‹›‼ⁿ₣™Ω←→∂∏∕√∞∫≠≤≥■" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Assets/Fonts/fonts_en/$Controller_Buttons" itemID="5daeb3ba-00000282" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$Controller_Buttons" linkageURL="fonts_en.swf" font="Controller--Buttons" size="0" id="30" embedRanges="1|2"/>
+          <DOMFontItem name="Assets/Fonts/fonts_en/$Share-TechMono" itemID="5daeb3ba-00000281" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$Terminal_Font" linkageURL="fonts_en.swf" font="Share-TechMono" size="0" id="29" sourceLastImported="1571730362" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЀЁЍАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёѝ–—‘’‚“”„†‡•…‰‹›⁄€™Ω∂∏∑∕√∞∧∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Assets/Fonts/fonts_en/$MAIN_Font" itemID="5daeb3ba-00000280" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$MAIN_Font" linkageURL="fonts_en.swf" font="RobotoCondensed-Regular" size="0" id="27" sourceLastImported="1571434121" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Assets/Fonts/fonts_en/$HandwrittenFont" itemID="5daeb3ba-0000027f" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$HandwrittenFont" linkageURL="fonts_en.swf" font="Handwritten_Institute" size="0" id="26" sourceLastImported="1571434041" embeddedCharacters="!&quot;#$%&amp;&apos;()*+,-/:;&lt;=&gt;?@[\]^_{|}~¡¢£¤§©«¬®°±²µ¶»¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿĄąĆćĈĉĔęĜĝĤĥıĴĵŁłŃńŐőŒœŚśŜŝŠšŬŭŰűŸŹźŻżŽžƒμ‘’“”†‡•€™" embedRanges="1|2|3"/>
+     </fonts>
+     <symbols>
+          <Include href="Assets/BSButtonHintBar/BSButtonHint.xml" itemID="5daea626-00000314" lastModified="1571940717"/>
+          <Include href="Assets/BSButtonHintBar/BSButtonHint_IconAnimation.xml" loadImmediate="false" itemID="5daea742-00000321" lastModified="1572060806"/>
+          <Include href="Assets/BSButtonHintBar/BSButtonHint_IconHolder.xml" loadImmediate="false" itemID="5daea62e-00000315" lastModified="1572060205"/>
+          <Include href="Assets/BSButtonHintBar/BSButtonHintBar.xml" itemID="5daea68f-0000031b" lastModified="1571730914"/>
+          <Include href="Assets/BSButtonHintBar/ButtonBracket_Left.xml" loadImmediate="false" itemID="5daea670-00000317" lastModified="1571730915"/>
+          <Include href="Assets/BSButtonHintBar/ButtonBracket_Right.xml" loadImmediate="false" itemID="5daea679-00000319" lastModified="1571731127"/>
+          <Include href="ButtonBarMenu/ButtonBarHolder.xml" itemID="5daff0fe-000001f8" lastModified="1572018924"/>
+          <Include href="ButtonBarMenu/MessageHolder.xml" itemID="5daff11a-000001f9" lastModified="1572018922"/>
+          <Include href="ButtonBarMenu/PromptMenuPanel.xml" itemID="5daff0ee-000001f7" lastModified="1572018927"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="PromptMenuPanel_mc" color="#339900" locked="true" outline="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="ButtonBarMenu/PromptMenuPanel" name="PromptMenuPanel_mc" centerPoint3DX="229" centerPoint3DY="50">
+                                             <matrix>
+                                                  <Matrix tx="64" ty="36"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="ButtonBarHolder_mc" color="#33FF00" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="ButtonBarMenu/ButtonBarHolder" name="ButtonBarHolder_mc" centerPoint3DX="659.45" centerPoint3DY="700">
+                                             <matrix>
+                                                  <Matrix tx="640" ty="684"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

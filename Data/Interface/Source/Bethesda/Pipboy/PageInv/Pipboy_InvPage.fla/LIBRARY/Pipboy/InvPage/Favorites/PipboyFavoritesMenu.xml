@@ -1,0 +1,144 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Pipboy/InvPage/Favorites/PipboyFavoritesMenu" itemID="5db063e2-0000051c" linkageExportForAS="true" linkageClassName="PipboyFavoritesMenu" lastModified="1571893786">
+  <timeline>
+    <DOMTimeline name="PipboyFavoritesMenu">
+      <layers>
+        <DOMLayer name="SelectionAmmo_tf" color="#FFFF00" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="SelectionAmmo_tf" selected="true" width="296" height="31.65" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="277" ty="580.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="5" lineHeight="26.4" size="22" bitmapSize="440" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SelectionName_tf" color="#66FFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="SelectionName_tf" width="431" height="36.95" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="209.5" ty="543"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="5" lineHeight="33.6" size="28" bitmapSize="560" face="$MAIN_Font_Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Header_tf" color="#9966FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="Header_tf" width="396" height="47.45" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="227.3" ty="62"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$ASSIGN FAVORITE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="43.2" size="36" bitmapSize="720" face="$MAIN_Font_Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Cross_mc" color="#FF9900" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/Favorites/FavoritesCross" name="Cross_mc" centerPoint3DX="424.6" centerPoint3DY="326.2">
+                  <matrix>
+                    <Matrix tx="215.8" ty="114.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TopBracketHolder_mc" color="#0099FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/Symbol 78" name="TopBracketHolder_mc" centerPoint3DX="201.2" centerPoint3DY="98">
+                  <matrix>
+                    <Matrix tx="201.2" ty="98"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shape" color="#00FF00" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="3" joints="miter">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!12975 1927S4|12975 12408!12975 12408|4006 12408!4006 12408|4006 1927"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Background_mc" color="#FF0000" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/Symbol 76" name="Background_mc" centerPoint3DX="250.5" centerPoint3DY="147.35">
+                  <matrix>
+                    <Matrix a="4.49998474121094" d="5.21995544433594" tx="200" ty="96.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0" blueMultiplier="0" greenMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

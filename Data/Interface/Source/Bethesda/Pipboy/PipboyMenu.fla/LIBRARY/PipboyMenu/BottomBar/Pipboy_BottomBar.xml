@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PipboyMenu/BottomBar/Pipboy_BottomBar" itemID="5db00c5c-000002a5" linkageExportForAS="true" linkageClassName="Pipboy_BottomBar" lastModified="1571929757">
+  <timeline>
+    <DOMTimeline name="Pipboy_BottomBar">
+      <layers>
+        <DOMLayer name="Info_mc" color="#AE7BAB" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PipboyMenu/BottomBar/BottomBar_Info" name="Info_mc" centerPoint3DX="407.35" centerPoint3DY="22.7">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

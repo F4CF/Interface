@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/FloatingQuestMarker/FloatingTarget_PlayerSet" itemID="5dc28ee6-000005d8" lastModified="1573031888">
+  <timeline>
+    <DOMTimeline name="FloatingTarget_PlayerSet">
+      <layers>
+        <DOMLayer name="Shape" color="#47DBDD" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!108 -184S1|-108 -184!-108 -184|-108 -401!-108 -401|108 -401!108 -401|108 -184"/>
+                    <Edge fillStyle1="1" edges="!15 -166S2|15 2!15 2|-15 2!-15 2|-15 -166!-15 -166|-128 -166!-128 -166|-128 -423!-128 -423|128 -423!128 -423|128 -166!128 -166|15 -166"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

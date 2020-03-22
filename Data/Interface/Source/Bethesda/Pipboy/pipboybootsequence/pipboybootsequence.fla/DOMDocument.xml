@@ -1,0 +1,62 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#333333" width="826" height="700" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" vanishingPoint3DX="413" vanishingPoint3DY="350" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="2980E444B4141F49A0621E5C252FEC30">
+     <fonts>
+          <DOMFontItem name="Font 118" itemID="5dc0263b-00000013" font="Controller--Buttons-inverted" size="0" id="118" embedRanges="1|2"/>
+          <DOMFontItem name="Font 117" itemID="5dc0263b-00000011" font="Handwritten_Institute" size="0" id="117" embeddedCharacters="!&quot;#$%&amp;&apos;()*+,-/:;&lt;=&gt;?@[\]^_{|}~¡¢£¤§©«¬®°±²µ¶»¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿĄąĆćĈĉĔęĜĝĤĥıĴĵŁłŃńŐőŒœŚśŜŝŠšŬŭŰűŸŹźŻżŽžƒμ‘’“”†‡•€™" embedRanges="1|2|3"/>
+          <DOMFontItem name="Font 116" itemID="5dc0263b-0000000f" font="Eurostile Cyr Std Bold" size="0" id="116" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 115" itemID="5dc0263b-0000000d" font="Controller--Buttons" size="0" id="115" embedRanges="1|2"/>
+          <DOMFontItem name="Font 114" itemID="5dc0263b-0000000b" font="Brody" size="0" id="114" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĂăĄąĆćČčĎďĐđĘęĚěĞğİıĹĺĽľŁłŃńŇňŐőŒœŔŕŘřŚśŞşŠšŢţŤťŮůŰűŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜ΔΣΩμπ–—‗‘’‚“”„†‡•…‰‹›‼ⁿ₣™Ω←→∂∏∕√∞∫≠≤≥■" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 113" itemID="5dc0263b-00000009" font="Eurostile LT Std Roman" size="0" id="113" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 112" itemID="5dc0263b-00000007" font="Share-TechMono" size="0" id="112" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЀЁЍАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёѝ–—‘’‚“”„†‡•…‰‹›⁄€™Ω∂∏∑∕√∞∧∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 111" itemID="5dc0263b-00000005" font="RobotoCondensed-Regular" size="0" id="111" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 110" itemID="5dc0263b-00000003" font="RobotoCondensed-Bold" size="0" id="110" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+     </fonts>
+     <symbols>
+          <Include href="Symbol 2.xml" loadImmediate="false" itemID="5dc0263b-00000014" lastModified="1571730685"/>
+          <Include href="Symbol 3.xml" itemIcon="1" loadImmediate="false" itemID="5dc0263b-00000015" lastModified="1571730685"/>
+          <Include href="Symbol 4.xml" loadImmediate="false" itemID="5dc0263b-00000016" lastModified="1571730685"/>
+          <Include href="Symbol 95.xml" loadImmediate="false" itemID="5dc0263b-00000017" lastModified="1571730685"/>
+          <Include href="Symbol 96.xml" itemIcon="1" loadImmediate="false" itemID="5dc0263b-00000018" lastModified="1571730685"/>
+          <Include href="Symbol 98.xml" loadImmediate="false" itemID="5dc0263b-00000019" lastModified="1571730685"/>
+          <Include href="Symbol 99.xml" loadImmediate="false" itemID="5dc0263b-0000001a" lastModified="1571730685"/>
+          <Include href="Symbol 100.xml" itemIcon="1" loadImmediate="false" itemID="5dc0263b-0000001b" lastModified="1571730685"/>
+          <Include href="Symbol 107.xml" loadImmediate="false" itemID="5dc0263b-0000001c" lastModified="1571730685"/>
+          <Include href="Symbol 108.xml" itemID="5dc0263b-0000001d" lastModified="1571730685"/>
+          <Include href="Symbol 109.xml" itemID="5dc0263b-0000001e" lastModified="1571730685"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Script Layer" color="#BDD3F1">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[this.BGSCodeObj = new Object();
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#D3D352" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 109" centerPoint3DX="816.2" centerPoint3DY="3070.9">
+                                             <matrix>
+                                                  <Matrix tx="413.3" ty="342.3"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 77" itemID="5dc02773-000002c7" linkageExportForAS="true" linkageClassName="Stats_ValuesList" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 77">
+      <layers>
+        <DOMLayer name="Layer 1" color="#CEC8B2">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 49" name="ScrollDown" centerPoint3DX="404.85" centerPoint3DY="427.8">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="394.75" ty="417.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#99E2A2">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 49" name="ScrollUp" centerPoint3DX="392.8" centerPoint3DY="-10.15">
+                  <matrix>
+                    <Matrix tx="382.7" ty="-20.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#DA89AB" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 2" name="border" centerPoint3DX="50.5" centerPoint3DY="50.5">
+                  <matrix>
+                    <Matrix a="3.94993591308594" d="4.04983520507813"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

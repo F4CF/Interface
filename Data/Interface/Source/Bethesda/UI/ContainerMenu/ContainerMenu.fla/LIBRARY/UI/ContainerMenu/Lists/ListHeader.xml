@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ContainerMenu/Lists/ListHeader" itemID="5dadd39a-00000256" linkageExportForAS="true" linkageClassName="ListHeader" lastModified="1571734050">
+  <timeline>
+    <DOMTimeline name="ListHeader">
+      <layers>
+        <DOMLayer name="LeftArrow" color="#CB88CB" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Lists/HeaderArrow" name="LeftArrow" centerPoint3DX="20.65" centerPoint3DY="20.2">
+                  <matrix>
+                    <Matrix a="-0.823287963867188" d="0.822509765625" tx="12" ty="8.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="RightArrow" color="#D6C3F3" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Lists/HeaderArrow" name="RightArrow" centerPoint3DX="146.65" centerPoint3DY="20.2">
+                  <matrix>
+                    <Matrix a="0.824203491210938" d="0.822509765625" tx="138" ty="8.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="textField" color="#F96BF3" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="textField" width="221" height="32.4" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="19" ty="1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MY ARMOR</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="0.5" lineSpacing="5" lineHeight="30" size="25" bitmapSize="500" face="$MAIN_Font_Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,67 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/HUDNotificationsGroup/XPMeter/LeftToRightText_Tick" itemID="5dc262d1-000002dc" linkageExportForAS="true" linkageClassName="Tick" lastModified="1573020462">
+  <timeline>
+    <DOMTimeline name="LeftToRightText_Tick">
+      <layers>
+        <DOMLayer name="Labels" color="#666666" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" name="Hidden" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="27" name="Pulse" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Graphic" color="#C5A31B" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BorderGraphic" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.33332824707031" d="3" tx="4" ty="9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="13" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BorderGraphic" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.33332824707031" d="3" tx="4" ty="9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="23" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BorderGraphic" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.33332824707031" d="3" tx="4" ty="9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

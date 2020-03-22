@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/PowerArmorHUDMenu/Symbol 50" itemID="5dc1239a-0000002f" symbolType="graphic" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 50">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!361 -104|361 124!361 124|267 124!267 124|267 345!267 345|227 345!227 345|227 124!227 124|133 124!133 124|133 -104!133 -104|361 -104"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!350 476|350 527!350 527|140 527!140 527|140 476!140 476|350 476!90 426|90 576!90 576|399 576!399 576|399 426!399 426|90 426!369 656[354 656 344 666!344 666[333 676 333 691!333 691[333 706 344 717!344 717[354 727 369 727!369 727[384 727
+ 394 717!394 717[404 706 404 691!404 691[404 676 394 666!394 666[384 656 369 656!451 366|451 938!451 938|38 938!38 938|38 366!38 366|451 366!501 316|-11 316!-11 316|-11 987!-11 987|501 987!501 987|501 316"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

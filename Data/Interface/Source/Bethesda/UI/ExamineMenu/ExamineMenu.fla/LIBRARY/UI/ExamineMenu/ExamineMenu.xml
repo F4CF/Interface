@@ -1,0 +1,4212 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ExamineMenu/ExamineMenu" itemID="5dd8453d-000002c9" linkageExportForAS="true" linkageClassName="ExamineMenu" lastModified="1574562193">
+  <timeline>
+    <DOMTimeline name="ExamineMenu">
+      <layers>
+        <DOMLayer name="Labels" color="#F710D5" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" duration="9" name="ModSlots" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" duration="8" name="Mods" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="22" duration="8" name="Components" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="30" duration="9" name="ItemSelect" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="39" duration="8" name="ItemSelectBack" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="47" duration="8" name="ComponentsBack" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="55" duration="8" name="ModsBack" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="63" duration="8" name="ModSlotsBack" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="71" name="InspectMode" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="MouseReleaseCatcher" color="#D6EF24" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="72" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/MouseReleaseCatcher/MouseReleaseCatcher" name="MouseReleaseCatcher" selected="true" centerPoint3DX="637.75" centerPoint3DY="365.85">
+                  <matrix>
+                    <Matrix tx="-3" ty="8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shape (3)" color="#E4C640" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="72" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FFFFFF" alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!25570 14475S4|-60 14475!-60 14475|-60 160!-60 160|25570 160!25570 160|25570 14475"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ItemName_tf" color="#A498AD" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="72" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="ItemName_tf" selected="true" width="805.45" height="31.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="234" ty="71.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="13.7"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="LegendaryItemDescription_tf" color="#A86B8F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="72" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="LegendaryItemDescription_tf" selected="true" width="805.45" height="186.8" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="234" ty="107.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="13.7"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ButtonHintBar_mc" color="#DFA61B" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BSButtonHintBar/BSButtonHintBar" name="ButtonHintBar_mc" centerPoint3DX="241.95" centerPoint3DY="703.15">
+                  <matrix>
+                    <Matrix tx="222.5" ty="687.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BSButtonHintBar/BSButtonHintBar" name="ButtonHintBar_mc" centerPoint3DX="241.95" centerPoint3DY="703.15">
+                  <matrix>
+                    <Matrix tx="222.5" ty="687.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BSButtonHintBar/BSButtonHintBar" name="ButtonHintBar_mc" centerPoint3DX="241.95" centerPoint3DY="703.15">
+                  <matrix>
+                    <Matrix tx="222.5" ty="687.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BSButtonHintBar/BSButtonHintBar" name="ButtonHintBar_mc" centerPoint3DX="241.95" centerPoint3DY="703.15">
+                  <matrix>
+                    <Matrix tx="222.5" ty="687.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="67" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BSButtonHintBar/BSButtonHintBar" name="ButtonHintBar_mc" centerPoint3DX="241.95" centerPoint3DY="703.15">
+                  <matrix>
+                    <Matrix tx="222.5" ty="687.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BSButtonHintBar/BSButtonHintBar" name="ButtonHintBar_mc" centerPoint3DX="241.95" centerPoint3DY="703.15">
+                  <matrix>
+                    <Matrix tx="222.5" ty="687.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="InventoryBase_mc" color="#AAE09E" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBase/InventoryListBase" name="InventoryBase_mc" centerPoint3DX="634.7" centerPoint3DY="518.5">
+                  <matrix>
+                    <Matrix tx="303.9" ty="409.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBase/InventoryListBase" name="InventoryBase_mc" centerPoint3DX="634.7" centerPoint3DY="518.5">
+                  <matrix>
+                    <Matrix tx="303.9" ty="409.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBase/InventoryListBase" name="InventoryBase_mc" centerPoint3DX="634.7" centerPoint3DY="518.5">
+                  <matrix>
+                    <Matrix tx="303.9" ty="409.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBase/InventoryListBase" name="InventoryBase_mc" centerPoint3DX="634.7" centerPoint3DY="518.5">
+                  <matrix>
+                    <Matrix tx="303.9" ty="409.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="67" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBase/InventoryListBase" name="InventoryBase_mc" centerPoint3DX="634.7" centerPoint3DY="518.5">
+                  <matrix>
+                    <Matrix tx="303.9" ty="409.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBase/InventoryListBase" name="InventoryBase_mc" centerPoint3DX="634.7" centerPoint3DY="518.5">
+                  <matrix>
+                    <Matrix tx="303.9" ty="409.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ModSlotBase_mc" color="#B3A09B" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBase/ModSlotBase" name="ModSlotBase_mc" centerPoint3DX="777.1" centerPoint3DY="536.7">
+                  <matrix>
+                    <Matrix tx="674.4" ty="439"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBase/ModSlotBase" name="ModSlotBase_mc" centerPoint3DX="776.85" centerPoint3DY="536.7">
+                  <matrix>
+                    <Matrix d="1.02333068847656" tx="674.15" ty="439"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBase/ModSlotBase" name="ModSlotBase_mc" centerPoint3DX="776.6" centerPoint3DY="536.7">
+                  <matrix>
+                    <Matrix d="1.04667663574219" tx="673.9" ty="439"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBase/ModSlotBase" name="ModSlotBase_mc" centerPoint3DX="776.35" centerPoint3DY="536.65">
+                  <matrix>
+                    <Matrix d="1.07002258300781" tx="673.65" ty="438.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="67" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBase/ModSlotBase" name="ModSlotBase_mc" centerPoint3DX="776.1" centerPoint3DY="536.7">
+                  <matrix>
+                    <Matrix d="1.09336853027344" tx="673.4" ty="439"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBase/ModSlotBase" name="ModSlotBase_mc" centerPoint3DX="776.1" centerPoint3DY="536.7">
+                  <matrix>
+                    <Matrix d="1.09336853027344" tx="673.4" ty="439"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ModDescription_tf" color="#02F4A1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModDescriptionBase/ModDescriptionBase" name="ModDescriptionBase_mc" centerPoint3DX="821.35" centerPoint3DY="462.85">
+                  <matrix>
+                    <Matrix tx="678" ty="439"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModDescriptionBase/ModDescriptionBase" name="ModDescriptionBase_mc" centerPoint3DX="821.35" centerPoint3DY="462.85">
+                  <matrix>
+                    <Matrix tx="678" ty="439"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModDescriptionBase/ModDescriptionBase" name="ModDescriptionBase_mc" centerPoint3DX="821.35" centerPoint3DY="462.85">
+                  <matrix>
+                    <Matrix tx="678" ty="439"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModDescriptionBase/ModDescriptionBase" name="ModDescriptionBase_mc" centerPoint3DX="821.35" centerPoint3DY="462.85">
+                  <matrix>
+                    <Matrix tx="678" ty="439"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="67" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModDescriptionBase/ModDescriptionBase" name="ModDescriptionBase_mc" centerPoint3DX="821.35" centerPoint3DY="462.85">
+                  <matrix>
+                    <Matrix tx="678" ty="439"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModDescriptionBase/ModDescriptionBase" name="ModDescriptionBase_mc" centerPoint3DX="821.35" centerPoint3DY="462.85">
+                  <matrix>
+                    <Matrix tx="678" ty="439"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ItemCardList_mc" color="#F6A62A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="72" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/ItemCard/ItemCard" name="ItemCardList_mc" centerPoint3DX="273" centerPoint3DY="611.25">
+                  <matrix>
+                    <Matrix tx="273" ty="611.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PerkPanel1_mc" color="#D490EA" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="72" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/PerkPanel/PerkPanel" name="PerkPanel1_mc" centerPoint3DX="1200.15" centerPoint3DY="534.5">
+                  <matrix>
+                    <Matrix tx="1113.15" ty="425.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PerkPanel0_mc" color="#A2F941" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="72" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/PerkPanel/PerkPanel" name="PerkPanel0_mc" centerPoint3DX="1061.7" centerPoint3DY="534.5">
+                  <matrix>
+                    <Matrix tx="974.7" ty="425.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="InventoryBracketBase_mc" color="#E0FB44" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.95">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="416.95">
+                  <matrix>
+                    <Matrix tx="308.65" ty="398.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.96875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="413.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="395.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.94921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="410.85">
+                  <matrix>
+                    <Matrix tx="308.65" ty="392.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.9296875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="407.8">
+                  <matrix>
+                    <Matrix tx="308.65" ty="389.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.91015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="404.8">
+                  <matrix>
+                    <Matrix tx="308.65" ty="386.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.87890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="401.75">
+                  <matrix>
+                    <Matrix tx="308.65" ty="383.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.859375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="398.7">
+                  <matrix>
+                    <Matrix tx="308.65" ty="380.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.83984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="395.65">
+                  <matrix>
+                    <Matrix tx="308.65" ty="377.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8203125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.4" centerPoint3DY="392.6">
+                  <matrix>
+                    <Matrix tx="308.7" ty="374.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="389.1">
+                  <matrix>
+                    <Matrix tx="308.65" ty="370.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.76953125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="385.6">
+                  <matrix>
+                    <Matrix tx="308.65" ty="367.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="382.1">
+                  <matrix>
+                    <Matrix tx="308.65" ty="363.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.71875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="378.6">
+                  <matrix>
+                    <Matrix tx="308.65" ty="360.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.69921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="375.1">
+                  <matrix>
+                    <Matrix tx="308.65" ty="356.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.671875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="371.6">
+                  <matrix>
+                    <Matrix tx="308.65" ty="353.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="368.1">
+                  <matrix>
+                    <Matrix tx="308.65" ty="349.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.62109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="364.55">
+                  <matrix>
+                    <Matrix tx="308.65" ty="346.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="361.2">
+                  <matrix>
+                    <Matrix tx="308.65" ty="343"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5703125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="357.8">
+                  <matrix>
+                    <Matrix tx="308.65" ty="339.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.55078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="354.4">
+                  <matrix>
+                    <Matrix tx="308.65" ty="336.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.51953125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="351">
+                  <matrix>
+                    <Matrix tx="308.65" ty="332.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="347.65">
+                  <matrix>
+                    <Matrix tx="308.65" ty="329.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.46875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="344.25">
+                  <matrix>
+                    <Matrix tx="308.65" ty="326.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.44921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="340.85">
+                  <matrix>
+                    <Matrix tx="308.65" ty="322.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.421875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="337.45">
+                  <matrix>
+                    <Matrix tx="308.65" ty="319.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.3984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="337.45">
+                  <matrix>
+                    <Matrix tx="308.65" ty="319.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.3515625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="337.45">
+                  <matrix>
+                    <Matrix tx="308.65" ty="319.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.30078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="337.45">
+                  <matrix>
+                    <Matrix tx="308.65" ty="319.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="337.45">
+                  <matrix>
+                    <Matrix tx="308.65" ty="319.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.19921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="337.45">
+                  <matrix>
+                    <Matrix tx="308.65" ty="319.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="337.45">
+                  <matrix>
+                    <Matrix tx="308.65" ty="319.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="337.45">
+                  <matrix>
+                    <Matrix tx="308.65" ty="319.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.05078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="337.45">
+                  <matrix>
+                    <Matrix tx="308.65" ty="319.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="337.45">
+                  <matrix>
+                    <Matrix tx="308.65" ty="319.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.05078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="337.45">
+                  <matrix>
+                    <Matrix tx="308.65" ty="319.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="41" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="337.45">
+                  <matrix>
+                    <Matrix tx="308.65" ty="319.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="337.45">
+                  <matrix>
+                    <Matrix tx="308.65" ty="319.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.19921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="337.45">
+                  <matrix>
+                    <Matrix tx="308.65" ty="319.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="337.45">
+                  <matrix>
+                    <Matrix tx="308.65" ty="319.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.30078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="45" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="337.45">
+                  <matrix>
+                    <Matrix tx="308.65" ty="319.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.3515625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="337.45">
+                  <matrix>
+                    <Matrix tx="308.65" ty="319.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.3984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="47" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="340.8">
+                  <matrix>
+                    <Matrix tx="308.65" ty="322.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.421875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="48" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="344.2">
+                  <matrix>
+                    <Matrix tx="308.65" ty="326"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.44921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="347.6">
+                  <matrix>
+                    <Matrix tx="308.65" ty="329.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.46875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="351">
+                  <matrix>
+                    <Matrix tx="308.65" ty="332.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="51" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="354.35">
+                  <matrix>
+                    <Matrix tx="308.65" ty="336.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.51953125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="52" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="357.75">
+                  <matrix>
+                    <Matrix tx="308.65" ty="339.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.55078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="53" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="361.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="342.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5703125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="364.55">
+                  <matrix>
+                    <Matrix tx="308.65" ty="346.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="368.05">
+                  <matrix>
+                    <Matrix tx="308.65" ty="349.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.62109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="56" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="371.55">
+                  <matrix>
+                    <Matrix tx="308.65" ty="353.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="375.05">
+                  <matrix>
+                    <Matrix tx="308.65" ty="356.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.671875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="378.55">
+                  <matrix>
+                    <Matrix tx="308.65" ty="360.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.69921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="382.05">
+                  <matrix>
+                    <Matrix tx="308.65" ty="363.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.71875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="60" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="385.55">
+                  <matrix>
+                    <Matrix tx="308.65" ty="367.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="61" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="389.05">
+                  <matrix>
+                    <Matrix tx="308.65" ty="370.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.76953125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="62" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.4" centerPoint3DY="392.6">
+                  <matrix>
+                    <Matrix tx="308.7" ty="374.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="63" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="396">
+                  <matrix>
+                    <Matrix tx="308.65" ty="377.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8203125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="399.4">
+                  <matrix>
+                    <Matrix tx="308.65" ty="381.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8515625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="65" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="402.85">
+                  <matrix>
+                    <Matrix tx="308.65" ty="384.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.87109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="66" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="406.25">
+                  <matrix>
+                    <Matrix tx="308.65" ty="388.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="67" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="409.65">
+                  <matrix>
+                    <Matrix tx="308.65" ty="391.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="68" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="413.1">
+                  <matrix>
+                    <Matrix tx="308.65" ty="394.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.94921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="416.5">
+                  <matrix>
+                    <Matrix tx="308.65" ty="398.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.96875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="70" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.95">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase" name="InventoryBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.95">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ModSlotBracketBase_mc" color="#B4AAA8" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.21875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.328125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.44140625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.55078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.66015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.76953125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.87890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="416.5">
+                  <matrix>
+                    <Matrix tx="308.65" ty="398.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.96875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="413.1">
+                  <matrix>
+                    <Matrix tx="308.65" ty="394.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.94921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="409.65">
+                  <matrix>
+                    <Matrix tx="308.65" ty="391.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="406.25">
+                  <matrix>
+                    <Matrix tx="308.65" ty="388.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="402.85">
+                  <matrix>
+                    <Matrix tx="308.65" ty="384.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.87109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="399.4">
+                  <matrix>
+                    <Matrix tx="308.65" ty="381.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8515625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="396">
+                  <matrix>
+                    <Matrix tx="308.65" ty="377.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8203125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="392.55">
+                  <matrix>
+                    <Matrix tx="308.65" ty="374.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="389.1">
+                  <matrix>
+                    <Matrix tx="308.65" ty="370.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.76953125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="385.6">
+                  <matrix>
+                    <Matrix tx="308.65" ty="367.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="382.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="363.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.71875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="378.65">
+                  <matrix>
+                    <Matrix tx="308.65" ty="360.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.69921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="375.2">
+                  <matrix>
+                    <Matrix tx="308.65" ty="357"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.671875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="371.75">
+                  <matrix>
+                    <Matrix tx="308.65" ty="353.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="368.25">
+                  <matrix>
+                    <Matrix tx="308.65" ty="350.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.62109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="364.75">
+                  <matrix>
+                    <Matrix tx="308.65" ty="346.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="361.35">
+                  <matrix>
+                    <Matrix tx="308.65" ty="343.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5703125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="357.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="339.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.55078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="354.5">
+                  <matrix>
+                    <Matrix tx="308.65" ty="336.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.51953125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="351.05">
+                  <matrix>
+                    <Matrix tx="308.65" ty="332.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="347.65">
+                  <matrix>
+                    <Matrix tx="308.65" ty="329.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.46875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="344.25">
+                  <matrix>
+                    <Matrix tx="308.65" ty="326.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.44921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="340.8">
+                  <matrix>
+                    <Matrix tx="308.65" ty="322.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.421875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="337.35">
+                  <matrix>
+                    <Matrix tx="308.65" ty="319.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.3984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="340.75">
+                  <matrix>
+                    <Matrix tx="308.65" ty="322.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.421875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="344.2">
+                  <matrix>
+                    <Matrix tx="308.65" ty="326"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.44921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="41" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="347.6">
+                  <matrix>
+                    <Matrix tx="308.65" ty="329.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.46875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="351.05">
+                  <matrix>
+                    <Matrix tx="308.65" ty="332.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="354.45">
+                  <matrix>
+                    <Matrix tx="308.65" ty="336.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.51953125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="357.85">
+                  <matrix>
+                    <Matrix tx="308.65" ty="339.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.55078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="45" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="361.3">
+                  <matrix>
+                    <Matrix tx="308.65" ty="343.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5703125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="364.75">
+                  <matrix>
+                    <Matrix tx="308.65" ty="346.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="47" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="368.2">
+                  <matrix>
+                    <Matrix tx="308.65" ty="350"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.62109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="48" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="371.7">
+                  <matrix>
+                    <Matrix tx="308.65" ty="353.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="375.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="356.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.671875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="378.65">
+                  <matrix>
+                    <Matrix tx="308.65" ty="360.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.69921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="51" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="382.1">
+                  <matrix>
+                    <Matrix tx="308.65" ty="363.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.71875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="52" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="385.6">
+                  <matrix>
+                    <Matrix tx="308.65" ty="367.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="53" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="389.05">
+                  <matrix>
+                    <Matrix tx="308.65" ty="370.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.76953125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="392.55">
+                  <matrix>
+                    <Matrix tx="308.65" ty="374.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="395.95">
+                  <matrix>
+                    <Matrix tx="308.65" ty="377.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8203125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="56" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="399.35">
+                  <matrix>
+                    <Matrix tx="308.65" ty="381.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8515625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="402.8">
+                  <matrix>
+                    <Matrix tx="308.65" ty="384.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.87109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="406.2">
+                  <matrix>
+                    <Matrix tx="308.65" ty="388"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="409.6">
+                  <matrix>
+                    <Matrix tx="308.65" ty="391.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="60" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="413.05">
+                  <matrix>
+                    <Matrix tx="308.65" ty="394.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.94921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="61" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="416.45">
+                  <matrix>
+                    <Matrix tx="308.65" ty="398.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.96875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="62" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="63" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.87109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="65" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.62109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="66" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.48828125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="67" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.37109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="68" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.23828125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.12109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="70" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase" name="ModSlotBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="419.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ModBracketBase_mc" color="#E54BD7" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="420">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="420">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.12109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="420">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="420">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.37109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="420">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="420">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.62109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="420">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="420">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.87109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="420">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="416.6">
+                  <matrix>
+                    <Matrix tx="308.65" ty="398.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.96875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="413.2">
+                  <matrix>
+                    <Matrix tx="308.65" ty="395"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.94921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="409.8">
+                  <matrix>
+                    <Matrix tx="308.65" ty="391.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="406.4">
+                  <matrix>
+                    <Matrix tx="308.65" ty="388.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="402.95">
+                  <matrix>
+                    <Matrix tx="308.65" ty="384.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.87109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="399.55">
+                  <matrix>
+                    <Matrix tx="308.65" ty="381.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8515625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="396.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="377.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8203125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="392.7">
+                  <matrix>
+                    <Matrix tx="308.65" ty="374.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="389.2">
+                  <matrix>
+                    <Matrix tx="308.65" ty="371"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.76953125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="385.7">
+                  <matrix>
+                    <Matrix tx="308.65" ty="367.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="382.2">
+                  <matrix>
+                    <Matrix tx="308.65" ty="364"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.71875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="378.7">
+                  <matrix>
+                    <Matrix tx="308.65" ty="360.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.69921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="375.2">
+                  <matrix>
+                    <Matrix tx="308.65" ty="357"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.671875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="371.7">
+                  <matrix>
+                    <Matrix tx="308.65" ty="353.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="368.2">
+                  <matrix>
+                    <Matrix tx="308.65" ty="350"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.62109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="364.7">
+                  <matrix>
+                    <Matrix tx="308.65" ty="346.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="368.2">
+                  <matrix>
+                    <Matrix tx="308.65" ty="350"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.62109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="371.7">
+                  <matrix>
+                    <Matrix tx="308.65" ty="353.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="41" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="375.2">
+                  <matrix>
+                    <Matrix tx="308.65" ty="357"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.671875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="378.7">
+                  <matrix>
+                    <Matrix tx="308.65" ty="360.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.69921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="382.2">
+                  <matrix>
+                    <Matrix tx="308.65" ty="364"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.71875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="385.7">
+                  <matrix>
+                    <Matrix tx="308.65" ty="367.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="45" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="389.2">
+                  <matrix>
+                    <Matrix tx="308.65" ty="371"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.76953125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="392.7">
+                  <matrix>
+                    <Matrix tx="308.65" ty="374.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="47" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="396.1">
+                  <matrix>
+                    <Matrix tx="308.65" ty="377.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8203125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="48" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="399.5">
+                  <matrix>
+                    <Matrix tx="308.65" ty="381.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8515625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="402.9">
+                  <matrix>
+                    <Matrix tx="308.65" ty="384.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.87109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="406.35">
+                  <matrix>
+                    <Matrix tx="308.65" ty="388.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="51" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="409.75">
+                  <matrix>
+                    <Matrix tx="308.65" ty="391.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="52" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="413.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="394.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.94921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="53" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="416.55">
+                  <matrix>
+                    <Matrix tx="308.65" ty="398.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.96875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="420">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="420">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.87109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="56" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="420">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="420">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.62109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="420">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="420">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.37109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="60" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="420">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="61" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="420">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.12109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="62" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ModBracketBase/ModBracketBase" name="ModBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="420">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ComponentsBracketBase_mc" color="#F8E361" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.12109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.23828125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.37109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.48828125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.62109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.73828125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.87109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="418.2">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="414.8">
+                  <matrix>
+                    <Matrix tx="308.65" ty="398.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.96875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="411.4">
+                  <matrix>
+                    <Matrix tx="308.65" ty="395"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.94921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="408">
+                  <matrix>
+                    <Matrix tx="308.65" ty="391.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="404.6">
+                  <matrix>
+                    <Matrix tx="308.65" ty="388.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="401.2">
+                  <matrix>
+                    <Matrix tx="308.65" ty="384.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.87109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="397.8">
+                  <matrix>
+                    <Matrix tx="308.65" ty="381.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8515625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="394.4">
+                  <matrix>
+                    <Matrix tx="308.65" ty="378"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8203125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="390.95">
+                  <matrix>
+                    <Matrix tx="308.65" ty="374.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="394.35">
+                  <matrix>
+                    <Matrix tx="308.65" ty="377.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8203125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="397.75">
+                  <matrix>
+                    <Matrix tx="308.65" ty="381.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8515625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="41" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="401.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="384.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.87109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="404.55">
+                  <matrix>
+                    <Matrix tx="308.65" ty="388.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="407.95">
+                  <matrix>
+                    <Matrix tx="308.65" ty="391.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="411.35">
+                  <matrix>
+                    <Matrix tx="308.65" ty="394.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.94921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="45" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="414.75">
+                  <matrix>
+                    <Matrix tx="308.65" ty="398.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.96875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="418.2">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="47" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.87109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="48" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.62109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="51" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.37109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="52" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="53" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.12109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase" name="ComponentsBracketBase_mc" centerPoint3DX="639.35" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.65" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ItemCatcher" color="#38ECA5" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="72" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ItemCatcher/ItemCatcherClip" name="ItemCatcher" centerPoint3DX="639.55" centerPoint3DY="201.95">
+                  <matrix>
+                    <Matrix tx="-0.35" ty="-0.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shape (18)" color="#E9DCB1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="72" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor color="#663300" alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor color="#FFFFFF" alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!20 8332S6|-7 8332!-7 8332|-7 8092!25535 8332|25535 8519!25535 8519|20 8519!20 8519|20 8332!25589 8092|25589 8332!25589 8332|25535 8332"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!25535 8332S7|20 8332"/>
+                    <Edge strokeStyle="2" edges="!-7 8092S4|-7 -13!-7 -13|25589 -13!25589 -13|25589 8092"/>
+                    <Edge fillStyle0="1" strokeStyle="2" edges="!25589 8092S5|-7 8092"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ItemSelectBracketBase_mc" color="#E0F6D4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ItemSelectBracketBase/ItemSelectBracketBase" name="ItemSelectBracketBase_mc" centerPoint3DX="639.3" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.6" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ItemSelectBracketBase/ItemSelectBracketBase" name="ItemSelectBracketBase_mc" centerPoint3DX="639.3" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.6" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.12109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ItemSelectBracketBase/ItemSelectBracketBase" name="ItemSelectBracketBase_mc" centerPoint3DX="639.3" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.6" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.23828125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ItemSelectBracketBase/ItemSelectBracketBase" name="ItemSelectBracketBase_mc" centerPoint3DX="639.3" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.6" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.37109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ItemSelectBracketBase/ItemSelectBracketBase" name="ItemSelectBracketBase_mc" centerPoint3DX="639.3" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.6" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.48828125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ItemSelectBracketBase/ItemSelectBracketBase" name="ItemSelectBracketBase_mc" centerPoint3DX="639.3" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.6" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.62109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ItemSelectBracketBase/ItemSelectBracketBase" name="ItemSelectBracketBase_mc" centerPoint3DX="639.3" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.6" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.73828125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ItemSelectBracketBase/ItemSelectBracketBase" name="ItemSelectBracketBase_mc" centerPoint3DX="639.3" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.6" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.87109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ItemSelectBracketBase/ItemSelectBracketBase" name="ItemSelectBracketBase_mc" centerPoint3DX="639.3" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.6" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ItemSelectBracketBase/ItemSelectBracketBase" name="ItemSelectBracketBase_mc" centerPoint3DX="639.3" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.6" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.87109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ItemSelectBracketBase/ItemSelectBracketBase" name="ItemSelectBracketBase_mc" centerPoint3DX="639.3" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.6" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="41" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ItemSelectBracketBase/ItemSelectBracketBase" name="ItemSelectBracketBase_mc" centerPoint3DX="639.3" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.6" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.62109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ItemSelectBracketBase/ItemSelectBracketBase" name="ItemSelectBracketBase_mc" centerPoint3DX="639.3" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.6" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ItemSelectBracketBase/ItemSelectBracketBase" name="ItemSelectBracketBase_mc" centerPoint3DX="639.3" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.6" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.37109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ItemSelectBracketBase/ItemSelectBracketBase" name="ItemSelectBracketBase_mc" centerPoint3DX="639.3" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.6" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="45" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ItemSelectBracketBase/ItemSelectBracketBase" name="ItemSelectBracketBase_mc" centerPoint3DX="639.3" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.6" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.12109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" duration="26" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ItemSelectBracketBase/ItemSelectBracketBase" name="ItemSelectBracketBase_mc" centerPoint3DX="639.3" centerPoint3DY="418.15">
+                  <matrix>
+                    <Matrix tx="308.6" ty="401.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CurrentModsBase_mc" color="#A05FC7" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/CurrentModsBase/ModsBase" name="CurrentModsBase_mc" centerPoint3DX="977.25" centerPoint3DY="381.85">
+                  <matrix>
+                    <Matrix tx="875.9" ty="112.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/CurrentModsBase/ModsBase" name="CurrentModsBase_mc" centerPoint3DX="977.25" centerPoint3DY="381.85">
+                  <matrix>
+                    <Matrix tx="875.9" ty="112.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.140625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/CurrentModsBase/ModsBase" name="CurrentModsBase_mc" centerPoint3DX="977.25" centerPoint3DY="381.85">
+                  <matrix>
+                    <Matrix tx="875.9" ty="112.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.28125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/CurrentModsBase/ModsBase" name="CurrentModsBase_mc" centerPoint3DX="977.25" centerPoint3DY="381.85">
+                  <matrix>
+                    <Matrix tx="875.9" ty="112.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.421875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/CurrentModsBase/ModsBase" name="CurrentModsBase_mc" centerPoint3DX="977.25" centerPoint3DY="381.85">
+                  <matrix>
+                    <Matrix tx="875.9" ty="112.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5703125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/CurrentModsBase/ModsBase" name="CurrentModsBase_mc" centerPoint3DX="977.25" centerPoint3DY="381.85">
+                  <matrix>
+                    <Matrix tx="875.9" ty="112.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.7109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/CurrentModsBase/ModsBase" name="CurrentModsBase_mc" centerPoint3DX="977.25" centerPoint3DY="381.85">
+                  <matrix>
+                    <Matrix tx="875.9" ty="112.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8515625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="65" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/CurrentModsBase/ModsBase" name="CurrentModsBase_mc" centerPoint3DX="977.25" centerPoint3DY="381.85">
+                  <matrix>
+                    <Matrix tx="875.9" ty="112.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="VaultBoySafeRectGroup_mc" color="#C874BE" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="72" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/VaultBoySafeRectGroup/VaultBoySafeRectGroup" name="VaultBoySafeRectGroup_mc" centerPoint3DX="65" centerPoint3DY="46">
+                  <matrix>
+                    <Matrix tx="65" ty="46"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

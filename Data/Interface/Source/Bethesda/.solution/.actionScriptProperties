@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actionScriptProperties mainApplicationPath="temp.as" projectUUID="1572144749100" version="6">
+  <compiler additionalCompilerArguments="-locale en_US" autoRSLOrdering="true" copyDependentFiles="true" fteInMXComponents="false" generateAccessible="false" htmlExpressInstall="true" htmlGenerate="true" htmlHistoryManagement="true" htmlPlayerVersionCheck="true" includeNetmonSwc="false" outputFolderPath="bin-debug" sourceFolderPath="" strict="true" targetPlayerVersion="10.0.45" useApolloConfig="false" useDebugRSLSwfs="true" verifyDigests="true" warn="true">
+    <compilerSourcePath>
+      <compilerSourcePathEntry kind="1" linkType="1" path="E:/Games/Steam/steamapps/common/Fallout 4/Data/Interface/Source/Bethesda"/>
+    </compilerSourcePath>
+    <libraryPath defaultLinkType="0"/>
+    <sourceAttachmentPath/>
+  </compiler>
+  <applications>
+    <application path="temp.as"/>
+  </applications>
+  <modules/>
+  <buildCSSFiles/>
+</actionScriptProperties>

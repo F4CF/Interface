@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1291" itemID="5dc12b90-000001fc" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 1291">
+      <layers>
+        <DOMLayer name="Layer 1" color="#D6C97C" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FAF1D4"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-2526 -228[-2554 -234 -2579 -211!-2579 -211[-2601 -190 -2608 -158!-2608 -158[-2615 -132 -2606 -100!-2606 -100[-2597 -66 -2575 -52!-2575 -52[-2558 -42 -2541 -42!-2541 -42[-2518 -43 -2498 -65!-2498 -65[-2480 -85 -2473 -113!-2473 -113[-2469
+ -143 -2475 -171!-2475 -171[-2483 -205 -2506 -219!-2506 -219|-2526 -228"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!-2482 -132[-2494 -86 -2531 -69!-2531 -69[-2563 -54 -2584 -81!-2584 -81[-2605 -107 -2599 -139!-2599 -139[-2596 -159 -2583 -176!-2583 -176[-2570 -194 -2551 -202!-2551 -202[-2519 -216 -2497 -189!-2497 -189[-2477 -164 -2482 -132"/>
+                    <Edge fillStyle0="1" edges="
+!-2104 -202[-2132 -208 -2157 -185!-2157 -185[-2179 -164 -2186 -132!-2186 -132[-2193 -106 -2184 -74!-2184 -74[-2175 -40 -2153 -26!-2153 -26[-2136 -16 -2119 -16!-2119 -16[-2096 -17 -2076 -39!-2076 -39[-2058 -59 -2051 -87!-2051 -87[-2047
+ -117 -2053 -145!-2053 -145[-2061 -179 -2084 -193!-2084 -193|-2104 -202"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!-2129 -176[-2097 -190 -2075 -163!-2075 -163[-2055 -138 -2060 -106!-2060 -106[-2072 -60 -2109 -43!-2109 -43[-2141 -28 -2162 -55!-2162 -55[-2183 -81 -2177 -113!-2177 -113[-2174 -133 -2161 -150!-2161 -150|-2129 -176"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkGrid_Perks/PerkGrid_Perks_StarHolder" itemID="5dd9f9b5-0000073d" lastModified="1574566325">
+  <timeline>
+    <DOMTimeline name="PerkGrid_Perks_StarHolder">
+      <layers>
+        <DOMLayer name="Border" color="#69B4DD" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Border" selected="true" centerPoint3DX="48.15" centerPoint3DY="47.95">
+                  <matrix>
+                    <Matrix a="3.95843505859375" d="0.3819580078125"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

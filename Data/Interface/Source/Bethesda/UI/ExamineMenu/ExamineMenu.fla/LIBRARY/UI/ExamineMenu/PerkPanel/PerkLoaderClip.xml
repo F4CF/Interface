@@ -1,0 +1,15 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ExamineMenu/PerkPanel/PerkLoaderClip" itemID="5dd8472c-000002f0" linkageExportForAS="true" linkageClassName="PerkLoaderClip" lastModified="1574455084">
+  <timeline>
+    <DOMTimeline name="PerkLoaderClip">
+      <layers>
+        <DOMLayer name="Empty" color="#00FFFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

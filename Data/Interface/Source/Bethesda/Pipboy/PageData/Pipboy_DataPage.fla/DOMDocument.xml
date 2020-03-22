@@ -1,0 +1,112 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#333333" width="876" height="700" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" vanishingPoint3DX="438" vanishingPoint3DY="350" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="E3E090FB1BDD364D83BAB9EAB1ED7594">
+     <fonts>
+          <DOMFontItem name="Font 80" itemID="5dc02773-00000288" font="RobotoCondensed-Bold" size="0" id="80" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 81" itemID="5dc02773-0000028a" font="RobotoCondensed-Regular" size="0" id="81" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 82" itemID="5dc02773-0000028c" font="Share-TechMono" size="0" id="82" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЀЁЍАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёѝ–—‘’‚“”„†‡•…‰‹›⁄€™Ω∂∏∑∕√∞∧∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 83" itemID="5dc02773-0000028e" font="Eurostile LT Std Roman" size="0" id="83" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 84" itemID="5dc02773-00000290" font="Brody" size="0" id="84" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĂăĄąĆćČčĎďĐđĘęĚěĞğİıĹĺĽľŁłŃńŇňŐőŒœŔŕŘřŚśŞşŠšŢţŤťŮůŰűŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜ΔΣΩμπ–—‗‘’‚“”„†‡•…‰‹›‼ⁿ₣™Ω←→∂∏∕√∞∫≠≤≥■" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 85" itemID="5dc02773-00000292" font="Controller--Buttons" size="0" id="85" embedRanges="1|2"/>
+          <DOMFontItem name="Font 86" itemID="5dc02773-00000294" font="Eurostile Cyr Std Bold" size="0" id="86" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 87" itemID="5dc02773-00000296" font="Handwritten_Institute" size="0" id="87" embeddedCharacters="!&quot;#$%&amp;&apos;()*+,-/:;&lt;=&gt;?@[\]^_{|}~¡¢£¤§©«¬®°±²µ¶»¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿĄąĆćĈĉĔęĜĝĤĥıĴĵŁłŃńŐőŒœŚśŜŝŠšŬŭŰűŸŹźŻżŽžƒμ‘’“”†‡•€™" embedRanges="1|2|3"/>
+          <DOMFontItem name="Font 88" itemID="5dc02773-00000298" font="Controller--Buttons-inverted" size="0" id="88" embedRanges="1|2"/>
+     </fonts>
+     <symbols>
+          <Include href="Symbol 1.xml" itemIcon="1" loadImmediate="false" itemID="5dc02773-00000299" lastModified="1571730685"/>
+          <Include href="Symbol 2.xml" loadImmediate="false" itemID="5dc02773-0000029a" lastModified="1571730685"/>
+          <Include href="Symbol 5.xml" loadImmediate="false" itemID="5dc02773-0000029b" lastModified="1571730685"/>
+          <Include href="Symbol 7.xml" itemIcon="1" loadImmediate="false" itemID="5dc02773-0000029c" lastModified="1571730685"/>
+          <Include href="Symbol 8.xml" itemID="5dc02773-0000029d" lastModified="1571730685"/>
+          <Include href="Symbol 9.xml" itemID="5dc02773-0000029e" lastModified="1571730685"/>
+          <Include href="Symbol 10.xml" itemIcon="1" loadImmediate="false" itemID="5dc02773-0000029f" lastModified="1571730685"/>
+          <Include href="Symbol 11.xml" loadImmediate="false" itemID="5dc02773-000002a0" lastModified="1571730685"/>
+          <Include href="Symbol 14.xml" itemID="5dc02773-000002a1" lastModified="1571730685"/>
+          <Include href="Symbol 16.xml" itemID="5dc02773-000002a2" lastModified="1571730685"/>
+          <Include href="Symbol 20.xml" itemID="5dc02773-000002a3" lastModified="1571730685"/>
+          <Include href="Symbol 21.xml" itemIcon="1" loadImmediate="false" itemID="5dc02773-000002a4" lastModified="1571730685"/>
+          <Include href="Symbol 22.xml" itemID="5dc02773-000002a5" lastModified="1571730685"/>
+          <Include href="Symbol 23.xml" itemIcon="1" loadImmediate="false" itemID="5dc02773-000002a6" lastModified="1571730685"/>
+          <Include href="Symbol 24.xml" itemIcon="1" loadImmediate="false" itemID="5dc02773-000002a7" lastModified="1571730685"/>
+          <Include href="Symbol 26.xml" itemIcon="1" loadImmediate="false" itemID="5dc02773-000002a8" lastModified="1571730685"/>
+          <Include href="Symbol 27.xml" itemIcon="1" loadImmediate="false" itemID="5dc02773-000002a9" lastModified="1571730685"/>
+          <Include href="Symbol 28.xml" itemIcon="1" loadImmediate="false" itemID="5dc02773-000002aa" lastModified="1571730685"/>
+          <Include href="Symbol 29.xml" itemIcon="1" loadImmediate="false" itemID="5dc02773-000002ab" lastModified="1571730685"/>
+          <Include href="Symbol 31.xml" loadImmediate="false" itemID="5dc02773-000002ac" lastModified="1571730685"/>
+          <Include href="Symbol 32.xml" itemID="5dc02773-000002ad" lastModified="1571730685"/>
+          <Include href="Symbol 34.xml" itemID="5dc02773-000002ae" lastModified="1571730685"/>
+          <Include href="Symbol 35.xml" loadImmediate="false" itemID="5dc02773-000002af" lastModified="1571730685"/>
+          <Include href="Symbol 37.xml" itemID="5dc02773-000002b0" lastModified="1571730685"/>
+          <Include href="Symbol 38.xml" loadImmediate="false" itemID="5dc02773-000002b1" lastModified="1571730685"/>
+          <Include href="Symbol 41.xml" itemID="5dc02773-000002b2" lastModified="1571730685"/>
+          <Include href="Symbol 43.xml" itemID="5dc02773-000002b3" lastModified="1571730685"/>
+          <Include href="Symbol 45.xml" itemID="5dc02773-000002b4" lastModified="1571730685"/>
+          <Include href="Symbol 47.xml" itemID="5dc02773-000002b5" lastModified="1571730685"/>
+          <Include href="Symbol 49.xml" loadImmediate="false" itemID="5dc02773-000002b6" lastModified="1571730685"/>
+          <Include href="Symbol 50.xml" itemID="5dc02773-000002b7" lastModified="1571730685"/>
+          <Include href="Symbol 51.xml" itemID="5dc02773-000002b8" lastModified="1571730685"/>
+          <Include href="Symbol 53.xml" loadImmediate="false" itemID="5dc02773-000002b9" lastModified="1571730685"/>
+          <Include href="Symbol 54.xml" itemID="5dc02773-000002ba" lastModified="1571730685"/>
+          <Include href="Symbol 55.xml" itemID="5dc02773-000002bb" lastModified="1571730685"/>
+          <Include href="Symbol 59.xml" itemID="5dc02773-000002bc" lastModified="1571730685"/>
+          <Include href="Symbol 60.xml" itemID="5dc02773-000002bd" lastModified="1571730685"/>
+          <Include href="Symbol 62.xml" loadImmediate="false" itemID="5dc02773-000002be" lastModified="1571730685"/>
+          <Include href="Symbol 64.xml" loadImmediate="false" itemID="5dc02773-000002bf" lastModified="1571730685"/>
+          <Include href="Symbol 66.xml" loadImmediate="false" itemID="5dc02773-000002c0" lastModified="1571730685"/>
+          <Include href="Symbol 68.xml" loadImmediate="false" itemID="5dc02773-000002c1" lastModified="1571730685"/>
+          <Include href="Symbol 70.xml" loadImmediate="false" itemID="5dc02773-000002c2" lastModified="1571730685"/>
+          <Include href="Symbol 72.xml" loadImmediate="false" itemID="5dc02773-000002c3" lastModified="1571730685"/>
+          <Include href="Symbol 74.xml" loadImmediate="false" itemID="5dc02773-000002c4" lastModified="1571730685"/>
+          <Include href="Symbol 75.xml" itemID="5dc02773-000002c5" lastModified="1571730685"/>
+          <Include href="Symbol 76.xml" itemID="5dc02773-000002c6" lastModified="1571730685"/>
+          <Include href="Symbol 77.xml" itemID="5dc02773-000002c7" lastModified="1571730685"/>
+          <Include href="Symbol 78.xml" itemID="5dc02773-000002c8" lastModified="1571730685"/>
+          <Include href="Symbol 79.xml" itemID="5dc02773-000002c9" lastModified="1571730685"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#6FD5D8" locked="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 54" name="QuestsTab_mc" centerPoint3DX="400.2" centerPoint3DY="259">
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#C6DCA9" locked="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 76" name="WorkshopsTab_mc" centerPoint3DX="399.65" centerPoint3DY="220.2">
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#E0FB44" locked="true" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 79" name="StatsTab_mc" centerPoint3DX="401.4" centerPoint3DY="222.05">
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

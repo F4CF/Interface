@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ExamineMenu_UNK/ConfirmPanel/MessageBoxButtonList/MessageBoxButtonList_Border" itemID="5dd9d88b-00000791" lastModified="1574561242">
+  <timeline>
+    <DOMTimeline name="MessageBoxButtonList_Border">
+      <layers>
+        <DOMLayer name="Graphic" color="#BBA62B" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/ScrollingList/ScrollBorderGraphic" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

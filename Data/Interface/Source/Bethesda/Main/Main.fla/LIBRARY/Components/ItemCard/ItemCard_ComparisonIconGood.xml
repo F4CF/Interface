@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/ItemCard/ItemCard_ComparisonIconGood" itemID="5dae9770-000002e5" lastModified="1571750616">
+  <timeline>
+    <DOMTimeline name="ItemCard_ComparisonIconGood">
+      <layers>
+        <DOMLayer name="Icon" color="#70A2F5" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!31 -110|-28 -110!-28 -110|-28 -29!-28 -29|-110 -29!-110 -29|-110 28!-110 28|-28 28!-28 28|-28 110!-28 110|31 110!31 110|31 28!31 28|110 28!110 28|110 -29!110 -29|31 -29!31 -29|31 -110"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

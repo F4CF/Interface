@@ -1,0 +1,173 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#666666" width="1280" height="720" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" vanishingPoint3DX="640" vanishingPoint3DY="360" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="B1B47EA903E34A418A91848DD730E368">
+     <folders>
+          <DOMFolderItem name="Assets" itemID="5dc123db-000001bf" isExpanded="true"/>
+          <DOMFolderItem name="Assets/Fonts" itemID="5dc123e0-000001c0"/>
+          <DOMFolderItem name="Assets/MapMarkers" itemID="5dc12412-000001c8"/>
+          <DOMFolderItem name="Assets/MapMarkers/DLC01" itemID="5dc12418-000001cc"/>
+          <DOMFolderItem name="Assets/MapMarkers/DLC06" itemID="5dc12423-000001d0"/>
+          <DOMFolderItem name="UI" itemID="5dc123f4-000001c2" isExpanded="true"/>
+          <DOMFolderItem name="UI/PowerArmorHUDMenu" itemID="5dc123f0-000001c1" isExpanded="true"/>
+          <DOMFolderItem name="UI/PowerArmorHUDMenu/Assets" itemID="5dc1255e-000001e7"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Assets/Fonts/Font 301" itemID="5dc1239a-00000013" font="Controller--Buttons-inverted" size="0" id="301" embedRanges="1|2"/>
+          <DOMFontItem name="Assets/Fonts/Font 300" itemID="5dc1239a-00000011" font="Handwritten_Institute" size="0" id="300" embeddedCharacters="!&quot;#$%&amp;&apos;()*+,-/:;&lt;=&gt;?@[\]^_{|}~¡¢£¤§©«¬®°±²µ¶»¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿĄąĆćĈĉĔęĜĝĤĥıĴĵŁłŃńŐőŒœŚśŜŝŠšŬŭŰűŸŹźŻżŽžƒμ‘’“”†‡•€™" embedRanges="1|2|3"/>
+          <DOMFontItem name="Assets/Fonts/Font 299" itemID="5dc1239a-0000000f" font="Eurostile Cyr Std Bold" size="0" id="299" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Assets/Fonts/Font 298" itemID="5dc1239a-0000000d" font="Controller--Buttons" size="0" id="298" embedRanges="1|2"/>
+          <DOMFontItem name="Assets/Fonts/Font 297" itemID="5dc1239a-0000000b" font="Brody" size="0" id="297" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĂăĄąĆćČčĎďĐđĘęĚěĞğİıĹĺĽľŁłŃńŇňŐőŒœŔŕŘřŚśŞşŠšŢţŤťŮůŰűŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜ΔΣΩμπ–—‗‘’‚“”„†‡•…‰‹›‼ⁿ₣™Ω←→∂∏∕√∞∫≠≤≥■" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Assets/Fonts/Font 296" itemID="5dc1239a-00000009" font="Eurostile LT Std Roman" size="0" id="296" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Assets/Fonts/Font 295" itemID="5dc1239a-00000007" font="Share-TechMono" size="0" id="295" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЀЁЍАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёѝ–—‘’‚“”„†‡•…‰‹›⁄€™Ω∂∏∑∕√∞∧∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Assets/Fonts/Font 294" itemID="5dc1239a-00000005" font="RobotoCondensed-Regular" size="0" id="294" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Assets/Fonts/Font 293" itemID="5dc1239a-00000003" font="RobotoCondensed-Bold" size="0" id="293" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+     </fonts>
+     <media>
+          <DOMBitmapItem name="UI/PowerArmorHUDMenu/Assets/bitmap280.png" itemID="5dc1239a-0000001c" sourceLastImported="1572938650" externalFileSize="139" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="UI/PowerArmorHUDMenu/Assets/bitmap280.png" bitmapDataHRef="M 2 1571730685.dat" frameRight="6000" frameBottom="440"/>
+          <DOMSoundItem name="UI/PowerArmorHUDMenu/Assets/sound24.mp3" itemID="5dc1239a-00000017" sourceLastImported="1572938650" externalFileSize="883" href="UI/PowerArmorHUDMenu/Assets/sound24.mp3" soundDataHRef="M 1 1572938650.dat" format="22kHz 16bit Mono" sampleCount="576" exportFormat="5" exportBits="7" dataLength="883" exportNative="true" cachedSampleCount="144"/>
+     </media>
+     <symbols>
+          <Include href="Assets/MapMarkers/DLC01/Symbol 79.xml" itemID="5dc1239a-00000040" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/DLC06/Symbol 3.xml" itemID="5dc1239a-0000001d" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/DLC06/Symbol 5.xml" itemIcon="1" loadImmediate="false" itemID="5dc1239a-0000001e" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/DLC06/Symbol 6.xml" itemID="5dc1239a-0000001f" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/DLC06/Symbol 9.xml" itemID="5dc1239a-00000020" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/DLC06/Symbol 12.xml" itemID="5dc1239a-00000021" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/DLC06/Symbol 15.xml" itemID="5dc1239a-00000022" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/DLC06/Symbol 17.xml" itemIcon="1" loadImmediate="false" itemID="5dc1239a-00000023" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/DLC06/Symbol 18.xml" itemID="5dc1239a-00000024" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/DLC06/Symbol 21.xml" itemID="5dc1239a-00000025" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/DLC06/Symbol 25.xml" itemID="5dc1239a-00000026" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/DLC06/Symbol 28.xml" itemID="5dc1239a-00000027" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/DLC06/Symbol 31.xml" itemID="5dc1239a-00000028" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/DLC06/Symbol 34.xml" itemID="5dc1239a-00000029" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/DLC06/Symbol 37.xml" itemID="5dc1239a-0000002a" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/DLC06/Symbol 40.xml" itemID="5dc1239a-0000002b" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/DLC06/Symbol 43.xml" itemID="5dc1239a-0000002c" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/DLC06/Symbol 46.xml" itemID="5dc1239a-0000002d" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 82.xml" itemID="5dc1239a-00000042" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 84.xml" itemID="5dc1239a-00000043" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 86.xml" itemID="5dc1239a-00000044" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 89.xml" itemID="5dc1239a-00000045" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 92.xml" itemID="5dc1239a-00000046" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 95.xml" itemID="5dc1239a-00000047" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 98.xml" itemID="5dc1239a-00000048" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 101.xml" itemID="5dc1239a-00000049" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 104.xml" itemID="5dc1239a-0000004a" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 107.xml" itemID="5dc1239a-0000004b" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 110.xml" itemID="5dc1239a-0000004c" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 111.xml" itemIcon="1" loadImmediate="false" itemID="5dc1239a-0000004d" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 112.xml" itemIcon="1" loadImmediate="false" itemID="5dc1239a-0000004e" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 113.xml" itemID="5dc1239a-0000004f" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 116.xml" itemID="5dc1239a-00000050" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 119.xml" itemID="5dc1239a-00000051" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 122.xml" itemID="5dc1239a-00000052" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 125.xml" itemID="5dc1239a-00000053" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 128.xml" itemID="5dc1239a-00000054" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 131.xml" itemID="5dc1239a-00000055" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 134.xml" itemID="5dc1239a-00000056" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 137.xml" itemID="5dc1239a-00000057" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 140.xml" itemID="5dc1239a-00000058" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 143.xml" itemID="5dc1239a-00000059" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 146.xml" itemID="5dc1239a-0000005a" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 149.xml" itemID="5dc1239a-0000005b" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 152.xml" itemID="5dc1239a-0000005c" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 155.xml" itemID="5dc1239a-0000005d" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 158.xml" itemID="5dc1239a-0000005e" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 161.xml" itemID="5dc1239a-0000005f" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 164.xml" itemID="5dc1239a-00000060" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 167.xml" itemID="5dc1239a-00000061" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 170.xml" itemID="5dc1239a-00000062" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 173.xml" itemID="5dc1239a-00000063" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 176.xml" itemID="5dc1239a-00000064" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 179.xml" itemID="5dc1239a-00000065" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 182.xml" itemID="5dc1239a-00000066" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 185.xml" itemID="5dc1239a-00000067" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 188.xml" itemID="5dc1239a-00000068" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 191.xml" itemID="5dc1239a-00000069" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 194.xml" itemID="5dc1239a-0000006a" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 197.xml" itemID="5dc1239a-0000006b" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 200.xml" itemID="5dc1239a-0000006c" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 203.xml" itemID="5dc1239a-0000006d" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 206.xml" itemID="5dc1239a-0000006e" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 209.xml" itemID="5dc1239a-0000006f" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 212.xml" itemID="5dc1239a-00000070" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 213.xml" itemIcon="1" loadImmediate="false" itemID="5dc1239a-00000071" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 214.xml" itemIcon="1" loadImmediate="false" itemID="5dc1239a-00000072" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 215.xml" itemID="5dc1239a-00000073" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 218.xml" itemID="5dc1239a-00000074" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 221.xml" itemID="5dc1239a-00000075" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 224.xml" itemID="5dc1239a-00000076" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 227.xml" itemID="5dc1239a-00000077" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 230.xml" itemID="5dc1239a-00000078" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 233.xml" itemID="5dc1239a-00000079" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 236.xml" itemID="5dc1239a-0000007a" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 239.xml" itemID="5dc1239a-0000007b" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 240.xml" itemID="5dc1239a-0000007c" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 243.xml" itemID="5dc1239a-0000007d" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 246.xml" itemID="5dc1239a-0000007e" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 249.xml" itemID="5dc1239a-0000007f" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 252.xml" itemID="5dc1239a-00000080" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 255.xml" itemID="5dc1239a-00000081" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 258.xml" itemID="5dc1239a-00000082" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 261.xml" itemID="5dc1239a-00000083" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 264.xml" itemID="5dc1239a-00000084" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 267.xml" itemID="5dc1239a-00000085" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 270.xml" itemID="5dc1239a-00000086" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 273.xml" itemID="5dc1239a-00000087" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 276.xml" itemID="5dc1239a-00000088" lastModified="1571730685"/>
+          <Include href="Assets/MapMarkers/Symbol 279.xml" itemID="5dc1239a-00000089" lastModified="1571730685"/>
+          <Include href="UI/PowerArmorHUDMenu/CompassMarker_Enemy.xml" itemID="5dc125aa-000001ee" lastModified="1572939178"/>
+          <Include href="UI/PowerArmorHUDMenu/CompassMarkerWidget.xml" itemID="5dc12545-000001de" lastModified="1572939077"/>
+          <Include href="UI/PowerArmorHUDMenu/DirectionMarkerWidget.xml" itemID="5dc12549-000001df" lastModified="1572939081"/>
+          <Include href="UI/PowerArmorHUDMenu/HUDCompassWidget.xml" itemID="5dc1254c-000001e0" lastModified="1572939084"/>
+          <Include href="UI/PowerArmorHUDMenu/PlayerSetCompassMarker.xml" itemID="5dc125a4-000001ed" lastModified="1572939172"/>
+          <Include href="UI/PowerArmorHUDMenu/PlayerSetMarker.xml" itemID="5dc1254f-000001e1" lastModified="1572939087"/>
+          <Include href="UI/PowerArmorHUDMenu/QuestCompassMarkers.xml" itemID="5dc1259f-000001ec" lastModified="1572939167"/>
+          <Include href="UI/PowerArmorHUDMenu/QuestDoorCompassMarkers.xml" itemID="5dc12595-000001eb" lastModified="1572939157"/>
+          <Include href="UI/PowerArmorHUDMenu/QuestDoorMarker.xml" itemID="5dc12555-000001e2" lastModified="1572939093"/>
+          <Include href="UI/PowerArmorHUDMenu/QuestMarker.xml" itemID="5dc12558-000001e3" lastModified="1572939096"/>
+          <Include href="UI/PowerArmorHUDMenu/ReconScopeMarker.xml" itemID="5dc12587-000001ea" lastModified="1572939143"/>
+          <Include href="UI/PowerArmorHUDMenu/Symbol 50.xml" itemIcon="1" loadImmediate="false" itemID="5dc1239a-0000002f" lastModified="1571730685"/>
+          <Include href="UI/PowerArmorHUDMenu/Symbol 54.xml" loadImmediate="false" itemID="5dc1239a-00000032" lastModified="1571730685"/>
+          <Include href="UI/PowerArmorHUDMenu/Symbol 56.xml" itemIcon="1" loadImmediate="false" itemID="5dc1239a-00000033" lastModified="1571730685"/>
+          <Include href="UI/PowerArmorHUDMenu/Symbol 57.xml" loadImmediate="false" itemID="5dc1239a-00000034" lastModified="1571730685"/>
+          <Include href="UI/PowerArmorHUDMenu/Symbol 60.xml" loadImmediate="false" itemID="5dc1239a-00000036" lastModified="1571730685"/>
+          <Include href="UI/PowerArmorHUDMenu/Symbol 65.xml" loadImmediate="false" itemID="5dc1239a-00000038" lastModified="1571730685"/>
+          <Include href="UI/PowerArmorHUDMenu/Symbol 71.xml" loadImmediate="false" itemID="5dc1239a-0000003b" lastModified="1571730685"/>
+          <Include href="UI/PowerArmorHUDMenu/Symbol 74.xml" loadImmediate="false" itemID="5dc1239a-0000003d" lastModified="1571730685"/>
+          <Include href="UI/PowerArmorHUDMenu/Symbol 81.xml" itemIcon="1" loadImmediate="false" itemID="5dc1239a-00000041" lastModified="1571730685"/>
+          <Include href="UI/PowerArmorHUDMenu/Symbol 282.xml" loadImmediate="false" itemID="5dc1239a-0000008a" lastModified="1571730685"/>
+          <Include href="UI/PowerArmorHUDMenu/Symbol 283.xml" loadImmediate="false" itemID="5dc1239a-0000008b" lastModified="1571730685"/>
+          <Include href="UI/PowerArmorHUDMenu/Symbol 284.xml" itemIcon="1" loadImmediate="false" itemID="5dc1239a-0000008c" lastModified="1571730685"/>
+          <Include href="UI/PowerArmorHUDMenu/Symbol 285.xml" loadImmediate="false" itemID="5dc1239a-0000008d" lastModified="1571730685"/>
+          <Include href="UI/PowerArmorHUDMenu/Symbol 286.xml" loadImmediate="false" itemID="5dc1239a-0000008e" lastModified="1571730685"/>
+          <Include href="UI/PowerArmorHUDMenu/Symbol 287.xml" loadImmediate="false" itemID="5dc1239a-0000008f" lastModified="1571730685"/>
+          <Include href="UI/PowerArmorHUDMenu/Symbol 288.xml" loadImmediate="false" itemID="5dc1239a-00000090" lastModified="1571730685"/>
+          <Include href="UI/PowerArmorHUDMenu/Symbol 289.xml" loadImmediate="false" itemID="5dc1239a-00000091" lastModified="1571730685"/>
+          <Include href="UI/PowerArmorHUDMenu/Symbol 291.xml" loadImmediate="false" itemID="5dc1239a-00000092" lastModified="1571730685"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="CompassWidget_mc" color="#D6EF24" locked="true" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="UI/PowerArmorHUDMenu/HUDCompassWidget" name="CompassWidget_mc" selected="true" centerPoint3DX="820" centerPoint3DY="731">
+                                             <matrix>
+                                                  <Matrix tx="640" ty="675"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

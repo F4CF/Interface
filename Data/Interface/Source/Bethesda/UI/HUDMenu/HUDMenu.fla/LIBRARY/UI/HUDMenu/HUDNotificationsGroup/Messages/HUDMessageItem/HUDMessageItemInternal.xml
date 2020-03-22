@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/HUDNotificationsGroup/Messages/HUDMessageItem/HUDMessageItemInternal" itemID="5dc29605-000005fa" lastModified="1573033874">
+  <timeline>
+    <DOMTimeline name="HUDMessageItemInternal">
+      <layers>
+        <DOMLayer name="RadioStationIcon_mc" color="#A59B65" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/Messages/HUDMessageItem/RadioStationIcon" name="RadioStationIcon_mc" selected="true" centerPoint3DX="12.55" centerPoint3DY="22.55">
+                  <matrix>
+                    <Matrix ty="12"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="MessageText_tf" color="#B2728A" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="MessageText_tf" selected="true" fontRenderingMode="standard" width="322" height="44.5" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ANIMATING TEXT FIELDS FOR MESSAGE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" leftMargin="2" letterSpacing="-0.4" lineHeight="21.25" rightMargin="2" size="19" bitmapSize="380" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

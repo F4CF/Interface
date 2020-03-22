@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/BottomCenterGroup/PerkVaultBoy" itemID="5dc282c9-00000550" linkageExportForAS="true" linkageClassName="PerkVaultBoy" lastModified="1573028656">
+  <timeline>
+    <DOMTimeline name="PerkVaultBoy">
+      <layers>
+        <DOMLayer name="VaultBoyImageInternal_mc" color="#8DD553" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/QuestVaultBoy/VaultBoyImageInternal" name="VaultBoyImageInternal_mc" selected="true">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

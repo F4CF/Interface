@@ -1,0 +1,124 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkInfo/PerkInfo" itemID="5dd9f2bf-000006f9" lastModified="1574564978">
+  <timeline>
+    <DOMTimeline name="PerkInfo">
+      <layers>
+        <DOMLayer name="Confirm_tf" color="#48EA51" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="Confirm_tf" selected="true" width="495.05" height="26.4" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix a="1.00187683105469" tx="402" ty="112"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$ConfirmPerkSelect</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="24.55" size="22" bitmapSize="440" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="StarHolder_mc" color="#B479BB" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkInfo/StarHolder/StarHolder" name="StarHolder_mc" selected="true" centerPoint3DX="524.95" centerPoint3DY="72">
+                  <matrix>
+                    <Matrix tx="524.95" ty="72"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Reqs_tf" color="#A46E80" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="Reqs_tf" selected="true" width="296" height="21.1" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="497" ty="117"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="13.7"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PerkName_tf" color="#7DDB62" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="PerkName_tf" selected="true" fontRenderingMode="standard" width="746" height="35.05" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="272" ty="14.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="13.7"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="DescriptionText_tf" color="#77AB72" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="DescriptionText_tf" selected="true" width="744.55" height="50" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.00187683105469" tx="277" ty="46"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="13.7"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Background_mc" color="#8259BD" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkInfo/PerkInfo_Background" name="Background_mc" selected="true" centerPoint3DX="651.5" centerPoint3DY="76.35">
+                  <matrix>
+                    <Matrix tx="115" ty="10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

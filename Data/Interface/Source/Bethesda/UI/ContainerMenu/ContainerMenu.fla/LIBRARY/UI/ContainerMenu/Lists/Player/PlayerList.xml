@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ContainerMenu/Lists/Player/PlayerList" itemID="5dae6891-00000268" linkageExportForAS="true" linkageClassName="PlayerList" lastModified="1571721822">
+  <timeline>
+    <DOMTimeline name="PlayerList">
+      <layers>
+        <DOMLayer name="ScrollDown" color="#CAD123" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Lists/ScrollArrow" name="ScrollDown" centerPoint3DX="23" centerPoint3DY="241.1">
+                  <matrix>
+                    <Matrix a="-0.866668701171875" d="-0.865570068359375" tx="15.5" ty="233.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ScrollUp" color="#E5953F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Lists/ScrollArrow" name="ScrollUp" centerPoint3DX="24" centerPoint3DY="-15.9">
+                  <matrix>
+                    <Matrix a="0.866668701171875" d="0.865570068359375" tx="16.5" ty="-23.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="border" color="#BDAF9B" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Border" name="border" centerPoint3DX="50.5" centerPoint3DY="35.5">
+                  <matrix>
+                    <Matrix a="3.6201171875" d="2.80023193359375" ty="-15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

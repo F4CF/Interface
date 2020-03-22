@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/BottomCenterGroup/Subtitles" itemID="5dc282a7-0000054e" linkageExportForAS="true" linkageClassName="Subtitles" lastModified="1573028641">
+  <timeline>
+    <DOMTimeline name="Subtitles">
+      <layers>
+        <DOMLayer name="SpeakerName_tf" color="#AA7272" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="SpeakerName_tf" selected="true" fontRenderingMode="standard" width="546" height="27.7" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="-273" ty="-118"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Danny Sullivan</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" lineHeight="23.45" size="21" bitmapSize="420" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SubtitleText_tf" color="#C342A0" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="SubtitleText_tf" selected="true" fontRenderingMode="standard" width="546" height="150.7" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix d="1.00006103515625" tx="-273" ty="-94"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>I'm sorry, but Mayor McDonough's really steamed, Piper. Sayin' that article you wrote was all lies.  The whole city's in a tizzy.&#xD;&#xA;line 3&#xD;&#xA;line 4&#xD;&#xA;lowercase letters jpqyg;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="23.45" size="21" bitmapSize="420" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

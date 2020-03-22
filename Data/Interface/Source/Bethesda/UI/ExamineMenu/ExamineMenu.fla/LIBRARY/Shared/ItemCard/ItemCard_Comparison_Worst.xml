@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/ItemCard/ItemCard_Comparison_Worst" itemID="5dd9debb-000007df" lastModified="1574559475">
+  <timeline>
+    <DOMTimeline name="ItemCard_Comparison_Worst">
+      <layers>
+        <DOMLayer name="Graphic" color="#33B0A8" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BorderGraphic" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.51724243164063" d="0.480514526367188" tx="-2.25" ty="-0.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

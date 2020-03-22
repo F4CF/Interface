@@ -1,0 +1,149 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Demostration/Demo_ItemCardEntry" itemID="5db51666-000003b9" lastModified="1572149691" lastUniqueIdentifier="16">
+  <timeline>
+    <DOMTimeline name="Demo_ItemCardEntry">
+      <layers>
+        <DOMLayer name="ItemCard" color="#CCCCCC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/ItemCard/ItemCard">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ItemCard_StandardEntry" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/ItemCard/ItemCard_StandardEntry" centerPoint3DX="124.85" centerPoint3DY="16.55">
+                  <matrix>
+                    <Matrix tx="239.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-115.45" y="16.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ItemCard_DescriptionEntry" color="#FFFF00" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/ItemCard/ItemCard_DescriptionEntry" centerPoint3DX="119.85" centerPoint3DY="53.15">
+                  <matrix>
+                    <Matrix tx="239.7" ty="40.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-119.85" y="12.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ItemCard_TimedEntry" color="#9966FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/ItemCard/ItemCard_TimedEntry" centerPoint3DX="124.85" centerPoint3DY="89.75">
+                  <matrix>
+                    <Matrix tx="239.7" ty="73.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-115.45" y="16.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ItemCard_AmmoEntry" color="#FF4F4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/ItemCard/ItemCard_AmmoEntry" centerPoint3DX="119.85" centerPoint3DY="126.35">
+                  <matrix>
+                    <Matrix tx="239.7" ty="109.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-119.85" y="16.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ItemCard_ComponentEntry" color="#4FFF4F" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/ItemCard/ItemCard_ComponentsEntry">
+                  <matrix>
+                    <Matrix tx="220" ty="172.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-220" y="-10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ItemCard_ComponentEntry_Entry" color="#4F80FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/ItemCard/ItemCard_ComponentEntry_Entry" centerPoint3DX="100" centerPoint3DY="199.55">
+                  <matrix>
+                    <Matrix ty="179.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="100" y="20"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ItemCard_MultiEntry" color="#FF00FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/ItemCard/ItemCard_MultiEntry" centerPoint3DX="83.25" centerPoint3DY="236.15">
+                  <matrix>
+                    <Matrix tx="239.7" ty="220.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-156.85" y="15.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ItemCard_MultiEntry_Value" color="#009900" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/ItemCard/ItemCard_MultiEntry_Value" centerPoint3DX="41.65" centerPoint3DY="273">
+                  <matrix>
+                    <Matrix ty="253.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41.45" y="19.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

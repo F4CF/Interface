@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/ItemCard/ItemCard_DescriptionEntry" itemID="5dae93b4-000002d1" linkageExportForAS="true" linkageClassName="Components.ItemCard_DescriptionEntry" lastModified="1572138294">
+  <timeline>
+    <DOMTimeline name="ItemCard_DescriptionEntry">
+      <layers>
+        <DOMLayer name="Label_tf" color="#CC7E63" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="Label_tf" selected="true" width="226" height="26.4" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-233.45" ty="-1.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>HP</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" size="22" bitmapSize="440" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Background_mc" color="#BEE1FA" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/ItemCard_ContainerMenu/Background" name="Background_mc" centerPoint3DX="-189.2" centerPoint3DY="46.75">
+                  <matrix>
+                    <Matrix a="2.39700317382813" d="0.330490112304688" tx="-239.7" ty="-3.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

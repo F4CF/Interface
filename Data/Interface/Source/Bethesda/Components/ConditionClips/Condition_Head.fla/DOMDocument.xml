@@ -1,0 +1,104 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#333333" width="100" height="100" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" vanishingPoint3DX="50" vanishingPoint3DY="50" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="4A7898CA211311489CFE86B13794B37B">
+     <folders>
+          <DOMFolderItem name="Components" itemID="5dd99634-000003f5" isExpanded="true"/>
+          <DOMFolderItem name="Components/ConditionClips" itemID="5dd9963f-000003f9" isExpanded="true"/>
+     </folders>
+     <symbols>
+          <Include href="Components/ConditionClips/Symbol 2.xml" loadImmediate="false" itemID="5dd99626-000003e9" lastModified="1574541983"/>
+          <Include href="Components/ConditionClips/Symbol 4.xml" loadImmediate="false" itemID="5dd99626-000003ea" lastModified="1574541978"/>
+          <Include href="Components/ConditionClips/Symbol 6.xml" loadImmediate="false" itemID="5dd99626-000003eb" lastModified="1574541972"/>
+          <Include href="Components/ConditionClips/Symbol 8.xml" loadImmediate="false" itemID="5dd99626-000003ec" lastModified="1574541967"/>
+          <Include href="Components/ConditionClips/Symbol 10.xml" loadImmediate="false" itemID="5dd99626-000003ed" lastModified="1574541960"/>
+          <Include href="Components/ConditionClips/Symbol 12.xml" loadImmediate="false" itemID="5dd99626-000003ee" lastModified="1574541952"/>
+          <Include href="Components/ConditionClips/Symbol 14.xml" loadImmediate="false" itemID="5dd99626-000003ef" lastModified="1574541942"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Script" color="#666666" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" duration="32" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Art" color="#00FF00" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Components/ConditionClips/Symbol 2" centerPoint3DX="28.6" centerPoint3DY="38.15">
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Components/ConditionClips/Symbol 4" centerPoint3DX="28.6" centerPoint3DY="38.15">
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="2" duration="6" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Components/ConditionClips/Symbol 6" centerPoint3DX="28.6" centerPoint3DY="38.15">
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="8" duration="8" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Components/ConditionClips/Symbol 8" centerPoint3DX="30" centerPoint3DY="37.85">
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="16" duration="2" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Components/ConditionClips/Symbol 10" centerPoint3DX="28.6" centerPoint3DY="37.1">
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="18" duration="6" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Components/ConditionClips/Symbol 12" centerPoint3DX="28.6" centerPoint3DY="37.1">
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="24" duration="8" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Components/ConditionClips/Symbol 14" centerPoint3DX="28.6" centerPoint3DY="37.1">
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="5349" publishTime="1574542072" publishDebug="true"/>
+     </publishHistory>
+</DOMDocument>

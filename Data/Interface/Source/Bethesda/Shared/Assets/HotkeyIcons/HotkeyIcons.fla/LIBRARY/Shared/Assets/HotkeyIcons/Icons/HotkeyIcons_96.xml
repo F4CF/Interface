@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_96" itemID="5dc381fc-00000199" lastModified="1573093884">
+  <timeline>
+    <DOMTimeline name="HotkeyIcons_96" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#B3AF88" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!176 -131[-65 -124 -137 -131!-137 -131[-175 -134 -241 -175!-241 -175[-274 -195 -299 -214!-299 -214|-244 -251!-244 -251[-179 -290 -137 -296!-137 -296|47 -300!47 -300|176 -297!176 -297|176 -131!300 -297|300 -131!300 -131|215 -131!215 -131
+|215 -297!215 -297|300 -297!176 -83|176 83!176 83[-65 90 -137 83!-137 83[-175 79 -241 39!-241 39|-299 0!-299 0|-244 -38!-244 -38[-179 -76 -137 -82!-137 -82[-91 -88 47 -86!47 -86|176 -83!300 -83|300 83!300 83|215 83!215 83|215 -83!215
+ -83|300 -83!300 131|300 297!300 297|215 297!215 297|215 131!215 131|300 131!-137 132[-91 126 47 128!47 128|176 131!176 131|176 297!176 297[-65 303 -137 297!-137 297[-175 293 -241 253!-241 253|-299 213!-299 213[-275 195 -244 176!-244
+ 176[-179 138 -137 132"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

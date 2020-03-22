@@ -1,0 +1,128 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ExamineMenu_UNK/Lists/InvListEntry/InvListEntry" itemID="5dd84744-000002f7" linkageExportForAS="true" linkageClassName="InvListEntry" lastModified="1574557695">
+  <timeline>
+    <DOMTimeline name="InvListEntry">
+      <layers>
+        <DOMLayer name="LockIcon_mc" color="#A9F106" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Icons/LockIcon" name="LockIcon_mc" centerPoint3DX="213.8" centerPoint3DY="27.2">
+                  <matrix>
+                    <Matrix a="0.553192138671875" d="0.548095703125" tx="202.05" ty="12.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="LegendaryIcon_mc" color="#0397E6" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Icons/LegendaryIcon" name="LegendaryIcon_mc" centerPoint3DX="136.8" centerPoint3DY="20.5">
+                  <matrix>
+                    <Matrix tx="129.25" ty="13.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="FavoriteIconInstance" color="#5CA6A5" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Icons/FavoriteIcon" name="FavoriteIconInstance" centerPoint3DX="82.35" centerPoint3DY="13.9">
+                  <matrix>
+                    <Matrix a="0.985214233398438" d="0.975006103515625" tx="77.3" ty="9.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BestIconInstance" color="#C2D25C" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu_UNK/Lists/InvListEntry/BestIcon" name="BestIconInstance" centerPoint3DX="13.3" centerPoint3DY="12.35">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="8.3" ty="9.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="EquipIconInstance" color="#CDAD75" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu_UNK/Lists/InvListEntry/EquipIcon" name="EquipIconInstance" centerPoint3DX="10.3" centerPoint3DY="15.85">
+                  <matrix>
+                    <Matrix tx="6.7" ty="12"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#DB5497" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="textField" width="316.25" height="22.8" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="16.85" ty="2.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Shotgun</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineHeight="13.7" bitmapSize="240" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#5591E7" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu_UNK/Lists/PropertyModList/PropertyModList_Border" name="border" centerPoint3DX="42.7" centerPoint3DY="35.85">
+                  <matrix>
+                    <Matrix a="4.14085388183594" d="0.390670776367188" tx="0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

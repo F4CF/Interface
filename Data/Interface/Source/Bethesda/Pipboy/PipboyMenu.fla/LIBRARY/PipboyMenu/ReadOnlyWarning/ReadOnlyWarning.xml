@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PipboyMenu/ReadOnlyWarning/ReadOnlyWarning" itemID="5db01990-000002f4" linkageExportForAS="true" linkageClassName="ReadOnlyWarning" lastModified="1571822322">
+  <timeline>
+    <DOMTimeline name="ReadOnlyWarning" currentFrame="29">
+      <layers>
+        <DOMLayer name="readOnlyMc" color="#9B42CE" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PipboyMenu/ReadOnlyWarning/ReadOnlyWarning_Flasher" name="readOnlyMc" centerPoint3DX="408.1" centerPoint3DY="18.8">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PipboyMenu/ReadOnlyWarning/ReadOnlyWarning_Flasher" name="readOnlyMc" centerPoint3DX="408.1" centerPoint3DY="18.8">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PipboyMenu/ReadOnlyWarning/ReadOnlyWarning_Flasher" name="readOnlyMc" centerPoint3DX="408.1" centerPoint3DY="18.8">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

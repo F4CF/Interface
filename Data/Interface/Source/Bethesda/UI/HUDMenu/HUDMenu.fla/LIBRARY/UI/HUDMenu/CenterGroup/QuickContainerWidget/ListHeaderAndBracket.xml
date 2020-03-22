@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/QuickContainerWidget/ListHeaderAndBracket" itemID="5dc27cd1-0000053b" linkageExportForAS="true" linkageClassName="HUDMenu_fla.ListHeaderAndBracket_50" lastModified="1573028110">
+  <timeline>
+    <DOMTimeline name="ListHeaderAndBracket">
+      <layers>
+        <DOMLayer name="ContainerName_mc" color="#FF9900" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/LeftMeters/ContainerName" name="ContainerName_mc" selected="true" centerPoint3DX="135" centerPoint3DY="15.15">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BracketPairHolder_mc" color="#62EFDA" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/QuickContainerWidget/BracketPairFadeHolder" name="BracketPairHolder_mc" selected="true" centerPoint3DX="135" centerPoint3DY="110">
+                  <matrix>
+                    <Matrix ty="32"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

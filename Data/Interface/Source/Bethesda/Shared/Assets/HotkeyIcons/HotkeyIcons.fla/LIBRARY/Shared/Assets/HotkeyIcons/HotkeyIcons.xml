@@ -1,0 +1,581 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/Assets/HotkeyIcons/HotkeyIcons" itemID="5dc3808e-0000018a" linkageExportForAS="true" linkageClassName="HotkeyIcons" lastModified="1574699741">
+  <timeline>
+    <DOMTimeline name="HotkeyIcons" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Icons" color="#009900" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_4" centerPoint3DX="15.35" centerPoint3DY="10.75">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_6" centerPoint3DX="15.8" centerPoint3DY="8.1">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_8" centerPoint3DX="17.85" centerPoint3DY="11.15">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_10" centerPoint3DX="21.45" centerPoint3DY="5.1">
+                  <matrix>
+                    <Matrix a="-1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_12" centerPoint3DX="21.35" centerPoint3DY="5.7">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_14" centerPoint3DX="21.6" centerPoint3DY="6.35">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_16" centerPoint3DX="21.4" centerPoint3DY="6.65">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_18" centerPoint3DX="22.3" centerPoint3DY="5.4">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_20" centerPoint3DX="22.15" centerPoint3DY="6.95">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_22" centerPoint3DX="22.6" centerPoint3DY="7.05">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_24" centerPoint3DX="20.85" centerPoint3DY="17.6">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_26" centerPoint3DX="20.85" centerPoint3DY="17.6">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_28" centerPoint3DX="14.25" centerPoint3DY="12.9">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_30" centerPoint3DX="15.95" centerPoint3DY="15.8">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_32" centerPoint3DX="15.9" centerPoint3DY="15.95">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_34" centerPoint3DX="22.9" centerPoint3DY="11.4">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_36" centerPoint3DX="21.25" centerPoint3DY="10.05">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_38" centerPoint3DX="20.4" centerPoint3DY="9.95">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_40" centerPoint3DX="19.3" centerPoint3DY="9.7">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_42" centerPoint3DX="15.6" centerPoint3DY="9.65">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_44" centerPoint3DX="15.75" centerPoint3DY="13.2">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_46" centerPoint3DX="16.9" centerPoint3DY="10.8">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_48" centerPoint3DX="21.15" centerPoint3DY="6.9">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_50" centerPoint3DX="22.5" centerPoint3DY="4.85">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_52" centerPoint3DX="10.2" centerPoint3DY="14.9">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="26" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_54" centerPoint3DX="16.2" centerPoint3DY="10.8">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_56" centerPoint3DX="21.05" centerPoint3DY="6.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="28" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_58" centerPoint3DX="21.5" centerPoint3DY="6.3">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_60" centerPoint3DX="13.8" centerPoint3DY="14.35">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_62" centerPoint3DX="14.1" centerPoint3DY="14.1">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_64" centerPoint3DX="14.55" centerPoint3DY="12.25">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_66" centerPoint3DX="15.75" centerPoint3DY="15.75">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_68" centerPoint3DX="14.75" centerPoint3DY="14.65">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_70" centerPoint3DX="15.75" centerPoint3DY="15.8">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_72" centerPoint3DX="15.25" centerPoint3DY="15.25">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_74" centerPoint3DX="15.55" centerPoint3DY="15.5">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_76" centerPoint3DX="14.6" centerPoint3DY="14.6">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="38" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_78" centerPoint3DX="15.45" centerPoint3DY="15.5">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_80" centerPoint3DX="15.25" centerPoint3DY="15.25">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_82" centerPoint3DX="16" centerPoint3DY="14.2">
+                  <matrix>
+                    <Matrix tx="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="41" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_84" centerPoint3DX="15" centerPoint3DY="12.85">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="42" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_86" centerPoint3DX="12.25" centerPoint3DY="15">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_88" centerPoint3DX="14.05" centerPoint3DY="15">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_90" centerPoint3DX="13.4" centerPoint3DY="15">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="45" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_92" centerPoint3DX="15" centerPoint3DY="11.75">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_94" centerPoint3DX="14.95" centerPoint3DY="15">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="47" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_96" centerPoint3DX="14.95" centerPoint3DY="15">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="48" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_98" centerPoint3DX="17" centerPoint3DY="11.4">
+                  <matrix>
+                    <Matrix a="1.23529052734375" d="1.23464965820313"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_100" centerPoint3DX="15.5" centerPoint3DY="15.05">
+                  <matrix>
+                    <Matrix tx="0.5" ty="0.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_102" centerPoint3DX="16.5" centerPoint3DY="11.55">
+                  <matrix>
+                    <Matrix tx="0.5" ty="0.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="51" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_104" centerPoint3DX="10.4" centerPoint3DY="16.45">
+                  <matrix>
+                    <Matrix tx="0.5" ty="0.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="52" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_106" centerPoint3DX="11.5" centerPoint3DY="15.45">
+                  <matrix>
+                    <Matrix tx="0.5" ty="0.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="53" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_108" centerPoint3DX="14.8" centerPoint3DY="15.95">
+                  <matrix>
+                    <Matrix tx="-0.2" ty="0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_110" centerPoint3DX="14.7" centerPoint3DY="15.85">
+                  <matrix>
+                    <Matrix tx="-0.3" ty="1.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_112" centerPoint3DX="14.7" centerPoint3DY="14.1">
+                  <matrix>
+                    <Matrix tx="-0.3" ty="0.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="56" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_114" centerPoint3DX="11.95" centerPoint3DY="18.75">
+                  <matrix>
+                    <Matrix tx="-0.25" ty="2.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_116" centerPoint3DX="12.1" centerPoint3DY="17.75">
+                  <matrix>
+                    <Matrix a="1.14439392089844" d="1.14451599121094" tx="0.5" ty="0.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="58" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="49.1" height="13.7" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-21.6" ty="-21.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="13.7" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

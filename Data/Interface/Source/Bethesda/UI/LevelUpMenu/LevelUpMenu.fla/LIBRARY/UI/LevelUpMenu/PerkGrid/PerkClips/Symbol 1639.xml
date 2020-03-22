@@ -1,0 +1,500 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1639" itemID="5dc12b90-00000274" linkageExportForAS="true" linkageClassName="PerkClip4a0d6" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 1639">
+      <layers>
+        <DOMLayer name="Layer 1" color="#DE397D">
+          <frames>
+            <DOMFrame index="0" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Border" name="border" centerPoint3DX="-72.95" centerPoint3DY="-65.7">
+                  <matrix>
+                    <Matrix a="5.4559326171875" d="3.99337768554688" tx="-121.1" ty="-113.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#7AF046">
+          <frames>
+            <DOMFrame index="0" duration="7" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="7" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1627" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1630" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#256DFA">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1624" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#B0BFC6">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1618" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1621" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="11" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1633" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1636" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1638" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#93F2F9">
+          <frames>
+            <DOMFrame index="0" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1628" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1629" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1631" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#8C4DFC">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1625" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1626" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#9C44E2">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1617" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#B2B2B2"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#D4D4D4"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="!3099 2200|3145 2244!3145 2244|3149 2252!3149 2252[3148 2266 3134 2284!3134 2284|3105 2311!3105 2311[3090 2321 3079 2318!3079 2318|3026 2274!3026 2274|3045 2267!3045 2267|3074 2244!3074 2244[3090 2228 3098 2209!3098 2209|3099 2200"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!3092 2209|3075 2240!3075 2240|3044 2265!3044 2265|3031 2269!3031 2269|3022 2268!3022 2268|3021 2269!3021 2269|2837 2105!2837 2105|2853 2097!2853 2097|2885 2069!2885 2069[2901 2052 2905 2036!2905 2036|2909 2028!2909 2028|3095 2198!3095
+ 2198|3092 2209"/>
+                    <Edge fillStyle0="1" edges="
+!2893 2008|2878 2013!2878 2013[2858 2020 2841 2039!2841 2039[2825 2061 2820 2075!2820 2075[2812 2092 2823 2102!2823 2102|3079 2331!3079 2331|3097 2334!3097 2334[3106 2333 3118 2325!3118 2325|3136 2309!3136 2309|3152 2290!3152 2290|3158
+ 2272!3158 2272[3164 2254 3159 2248!3159 2248|2906 2011!2906 2011|2893 2008"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!2902 2035|2881 2067!2881 2067|2850 2092!2850 2092|2835 2097!2835 2097|2826 2095!2826 2095[2823 2090 2826 2079!2826 2079[2832 2064 2849 2047!2849 2047|2881 2021!2881 2021|2893 2019!2893 2019|2900 2017!2900 2017[2905 2022 2902 2035!3153
+ 2248|3154 2262!3154 2262[3155 2273 3140 2290!3140 2290|3114 2317!3114 2317|3096 2324!3096 2324|3084 2323!3084 2323|3082 2322!3082 2322|3106 2316!3106 2316|3137 2285!3137 2285[3150 2268 3151 2254!3151 2254|3151 2247!3151 2247|3153 2248"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#D4D4D4"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#B2B2B2"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!3707 1914|3698 2257!3698 2257|3707 2272!3707 2272|3727 2283!3727 2283|3752 2286!3752 2286|3776 2286!3776 2286|3795 2280!3795 2280|3814 2264!3814 2264|3830 1918!3830 1918[3831 1913 3825 1907!3825 1907|3809 1896!3809 1896[3792 1888 3766
+ 1887!3766 1887|3725 1893!3725 1893[3707 1898 3707 1914"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!3719 1919|3715 1912!3715 1912[3716 1906 3727 1900!3727 1900|3766 1899!3766 1899|3807 1905!3807 1905|3816 1914!3816 1914|3821 1918!3821 1918|3809 1931!3809 1931|3771 1934!3771 1934|3732 1928!3732 1928|3719 1919"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!3731 1933|3772 1939!3772 1939|3810 1935!3810 1935|3819 1931!3819 1931|3810 2184!3810 2184|3801 2187!3801 2187|3763 2195!3763 2195|3726 2188!3726 2188|3714 2180!3714 2180|3708 2172!3708 2172|3714 1925!3714 1925|3731 1933"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!3725 2190|3762 2196!3762 2196|3804 2191!3804 2191|3810 2188!3810 2188|3807 2251!3807 2251|3804 2260!3804 2260[3792 2268 3769 2269!3769 2269|3729 2264!3729 2264[3713 2259 3708 2247!3708 2247|3707 2180!3707 2180|3725 2190"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!3809 2261|3800 2268!3800 2268[3791 2277 3769 2278!3769 2278|3731 2275!3731 2275|3714 2266!3714 2266[3708 2262 3708 2255!3708 2255|3708 2253!3708 2253|3727 2269!3727 2269|3771 2272!3771 2272[3792 2269 3802 2262!3802 2262|3809 2258!3809
+ 2258|3809 2261"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#D4D4D4"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#B2B2B2"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!2759 2876|2761 2869!2761 2869[2769 2865 2778 2876!2778 2876|2798 2907!2798 2907|2807 2947!2807 2947[2810 2957 2805 2962!2805 2962|2800 2969!2800 2969[2795 2970 2785 2963!2785 2963|2767 2928!2767 2928[2757 2907 2756 2888!2756 2888[2756
+ 2879 2759 2876"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!2774 2867|3008 2770!3008 2770[3014 2771 3017 2776!3017 2776|3040 2807!3040 2807|3047 2845!3047 2845|3046 2859!3046 2859|3041 2867!3041 2867|3041 2869!3041 2869|2814 2963!2814 2963|2814 2946!2814 2946[2813 2928 2802 2905!2802 2905[2794
+ 2884 2780 2872!2780 2872|2774 2867"/>
+                    <Edge fillStyle0="1" edges="
+!2748 2888[2747 2908 2756 2931!2756 2931|2780 2967!2780 2967[2792 2981 2805 2975!2805 2975|3121 2842!3121 2842|3132 2827!3132 2827|3134 2805!3134 2805|3126 2780!3126 2780|3116 2758!3116 2758|3102 2744!3102 2744[3087 2732 3080 2733!3080
+ 2733|2758 2861!2758 2861|2750 2871!2750 2871|2748 2888"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!3012 2768|3071 2745!3071 2745|3080 2744!3080 2744[3093 2750 3103 2772!3103 2772|3116 2809!3116 2809[3117 2827 3110 2835!3110 2835|3048 2865!3048 2865|3050 2845!3050 2845[3049 2827 3041 2808!3041 2808[3033 2787 3019 2772!3019 2772|3012
+ 2768"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!3112 2768|3125 2803!3125 2803|3124 2823!3124 2823|3117 2832!3117 2832|3114 2834!3114 2834|3121 2810!3121 2810[3117 2789 3105 2768!3105 2768[3094 2750 3083 2745!3083 2745|3076 2739!3076 2739|3079 2738!3079 2738|3091 2745!3091 2745[3102
+ 2748 3112 2768"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#B2B2B2"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#D4D4D4"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!3016 2300|3015 2334!3015 2334|3009 2347!3009 2347|3003 2353!3003 2353|3003 2355!3003 2355|2780 2386!2780 2386|2783 2371!2783 2371[2787 2355 2783 2332!2783 2332[2781 2311 2773 2298!2773 2298|2768 2291!2768 2291|2996 2259!2996 2259|3002
+ 2267!3002 2267|3016 2300"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!3069 2254[3076 2263 3080 2283!3080 2283[3085 2301 3083 2320!3083 2320|3071 2341!3071 2341|3009 2354!3009 2354|3016 2335!3016 2335[3020 2320 3017 2301!3017 2301[3016 2280 3005 2264!3005 2264|3001 2259!3001 2259|3058 2253!3058 2253|3068
+ 2253"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!3068 2253|3064 2248!3064 2248|3067 2248!3067 2248|3075 2256!3075 2256[3085 2261 3089 2281!3089 2281|3092 2316!3092 2316|3087 2333!3087 2333|3078 2340!3078 2340|3075 2340!3075 2340|3087 2320!3087 2320|3082 2280!3082 2280[3077 2261 3068
+ 2253"/>
+                    <Edge fillStyle0="1" edges="
+!3069 2243|2755 2284!2755 2284[2750 2284 2746 2290!2746 2290|2740 2305!2740 2305[2734 2321 2737 2344!2737 2344[2742 2370 2750 2382!2750 2382[2756 2398 2771 2395!2771 2395|3080 2349!3080 2349|3093 2338!3093 2338|3100 2318!3100 2318|3099
+ 2296!3099 2296|3095 2273!3095 2273|3086 2258!3086 2258[3075 2243 3069 2243"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!2756 2290[2762 2290 2770 2301!2770 2301|2779 2334!2779 2334|2778 2370!2778 2370[2779 2380 2773 2384!2773 2384|2768 2387!2768 2387|2755 2380!2755 2380|2747 2344!2747 2344[2743 2325 2747 2307!2747 2307|2753 2296!2753 2296|2756 2290"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#B2B2B2"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#D4D4D4"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!2348 1125|2362 1141!2362 1141|2375 1167!2375 1167[2378 1178 2372 1185!2372 1185|2332 1212!2332 1212|2331 1198!2331 1198|2321 1172!2321 1172|2303 1148!2303 1148|2297 1147!2297 1147|2336 1125!2336 1125|2345 1123"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!2301 1152|2320 1172!2320 1172|2330 1198!2330 1198|2329 1208!2329 1208|2326 1215!2326 1215|2328 1215!2328 1215|2176 1302!2176 1302|2173 1290!2173 1290[2171 1278 2161 1261!2161 1261[2154 1248 2143 1242!2143 1242|2138 1237!2138 1237|2294
+ 1148!2294 1148|2301 1152"/>
+                    <Edge fillStyle0="1" edges="
+!2380 1145|2371 1130!2371 1130|2359 1121!2359 1121|2342 1116!2342 1116|2127 1235!2127 1235|2123 1243!2123 1243|2121 1254!2121 1254[2123 1270 2132 1284!2132 1284[2142 1302 2151 1307!2151 1307[2161 1317 2170 1311!2170 1311|2381 1190!2381
+ 1190|2387 1177!2387 1177|2385 1160!2385 1160|2380 1145"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!2345 1123|2340 1120!2340 1120|2342 1119!2342 1119|2351 1124!2351 1124[2360 1125 2367 1138!2367 1138[2377 1149 2380 1162!2380 1162|2382 1176!2382 1176|2377 1182!2377 1182|2376 1184!2376 1184|2378 1166!2378 1166|2363 1137!2363 1137|2348
+ 1125"/>
+                    <Edge fillStyle0="2" fillStyle1="4" edges="
+!2348 1125|2345 1124!2345 1124|2345 1123"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!2127 1254[2127 1248 2130 1246!2130 1246[2129 1240 2131 1240!2131 1240[2134 1237 2141 1243!2141 1243|2159 1265!2159 1265|2169 1292!2169 1292[2173 1298 2169 1301!2169 1301|2165 1307!2165 1307|2156 1303!2156 1303|2138 1282!2138 1282|2127
+ 1254"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#D4D4D4"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#B2B2B2"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!1807 1848|1794 1859!1794 1859|1783 1872!1783 1872|1776 1888!1776 1888|1774 1903!1774 1903[1775 1917 1779 1919!1779 1919|1996 2037!1996 2037|2005 2036!2005 2036|2014 2031!2014 2031|2035 2006!2035 2006|2043 1977!2043 1977[2046 1964 2037
+ 1960!2037 1960|1820 1848!1820 1848|1807 1848"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!1785 1914|1784 1919!1784 1919|1782 1918!1782 1918|1781 1909!1781 1909[1778 1900 1784 1886!1784 1886[1789 1872 1797 1863!1797 1863|1809 1854!1809 1854|1817 1853!1817 1853|1819 1856!1819 1856[1812 1857 1803 1864!1803 1864|1786 1890!1786
+ 1890|1784 1913!1784 1913|1785 1914"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!1785 1914[1784 1906 1789 1889!1789 1889[1794 1876 1805 1866!1805 1866[1813 1857 1822 1858!1822 1858|1866 1876!1866 1876|1854 1885!1854 1885|1838 1908!1838 1908[1830 1920 1829 1937!1829 1937|1830 1941!1830 1941|1790 1919!1790 1919|1785
+ 1914"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!1870 1878|2027 1960!2027 1960|2016 1968!2016 1968|1998 1993!1998 1993[1992 2007 1992 2019!1992 2019[1990 2023 1991 2025!1991 2025|1832 1942!1832 1942|1832 1935!1832 1935|1838 1909!1838 1909|1856 1887!1856 1887|1864 1881!1864 1881|1870
+ 1881!1870 1881|1870 1878"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!2036 1966|2038 1975!2038 1975|2029 2001!2029 2001|2011 2025!2011 2025|2003 2030!2003 2030|1998 2032!1998 2032|1994 2021!1994 2021[1996 2009 2004 1995!2004 1995|2020 1971!2020 1971[2025 1965 2029 1966!2029 1966[2032 1963 2036 1966"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#D4D4D4"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#B2B2B2"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!1767 2561|1787 2548!1787 2548[1798 2541 1815 2540!1815 2540[1827 2539 1833 2547!1833 2547|1853 2590!1853 2590|1838 2588!1838 2588|1810 2593!1810 2593[1795 2598 1784 2608!1784 2608|1781 2613!1781 2613|1766 2571!1766 2571|1766 2562"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!1766 2562|1762 2565!1762 2565|1762 2563!1762 2563|1768 2556!1768 2556[1770 2548 1786 2541!1786 2541[1797 2534 1811 2533!1811 2533|1824 2535!1824 2535|1831 2540!1831 2540|1833 2542!1833 2542[1827 2538 1814 2537!1814 2537|1784 2546!1784
+ 2546[1771 2553 1766 2562"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!1855 2596|1913 2760!1913 2760|1899 2760!1899 2760|1870 2766!1870 2766[1856 2772 1847 2781!1847 2781|1843 2785!1843 2785|1782 2615!1782 2615|1787 2610!1787 2610[1797 2601 1810 2594!1810 2594|1837 2590!1837 2590|1847 2592!1847 2592|1853
+ 2597!1853 2597|1855 2596"/>
+                    <Edge fillStyle0="1" edges="
+!1828 2529|1811 2528!1811 2528|1794 2531!1794 2531|1779 2537!1779 2537|1766 2548!1766 2548|1758 2562!1758 2562|1839 2797!1839 2797|1845 2802!1845 2802|1856 2804!1856 2804|1889 2799!1889 2799[1907 2793 1914 2785!1914 2785[1926 2777 1922
+ 2768!1922 2768|1838 2537!1838 2537|1828 2529"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!1911 2780|1887 2793!1887 2793|1857 2800!1857 2800|1849 2796!1849 2796|1843 2794!1843 2794[1843 2789 1849 2783!1849 2783[1858 2775 1872 2770!1872 2770|1901 2764!1901 2764|1911 2766!1911 2766|1916 2771!1916 2771|1911 2780"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#D4D4D4"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#B2B2B2"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!1661 3956[1660 3968 1662 3971!1662 3971|1873 4103!1873 4103|1882 4104!1882 4104|1890 4099!1890 4099[1905 4090 1913 4073!1913 4073|1924 4047!1924 4047[1928 4034 1919 4029!1919 4029|1709 3903!1709 3903|1695 3903!1695 3903|1683 3912!1683
+ 3912|1671 3924!1671 3924|1663 3940!1663 3940|1661 3956"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!1669 3966|1667 3972!1667 3972|1666 3970!1666 3970[1665 3966 1667 3961!1667 3961[1664 3954 1671 3939!1671 3939[1675 3925 1686 3916!1686 3916|1697 3909!1697 3909|1706 3909!1706 3909|1708 3910!1708 3910[1701 3911 1690 3918!1690 3918|1672
+ 3943!1672 3943[1667 3956 1669 3966"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!1669 3966[1669 3956 1676 3943!1676 3943|1693 3919!1693 3919[1702 3911 1711 3913!1711 3913|1754 3934!1754 3934[1748 3935 1741 3942!1741 3942|1722 3964!1722 3964[1714 3977 1712 3992!1712 3992|1712 3998!1712 3998|1674 3973!1674 3973|1669
+ 3966"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!1760 3937|1908 4029!1908 4029[1902 4032 1897 4037!1897 4037[1888 4042 1879 4061!1879 4061[1870 4073 1869 4086!1869 4086|1869 4092!1869 4092|1714 3998!1714 3998|1715 3991!1715 3991|1723 3965!1723 3965|1741 3944!1741 3944|1751 3939!1751
+ 3939|1758 3939!1758 3939|1760 3937"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!1911 4035|1916 4035!1916 4035|1919 4045!1919 4045|1908 4069!1908 4069[1902 4085 1889 4095!1889 4095|1881 4096!1881 4096|1874 4099!1874 4099[1872 4095 1873 4086!1873 4086|1883 4061!1883 4061|1901 4039!1901 4039[1905 4034 1911 4035"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#88A1E6" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 723" centerPoint3DX="149.75" centerPoint3DY="3.7">
+                  <matrix>
+                    <Matrix a="2.50944519042969" d="-2.50944519042969" tx="112.05" ty="-21.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

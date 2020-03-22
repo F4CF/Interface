@@ -1,0 +1,77 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 811" itemID="5dc12b90-00000157" symbolType="graphic" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 811">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#B2B2B2"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#D4D4D4"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#FF4000"/>
+                    </FillStyle>
+                    <FillStyle index="6">
+                      <SolidColor color="#BF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!466 418|443 398!443 398|435 391!435 391|416 388!416 388[405 389 397 396!397 396[387 405 384 418!384 418[380 433 387 443!387 443|398 454!398 454|399 455!399 455|420 466!420 466|441 475!441 475|446 475!446 475|450 477!450 477|451 477!451
+ 477|459 478!459 478|474 478!474 478|487 473!487 473[495 465 490 453!490 453|479 434!479 434|478 432!478 432|476 429!476 429|473 426!473 426|466 418"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!417 412[424 419 418 425!418 425[410 431 404 425!404 425[398 418 405 411!405 411|411 409!411 409|417 412"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!405 409[401 412 400 418!400 418|401 427!401 427|408 431!408 431|417 428!417 428|417 427!417 427|418 427!418 427|422 419!422 419|421 410!421 410[419 405 414 406!414 406[409 406 405 409"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!445 405|468 426!468 426|476 435!476 435|477 437!477 437|477 453!477 453|469 466!469 466|459 461!459 461|434 446!434 446|445 426!445 426[449 415 445 405"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!444 422[442 435 433 444!433 444[424 453 413 453!413 453[401 454 393 446!393 446[383 436 386 421!386 421[387 407 397 398!397 398[405 390 416 390!416 390[429 389 437 397!437 397[446 406 444 422"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!422 454|423 454!423 454|451 470!451 470|457 472!457 472|452 474!452 474|443 472!443 472[436 469 426 465!426 465|410 456!410 456|422 454"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!431 449|456 464!456 464|465 468!465 468|463 471!463 471|452 466!452 466|426 451!426 451|431 449"/>
+                    <Edge fillStyle0="1" fillStyle1="5" edges="
+!480 442|490 461!490 461|488 470!488 470|470 466!470 466|477 455!477 455|480 442"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="
+!458 474|464 474!464 474|483 474!483 474|462 476!462 476|458 474!474 471|465 471!465 471|467 469!467 469|474 471"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!280 357[235 336 196 296!196 296[175 275 141 231!141 231|145 207!145 207[167 216 219 260!219 260[275 307 297 338!297 338[295 350 280 357"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

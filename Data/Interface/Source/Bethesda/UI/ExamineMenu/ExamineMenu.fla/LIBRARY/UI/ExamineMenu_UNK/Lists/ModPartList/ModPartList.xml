@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ExamineMenu_UNK/Lists/ModPartList/ModPartList" itemID="5dd84733-000002f2" linkageExportForAS="true" linkageClassName="ModPartList" lastModified="1574557554">
+  <timeline>
+    <DOMTimeline name="ModPartList">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4CFCAF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu_UNK/Lists/RequirementList/RequirementList_ScrollArrow" name="ScrollDown" centerPoint3DX="365" centerPoint3DY="161.95">
+                  <matrix>
+                    <Matrix a="0" b="1.99998474121094" c="-0.571426391601563" d="0" tx="361.35" ty="152.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#8AF640">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu_UNK/Lists/RequirementList/RequirementList_ScrollArrow" name="ScrollUp" centerPoint3DX="343" centerPoint3DY="-3.55">
+                  <matrix>
+                    <Matrix a="0" b="-1.99998474121094" c="0.571426391601563" d="0" tx="339.35" ty="-13.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#86728D" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu_UNK/Lists/ModPartList/ModPartListEntry_Border" name="border" centerPoint3DX="54.85" centerPoint3DY="40.95">
+                  <matrix>
+                    <Matrix a="3.34149169921875" d="1.75901794433594" ty="-0.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

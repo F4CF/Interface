@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PipboyMenu/ReadOnlyWarning/ReadOnlyWarning_FlasherGraphic" itemID="5db01ad1-00000304" symbolType="graphic" lastModified="1571822289">
+  <timeline>
+    <DOMTimeline name="ReadOnlyWarning_FlasherGraphic">
+      <layers>
+        <DOMLayer name="Shape" color="#4F4FFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!4000 800S2|0 800!0 800|0 0!0 0|4000 0!4000 0|4000 800"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/BottomCenterGroup/HUDCompassWidget/QuestCompassMarkers_LevelArrowGraphic" itemID="5dc2948d-000005f7" symbolType="graphic" lastModified="1573033261">
+  <timeline>
+    <DOMTimeline name="QuestCompassMarkers_LevelArrowGraphic">
+      <layers>
+        <DOMLayer name="Shape" color="#4F4FFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!0 -309S1|-98 -396!-98 -396|-109 -400!-109 -400|-119 -395!-119 -395|-123 -384!-123 -384|-118 -374!-118 -374|0 -269!0 -269|118 -374!118 -374|123 -384!123 -384|119 -395!119 -395|109 -400!109 -400|98 -396!98 -396|0 -309"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/CapsTransferInfo/TopBracketLeft" itemID="5dc046a7-000001d9" lastModified="1572883810">
+  <timeline>
+    <DOMTimeline name="TopBracketLeft">
+      <layers>
+        <DOMLayer name="Graphic" color="#CF3980" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/CapsTransferInfo/BracketGraphic" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="1.16279602050781"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

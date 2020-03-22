@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/ItemCard/Entries/EquipIcon" itemID="5db05be5-000004fa" lastModified="1574556901">
+  <timeline>
+    <DOMTimeline name="EquipIcon">
+      <layers>
+        <DOMLayer name="Art" color="#936BEA" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/IconShape" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix d="2.97297668457031"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

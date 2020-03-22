@@ -1,0 +1,114 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/CapsTransferInfo/CapsTransferInfo" itemID="5dc04511-000001c8" lastModified="1572883806">
+  <timeline>
+    <DOMTimeline name="CapsTransferInfo">
+      <layers>
+        <DOMLayer name="CapsArrowLeft_mc" color="#6E7EAD" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/CapsTransferInfo/CapsArrow" name="CapsArrowLeft_mc" centerPoint3DX="216.85" centerPoint3DY="91.45">
+                  <matrix>
+                    <Matrix a="-0.682266235351563" d="0.682357788085938" tx="94.65" ty="48.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TotalCost_tf" color="#88E458" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="TotalCost_tf" selected="true" width="198" height="31.2" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$TOTAL COST</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="22.35" size="20" bitmapSize="400" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TransferCaps_tf" color="#F26FD3" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="TransferCaps_tf" selected="true" width="162.3" height="76.8" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.740676879882813" d="0.739761352539063" tx="68.65" ty="25.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>110</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineHeight="13.7" bitmapSize="240" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TransferCapsIcon_mc" color="#D0DE02" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/CapsIcon" name="TransferCapsIcon_mc" centerPoint3DX="74.25" centerPoint3DY="64.45">
+                  <matrix>
+                    <Matrix a="0.53558349609375" d="0.532333374023438" tx="59.3" ty="49.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CapsArrowRight_mc" color="#D25A5A" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/CapsTransferInfo/CapsArrow" name="CapsArrowRight_mc" centerPoint3DX="222.25" centerPoint3DY="91.45">
+                  <matrix>
+                    <Matrix a="0.682266235351563" d="0.682357788085938" tx="100.05" ty="48.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Background_mc" color="#F54BF5" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/CapsTransferInfo/Background" name="Background_mc" centerPoint3DX="168.5" centerPoint3DY="130.2">
+                  <matrix>
+                    <Matrix a="0.51763916015625" d="0.251968383789063" tx="26" ty="22.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

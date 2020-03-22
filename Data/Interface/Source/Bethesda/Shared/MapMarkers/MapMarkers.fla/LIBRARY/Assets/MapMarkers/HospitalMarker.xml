@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/MapMarkers/HospitalMarker" itemID="5daa485a-00000287" linkageExportForAS="true" linkageClassName="HospitalMarker" lastModified="1571441418">
+  <timeline>
+    <DOMTimeline name="HospitalMarker">
+      <layers>
+        <DOMLayer name="Labels" color="#8DBFCB" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" name="Discovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="Undiscovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shapes" color="#86728D" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!44 -44|44 -137!44 -137|-44 -137!-44 -137|-44 -44!-44 -44|-137 -44!-137 -44|-137 44!-137 44|-44 44!-44 44|-44 137!-44 137|44 137!44 137|44 44!44 44|137 44!137 44|137 -44!137 -44|44 -44!0 -198[-82 -198 -140 -140!-140 -140[-198 -82 -198
+ 0!-198 0[-198 82 -140 140!-140 140[-82 198 0 198!0 198[82 198 140 140!140 140[198 82 198 0!198 0[198 -82 140 -140!140 -140[82 -198 0 -198!117 -117[165 -68 165 0!165 0[165 68 117 117!117 117[68 165 0 165!0 165[-68 165 -116 117!-116 117
+[-165 68 -165 0!-165 0[-165 -68 -116 -117!-116 -117[-68 -166 0 -166!0 -166[68 -166 117 -117"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!140 -139[198 -81 198 1!198 1[198 83 140 140!140 140[82 199 0 199!0 199[-82 199 -140 140!-140 140[-198 83 -198 1!-198 1[-198 -81 -140 -139!-140 -139[-82 -197 0 -197!0 -197[82 -197 140 -139!137 -44|137 44!137 44|44 44!44 44|44 137!44 137
+|-44 137!-44 137|-44 44!-44 44|-137 44!-137 44|-137 -44!-137 -44|-44 -44!-44 -44|-44 -137!-44 -137|44 -137!44 -137|44 -44!44 -44|137 -44!68 -161|-68 -161!-68 -161|-68 -68!-68 -68|-161 -68!-161 -68|-161 68!-161 68|-68 68!-68 68|-68 161
+!-68 161|68 161!68 161|68 68!68 68|161 68!161 68|161 -68!161 -68|68 -68!68 -68|68 -161!0 -221[-92 -221 -157 -156!-157 -156[-222 -91 -222 1!-222 1[-222 92 -157 158!-157 158[-92 223 0 223!0 223[92 223 157 158!157 158[222 92 222 1!222 1
+[222 -91 157 -156!157 -156[92 -221 0 -221"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

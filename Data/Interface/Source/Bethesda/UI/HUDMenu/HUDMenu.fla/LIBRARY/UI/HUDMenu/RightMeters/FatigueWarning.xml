@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/RightMeters/FatigueWarning" itemID="5dc287a3-00000573" lastModified="1573029795">
+  <timeline>
+    <DOMTimeline name="FatigueWarning">
+      <layers>
+        <DOMLayer name="Layer 1" color="#A7DE0E">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="FatigueWarning_tf" fontRenderingMode="standard" width="197.25" height="42.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="0.997726440429688" tx="21.75" ty="-26"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>+FATIGUE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="5" lineHeight="35.75" size="32" bitmapSize="640" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#5FB37E" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/_1/Symbol 613" name="FatigueHead_mc" centerPoint3DX="28.6" centerPoint3DY="38.15">
+                  <matrix>
+                    <Matrix a="0.576416015625" d="0.576675415039063"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

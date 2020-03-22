@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ExamineMenu/ModDescriptionBase/ModDescriptionBase" itemID="5dd84f9d-0000038e" lastModified="1574457267">
+  <timeline>
+    <DOMTimeline name="ModDescriptionBase">
+      <layers>
+        <DOMLayer name="ModDescription_tf" color="#A2B5AA" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="ModDescription_tf" selected="true" width="282.75" height="71.6" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="4.5" ty="-3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Short range Magnification with Night Vision.&#xD;&#xA;Improves Accuracy, but degrades AP cost.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" lineHeight="17.9" size="16" bitmapSize="320" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

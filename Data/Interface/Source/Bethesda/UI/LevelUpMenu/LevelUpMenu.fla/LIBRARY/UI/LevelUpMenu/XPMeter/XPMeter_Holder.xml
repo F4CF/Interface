@@ -1,0 +1,63 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/XPMeter/XPMeter_Holder" itemID="5dd9f333-00000705" linkageExportForAS="true" linkageClassName="XPMeter_Holder" lastModified="1574565150">
+  <timeline>
+    <DOMTimeline name="XPMeter_Holder">
+      <layers>
+        <DOMLayer name="textField" color="#DFCB41" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="textField" selected="true" width="100" height="22.8" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="7" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>LEVEL  0</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="0.1" lineHeight="21.25" size="19" bitmapSize="380" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Meter_mc" color="#CC0000" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/XPMeter/XPMeter" name="Meter_mc" selected="true" centerPoint3DX="109.85" centerPoint3DY="40.2">
+                  <matrix>
+                    <Matrix a="1.09490966796875" d="0.44000244140625" tx="8.55" ty="26.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shape" color="#5283FB" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#333333" alpha="0.698039215686274"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!4800 920S2|0 920!0 920|0 0!0 0|4800 0!4800 0|4800 920"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

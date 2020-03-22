@@ -1,0 +1,127 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#333333" width="1280" height="720" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" vanishingPoint3DX="640" vanishingPoint3DY="360" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="2AA28F3B1D1C304F8216A60823BB5DCE">
+     <folders>
+          <DOMFolderItem name="Assets" itemID="5dc042ca-0000018c" isExpanded="true"/>
+          <DOMFolderItem name="Assets/BSButtonHintBar" itemID="5dc04343-000001a7"/>
+          <DOMFolderItem name="Assets/DamageIcons" itemID="5dc0431f-000001a1"/>
+          <DOMFolderItem name="Assets/Fonts" itemID="5dc042c4-0000018a"/>
+          <DOMFolderItem name="Assets/ItemCard" itemID="5dc04306-0000019c"/>
+          <DOMFolderItem name="UI" itemID="5dc042c7-0000018b" isExpanded="true"/>
+          <DOMFolderItem name="UI/BarterMenu" itemID="5dc042ce-0000018d" isExpanded="true"/>
+          <DOMFolderItem name="UI/BarterMenu/CapsTransferInfo" itemID="5dc045a5-000001cf"/>
+          <DOMFolderItem name="UI/BarterMenu/List" itemID="5dc042f9-00000197"/>
+          <DOMFolderItem name="UI/BarterMenu/QuantityMenu" itemID="5dc04383-000001b1"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Assets/Fonts/Font 132" itemID="5dc0421c-00000003" font="RobotoCondensed-Bold" size="0" id="132" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Assets/Fonts/Font 133" itemID="5dc0421c-00000005" font="RobotoCondensed-Regular" size="0" id="133" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Assets/Fonts/Font 134" itemID="5dc0421c-00000007" font="Share-TechMono" size="0" id="134" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЀЁЍАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёѝ–—‘’‚“”„†‡•…‰‹›⁄€™Ω∂∏∑∕√∞∧∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Assets/Fonts/Font 135" itemID="5dc0421c-00000009" font="Eurostile LT Std Roman" size="0" id="135" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Assets/Fonts/Font 136" itemID="5dc0421c-0000000b" font="Brody" size="0" id="136" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĂăĄąĆćČčĎďĐđĘęĚěĞğİıĹĺĽľŁłŃńŇňŐőŒœŔŕŘřŚśŞşŠšŢţŤťŮůŰűŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜ΔΣΩμπ–—‗‘’‚“”„†‡•…‰‹›‼ⁿ₣™Ω←→∂∏∕√∞∫≠≤≥■" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Assets/Fonts/Font 137" itemID="5dc0421c-0000000d" font="Controller--Buttons" size="0" id="137" embedRanges="1|2"/>
+          <DOMFontItem name="Assets/Fonts/Font 138" itemID="5dc0421c-0000000f" font="Eurostile Cyr Std Bold" size="0" id="138" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Assets/Fonts/Font 139" itemID="5dc0421c-00000011" font="Handwritten_Institute" size="0" id="139" embeddedCharacters="!&quot;#$%&amp;&apos;()*+,-/:;&lt;=&gt;?@[\]^_{|}~¡¢£¤§©«¬®°±²µ¶»¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿĄąĆćĈĉĔęĜĝĤĥıĴĵŁłŃńŐőŒœŚśŜŝŠšŬŭŰűŸŹźŻżŽžƒμ‘’“”†‡•€™" embedRanges="1|2|3"/>
+          <DOMFontItem name="Assets/Fonts/Font 140" itemID="5dc0421c-00000013" font="Controller--Buttons-inverted" size="0" id="140" embedRanges="1|2"/>
+     </fonts>
+     <symbols>
+          <Include href="Assets/BSButtonHintBar/BSButtonHint.xml" itemID="5dc0442a-000001c4" lastModified="1572881450"/>
+          <Include href="Assets/BSButtonHintBar/BSButtonHint_IconHolder.xml" itemID="5dc04430-000001c5" lastModified="1572881533"/>
+          <Include href="Assets/BSButtonHintBar/BSButtonHintBar.xml" itemID="5dc043cf-000001bc" lastModified="1572881458"/>
+          <Include href="Assets/BSButtonHintBar/ButtonBracket_Left.xml" loadImmediate="false" itemID="5dc04419-000001c2" lastModified="1572881433"/>
+          <Include href="Assets/BSButtonHintBar/ButtonBracket_Right.xml" loadImmediate="false" itemID="5dc04424-000001c3" lastModified="1572881444"/>
+          <Include href="Assets/BSButtonHintBar/IconAnimation.xml" loadImmediate="false" itemID="5dc04486-000001c7" lastModified="1572881542"/>
+          <Include href="Assets/DamageIcons/DamageIcons.xml" itemID="5dc04b3e-000001f3" lastModified="1572883517"/>
+          <Include href="Assets/DamageIcons/Symbol 37.xml" loadImmediate="false" itemID="5dc0421c-00000027" lastModified="1572883484"/>
+          <Include href="Assets/DamageIcons/Symbol 39.xml" loadImmediate="false" itemID="5dc0421c-00000028" lastModified="1572883029"/>
+          <Include href="Assets/DamageIcons/Symbol 41.xml" loadImmediate="false" itemID="5dc0421c-00000029" lastModified="1572883034"/>
+          <Include href="Assets/DamageIcons/Symbol 43.xml" loadImmediate="false" itemID="5dc0421c-0000002a" lastModified="1572883041"/>
+          <Include href="Assets/DamageIcons/Symbol 45.xml" loadImmediate="false" itemID="5dc0421c-0000002b" lastModified="1572883044"/>
+          <Include href="Assets/DamageIcons/Symbol 47.xml" loadImmediate="false" itemID="5dc0421c-0000002c" lastModified="1572883048"/>
+          <Include href="Assets/DamageIcons/Symbol 49.xml" loadImmediate="false" itemID="5dc0421c-0000002d" lastModified="1572883052"/>
+          <Include href="Assets/ItemCard/EntryHolder.xml" loadImmediate="false" itemID="5dc04b8a-000001f6" lastModified="1572883338"/>
+          <Include href="Assets/ItemCard/FavIcon.xml" loadImmediate="false" itemID="5dc04bd1-000001f7" lastModified="1572883409"/>
+          <Include href="Assets/ItemCard/ItemCard.xml" itemID="5dc04390-000001b5" lastModified="1572883471"/>
+          <Include href="Assets/ItemCard/ItemCard_AmmoEntry.xml" itemID="5dc048a0-000001ed" lastModified="1572883472"/>
+          <Include href="Assets/ItemCard/ItemCard_BorderDark.xml" loadImmediate="false" itemID="5dc04b5d-000001f4" lastModified="1572883293"/>
+          <Include href="Assets/ItemCard/ItemCard_BorderLight.xml" loadImmediate="false" itemID="5dc04b63-000001f5" lastModified="1572883314"/>
+          <Include href="Assets/ItemCard/ItemCard_Comparison.xml" itemID="5dc0487c-000001e5" lastModified="1572883218"/>
+          <Include href="Assets/ItemCard/ItemCard_ComponentEntry_Entry.xml" itemID="5dc0489d-000001ec" lastModified="1572883475"/>
+          <Include href="Assets/ItemCard/ItemCard_ComponentsEntry.xml" itemID="5dc04898-000001eb" lastModified="1572883480"/>
+          <Include href="Assets/ItemCard/ItemCard_DescriptionEntry.xml" itemID="5dc04893-000001ea" lastModified="1572883374"/>
+          <Include href="Assets/ItemCard/ItemCard_MultiEntry.xml" itemID="5dc0488e-000001e9" lastModified="1572883357"/>
+          <Include href="Assets/ItemCard/ItemCard_MultiEntry_Value.xml" itemID="5dc04888-000001e8" lastModified="1572883312"/>
+          <Include href="Assets/ItemCard/ItemCard_StandardEntry.xml" itemID="5dc04885-000001e7" lastModified="1572883227"/>
+          <Include href="Assets/ItemCard/ItemCard_TimedEntry.xml" itemID="5dc04882-000001e6" lastModified="1572883221"/>
+          <Include href="Assets/ItemCard/Symbol 65.xml" loadImmediate="false" itemID="5dc0421c-00000036" lastModified="1572883474"/>
+          <Include href="Assets/ItemCard/TimerIcon.xml" loadImmediate="false" itemID="5dc04abd-000001f0" lastModified="1572883220"/>
+          <Include href="UI/BarterMenu/BarterIcon.xml" loadImmediate="false" itemID="5dc047da-000001e1" lastModified="1572883691"/>
+          <Include href="UI/BarterMenu/BarterMenu.xml" itemID="5dc043bd-000001b9" lastModified="1572882912"/>
+          <Include href="UI/BarterMenu/BestIcon.xml" loadImmediate="false" itemID="5dc047cc-000001e0" lastModified="1572882930"/>
+          <Include href="UI/BarterMenu/Border.xml" loadImmediate="false" itemID="5dc04866-000001e4" lastModified="1572883526"/>
+          <Include href="UI/BarterMenu/CapsIcon.xml" loadImmediate="false" itemID="5dc04c2e-000001f8" lastModified="1572883502"/>
+          <Include href="UI/BarterMenu/CapsTransferInfo/BackBracket.xml" loadImmediate="false" itemID="5dc046c4-000001db" lastModified="1572883811"/>
+          <Include href="UI/BarterMenu/CapsTransferInfo/Background.xml" loadImmediate="false" itemID="5dc045f8-000001d3" lastModified="1572882196"/>
+          <Include href="UI/BarterMenu/CapsTransferInfo/BackgroundClip.xml" loadImmediate="false" itemID="5dc04621-000001d5" lastModified="1572882195"/>
+          <Include href="UI/BarterMenu/CapsTransferInfo/BackgroundGraphic.xml" itemIcon="1" loadImmediate="false" itemID="5dc0464e-000001d6" lastModified="1572882193"/>
+          <Include href="UI/BarterMenu/CapsTransferInfo/BottomBracket.xml" loadImmediate="false" itemID="5dc046fc-000001dc" lastModified="1572882234"/>
+          <Include href="UI/BarterMenu/CapsTransferInfo/BracketGraphic.xml" itemIcon="1" loadImmediate="false" itemID="5dc0472e-000001de" lastModified="1572882222"/>
+          <Include href="UI/BarterMenu/CapsTransferInfo/CapsArrow.xml" loadImmediate="false" itemID="5dc045e5-000001d2" lastModified="1572883807"/>
+          <Include href="UI/BarterMenu/CapsTransferInfo/CapsTransferArrow.xml" itemID="5dc043e8-000001c0" lastModified="1572882271"/>
+          <Include href="UI/BarterMenu/CapsTransferInfo/CapsTransferInfo.xml" loadImmediate="false" itemID="5dc04511-000001c8" lastModified="1572883806"/>
+          <Include href="UI/BarterMenu/CapsTransferInfo/DirectionalArrow.xml" loadImmediate="false" itemID="5dc04689-000001d7" lastModified="1572882252"/>
+          <Include href="UI/BarterMenu/CapsTransferInfo/TopBracketLeft.xml" loadImmediate="false" itemID="5dc046a7-000001d9" lastModified="1572883810"/>
+          <Include href="UI/BarterMenu/CapsTransferInfo/TopBracketRight.xml" loadImmediate="false" itemID="5dc04697-000001d8" lastModified="1572883809"/>
+          <Include href="UI/BarterMenu/EquipIcon.xml" loadImmediate="false" itemID="5dc047e5-000001e2" lastModified="1572883688"/>
+          <Include href="UI/BarterMenu/FavoriteIcon.xml" loadImmediate="false" itemID="5dc04cae-000001fb" lastModified="1572883630"/>
+          <Include href="UI/BarterMenu/FilterHolder.xml" itemID="5dc043c4-000001ba" lastModified="1572882918"/>
+          <Include href="UI/BarterMenu/LeftIcon.xml" loadImmediate="false" itemID="5dc04cc6-000001fd" lastModified="1572883654"/>
+          <Include href="UI/BarterMenu/LegendaryIcon.xml" loadImmediate="false" itemID="5dc04cb8-000001fc" lastModified="1572883640"/>
+          <Include href="UI/BarterMenu/List/ContainerInventory.xml" loadImmediate="false" itemID="5dc04576-000001c9" lastModified="1572882908"/>
+          <Include href="UI/BarterMenu/List/ContainerList.xml" itemID="5dc0438b-000001b4" lastModified="1572883805"/>
+          <Include href="UI/BarterMenu/List/ContainerListEntry.xml" itemID="5dc042f4-00000193" lastModified="1572881140"/>
+          <Include href="UI/BarterMenu/List/HeaderArrow.xml" itemID="5dc04373-000001ab" lastModified="1572883538"/>
+          <Include href="UI/BarterMenu/List/ListBorder.xml" loadImmediate="false" itemID="5dc04cdd-000001fe" lastModified="1572883687"/>
+          <Include href="UI/BarterMenu/List/ListHeader.xml" itemID="5dc043db-000001be" lastModified="1572883539"/>
+          <Include href="UI/BarterMenu/List/Option_Scrollbar.xml" itemID="5dc043e4-000001bf" lastModified="1572883532"/>
+          <Include href="UI/BarterMenu/List/PlayerInventory.xml" itemID="5dc043c9-000001bb" lastModified="1572882838"/>
+          <Include href="UI/BarterMenu/List/PlayerList.xml" itemID="5dc04388-000001b3" lastModified="1572883578"/>
+          <Include href="UI/BarterMenu/List/PlayerListEntry.xml" itemID="5dc042f2-00000192" lastModified="1572883685"/>
+          <Include href="UI/BarterMenu/List/ScrollArrow.xml" loadImmediate="false" itemID="5dc04c6e-000001f9" lastModified="1572883601"/>
+          <Include href="UI/BarterMenu/List/ScrollArrowGraphic.xml" itemIcon="1" loadImmediate="false" itemID="5dc04c89-000001fa" lastModified="1572883613"/>
+          <Include href="UI/BarterMenu/List/Symbol 88.xml" itemIcon="1" loadImmediate="false" itemID="5dc0421c-00000043" lastModified="1572882920"/>
+          <Include href="UI/BarterMenu/List/Symbol 123.xml" loadImmediate="false" itemID="5dc0421c-0000005a" lastModified="1572882848"/>
+          <Include href="UI/BarterMenu/List/Symbol 124.xml" loadImmediate="false" itemID="5dc0421c-0000005b" lastModified="1572882858"/>
+          <Include href="UI/BarterMenu/List/Track.xml" loadImmediate="false" itemID="5dc048c8-000001ee" lastModified="1572883530"/>
+          <Include href="UI/BarterMenu/QuantityMenu/QuantityMenu.xml" itemID="5dc04379-000001ac" lastModified="1572881273"/>
+          <Include href="UI/BarterMenu/QuantityMenu/Symbol 82.xml" loadImmediate="false" itemID="5dc0421c-00000041" lastModified="1571730685"/>
+          <Include href="UI/BarterMenu/ScrollArrow.xml" loadImmediate="false" itemID="5dc04907-000001ef" lastModified="1572883527"/>
+          <Include href="UI/BarterMenu/Symbol 24.xml" loadImmediate="false" itemID="5dc0421c-00000020" lastModified="1572883524"/>
+          <Include href="UI/BarterMenu/Symbol 25.xml" loadImmediate="false" itemID="5dc0421c-00000021" lastModified="1572883525"/>
+          <Include href="UI/BarterMenu/Symbol 79.xml" loadImmediate="false" itemID="5dc0421c-0000003f" lastModified="1572883534"/>
+          <Include href="UI/BarterMenu/Symbol 81.xml" loadImmediate="false" itemID="5dc0421c-00000040" lastModified="1572883536"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="FilterHolder_mc" color="#79EE23" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="UI/BarterMenu/FilterHolder" name="FilterHolder_mc" selected="true" centerPoint3DX="483.5" centerPoint3DY="275.85">
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="94031" publishTime="1572930140" publishDebug="true"/>
+          <PublishItem publishSize="94034" publishTime="1572886604" publishDebug="true"/>
+     </publishHistory>
+</DOMDocument>

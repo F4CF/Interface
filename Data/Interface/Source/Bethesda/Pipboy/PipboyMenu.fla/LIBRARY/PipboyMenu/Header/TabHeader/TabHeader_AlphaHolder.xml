@@ -1,0 +1,97 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PipboyMenu/Header/TabHeader/TabHeader_AlphaHolder" itemID="5db01515-000002dc" lastModified="1571930056">
+  <timeline>
+    <DOMTimeline name="TabHeader_AlphaHolder">
+      <layers>
+        <DOMLayer name="LeftTwo" color="#2EC7BB" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PipboyMenu/Header/TabHeader/TabHeader_Tab" name="LeftTwo" centerPoint3DX="-179.3" centerPoint3DY="22.4">
+                  <matrix>
+                    <Matrix tx="-254.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0.28125" blueMultiplier="0.28125" greenMultiplier="0.28125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="LeftOne" color="#88F25D" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PipboyMenu/Header/TabHeader/TabHeader_Tab" name="LeftOne" centerPoint3DX="-58.3" centerPoint3DY="22.4">
+                  <matrix>
+                    <Matrix tx="-133.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0.55078125" blueMultiplier="0.55078125" greenMultiplier="0.55078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="RightTwo" color="#5976C3" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PipboyMenu/Header/TabHeader/TabHeader_Tab" name="RightTwo" centerPoint3DX="329.3" centerPoint3DY="22.4">
+                  <matrix>
+                    <Matrix tx="254.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0.28125" blueMultiplier="0.28125" greenMultiplier="0.28125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="RightOne" color="#F5D8AB" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PipboyMenu/Header/TabHeader/TabHeader_Tab" name="RightOne" centerPoint3DX="208.3" centerPoint3DY="22.4">
+                  <matrix>
+                    <Matrix tx="133.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0.55078125" blueMultiplier="0.55078125" greenMultiplier="0.55078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Selected" color="#49F6E9" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PipboyMenu/Header/TabHeader/TabHeader_Tab" name="Selected" centerPoint3DX="75" centerPoint3DY="22.4">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

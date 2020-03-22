@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/TerminalMenu/BlinkingCursor" itemID="5dc00102-00000159" lastModified="1572864975">
+  <timeline>
+    <DOMTimeline name="BlinkingCursor">
+      <layers>
+        <DOMLayer name="Labels" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="10" name="Blinking" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BlinkingCursorClip" color="#BB6D6E" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/TerminalMenu/BlinkingCursorClip" centerPoint3DX="303.25" centerPoint3DY="415.2">
+                  <matrix>
+                    <Matrix tx="297" ty="405.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/TerminalMenu/BlinkingCursorClip" centerPoint3DX="303.25" centerPoint3DY="415.2">
+                  <matrix>
+                    <Matrix tx="297" ty="405.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

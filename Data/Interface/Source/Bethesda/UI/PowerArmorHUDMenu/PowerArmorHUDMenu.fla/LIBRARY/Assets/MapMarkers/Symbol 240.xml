@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/MapMarkers/Symbol 240" itemID="5dc1239a-0000007c" linkageExportForAS="true" linkageClassName="FactoryMarker" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 240">
+      <layers>
+        <DOMLayer name="Labels Layer" color="#D0DE02">
+          <frames>
+            <DOMFrame index="0" name="Discovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="Undiscovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#B68555" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/Symbol 213" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.927459716796875" d="0.926773071289062" ty="-0.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/Symbol 214" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.93548583984375" d="0.936935424804688" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

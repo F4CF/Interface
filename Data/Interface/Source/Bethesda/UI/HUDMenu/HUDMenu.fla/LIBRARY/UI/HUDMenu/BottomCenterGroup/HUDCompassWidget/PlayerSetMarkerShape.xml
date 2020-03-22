@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/BottomCenterGroup/HUDCompassWidget/PlayerSetMarkerShape" itemID="5dc294dd-000005f8" lastModified="1573033181">
+  <timeline>
+    <DOMTimeline name="PlayerSetMarkerShape">
+      <layers>
+        <DOMLayer name="Shape" color="#F32BDD" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!108 -461S1|-108 -461!-108 -461|-108 -678!-108 -678|108 -678!108 -678|108 -461"/>
+                    <Edge fillStyle1="1" edges="!22 -441S2|22 0!22 0|-22 0!-22 0|-22 -441!-22 -441|-128 -441!-128 -441|-128 -700!-128 -700|128 -700!128 -700|128 -441!128 -441|22 -441"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/MapMarkers/Symbol 79" itemID="5dc13d4a-0000003a" linkageExportForAS="true" linkageClassName="PrydwenMarker" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 79">
+      <layers>
+        <DOMLayer name="Labels Layer" color="#50C37B">
+          <frames>
+            <DOMFrame index="0" name="Discovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="Undiscovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#60DECC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!190 -14[190 -24 154 -26!154 -26|147 -37!147 -37|172 -53!172 -53|184 -55!184 -55[161 -78 139 -80!139 -80[126 -82 114 -62!114 -62[83 -80 40 -90!40 -90|-40 -101!-40 -101[-87 -101 -125 -82!-125 -82[-161 -62 -171 -32!-171 -32[-189 -27 -189
+ -14!-189 -14[-189 -2 -171 4!-171 4[-158 41 -106 60!-106 60|-97 81!-97 81|-90 97!-90 97|-80 101!-80 101|8 101!8 101[15 101 21 94!21 94|26 81!26 81|26 66!26 66[80 55 117 35!117 35[128 50 139 48!139 48[161 47 184 24!184 24[166 23 150 8
+!150 8|155 -3!155 -3[190 -4 190 -14!-4 74|2 79!2 79|-4 85!-4 85|-80 85!-80 85|-86 79!-86 79|-80 74!-80 74|-4 74"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!181 -88[161 -101 140 -103!140 -103|137 -103!137 -103[121 -103 109 -91!109 -91[76 -106 35 -115!35 -115|-39 -123!-39 -123[-90 -123 -131 -104!-131 -104[-171 -84 -189 -50!-189 -50[-213 -38 -213 -14!-213 -14[-213 9 -189 22!-189 22[-170 58
+ -124 77!-124 77|-119 90!-119 90|-107 112!-107 112[-97 124 -79 124!-79 124|8 124!8 124[24 124 36 113!36 113[49 101 50 83!50 83|113 63!113 63[124 71 137 71!137 71|140 71!140 71[172 68 201 40!201 40[211 30 206 16!206 16|202 9!202 9[214
+ 0 214 -14!214 -14[214 -30 200 -38!200 -38|206 -47!206 -47[211 -61 201 -72!201 -72|181 -88!137 -80|139 -80!139 -80[162 -78 185 -55!185 -55|172 -53!172 -53|147 -37!147 -37|154 -26!154 -26[191 -24 191 -14!191 -14[191 -4 155 -3!155 -3|150
+ 8!150 8[167 23 185 24!185 24[162 47 139 48!139 48|137 48!137 48[126 48 118 35!118 35[81 55 26 66!26 66|26 81!26 81|21 94!21 94[15 101 8 101!8 101|-79 101!-79 101|-90 97!-90 97|-97 81!-97 81|-107 60!-107 60[-157 41 -170 4!-170 4[-190
+ -2 -190 -14!-190 -14[-190 -27 -170 -32!-170 -32[-160 -62 -124 -82!-124 -82[-87 -101 -39 -101!-39 -101|39 -90!39 -90[84 -80 115 -62!115 -62[126 -80 137 -80"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

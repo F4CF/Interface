@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Pipboy/InvPage/QuantityMenu/QuantityMenuNEW/Quantity_Slider_SliderBackground" itemID="5db05165-000004c0" lastModified="1571836261">
+  <timeline>
+    <DOMTimeline name="Quantity_Slider_SliderBackground">
+      <layers>
+        <DOMLayer name="Shape" color="#943EE8" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.00392156862745098"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!3629 -82S2|3629 458!3629 458|30 458!30 458|30 -82!30 -82|3629 -82"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

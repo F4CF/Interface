@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/RolloverWidget/TaggedForSearchIconGraphic" itemID="5dc26c86-00000483" symbolType="graphic" lastModified="1573022867">
+  <timeline>
+    <DOMTimeline name="TaggedForSearchIconGraphic">
+      <layers>
+        <DOMLayer name="Shape" color="#4F4FFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!217 -204S1[258 -246 317 -246!317 -246[376 -246 418 -204!418 -204[460 -162 460 -103!460 -103[460 -44 418 -3!418 -3[376 39 317 39!317 39[259 39 217 -3!217 -3[175 -44 175 -103!175 -103[175 -162 217 -204!171 -250[110 -189 110 -103!110 -103
+[110 -17 171 43!171 43[232 104 317 104!317 104[387 104 444 60!444 60|472 88!472 88|469 92!469 92[462 100 462 110!462 110[462 121 469 128!469 128|623 282!623 282[631 290 642 290!642 290[653 290 660 282!660 282|703 239!703 239[711 232 711
+ 221!711 221[711 211 703 203!703 203|549 49!549 49[542 42 531 42!531 42[520 42 512 49!512 49|509 52!509 52|481 24!481 24[524 -33 524 -103!524 -103[524 -189 464 -250!464 -250[403 -310 317 -310!317 -310[231 -310 171 -250"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

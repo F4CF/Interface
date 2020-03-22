@@ -1,0 +1,93 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/RightMeters/ActionPointMeter" itemID="5dc287ac-00000574" linkageExportForAS="true" linkageClassName="ActionPointMeter" lastModified="1573029804">
+  <timeline>
+    <DOMTimeline name="ActionPointMeter">
+      <layers>
+        <DOMLayer name="Layer 1" color="#F2B718">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MeterBar/MeterBarBracket" name="Bracket_mc" centerPoint3DX="-100" centerPoint3DY="4">
+                  <matrix>
+                    <Matrix tx="-202"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9094D4">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/_1/Symbol 606" name="ActionPointSegments_mc" centerPoint3DX="-201.5" centerPoint3DY="2">
+                  <matrix>
+                    <Matrix tx="-202"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FAE107">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="DisplayText_tf" fontRenderingMode="standard" width="28" height="32.95" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="-4.55" ty="-6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>AP</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" lineHeight="27.95" size="25" bitmapSize="500" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#CE468B">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MeterBar/MeterBar" name="MeterBar_mc" centerPoint3DX="-102" centerPoint3DY="3">
+                  <matrix>
+                    <Matrix tx="-202"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#3DC283" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MeterBar/MeterBar" name="Optional_mc" centerPoint3DX="-102" centerPoint3DY="3">
+                  <matrix>
+                    <Matrix tx="-202"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

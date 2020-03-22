@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/LevelUpMenu" itemID="5dd9f252-000006f4" linkageExportForAS="true" linkageClassName="LevelUpMenu" lastModified="1574569261">
+  <timeline>
+    <DOMTimeline name="LevelUpMenu">
+      <layers>
+        <DOMLayer name="ButtonHintBar_mc" color="#08EAA4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BSButtonHintBar/ButtonHintBar" name="ButtonHintBar_mc" selected="true" centerPoint3DX="659.3" centerPoint3DY="677.05">
+                  <matrix>
+                    <Matrix tx="639.85" ty="661.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PerkInfo_mc" color="#BD74ED" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkInfo/PerkInfo" name="PerkInfo_mc" selected="true" centerPoint3DX="523.55" centerPoint3DY="577.4">
+                  <matrix>
+                    <Matrix tx="-12.95" ty="511.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="XPMeterHolder_mc" color="#DE9F9B" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/XPMeter/XPMeter_Holder" name="XPMeterHolder_mc" selected="true" centerPoint3DX="170" centerPoint3DY="668">
+                  <matrix>
+                    <Matrix tx="50" ty="645"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="GridView_mc" color="#DA71F9" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid" name="GridView_mc" selected="true" centerPoint3DX="1855.95" centerPoint3DY="1316.2">
+                  <matrix>
+                    <Matrix a="0.662338256835938" d="0.662338256835938"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

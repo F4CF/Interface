@@ -1,0 +1,43 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#333333" width="1280" height="720" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" vanishingPoint3DX="640" vanishingPoint3DY="360" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="1531F0B4975A3845B1C6E4EDBF8FEBC8">
+     <folders>
+          <DOMFolderItem name="Shared" itemID="5e6d8240-0000015a" isExpanded="true"/>
+          <DOMFolderItem name="Shared/Fonts" itemID="5e6d8240-0000015b" isExpanded="true"/>
+          <DOMFolderItem name="Shared/Fonts/fonts_console" itemID="5e6d8240-0000015c" isExpanded="true"/>
+          <DOMFolderItem name="UI" itemID="5e6d80f3-00000141" isExpanded="true"/>
+          <DOMFolderItem name="UI/Console" itemID="5e6d811e-0000014a" isExpanded="true"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Shared/Fonts/fonts_console/$ConsoleFont" itemID="5db49e08-000001fa" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$ConsoleFont" linkageURL="fonts_console.swf" font="ArialMT" size="0" id="11" sourceLastImported="1572118449" embeddedCharacters="ˆ˜–—‘’‚“”„†‡•…‰‹›€™" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/fonts_console/$DebugTextFont" itemID="5db49e19-000001fc" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$DebugTextFont" linkageURL="fonts_console.swf" font="Consolas" size="0" id="12" sourceLastImported="1572314669" embeddedCharacters="ˆ˜–—‘’‚“”„†‡•…‰‹›€™" embedRanges="1|2|3|4|5"/>
+     </fonts>
+     <symbols>
+          <Include href="UI/Console/AnimHolder.xml" itemID="5e6d8338-00000169" lastModified="1584236060"/>
+          <Include href="UI/Console/Background.xml" loadImmediate="false" itemID="5e6d82f7-00000168" lastModified="1584235273"/>
+          <Include href="UI/Console/Console.xml" itemID="5e6d82c8-00000166" lastModified="1584235488"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="AnimHolder_mc" color="#00CC00" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="UI/Console/AnimHolder" name="AnimHolder_mc" centerPoint3DX="640" centerPoint3DY="1060">
+                                             <matrix>
+                                                  <Matrix ty="720"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

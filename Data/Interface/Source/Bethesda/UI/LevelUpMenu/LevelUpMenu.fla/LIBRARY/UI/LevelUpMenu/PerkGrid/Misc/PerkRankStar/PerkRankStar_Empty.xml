@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/Misc/PerkRankStar/PerkRankStar_Empty" itemID="5dd9fe5f-0000075c" lastModified="1574567519">
+  <timeline>
+    <DOMTimeline name="PerkRankStar_Empty">
+      <layers>
+        <DOMLayer name="Layer 1" color="#7894DB" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!717 317|560 469!560 469|597 687!597 687|403 581!403 581|203 687!203 687|240 469!240 469|83 317!83 317|304 280!304 280|403 83!403 83|501 280!501 280|717 317!800 285|523 250!523 250|403 0!403 0|277 250!277 250|0 285!0 285|203 482!203 482
+|157 754!157 754|403 623!403 623|648 754!648 754|603 482!603 482|800 285"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

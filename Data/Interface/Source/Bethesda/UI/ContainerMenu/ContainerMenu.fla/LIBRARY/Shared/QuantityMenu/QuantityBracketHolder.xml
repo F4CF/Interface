@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/QuantityMenu/QuantityBracketHolder" itemID="5dadd1a0-00000248" lastModified="1571751675">
+  <timeline>
+    <DOMTimeline name="QuantityBracketHolder">
+      <layers>
+        <DOMLayer name="QuantityMenuRightBracket_mc" color="#489BE4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/QuantityMenu/QuantityMenuBracketSide" name="QuantityMenuRightBracket_mc" centerPoint3DX="161.55" centerPoint3DY="38.05">
+                  <matrix>
+                    <Matrix a="-2.72006225585938" d="1.23698425292969" tx="155"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="QuantityMenuBottomBracket_mc" color="#35CDE9" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/QuantityMenu/QuantityMenuBracketBottom" name="QuantityMenuBottomBracket_mc" centerPoint3DX="29.5" centerPoint3DY="82">
+                  <matrix>
+                    <Matrix a="2.20120239257813" d="2" ty="81.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="QuantityMenuLeftBracket_mc" color="#F391E3" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/QuantityMenu/QuantityMenuBracketSide" name="QuantityMenuLeftBracket_mc" centerPoint3DX="6.55" centerPoint3DY="38.05">
+                  <matrix>
+                    <Matrix a="2.71588134765625" d="1.23696899414063"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

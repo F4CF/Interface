@@ -1,0 +1,82 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/PowerArmorHUDMenu/CompassMarkerWidget" itemID="5dc12545-000001de" linkageExportForAS="true" linkageClassName="CompassMarkerWidget" lastModified="1572939077">
+  <timeline>
+    <DOMTimeline name="CompassMarkerWidget">
+      <layers>
+        <DOMLayer name="Labels Layer" color="#5591E7">
+          <frames>
+            <DOMFrame index="0" name="Quest" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="QuestDoor" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" name="PlayerSet" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" name="Recon" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" name="EnemyTargeted" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" name="Enemy" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" name="Location" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9C59C6" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/PowerArmorHUDMenu/QuestCompassMarkers" name="MarkerIcon_mc" centerPoint3DX="15.9" centerPoint3DY="30.35">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/PowerArmorHUDMenu/QuestDoorCompassMarkers" name="MarkerIcon_mc" centerPoint3DX="15.9" centerPoint3DY="31.35">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/PowerArmorHUDMenu/PlayerSetCompassMarker" name="MarkerIcon_mc" centerPoint3DX="15.9" centerPoint3DY="30.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/PowerArmorHUDMenu/ReconScopeMarker" name="MarkerIcon_mc" centerPoint3DX="6.15" centerPoint3DY="13.25">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/PowerArmorHUDMenu/CompassMarker_Enemy" name="MarkerIcon_mc" centerPoint3DX="6.15" centerPoint3DY="11.25">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/QuickContainerWidget/FavoriteIcon" itemID="5dc27c12-00000537" lastModified="1573026981">
+  <timeline>
+    <DOMTimeline name="FavoriteIcon">
+      <layers>
+        <DOMLayer name="Shape" color="#CDF8E6" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!172 4S1[146 -7 121 12!121 12|107 26!107 26|102 34!102 34|82 12!82 12[57 -7 31 4!31 4[14 12 6 27!6 27[-2 41 0 58!0 58|2 65!2 65[4 77 13 87!13 87[25 101 43 106!43 106[61 112 79 128!79 128[96 144 101 160!101 160[103 145 123 128!123 128
+|190 87!190 87|202 65!202 65|203 58!203 58[205 41 198 27!198 27[190 12 172 4"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

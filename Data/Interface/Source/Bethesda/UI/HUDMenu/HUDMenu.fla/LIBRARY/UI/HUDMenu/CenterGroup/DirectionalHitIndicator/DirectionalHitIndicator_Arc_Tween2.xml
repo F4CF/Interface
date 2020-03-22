@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/DirectionalHitIndicator/DirectionalHitIndicator_Arc_Tween2" itemID="5dc29907-00000616" symbolType="graphic" lastModified="1573034272">
+  <timeline>
+    <DOMTimeline name="DirectionalHitIndicator_Arc_Tween2">
+      <layers>
+        <DOMLayer name="Shape" color="#00FFFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E9E9E9"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!17 -36S2[25 -18 23 2!23 2[17 52 -5 56!-5 56[-16 58 -21 29!-21 29|-23 -1!-23 -1|-21 -28!-21 -28[-16 -55 -5 -55!-5 -55[8 -55 17 -36"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

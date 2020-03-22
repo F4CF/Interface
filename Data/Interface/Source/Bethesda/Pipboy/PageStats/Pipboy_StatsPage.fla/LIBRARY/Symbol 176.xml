@@ -1,0 +1,227 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 176" itemID="5dc02675-0000006f" linkageExportForAS="true" linkageClassName="StatusTab" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 176">
+      <layers>
+        <DOMLayer name="Layer 1" color="#5AC970" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 144" name="ActiveEffects_MaskRect" centerPoint3DX="83.9" centerPoint3DY="187.7">
+                  <matrix>
+                    <Matrix a="8.19873046875" d="4.819580078125" tx="33.4" ty="135.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#8DE1ED" parentLayerIndex="0" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 175" name="ActiveEffects_mc" centerPoint3DX="38.25" centerPoint3DY="147">
+                  <matrix>
+                    <Matrix tx="38.25" ty="147"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#F391E3">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 144" name="ActiveEffects_HideRect" centerPoint3DX="83.9" centerPoint3DY="187.7">
+                  <matrix>
+                    <Matrix a="8.19873046875" d="4.819580078125" tx="33.4" ty="135.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0" blueMultiplier="0" greenMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#C605E2">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 168" name="DRWidget_mc" centerPoint3DX="490.95" centerPoint3DY="527.7">
+                  <matrix>
+                    <Matrix tx="454.2" ty="492.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#FCD3F0">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 168" name="DMGWidget_mc" centerPoint3DX="344.05" centerPoint3DY="527.7">
+                  <matrix>
+                    <Matrix tx="307.3" ty="492.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#BB73B8">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 172" name="Head_Meter" centerPoint3DX="518.5" centerPoint3DY="160">
+                  <matrix>
+                    <Matrix a="0.2080078125" d="0.399993896484375" tx="417.2" ty="146.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#6540E7">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 172" name="LArm_Meter" centerPoint3DX="652.5" centerPoint3DY="273">
+                  <matrix>
+                    <Matrix a="0.2080078125" d="0.399993896484375" tx="551.2" ty="259.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#CAD123">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 172" name="RArm_Meter" centerPoint3DX="376.5" centerPoint3DY="273">
+                  <matrix>
+                    <Matrix a="0.2080078125" d="0.399993896484375" tx="275.2" ty="259.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#BDAF9B">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 172" name="LLeg_Meter" centerPoint3DX="652.5" centerPoint3DY="418.8">
+                  <matrix>
+                    <Matrix a="0.2080078125" d="0.399993896484375" tx="551.2" ty="405"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 10" color="#D7F23B">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 172" name="Torso_Meter" centerPoint3DX="518.5" centerPoint3DY="470">
+                  <matrix>
+                    <Matrix a="0.2080078125" d="0.399993896484375" tx="417.2" ty="456.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 11" color="#13ACD3">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 172" name="RLeg_Meter" centerPoint3DX="376.35" centerPoint3DY="418.55">
+                  <matrix>
+                    <Matrix a="0.2080078125" d="0.399993896484375" tx="275.05" ty="404.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 12" color="#F62B5F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="Name_tf" width="496" height="36.95" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="187.1" ty="580.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Albert</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="31.3" size="28" bitmapSize="560" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 13" color="#8E66DD" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 173" name="ConditionBoy_mc" centerPoint3DX="424.95" centerPoint3DY="303.7">
+                  <matrix>
+                    <Matrix tx="424.95" ty="303.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color redMultiplier="0.5" blueMultiplier="0.5" greenMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

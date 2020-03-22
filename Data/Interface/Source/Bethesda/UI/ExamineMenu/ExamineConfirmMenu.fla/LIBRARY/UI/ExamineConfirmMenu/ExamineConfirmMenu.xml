@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ExamineConfirmMenu/ExamineConfirmMenu" itemID="5ddaa912-00000271" linkageExportForAS="true" linkageClassName="ExamineConfirmMenu" lastModified="1574611874">
+  <timeline>
+    <DOMTimeline name="ExamineConfirmMenu">
+      <layers>
+        <DOMLayer name="Confirm_mc" color="#00FF00" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineConfirmMenu/ConfirmPanel/ConfirmPanel" name="Confirm_mc" selected="true" centerPoint3DX="241.75" centerPoint3DY="116.3">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

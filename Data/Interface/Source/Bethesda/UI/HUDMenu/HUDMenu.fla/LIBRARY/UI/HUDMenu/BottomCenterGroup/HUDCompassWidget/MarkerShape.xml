@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/BottomCenterGroup/HUDCompassWidget/MarkerShape" itemID="5dc2944d-000005f6" lastModified="1573033132">
+  <timeline>
+    <DOMTimeline name="MarkerShape">
+      <layers>
+        <DOMLayer name="Marker" color="#E565F1" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/BottomCenterGroup/HUDCompassWidget/QuestMarker" selected="true" centerPoint3DX="0.7" centerPoint3DY="-17.65">
+                  <matrix>
+                    <Matrix a="0.995620727539062" d="0.9957275390625" tx="-5.7" ty="-35.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

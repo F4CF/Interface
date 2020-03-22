@@ -1,0 +1,67 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/MapMarkers/Symbol 81" itemID="5dc13d4a-0000003b" linkageExportForAS="true" linkageClassName="PowerArmorLocMarker" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 81">
+      <layers>
+        <DOMLayer name="Labels Layer" color="#3CA1FE">
+          <frames>
+            <DOMFrame index="0" name="LevelWithPlayer" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="AbovePlayer" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" name="BelowPlayer" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#4CFCAF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/Symbol 23" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/BottomCenterGroup/HUDCompassWidget/QuestCompassMarkers_LevelArrowGraphic" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#E9C4A0" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!123 -22|72 8!72 8|17 -42!17 -42|-17 -42!-17 -42|-73 8!-73 8|-123 -22!-123 -22|-101 -63!-101 -63|100 -63!100 -63|123 -22!15 -167|-15 -167!-15 -167|-15 -190!-15 -190|-36 -190!-36 -190[-96 -190 -115 -123!-115 -123|-174 51!-174 51|-166 73
+!-166 73[-153 98 -121 109!-121 109[-105 115 -92 129!-92 129|-92 98!-92 98[-92 60 -65 33!-65 33[-37 8 0 8!0 8[36 8 64 33!64 33[91 60 91 98!91 98|91 129!91 129[105 115 121 109!121 109[153 98 166 73!166 73|175 51!175 51|114 -123!114 -123
+[95 -190 36 -190!36 -190|15 -190!15 -190|15 -167!0 30[-28 30 -48 50!-48 50[-69 69 -69 98!-69 98|-69 137!-69 137[-69 152 -61 165!-61 165[-37 190 -1 190!-1 190|2 190!2 190[37 190 62 165!62 165|68 137!68 137|68 98!68 98[68 69 47 50!47 50
+[28 30 0 30"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

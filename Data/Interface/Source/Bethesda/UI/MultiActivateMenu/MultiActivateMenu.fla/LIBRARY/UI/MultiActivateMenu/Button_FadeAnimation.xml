@@ -1,0 +1,97 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/MultiActivateMenu/Button_FadeAnimation" itemID="5dc039a7-00000167" linkageExportForAS="true" linkageClassName="MultiActivateMenu_fla.Button_FadeAnim_3" lastModified="1572879489">
+  <timeline>
+    <DOMTimeline name="Button_FadeAnimation" currentFrame="59">
+      <layers>
+        <DOMLayer name="Labels" color="#666666" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" name="hidden" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="8" name="showButton" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" name="shown" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="10" duration="10" name="hideButton" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="20" duration="40" name="slowHideButton" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Holder" color="#FFCC00" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/MultiActivateMenu/Button_FadeAnimationHolder" name="Holder" centerPoint3DX="100" centerPoint3DY="12.8">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/MultiActivateMenu/Button_FadeAnimationHolder" name="Holder" selected="true" centerPoint3DX="100" centerPoint3DY="12.8">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/MultiActivateMenu/Button_FadeAnimationHolder" name="Holder" centerPoint3DX="100" centerPoint3DY="12.8">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="30" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/MultiActivateMenu/Button_FadeAnimationHolder" name="Holder" centerPoint3DX="100" centerPoint3DY="12.8">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="50" duration="9" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/MultiActivateMenu/Button_FadeAnimationHolder" name="Holder" centerPoint3DX="100" centerPoint3DY="12.8">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/MultiActivateMenu/Button_FadeAnimationHolder" name="Holder" selected="true" centerPoint3DX="100" centerPoint3DY="12.8">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

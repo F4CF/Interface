@@ -1,0 +1,101 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ExamineMenu_UNK/Lists/ModPartList/ModListEntry" itemID="5dd84736-000002f3" linkageExportForAS="true" linkageClassName="ModListEntry" lastModified="1574558598">
+  <timeline>
+    <DOMTimeline name="ModListEntry">
+      <layers>
+        <DOMLayer name="taggedIcon_mc" color="#F21CC9" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Icons/TaggedIcon" name="taggedIcon_mc" centerPoint3DX="35.4" centerPoint3DY="25.7">
+                  <matrix>
+                    <Matrix a="0.598983764648438" d="0.596664428710938" tx="20.4" ty="10.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="count" color="#908283" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="count" selected="true" width="70" height="19.2" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="201" ty="1.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>999/999</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" rotation="true" letterSpacing="-0.1" lineSpacing="0" lineHeight="17.9" size="16" bitmapSize="320" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="List2Icon" color="#A947D3" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/ScrollingList/List2Icon" centerPoint3DX="14.75" centerPoint3DY="8.8">
+                  <matrix>
+                    <Matrix tx="9.5" ty="4.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="textField" color="#09BDC1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="textField" selected="true" width="247.5" height="19.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="33.5" ty="1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Adhesive</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="-0.1" lineSpacing="0" lineHeight="17.9" size="16" bitmapSize="320" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="border" color="#F161D9" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/ScrollingList/ScrollBorder" name="border" centerPoint3DX="57.5" centerPoint3DY="50.5">
+                  <matrix>
+                    <Matrix a="2.76445007324219" d="0.217498779296875" tx="7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

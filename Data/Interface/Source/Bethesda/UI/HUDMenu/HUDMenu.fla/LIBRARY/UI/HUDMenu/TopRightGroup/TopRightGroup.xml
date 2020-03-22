@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/TopRightGroup/TopRightGroup" itemID="5dc14778-000002ae" lastModified="1573030995">
+  <timeline>
+    <DOMTimeline name="TopRightGroup">
+      <layers>
+        <DOMLayer name="VaultBoyCondition_mc" color="#9347D5" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/TopRightGroup/HUDConditionBoyWidget" name="VaultBoyCondition_mc">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

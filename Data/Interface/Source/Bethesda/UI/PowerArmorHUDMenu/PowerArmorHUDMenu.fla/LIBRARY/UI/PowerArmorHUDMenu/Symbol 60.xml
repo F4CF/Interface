@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/PowerArmorHUDMenu/Symbol 60" itemID="5dc1239a-00000036" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 60">
+      <layers>
+        <DOMLayer name="Layer 1" color="#BBA62B" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/PowerArmorHUDMenu/QuestDoorMarker" centerPoint3DX="4.15" centerPoint3DY="-7.75">
+                  <matrix>
+                    <Matrix a="0.704666137695313" d="0.70635986328125" tx="-8.65" ty="-35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

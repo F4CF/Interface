@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/List/ContainerList" itemID="5dc0438b-000001b4" linkageExportForAS="true" linkageClassName="ContainerList" lastModified="1572883805">
+  <timeline>
+    <DOMTimeline name="ContainerList">
+      <layers>
+        <DOMLayer name="ScrollDown" color="#EC4A92" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/List/ScrollArrow" name="ScrollDown" centerPoint3DX="20.5" centerPoint3DY="252.1">
+                  <matrix>
+                    <Matrix a="-0.866668701171875" d="-0.865570068359375" tx="13" ty="244.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ScrollUp" color="#E3E11C" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/List/ScrollArrow" name="ScrollUp" centerPoint3DX="21.5" centerPoint3DY="-5.4">
+                  <matrix>
+                    <Matrix a="0.866668701171875" d="0.865570068359375" tx="14" ty="-13"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="border" color="#7043E9" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/Border" name="border" centerPoint3DX="50.5" centerPoint3DY="45">
+                  <matrix>
+                    <Matrix a="3.61979675292969" d="2.8001708984375" ty="-5.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

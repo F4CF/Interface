@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 233" itemID="5dc02709-000001b6" linkageExportForAS="true" linkageClassName="CustomHouseMarker" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 233">
+      <layers>
+        <DOMLayer name="Labels Layer" color="#CF3980">
+          <frames>
+            <DOMFrame index="0" name="Discovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="Undiscovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#80ECB6" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!67 -89|-1 -198!-1 -198|-66 -88!-66 -88|-66 -17!-66 -17|-83 5!-83 5|-83 184!-83 184|-116 184!-116 184|-116 198!-116 198|117 198!117 198|117 184!117 184|83 184!83 184|83 5!83 5|67 -17!67 -17|67 -89!18 -67[25 -61 25 -51!25 -51[25 -41 18
+ -35!18 -35[11 -28 1 -28!1 -28[-10 -28 -17 -35!-17 -35|-24 -51!-24 -51|-17 -67!-17 -67[-10 -74 1 -74!1 -74[11 -74 18 -67!13 73|51 73!51 73|51 184!51 184|13 184!13 184|13 73!-46 23|50 23!50 23|50 44!50 44|-46 44!-46 44|-46 23!-16 184|-50
+ 184!-50 184|-50 73!-50 73|-16 73!-16 73|-16 184"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!67 -17|83 6!83 6|83 185!83 185|117 185!117 185|117 199!117 199|-116 199!-116 199|-116 185!-116 185|-83 185!-83 185|-83 6!-83 6|-66 -17!-66 -17|-66 -88!-66 -88|-1 -197!-1 -197|67 -89!67 -89|67 -17!88 -101|20 -210!20 -210[13 -221 -1 -221
+!-1 -221[-14 -221 -21 -210!-21 -210|-87 -100!-87 -100|-90 -88!-90 -88|-90 -25!-90 -25|-101 -9!-101 -9|-107 6!-107 6|-107 161!-107 161|-116 161!-116 161[-126 161 -133 168!-133 168[-140 175 -140 185!-140 185|-140 199!-140 199[-140 209 -133
+ 215!-133 215[-126 223 -116 223!-116 223|117 223!117 223[127 223 134 215!134 215[141 209 141 199!141 199|141 185!141 185[141 175 134 168!134 168[127 161 117 161!117 161|107 161!107 161|107 7!107 7|103 -8!103 -8|91 -25!91 -25|91 -89!91
+ -89|88 -101"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

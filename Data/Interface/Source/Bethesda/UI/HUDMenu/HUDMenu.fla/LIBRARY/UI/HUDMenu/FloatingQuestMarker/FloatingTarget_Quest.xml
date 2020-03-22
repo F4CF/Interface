@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/FloatingQuestMarker/FloatingTarget_Quest" itemID="5dc28e8d-000005d5" lastModified="1573031901">
+  <timeline>
+    <DOMTimeline name="FloatingTarget_Quest">
+      <layers>
+        <DOMLayer name="Shape" color="#90BBC7" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!15 -192S2|15 2!15 2|-15 2!-15 2|-15 -192!-15 -192|-100 -192!-100 -192|-100 -392!-100 -392|100 -392!100 -392|100 -192!100 -192|15 -192"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

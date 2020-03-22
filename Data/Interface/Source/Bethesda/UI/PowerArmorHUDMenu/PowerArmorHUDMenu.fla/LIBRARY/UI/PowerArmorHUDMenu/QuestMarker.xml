@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/PowerArmorHUDMenu/QuestMarker" itemID="5dc12558-000001e3" linkageExportForAS="true" linkageClassName="QuestMarker" lastModified="1572939096">
+  <timeline>
+    <DOMTimeline name="QuestMarker">
+      <layers>
+        <DOMLayer name="Layer 1" color="#50C37B" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!242 262|136 262!136 262|136 703!136 703|92 703!92 703|92 262!92 262|-14 262!-14 262|-14 3!-14 3|242 3!242 3|242 262"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

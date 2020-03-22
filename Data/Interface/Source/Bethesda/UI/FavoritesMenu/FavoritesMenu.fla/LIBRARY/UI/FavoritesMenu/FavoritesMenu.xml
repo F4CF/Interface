@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/FavoritesMenu/FavoritesMenu" itemID="5dc380ef-0000018e" linkageExportForAS="true" linkageClassName="FavoritesMenu" lastModified="1573094909">
+  <timeline>
+    <DOMTimeline name="FavoritesMenu">
+      <layers>
+        <DOMLayer name="ItemAmmo_tf" color="#FF6600" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="ItemAmmo_tf" selected="true" width="296" height="31.65" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="-356.5" ty="-521.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="13.7"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ItemName_tf" color="#9966FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="ItemName_tf" selected="true" width="396" height="36.95" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="-406.5" ty="-559"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="13.7"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Cross_mc" color="#FFFF00" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/FavoritesMenu/FavoritesCross/FavoritesCross" name="Cross_mc" selected="true" centerPoint3DX="-208.2" centerPoint3DY="-270.35">
+                  <matrix>
+                    <Matrix tx="-417" ty="-480"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

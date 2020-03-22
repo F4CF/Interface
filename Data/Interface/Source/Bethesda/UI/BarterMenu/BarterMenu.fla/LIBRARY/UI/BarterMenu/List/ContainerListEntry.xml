@@ -1,0 +1,109 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/List/ContainerListEntry" itemID="5dc042f4-00000193" linkageExportForAS="true" linkageClassName="ContainerListEntry" lastModified="1572881140">
+  <timeline>
+    <DOMTimeline name="ContainerListEntry">
+      <layers>
+        <DOMLayer name="Layer 1" color="#F6F39D">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/ItemCard/FavIcon" name="TaggedForSearchIcon_mc" centerPoint3DX="51.3" centerPoint3DY="30.25">
+                  <matrix>
+                    <Matrix a="0.399322509765625" d="0.395004272460938" tx="36.3" ty="15.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#8B32F1">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/LegendaryIcon" name="LegendaryIcon_mc" centerPoint3DX="31.05" centerPoint3DY="12.15">
+                  <matrix>
+                    <Matrix a="1.48515319824219" d="1.484375" tx="26" ty="7.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#AB72EB">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/FavoriteIcon" name="FavoriteIcon_mc" centerPoint3DX="18.65" centerPoint3DY="13.35">
+                  <matrix>
+                    <Matrix tx="13.6" ty="9.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#88F25D">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/LeftIcon" name="LeftIcon_mc" centerPoint3DX="-3.8" centerPoint3DY="13.6">
+                  <matrix>
+                    <Matrix tx="-9.85" ty="8.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#A64F9D">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="textField" width="271.75" height="25.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="9.25" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Item</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="0.5" lineSpacing="5" lineHeight="20.1" size="18" bitmapSize="360" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#BEC4D2" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/List/ListBorder" name="border" centerPoint3DX="191" centerPoint3DY="20.95">
+                  <matrix>
+                    <Matrix a="0.761276245117188" d="0.649139404296875" tx="-29" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

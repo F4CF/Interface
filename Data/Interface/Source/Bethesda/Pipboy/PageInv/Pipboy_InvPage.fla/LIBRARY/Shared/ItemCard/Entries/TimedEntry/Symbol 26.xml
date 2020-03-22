@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/ItemCard/Entries/TimedEntry/Symbol 26" itemID="5db01f6b-000003e2" lastModified="1571835984">
+  <timeline>
+    <DOMTimeline name="Symbol 26">
+      <layers>
+        <DOMLayer name="Shape" color="#C894FC" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!15 -41S1|-9 -40!-9 -40|-127 -134!-127 -134|-36 -13!-36 -13[-41 -1 -38 10!-38 10|-28 31!-28 31[-15 45 3 45!3 45[20 45 34 34!34 34[47 22 47 3!47 3[48 -15 36 -28!36 -28|15 -41!0 -210[-8 -210 -13 -204!-13 -204|-19 -190!-19 -190|-19 -89!-19
+ -89|-13 -76!-13 -76[-8 -69 0 -69!0 -69[8 -69 14 -76!14 -76[20 -81 20 -89!20 -89|20 -170!20 -170[84 -162 127 -114!127 -114[171 -66 171 0!171 0[171 71 121 122!121 122[71 171 0 171!0 171[-71 171 -121 122!-121 122[-171 71 -171 0!-171 0[-171
+ -34 -157 -66!-157 -66|-157 -80!-157 -80|-168 -91!-168 -91|-183 -91!-183 -91|-193 -80!-193 -80[-209 -41 -209 0!-209 0[-209 87 -148 148!-148 148[-86 210 0 210!0 210[87 210 148 148!148 148[210 87 210 0!210 0[210 -87 148 -148!148 -148[87
+ -210 0 -210"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

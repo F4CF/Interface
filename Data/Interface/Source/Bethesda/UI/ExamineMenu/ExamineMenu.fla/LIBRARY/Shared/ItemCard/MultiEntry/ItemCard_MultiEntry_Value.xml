@@ -1,0 +1,77 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/ItemCard/MultiEntry/ItemCard_MultiEntry_Value" itemID="5dd9cfa3-000006f9" linkageExportForAS="true" linkageClassName="ItemCard_MultiEntry_Value" lastModified="1574555555">
+  <timeline>
+    <DOMTimeline name="ItemCard_MultiEntry_Value">
+      <layers>
+        <DOMLayer name="Layer 1" color="#35E4B7">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Icons/DamageIcons/DamageIcons" name="Icon_mc" centerPoint3DX="23.55" centerPoint3DY="29.15">
+                  <matrix>
+                    <Matrix a="0.996566772460938" tx="14.2" ty="19.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#489BE4">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/ItemCard/ItemCard_Comparison" name="Comparison_mc" centerPoint3DX="104.8" centerPoint3DY="25.5">
+                  <matrix>
+                    <Matrix tx="83.3" ty="20"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#B380AC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="Value_tf" width="41" height="33.6" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="24.25" ty="3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>11</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" rotation="true" lineHeight="31.3" size="28" bitmapSize="560" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#9F9AA1" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu_UNK/Symbol 78" centerPoint3DX="50.5" centerPoint3DY="54">
+                  <matrix>
+                    <Matrix a="0.732009887695313" d="0.33050537109375" ty="3.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

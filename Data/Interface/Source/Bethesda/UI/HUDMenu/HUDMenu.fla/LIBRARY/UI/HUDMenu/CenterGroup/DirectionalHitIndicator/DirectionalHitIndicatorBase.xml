@@ -1,0 +1,15 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/DirectionalHitIndicator/DirectionalHitIndicatorBase" itemID="5dc27271-000004d1" lastModified="1573032113">
+  <timeline>
+    <DOMTimeline name="DirectionalHitIndicatorBase">
+      <layers>
+        <DOMLayer name="Empty" color="#00FFFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

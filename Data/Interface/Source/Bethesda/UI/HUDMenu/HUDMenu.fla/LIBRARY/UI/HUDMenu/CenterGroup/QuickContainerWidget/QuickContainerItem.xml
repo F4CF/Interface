@@ -1,0 +1,109 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/QuickContainerWidget/QuickContainerItem" itemID="5dc27bb5-00000535" linkageExportForAS="true" linkageClassName="QuickContainerItem" lastModified="1573027008">
+  <timeline>
+    <DOMTimeline name="QuickContainerItem">
+      <layers>
+        <DOMLayer name="LegendaryIcon_mc" color="#F43CE5" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/TopCenterGroup/EnemyHealthMeter/LegendaryIcon_Art" name="LegendaryIcon_mc" selected="true" centerPoint3DX="206.95" centerPoint3DY="20.65">
+                  <matrix>
+                    <Matrix d="0.99652099609375" tx="199.4" ty="13.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TaggedForSearchIcon_mc" color="#BF3EDE" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/QuickContainerWidget/TaggedForSearchIcon" name="TaggedForSearchIcon_mc" selected="true" centerPoint3DX="70.1" centerPoint3DY="29.65">
+                  <matrix>
+                    <Matrix a="0.598983764648438" d="0.596664428710938" tx="55.1" ty="14.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="FavoriteIcon_mc" color="#66EE40" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/QuickContainerWidget/FavoriteIcon" name="FavoriteIcon_mc" selected="true" centerPoint3DX="59" centerPoint3DY="12.35">
+                  <matrix>
+                    <Matrix a="1.47782897949219" d="1.47500610351563" tx="53.95" ty="8.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BetterIcon_mc" color="#657EC5" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/QuickContainerWidget/BetterIcon" name="BetterIcon_mc" selected="true" centerPoint3DX="236.05" centerPoint3DY="18.4">
+                  <matrix>
+                    <Matrix a="0.727264404296875" d="0.727264404296875" tx="230.55" ty="12.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ItemName_tf" color="#92CD38" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="ItemName_tf" selected="true" width="238" height="26.35" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="16" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Selected Item</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="5" lineHeight="22.35" size="20" bitmapSize="400" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SelectionIndicator_mc" color="#CCFCAB" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/QuickContainerWidget/SelectionIndicator" name="SelectionIndicator_mc" selected="true" centerPoint3DX="206.9" centerPoint3DY="19.95">
+                  <matrix>
+                    <Matrix a="0.641983032226563" d="0.7017822265625" tx="6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

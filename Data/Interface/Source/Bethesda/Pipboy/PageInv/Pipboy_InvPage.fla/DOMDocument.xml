@@ -1,0 +1,293 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#333333" width="876" height="700" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" vanishingPoint3DX="438" vanishingPoint3DY="350" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="DFC5F0887A95AC4A9D772D5BFD91F3B3">
+     <folders>
+          <DOMFolderItem name="Pipboy" itemID="5dd9c697-000005f2" isExpanded="true"/>
+          <DOMFolderItem name="Pipboy/InvPage" itemID="5dd9c6b3-000005f3" isExpanded="true"/>
+          <DOMFolderItem name="Pipboy/InvPage/Components" itemID="5db0205a-00000481" isExpanded="true"/>
+          <DOMFolderItem name="Pipboy/InvPage/Components/List" itemID="5db020b4-00000487" isExpanded="true"/>
+          <DOMFolderItem name="Pipboy/InvPage/Components/Owner" itemID="5db052bc-000004c8"/>
+          <DOMFolderItem name="Pipboy/InvPage/Favorites" itemID="5db0451c-000004aa"/>
+          <DOMFolderItem name="Pipboy/InvPage/PaperDoll" itemID="5db02045-0000047c"/>
+          <DOMFolderItem name="Pipboy/InvPage/PaperDoll/DamageIcons" itemID="5db02794-0000049a"/>
+          <DOMFolderItem name="Pipboy/InvPage/QuantityMenu" itemID="5dd9ca58-000006ca"/>
+          <DOMFolderItem name="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile" itemID="5db053b6-000004cf"/>
+          <DOMFolderItem name="Pipboy/InvPage/QuantityMenu/QuantityMenuNEW" itemID="5db04592-000004ae"/>
+          <DOMFolderItem name="Shared" itemID="5dd9c687-000005ea" isExpanded="true"/>
+          <DOMFolderItem name="Shared/Fonts" itemID="5dd9c68b-000005ee"/>
+          <DOMFolderItem name="Shared/Fonts/fonts_en" itemID="5daa28a4-000001eb"/>
+          <DOMFolderItem name="Shared/Icons" itemID="5dd9ca2f-000006c6" isExpanded="true"/>
+          <DOMFolderItem name="Shared/ItemCard" itemID="5db0203b-00000477" isExpanded="true"/>
+          <DOMFolderItem name="Shared/ItemCard/Entries" itemID="5dd9d4b6-00000749"/>
+          <DOMFolderItem name="Shared/ItemCard/Entries/AmmoEntry" itemID="5dd9d29a-00000720"/>
+          <DOMFolderItem name="Shared/ItemCard/Entries/ComponentsEntry" itemID="5dd9d3d2-00000735"/>
+          <DOMFolderItem name="Shared/ItemCard/Entries/DescriptionEntry" itemID="5dd9d403-0000073f"/>
+          <DOMFolderItem name="Shared/ItemCard/Entries/MultiEntry" itemID="5dd9d3e3-0000073a"/>
+          <DOMFolderItem name="Shared/ItemCard/Entries/StandardEntry" itemID="5dd9d395-00000730"/>
+          <DOMFolderItem name="Shared/ItemCard/Entries/TimedEntry" itemID="5dd9d31c-00000729"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Shared/Fonts/fonts_en/$CClub_Font_Bold" itemID="5daeb3ba-00000286" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$CClub_Font_Bold" linkageURL="fonts_en.swf" font="Eurostile-Cyr-Std" size="0" id="290" sourceLastImported="1571730098" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/fonts_en/$CClub_Font" itemID="5daeb3ba-00000285" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$CClub_Font" linkageURL="fonts_en.swf" font="Eurostile-LT-Cyr-Std" size="0" id="289" sourceLastImported="1571433864" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/fonts_en/$BRODY" itemID="5daeb3ba-00000284" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$BRODY" linkageURL="fonts_en.swf" font="Brody" size="0" id="288" sourceLastImported="1571730554" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĂăĄąĆćČčĎďĐđĘęĚěĞğİıĹĺĽľŁłŃńŇňŐőŒœŔŕŘřŚśŞşŠšŢţŤťŮůŰűŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜ΔΣΩμπ–—‗‘’‚“”„†‡•…‰‹›‼ⁿ₣™Ω←→∂∏∕√∞∫≠≤≥■" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/fonts_en/$Controller_Buttons_inverted" itemID="5daeb3ba-00000283" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$Controller_Buttons_inverted" linkageURL="fonts_en.swf" font="ControllerButtonsInverted" size="0" id="287" sourceLastImported="1571433949" embedRanges="1|2"/>
+          <DOMFontItem name="Shared/Fonts/fonts_en/$Controller_Buttons" itemID="5daeb3ba-00000282" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$Controller_Buttons" linkageURL="fonts_en.swf" font="Controller--Buttons" size="0" id="286" embedRanges="1|2"/>
+          <DOMFontItem name="Shared/Fonts/fonts_en/$Share-TechMono" itemID="5daeb3ba-00000281" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$Terminal_Font" linkageURL="fonts_en.swf" font="Share-TechMono" size="0" id="285" sourceLastImported="1571730362" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЀЁЍАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёѝ–—‘’‚“”„†‡•…‰‹›⁄€™Ω∂∏∑∕√∞∧∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/fonts_en/$MAIN_Font_Bold" itemID="5daeb429-0000029e" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$MAIN_Font_Bold" linkageURL="fonts_en.swf" font="RobotoCondensed-Bold" size="0" id="284" sourceLastImported="1571730473" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/fonts_en/$MAIN_Font" itemID="5daeb3ba-00000280" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$MAIN_Font" linkageURL="fonts_en.swf" font="RobotoCondensed-Regular" size="0" id="283" sourceLastImported="1571434121" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/fonts_en/$HandwrittenFont" itemID="5daeb3ba-0000027f" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$HandwrittenFont" linkageURL="fonts_en.swf" font="Handwritten_Institute" size="0" id="282" sourceLastImported="1571434041" embeddedCharacters="!&quot;#$%&amp;&apos;()*+,-/:;&lt;=&gt;?@[\]^_{|}~¡¢£¤§©«¬®°±²µ¶»¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿĄąĆćĈĉĔęĜĝĤĥıĴĵŁłŃńŐőŒœŚśŜŝŠšŬŭŰűŸŹźŻżŽžƒμ‘’“”†‡•€™" embedRanges="1|2|3"/>
+     </fonts>
+     <symbols>
+          <Include href="Pipboy/InvPage/Border.xml" loadImmediate="false" itemID="5db04fc8-000004b9" lastModified="1571835871"/>
+          <Include href="Pipboy/InvPage/BorderShape.xml" itemIcon="1" loadImmediate="false" itemID="5db04fd0-000004ba" lastModified="1571835866"/>
+          <Include href="Pipboy/InvPage/Components/ComponentListEntry.xml" itemID="5db05a39-000004f3" lastModified="1571893878"/>
+          <Include href="Pipboy/InvPage/Components/InventoryItemRendererMc.xml" itemID="5db05a41-000004f6" lastModified="1571840462"/>
+          <Include href="Pipboy/InvPage/Components/List/InvList.xml" itemID="5db0533e-000004ca" lastModified="1574554011"/>
+          <Include href="Pipboy/InvPage/Components/List/InvListEntry.xml" itemID="5db05a36-000004f1" lastModified="1574556575"/>
+          <Include href="Pipboy/InvPage/Components/List/LegendaryIcon.xml" loadImmediate="false" itemID="5db05b95-000004f9" lastModified="1571893896"/>
+          <Include href="Pipboy/InvPage/Components/Owner/ComponentOwnersItemBorder.xml" loadImmediate="false" itemID="5db05cdd-000004fe" lastModified="1571893898"/>
+          <Include href="Pipboy/InvPage/Components/Owner/ComponentOwnersItemRendererMc.xml" itemID="5db05a3d-000004f5" lastModified="1571840408"/>
+          <Include href="Pipboy/InvPage/Components/Owner/ComponentOwnersList.xml" itemID="5db052a6-000004c4" lastModified="1571893901"/>
+          <Include href="Pipboy/InvPage/Components/Owner/ComponentOwnersListEntry.xml" itemID="5db05a43-000004f7" lastModified="1571893984"/>
+          <Include href="Pipboy/InvPage/Components/ScrollArrow.xml" loadImmediate="false" itemID="5db052f8-000004c9" lastModified="1571839360"/>
+          <Include href="Pipboy/InvPage/Favorites/FavoritesCross.xml" itemID="5db0ef59-00000287" lastModified="1571893807"/>
+          <Include href="Pipboy/InvPage/Favorites/FavoritesEntry.xml" itemID="5db063e6-0000051d" lastModified="1571893825"/>
+          <Include href="Pipboy/InvPage/Favorites/HotkeyIcons.xml" itemID="5db0ef5c-00000288" lastModified="1571893804"/>
+          <Include href="Pipboy/InvPage/Favorites/PipboyFavoritesMenu.xml" itemID="5db063e2-0000051c" lastModified="1571893786"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 83.xml" loadImmediate="false" itemID="5db01f6b-00000401" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 85.xml" loadImmediate="false" itemID="5db01f6b-00000402" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 87.xml" loadImmediate="false" itemID="5db01f6b-00000403" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 89.xml" loadImmediate="false" itemID="5db01f6b-00000404" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 91.xml" loadImmediate="false" itemID="5db01f6b-00000405" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 93.xml" loadImmediate="false" itemID="5db01f6b-00000406" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 95.xml" loadImmediate="false" itemID="5db01f6b-00000407" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 97.xml" loadImmediate="false" itemID="5db01f6b-00000408" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 99.xml" loadImmediate="false" itemID="5db01f6b-00000409" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 101.xml" loadImmediate="false" itemID="5db01f6b-0000040a" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 103.xml" loadImmediate="false" itemID="5db01f6b-0000040b" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 105.xml" loadImmediate="false" itemID="5db01f6b-0000040c" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 107.xml" loadImmediate="false" itemID="5db01f6b-0000040d" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 109.xml" loadImmediate="false" itemID="5db01f6b-0000040e" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 111.xml" loadImmediate="false" itemID="5db01f6b-0000040f" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 113.xml" loadImmediate="false" itemID="5db01f6b-00000410" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 115.xml" loadImmediate="false" itemID="5db01f6b-00000411" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 117.xml" loadImmediate="false" itemID="5db01f6b-00000412" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 119.xml" loadImmediate="false" itemID="5db01f6b-00000413" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 121.xml" loadImmediate="false" itemID="5db01f6b-00000414" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 123.xml" loadImmediate="false" itemID="5db01f6b-00000415" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 125.xml" loadImmediate="false" itemID="5db01f6b-00000416" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 127.xml" loadImmediate="false" itemID="5db01f6b-00000417" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 129.xml" loadImmediate="false" itemID="5db01f6b-00000418" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 131.xml" loadImmediate="false" itemID="5db01f6b-00000419" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 133.xml" loadImmediate="false" itemID="5db01f6b-0000041a" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 135.xml" loadImmediate="false" itemID="5db01f6b-0000041b" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 137.xml" loadImmediate="false" itemID="5db01f6b-0000041c" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 139.xml" loadImmediate="false" itemID="5db01f6b-0000041d" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 141.xml" loadImmediate="false" itemID="5db01f6b-0000041e" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 143.xml" loadImmediate="false" itemID="5db01f6b-0000041f" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 145.xml" loadImmediate="false" itemID="5db01f6b-00000420" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 147.xml" loadImmediate="false" itemID="5db01f6b-00000421" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 149.xml" loadImmediate="false" itemID="5db01f6b-00000422" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 151.xml" loadImmediate="false" itemID="5db01f6b-00000423" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 153.xml" loadImmediate="false" itemID="5db01f6b-00000424" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 155.xml" loadImmediate="false" itemID="5db01f6b-00000425" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 157.xml" loadImmediate="false" itemID="5db01f6b-00000426" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 159.xml" loadImmediate="false" itemID="5db01f6b-00000427" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 161.xml" loadImmediate="false" itemID="5db01f6b-00000428" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 163.xml" loadImmediate="false" itemID="5db01f6b-00000429" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 165.xml" loadImmediate="false" itemID="5db01f6b-0000042a" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 167.xml" loadImmediate="false" itemID="5db01f6b-0000042b" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 169.xml" loadImmediate="false" itemID="5db01f6b-0000042c" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 171.xml" loadImmediate="false" itemID="5db01f6b-0000042d" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 173.xml" loadImmediate="false" itemID="5db01f6b-0000042e" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 174.xml" loadImmediate="false" itemID="5db01f6b-0000042f" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 176.xml" loadImmediate="false" itemID="5db01f6b-00000430" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 178.xml" loadImmediate="false" itemID="5db01f6b-00000431" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 180.xml" loadImmediate="false" itemID="5db01f6b-00000432" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 182.xml" loadImmediate="false" itemID="5db01f6b-00000433" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 184.xml" loadImmediate="false" itemID="5db01f6b-00000434" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 186.xml" loadImmediate="false" itemID="5db01f6b-00000435" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 188.xml" loadImmediate="false" itemID="5db01f6b-00000436" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 190.xml" loadImmediate="false" itemID="5db01f6b-00000437" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 192.xml" loadImmediate="false" itemID="5db01f6b-00000438" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 194.xml" loadImmediate="false" itemID="5db01f6b-00000439" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 199.xml" loadImmediate="false" itemID="5db01f6b-0000043c" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/Favorites/Symbol 201.xml" loadImmediate="false" itemID="5db01f6b-0000043d" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/IconShape.xml" itemIcon="1" loadImmediate="false" itemID="5db05c3d-000004fc" lastModified="1571839037"/>
+          <Include href="Pipboy/InvPage/ModalFadeRect.xml" loadImmediate="false" itemID="5db0209e-00000482" lastModified="1571835923"/>
+          <Include href="Pipboy/InvPage/PaperDoll/Arm_Left_Anim.xml" itemID="5db03e46-0000049c" lastModified="1571833356"/>
+          <Include href="Pipboy/InvPage/PaperDoll/Arm_Left_AnimShape.xml" loadImmediate="false" itemID="5db03f00-000004a1" lastModified="1571832842"/>
+          <Include href="Pipboy/InvPage/PaperDoll/Arm_Right_Anim.xml" itemID="5db03e4b-0000049d" lastModified="1571833315"/>
+          <Include href="Pipboy/InvPage/PaperDoll/Arm_Right_AnimShape.xml" loadImmediate="false" itemID="5db03ef8-000004a0" lastModified="1571833266"/>
+          <Include href="Pipboy/InvPage/PaperDoll/DamageIcons/DamageIcons.xml" itemID="5db02779-00000499" lastModified="1571833024"/>
+          <Include href="Pipboy/InvPage/PaperDoll/DamageIcons/Symbol 35.xml" loadImmediate="false" itemID="5db01f6b-000003e6" lastModified="1571833512"/>
+          <Include href="Pipboy/InvPage/PaperDoll/DamageIcons/Symbol 37.xml" loadImmediate="false" itemID="5db01f6b-000003e7" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/PaperDoll/DamageIcons/Symbol 39.xml" loadImmediate="false" itemID="5db01f6b-000003e8" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/PaperDoll/DamageIcons/Symbol 41.xml" loadImmediate="false" itemID="5db01f6b-000003e9" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/PaperDoll/DamageIcons/Symbol 43.xml" loadImmediate="false" itemID="5db01f6b-000003ea" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/PaperDoll/DamageIcons/Symbol 45.xml" loadImmediate="false" itemID="5db01f6b-000003eb" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/PaperDoll/DamageIcons/Symbol 47.xml" loadImmediate="false" itemID="5db01f6b-000003ec" lastModified="1571730685"/>
+          <Include href="Pipboy/InvPage/PaperDoll/GasMask_Anim.xml" itemID="5db021b5-0000048f" lastModified="1571833479"/>
+          <Include href="Pipboy/InvPage/PaperDoll/GasMask_AnimShape.xml" loadImmediate="false" itemID="5db03f21-000004a6" lastModified="1571832884"/>
+          <Include href="Pipboy/InvPage/PaperDoll/Goggles_Anim.xml" itemID="5db021c2-00000491" lastModified="1571833435"/>
+          <Include href="Pipboy/InvPage/PaperDoll/Goggles_AnimShape.xml" loadImmediate="false" itemID="5db03f15-000004a4" lastModified="1571832861"/>
+          <Include href="Pipboy/InvPage/PaperDoll/Helmet_Anim.xml" itemID="5db021bc-00000490" lastModified="1571833457"/>
+          <Include href="Pipboy/InvPage/PaperDoll/Helmet_AnimShape.xml" loadImmediate="false" itemID="5db03f1c-000004a5" lastModified="1571832873"/>
+          <Include href="Pipboy/InvPage/PaperDoll/Leg_Left_Anim.xml" itemID="5db021cc-00000492" lastModified="1571833415"/>
+          <Include href="Pipboy/InvPage/PaperDoll/Leg_Left_AnimShape.xml" loadImmediate="false" itemID="5db03f0f-000004a3" lastModified="1571832853"/>
+          <Include href="Pipboy/InvPage/PaperDoll/Leg_Right_Anim.xml" itemID="5db021d3-00000493" lastModified="1571833393"/>
+          <Include href="Pipboy/InvPage/PaperDoll/Leg_Right_AnimShape.xml" loadImmediate="false" itemID="5db03f08-000004a2" lastModified="1571832848"/>
+          <Include href="Pipboy/InvPage/PaperDoll/PaperDoll.xml" itemID="5db021a6-0000048e" lastModified="1571833498"/>
+          <Include href="Pipboy/InvPage/PaperDoll/PaperDoll_GenericClothes.xml" loadImmediate="false" itemID="5db0215d-0000048b" lastModified="1571833488"/>
+          <Include href="Pipboy/InvPage/PaperDoll/PaperDoll_ResistEntry.xml" itemID="5db0219c-0000048d" lastModified="1571840356"/>
+          <Include href="Pipboy/InvPage/PaperDoll/PaperDoll_Underwear.xml" loadImmediate="false" itemID="5db0212c-0000048a" lastModified="1571832816"/>
+          <Include href="Pipboy/InvPage/PaperDoll/PaperDoll_VaultSuit.xml" loadImmediate="false" itemID="5db0216e-0000048c" lastModified="1571833491"/>
+          <Include href="Pipboy/InvPage/PaperDoll/Torso_Anim.xml" itemID="5db03e52-0000049e" lastModified="1571833293"/>
+          <Include href="Pipboy/InvPage/PaperDoll/Torso_AnimShape.xml" loadImmediate="false" itemID="5db03eb0-0000049f" lastModified="1571832819"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile/MinusCLIK.xml" itemID="5db0562a-000004de" lastModified="1571838014"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile/MinusCLIK_Over.xml" itemIcon="1" loadImmediate="false" itemID="5db05700-000004e5" lastModified="1571838015"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile/MinusCLIK_Shape.xml" itemIcon="1" loadImmediate="false" itemID="5db057ab-000004e7" lastModified="1571838017"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile/MinusCLIK_Up.xml" itemIcon="1" loadImmediate="false" itemID="5db056f3-000004e4" lastModified="1571838019"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile/MobileQuantityMenu.xml" itemID="5db053d1-000004d1" lastModified="1571840740"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile/PlusCLIK.xml" itemID="5db05632-000004df" lastModified="1571837980"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile/PlusCLIK_Border.xml" itemIcon="1" loadImmediate="false" itemID="5db05809-000004e9" lastModified="1571837961"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile/PlusCLIK_Over.xml" itemIcon="1" loadImmediate="false" itemID="5db0563a-000004e2" lastModified="1571837907"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile/PlusCLIK_Shape.xml" itemIcon="1" loadImmediate="false" itemID="5db057c6-000004e8" lastModified="1571837910"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile/PlusCLIK_Up.xml" itemIcon="1" loadImmediate="false" itemID="5db0563b-000004e3" lastModified="1571837499"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile/SliderCLIK.xml" itemID="5db05620-000004dd" lastModified="1571838395"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile/SliderThumb.xml" itemID="5db05872-000004ea" lastModified="1571838384"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile/SliderTrack.xml" itemID="5db05890-000004eb" lastModified="1571838235"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile/SliderTrackButton.xml" loadImmediate="false" itemID="5db058f5-000004ec" lastModified="1571838197"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuMobile/TopBracketHolder.xml" loadImmediate="false" itemID="5db059fe-000004ee" lastModified="1571838462"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuNEW/Fill.xml" loadImmediate="false" itemID="5db05190-000004c1" lastModified="1571836551"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuNEW/Quantity_Slider.xml" itemID="5db050dd-000004bd" lastModified="1571836469"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuNEW/Quantity_Slider_Arrow.xml" loadImmediate="false" itemID="5db051e0-000004c2" lastModified="1571836447"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuNEW/Quantity_Slider_ArrowShape.xml" itemIcon="1" loadImmediate="false" itemID="5db051f1-000004c3" lastModified="1571836442"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuNEW/Quantity_Slider_Marker.xml" loadImmediate="false" itemID="5db0511c-000004be" lastModified="1571836188"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuNEW/Quantity_Slider_SliderBackground.xml" loadImmediate="false" itemID="5db05165-000004c0" lastModified="1571836261"/>
+          <Include href="Pipboy/InvPage/QuantityMenu/QuantityMenuNEW/QuantityMenuNEW.xml" itemID="5db05097-000004bb" lastModified="1571844534"/>
+          <Include href="Pipboy/InvPage/Symbol 21.xml" loadImmediate="false" itemID="5db01f6b-000003de" lastModified="1571839321"/>
+          <Include href="Pipboy/InvPage/Symbol 23.xml" loadImmediate="false" itemID="5db01f6b-000003e0" lastModified="1571839331"/>
+          <Include href="Pipboy/InvPage/Symbol 62.xml" itemIcon="1" loadImmediate="false" itemID="5db01f6b-000003f5" lastModified="1571839333"/>
+          <Include href="Pipboy/InvPage/Symbol 76.xml" loadImmediate="false" itemID="5db01f6b-000003fe" lastModified="1571839341"/>
+          <Include href="Pipboy/InvPage/Symbol 78.xml" loadImmediate="false" itemID="5db01f6b-000003ff" lastModified="1571839343"/>
+          <Include href="Pipboy/InvPage/Symbol 81.xml" loadImmediate="false" itemID="5db01f6b-00000400" lastModified="1571839358"/>
+          <Include href="Shared/Icons/FavoriteIcon.xml" itemID="5db05a2b-000004ef" lastModified="1571839125"/>
+          <Include href="Shared/Icons/SearchIcon.xml" loadImmediate="false" itemID="5db05b74-000004f8" lastModified="1571839320"/>
+          <Include href="Shared/ItemCard/Entries/AmmoEntry/ItemCard_AmmoEntry.xml" itemID="5db04f08-000004af" lastModified="1574556371"/>
+          <Include href="Shared/ItemCard/Entries/AmmoEntry/Symbol 63.xml" loadImmediate="false" itemID="5db01f6b-000003f6" lastModified="1574556284"/>
+          <Include href="Shared/ItemCard/Entries/ComponentsEntry/ItemCard_ComponentEntry_Entry.xml" itemID="5db04f16-000004b1" lastModified="1574556611"/>
+          <Include href="Shared/ItemCard/Entries/ComponentsEntry/ItemCard_ComponentEntry_Entry_EntryHolder.xml" loadImmediate="false" itemID="5dd9d2ee-00000725" lastModified="1574556398"/>
+          <Include href="Shared/ItemCard/Entries/ComponentsEntry/ItemCard_ComponentsEntry.xml" itemID="5db04f1b-000004b2" lastModified="1574556652"/>
+          <Include href="Shared/ItemCard/Entries/DescriptionEntry/ItemCard_DescriptionEntry.xml" itemID="5db04f20-000004b3" lastModified="1571841622"/>
+          <Include href="Shared/ItemCard/Entries/EquipIcon.xml" loadImmediate="false" itemID="5db05be5-000004fa" lastModified="1574556901"/>
+          <Include href="Shared/ItemCard/Entries/ItemCard_Comparison.xml" itemID="5db04f31-000004b8" lastModified="1574556720"/>
+          <Include href="Shared/ItemCard/Entries/ItemCard_EntryBorder.xml" loadImmediate="false" itemID="5dd9d2bb-00000722" lastModified="1574556708"/>
+          <Include href="Shared/ItemCard/Entries/MultiEntry/ItemCard_MultiEntry.xml" itemID="5db04f24-000004b4" lastModified="1574556656"/>
+          <Include href="Shared/ItemCard/Entries/MultiEntry/ItemCard_MultiEntry_Value.xml" itemID="5db04f28-000004b5" lastModified="1574556698"/>
+          <Include href="Shared/ItemCard/Entries/StandardEntry/ItemCard_StandardEntry.xml" itemID="5db04f2a-000004b6" lastModified="1574556598"/>
+          <Include href="Shared/ItemCard/Entries/TimedEntry/ItemCard_TimedEntry.xml" itemID="5db04f2f-000004b7" lastModified="1574556841"/>
+          <Include href="Shared/ItemCard/Entries/TimedEntry/Symbol 26.xml" loadImmediate="false" itemID="5db01f6b-000003e2" lastModified="1571835984"/>
+          <Include href="Shared/ItemCard/ItemCard.xml" itemID="5db04f0f-000004b0" lastModified="1574556894"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="ModalFadeRect_mc" color="#CC66FF" locked="true" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Pipboy/InvPage/ModalFadeRect" name="ModalFadeRect_mc" centerPoint3DX="442.4" centerPoint3DY="353.5">
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="ItemCard_mc" color="#FF9900" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Shared/ItemCard/ItemCard" name="ItemCard_mc" centerPoint3DX="794.05" centerPoint3DY="596">
+                                             <matrix>
+                                                  <Matrix tx="794.05" ty="596"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="PaperDoll_mc" color="#FFFF00" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/PaperDoll" name="PaperDoll_mc" centerPoint3DX="781.3" centerPoint3DY="396">
+                                             <matrix>
+                                                  <Matrix a="0.981964111328125" d="0.98260498046875" tx="676.4" ty="255"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="ComponentOwnersList_mc" color="#0099FF" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Pipboy/InvPage/Components/Owner/ComponentOwnersList" name="ComponentOwnersList_mc" centerPoint3DX="684.75" centerPoint3DY="381.55">
+                                             <matrix>
+                                                  <Matrix tx="508" ty="163.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="ComponentList_mc" color="#00CC00" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Pipboy/InvPage/Components/List/InvList" name="ComponentList_mc" centerPoint3DX="282.4" centerPoint3DY="381.55">
+                                             <matrix>
+                                                  <Matrix tx="37.5" ty="163.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="List_mc" color="#FF0000" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Pipboy/InvPage/Components/List/InvList" name="List_mc" centerPoint3DX="287.4" centerPoint3DY="381.55">
+                                             <matrix>
+                                                  <Matrix tx="42.5" ty="163.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

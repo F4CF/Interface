@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/HUDNotificationsGroup/QuestVaultBoy/QuestUpdateVaultBoy" itemID="5dc1e1b3-000002d2" linkageExportForAS="true" linkageClassName="QuestUpdateVaultBoy" lastModified="1573019899">
+  <timeline>
+    <DOMTimeline name="QuestUpdateVaultBoy">
+      <layers>
+        <DOMLayer name="VaultBoyImageInternal_mc" color="#2292DB" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/QuestVaultBoy/VaultBoyImageInternal" name="VaultBoyImageInternal_mc" selected="true">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

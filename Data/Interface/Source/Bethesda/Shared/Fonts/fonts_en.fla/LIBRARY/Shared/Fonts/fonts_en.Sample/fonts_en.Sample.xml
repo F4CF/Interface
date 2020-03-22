@@ -1,0 +1,216 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/Fonts/fonts_en.Sample/fonts_en.Sample" itemID="5dc39518-00000249" lastModified="1573098776">
+  <timeline>
+    <DOMTimeline name="fonts_en.Sample">
+      <layers>
+        <DOMLayer name="$MAIN_Font" color="#FF4F4F" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="591.75" height="149" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="6" ty="4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$MAIN_Font&#xD;`1234567890-=~!@#$%^&amp;*():&quot;_+QWERTYUIOP[]ASDFGHJKL;&apos;ZXCVBNM,./qwertyuiop{}\asdfghjkl;&apos;zxcvbnm&lt;&gt;?|¡¢£¤¥¦§¨©ª«®¯°²³´¶·¸¹º»¼½¾¿ÄÀÁÂÃÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþ ÿ </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="2" lineSpacing="1" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="$MAIN_Font_Bold" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="606" height="199" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="625.45" ty="4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$MAIN_Font_Bold&#xD;`1234567890-=~!@#$%^&amp;*():&quot;_+QWERTYUIOP[]ASDFGHJKL;&apos;ZXCVBNM,./qwertyuiop{}\asdfghjkl;&apos;zxcvbnm&lt;&gt;?|¡¢£¤¥¦§¨©ª«®¯°²³´¶·¸¹º»¼½¾¿ÄÀÁÂÃÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþ ÿ ЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏ&#xD;&#xA;АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџҐґ</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="2" lineSpacing="1" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font_Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="$CClub_Font" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="606" height="227.15" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="6" ty="140.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>                                                   $CClub_Font&#xD;`1234567890-=~!@#$%^&amp;*():&quot;_+QWERTYUIOP[]ASDFGHJKL;&apos;ZXCVBNM,./qwertyuiop{}\asdfghjkl;&apos;zxcvbnm&lt;&gt;?|¡¢£¤¥¦§¨©ª«®¯°²³´¶·¸¹º»¼½¾¿ÄÀÁÂÃÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþ ÿ ЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏ&#xD;&#xA;АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџҐґ</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="2" lineSpacing="1" lineHeight="24.35" size="20" bitmapSize="400" face="$CClub_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="$CClub_Font_Bold" color="#808080" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="608.1" height="179.95" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="625.45" ty="219.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>                                                            $CClub_Font_Bold&#xD;`1234567890-&#xA;=~!@#$%^&amp;*():&quot;_+QWERTYUIOP&#xA;[]ASDFGHJKL;&apos;ZXCVBNM,./qwer&#xA;tyuiop{}\asdfghjkl;&apos;zxcvbnm&lt;&gt;?&#xA;|¡¢£¤¥¦§¨©ª«®¯°²³´¶·¸¹º»¼½¾&#xA;¿ÄÀÁÂÃÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×&#xA;ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñ&#xA;òóôõö÷øùúûüýþ ÿ &#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="1" lineHeight="24.85" size="20" bitmapSize="400" face="$CClub_Font_Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="$Controller_Buttons" color="#FF0000" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText width="1239.6" height="48.7" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="3.95" ty="387.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ABCDEFGHIJKLMNOPQRSTUVWXYabcdefghijklmnopxyz</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="2" lineSpacing="1" lineHeight="22.35" size="20" bitmapSize="400" face="Controller  Buttons*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="$Controller_Buttons_inverted" color="#00FF00" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText width="1239.6" height="73.7" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="3.95" ty="429.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ABCDEFGHIJKLMNOPQRSTUVWXYabcdefghijklmnopstuvwxyz</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="2" lineSpacing="1" lineHeight="22.35" size="20" bitmapSize="400" face="Controller  Buttons inverted*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="$BRODY" color="#0099FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="617.75" height="154.4" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="4" ty="465.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>                                                                  $BRODY&#xD;`1234567890-=~!@#$%^&amp;*():&quot;_+QWERTYUIOP[]ASDFGHJKL;&apos;ZXCVBNM,./qwertyuiop{}\asdfghjkld&apos;;&apos;zxcvbnm&lt;&gt;?|¡¢£¤¥¦§¨©ª«®¯°²³´¶·¸¹º»¼½¾¿ÄÀÁÂÃÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþ ÿ </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="2" lineSpacing="1" lineHeight="24.9" size="20" bitmapSize="400" face="$BRODY*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="$HandwrittenFont" color="#4F80FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="628" height="197" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="645.55" ty="461"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$HandwrittenFont&#xD;`1234567890-&#xA;=~!@#$%^&amp;*():&quot;_+QWERTYUIOP&#xA;[]ASDFGHJKL;&apos;ZXCVBNM,./qwer&#xA;tyuiop{}\asdfghjkl;&apos;zxcvbnm&lt;&gt;?&#xA;|¡¢£¤¥¦§¨©ª«®¯°²³´¶·¸¹º»¼½¾¿&#xA;ÄÀÁÂÃÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×&#xA;ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñ&#xA;òóôõö÷øùúûüýþ ÿ &#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="1" lineHeight="32" size="20" bitmapSize="400" face="$HandwrittenFont*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="$Terminal_Font" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="1262.3" height="113" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.997879028320313" tx="13.95" ty="602.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>                                                                                    $Terminal_Font&#xD;`1234567890-=~!@#$%^&amp;*():&quot;_+QWERTYUIOP[]ASDFGHJKL;&apos;ZXCVBNM,./qwertyuiop{}\asdfghjkl;&apos;zxcvbnm&lt;&gt;?|¡¢£¤¥¦§¨©ª«®¯°²³´¶·¸¹º»¼½¾¿ÄÀÁÂÃÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþ ÿ ЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏ&#xD;&#xA;АБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџҐґ</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="2" lineSpacing="1" lineHeight="21.8" size="20" bitmapSize="400" face="$Terminal_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Background" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Fonts/fonts_en.Sample/Border" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="51.1999969482422" d="28.7999877929688"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.5" y="12.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

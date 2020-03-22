@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/Icons/LockIcon" itemID="5dd9d18a-00000717" lastModified="1574559146">
+  <timeline>
+    <DOMTimeline name="LockIcon">
+      <layers>
+        <DOMLayer name="Shape" color="#917D73" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!235 -300S1[166 -300 118 -252!118 -252[69 -203 69 -135!69 -135|69 -99!69 -99|127 -99!127 -99|127 -135!127 -135[127 -179 159 -211!159 -211[191 -242 235 -242!235 -242[279 -242 311 -211!311 -211[342 -179 342 -135!342 -135|342 -99!342 -99
+|401 -99!401 -99|401 -135!401 -135[401 -203 352 -252!352 -252[303 -300 235 -300!14 -48[0 -35 0 -16!0 -16|0 253!0 253[0 273 14 286!14 286[28 300 47 300!47 300|423 300!423 300[443 300 456 286!456 286[470 273 470 253!470 253|470 -16!470
+ -16[470 -35 456 -48!456 -48[442 -62 423 -62!423 -62|47 -62!47 -62[28 -62 14 -48!289 37[312 60 312 92!312 92[312 129 282 152!282 152|282 197!282 197[282 217 268 230!268 230[255 244 235 244!235 244[216 244 202 230!202 230[188 217 188 197
+!188 197|188 152!188 152[158 129 158 92!158 92[158 60 180 37!180 37[203 15 235 15!235 15[267 15 289 37"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

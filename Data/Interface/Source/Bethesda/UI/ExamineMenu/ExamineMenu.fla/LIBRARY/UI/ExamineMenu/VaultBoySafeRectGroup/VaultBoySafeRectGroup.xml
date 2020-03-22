@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ExamineMenu/VaultBoySafeRectGroup/VaultBoySafeRectGroup" itemID="5dd8476e-00000301" linkageExportForAS="true" linkageClassName="ExamineMenu_fla.VaultBoySafeRectGroup_2" lastModified="1574558009">
+  <timeline>
+    <DOMTimeline name="VaultBoySafeRectGroup">
+      <layers>
+        <DOMLayer name="FeaturedItemVaultboy_mc" color="#F26FD3" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/VaultBoySafeRectGroup/FeaturedItemVaultboy" name="FeaturedItemVaultboy_mc" centerPoint3DX="33" centerPoint3DY="54">
+                  <matrix>
+                    <Matrix tx="33" ty="54"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

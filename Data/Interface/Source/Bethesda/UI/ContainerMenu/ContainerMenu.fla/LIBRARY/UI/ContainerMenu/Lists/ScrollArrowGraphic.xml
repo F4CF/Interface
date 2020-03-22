@@ -1,0 +1,44 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ContainerMenu/Lists/ScrollArrowGraphic" itemID="5dae697b-0000026f" symbolType="graphic" lastModified="1571721791">
+  <timeline>
+    <DOMTimeline name="ScrollArrowGraphic">
+      <layers>
+        <DOMLayer name="Arrow Shape 1" color="#4F4FFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 53S2|-99 151!-99 151|-119 131!-119 131|-1 12!-1 12|0 12!0 12|118 131!118 131|98 151!98 151|0 53!98 42|0 -56!0 -56|-99 42!-99 42|-119 22!-119 22|-1 -97!-1 -97|0 -97!0 -97|118 22!118 22|98 42"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Arrow Shape 2" color="#00FF00" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!149 -127S2|149 178!149 178|-151 178!-151 178|-151 -127!-151 -127|149 -127"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

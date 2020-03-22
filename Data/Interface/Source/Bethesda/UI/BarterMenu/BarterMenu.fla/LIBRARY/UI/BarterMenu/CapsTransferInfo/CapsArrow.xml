@@ -1,0 +1,88 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/CapsTransferInfo/CapsArrow" itemID="5dc045e5-000001d2" lastModified="1572883807">
+  <timeline>
+    <DOMTimeline name="CapsArrow">
+      <layers>
+        <DOMLayer name="DirectionalArrow_mc" color="#F5B0A5" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/CapsTransferInfo/DirectionalArrow" name="DirectionalArrow_mc" centerPoint3DX="112.65" centerPoint3DY="0.5">
+                  <matrix>
+                    <Matrix tx="89.95" ty="-42"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TopBracketRight_mc" color="#ED9EB0" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/CapsTransferInfo/TopBracketRight" name="TopBracketRight_mc" centerPoint3DX="49.35" centerPoint3DY="-41">
+                  <matrix>
+                    <Matrix tx="8.5" ty="-42"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TopBracketLeft_mc" color="#AA6BCF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/CapsTransferInfo/TopBracketLeft" name="TopBracketLeft_mc" centerPoint3DX="-59.4" centerPoint3DY="-41">
+                  <matrix>
+                    <Matrix tx="-106.9" ty="-42"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BottomBracket_mc" color="#6788CD" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/CapsTransferInfo/BottomBracket" name="BottomBracket_mc" centerPoint3DX="-18.4" centerPoint3DY="42">
+                  <matrix>
+                    <Matrix a="1.12054443359375" d="1.07499694824219" tx="-106.75" ty="41"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BackBracket_mc" color="#2ABBDE" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/CapsTransferInfo/BackBracket" name="BackBracket_mc" centerPoint3DX="-105.9" centerPoint3DY="0.5">
+                  <matrix>
+                    <Matrix tx="-107" ty="-42"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

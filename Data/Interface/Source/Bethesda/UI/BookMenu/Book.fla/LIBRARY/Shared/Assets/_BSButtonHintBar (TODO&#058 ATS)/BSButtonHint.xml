@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/Assets/_BSButtonHintBar (TODO&amp;#058 ATS)/BSButtonHint" itemID="5db79315-00000280" linkageExportForAS="true" linkageClassName="Shared.AS3.BSButtonHint" lastModified="1572311941">
+  <timeline>
+    <DOMTimeline name="BSButtonHint">
+      <layers>
+        <DOMLayer name="Layer 1" color="#AECB44" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/_BSButtonHintBar (TODO&amp;#058 ATS)/BSButtonHint_IconHolder" name="IconHolderInstance" centerPoint3DX="50" centerPoint3DY="15.9">
+                  <matrix>
+                    <Matrix ty="3.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#EEDFAD" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/_BSButtonHintBar (TODO&amp;#058 ATS)/BSButtonHint_IconHolder" name="SecondaryIconHolderInstance" centerPoint3DX="50" centerPoint3DY="15.9">
+                  <matrix>
+                    <Matrix ty="3.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#7F42FB" locked="true" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="textField_tf" selected="true" width="196" height="21.6" isSelectable="false" renderAsHTML="true" lineType="multiline no wrap">
+                  <matrix>
+                    <Matrix tx="2" ty="5.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>TEXT</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineHeight="21.6" size="18" bitmapSize="360" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

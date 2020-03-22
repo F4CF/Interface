@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PipboyMenu/BottomBar/DMGDRWidget/WeaponArmorHolder" itemID="5db010bb-000002b4" linkageExportForAS="true" linkageClassName="WeaponArmorHolder" lastModified="1571820157">
+  <timeline>
+    <DOMTimeline name="WeaponArmorHolder" currentFrame="1">
+      <layers>
+        <DOMLayer name="Labels" color="#5591E7" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" name="Weapon" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="Armor" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Icons" color="#9C59C6" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PipboyMenu/BottomBar/DMGDRWidget/WeaponArmorHolder_WeaponIcon" centerPoint3DX="14.85" centerPoint3DY="10.5">
+                  <matrix>
+                    <Matrix a="1.18521118164063" d="1.18765258789063" tx="-0.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PipboyMenu/BottomBar/DMGDRWidget/WeaponArmorHolder_ArmorIcon" centerPoint3DX="14.85" centerPoint3DY="10.65">
+                  <matrix>
+                    <Matrix a="1.18521118164063" d="1.18765258789063" tx="-0.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/HUDNotificationsGroup/TutorialText/TutorialHeads_Border" itemID="5dc26031-000002c1" lastModified="1573019738">
+  <timeline>
+    <DOMTimeline name="TutorialHeads_Border">
+      <layers>
+        <DOMLayer name="Graphic" color="#BB11C7" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/TutorialText/TutorialHeads_BorderShape" selected="true" centerPoint3DX="200" centerPoint3DY="90">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

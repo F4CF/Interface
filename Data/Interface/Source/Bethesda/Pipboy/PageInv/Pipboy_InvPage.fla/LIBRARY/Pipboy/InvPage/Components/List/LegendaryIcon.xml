@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Pipboy/InvPage/Components/List/LegendaryIcon" itemID="5db05b95-000004f9" lastModified="1571893896">
+  <timeline>
+    <DOMTimeline name="LegendaryIcon">
+      <layers>
+        <DOMLayer name="Shape" color="#CDB6B4" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!151 -31S2|76 41!76 41|93 144!93 144|1 94!1 94|-94 144!-94 144|-77 41!-77 41|-151 -31!-151 -31|-46 -49!-46 -49|1 -143!1 -143|48 -49!48 -49|151 -31"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

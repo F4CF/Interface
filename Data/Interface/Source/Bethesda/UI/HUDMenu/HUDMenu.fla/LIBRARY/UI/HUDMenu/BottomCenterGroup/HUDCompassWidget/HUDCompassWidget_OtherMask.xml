@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/BottomCenterGroup/HUDCompassWidget/HUDCompassWidget_OtherMask" itemID="5dc28589-00000569" lastModified="1573029538">
+  <timeline>
+    <DOMTimeline name="HUDCompassWidget_OtherMask">
+      <layers>
+        <DOMLayer name="Mask Top" color="#C7CA99" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/BottomCenterGroup/HUDCompassWidget/HUDCompassWidget_OtherMaskTop" selected="true" centerPoint3DX="152" centerPoint3DY="48">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Mask Bottom" color="#94CD80" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/BottomCenterGroup/HUDCompassWidget/HUDCompassWidget_OtherMaskBottom" selected="true" centerPoint3DX="170" centerPoint3DY="10">
+                  <matrix>
+                    <Matrix d="0.799179077148438"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
