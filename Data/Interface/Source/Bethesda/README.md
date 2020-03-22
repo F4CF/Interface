@@ -8,11 +8,10 @@ Versions
 
 Table of Contents
 ---
-- [README](.\README.md)
-  - [Tools](.\README.Tools.md)
-  - [Fonts](.\README.Fonts.md)
-  - [Issues](.\README.Issues.md)
-
+- [README](README.md)
+  - [Tools](README.Tools.md)
+  - [Fonts](README.Fonts.md)
+  - [Issues](README.Issues.md)
 
 # Flash Documents
 All Scaleform documents in Fallout 4 will target `Flash Player 11.2` with `Actionscript 3.0`.
