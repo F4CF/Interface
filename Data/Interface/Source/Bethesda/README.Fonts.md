@@ -1,4 +1,4 @@
-**[<< README](.\README.md)**
+**[<< README](README.md)**
 ---
 
 # Fonts
@@ -25,7 +25,7 @@ map "$CClub_Font_Bold" = "Eurostile LT Std" Demi
 
 
 # Font Libraries
-The fonts displayed in game are stored in a [[Flash File]] font library.
+The fonts displayed in game are stored in a font library.
 These font libraries are shared between menus during runtime.
 The current font configuration can be found in `Fallout 4\Data\Interface\FontConfig.txt`
 
