@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/PowerArmorHUDMenu/PlayerSetMarker" itemID="5dc1254f-000001e1" linkageExportForAS="true" linkageClassName="PlayerSetMarker" lastModified="1572939087">
+  <timeline>
+    <DOMTimeline name="PlayerSetMarker">
+      <layers>
+        <DOMLayer name="Layer 1" color="#EDD155" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/PowerArmorHUDMenu/Symbol 65" centerPoint3DX="6.4" centerPoint3DY="17.5">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

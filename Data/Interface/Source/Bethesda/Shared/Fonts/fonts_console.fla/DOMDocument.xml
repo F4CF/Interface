@@ -1,0 +1,62 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#333333" width="1280" height="720" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" vanishingPoint3DX="640" vanishingPoint3DY="360" sharedLibraryURL="fonts_console.swf" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="93BD8F022228D64FA894834543B77C64">
+     <folders>
+          <DOMFolderItem name="Shared" itemID="5db79e0d-000001fc" isExpanded="true"/>
+          <DOMFolderItem name="Shared/Fonts" itemID="5db79e17-00000201" isExpanded="true"/>
+          <DOMFolderItem name="Shared/Fonts/fonts_console" itemID="5dc39471-00000240" isExpanded="true"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Shared/Fonts/fonts_console/$ConsoleFont" itemID="5db49e08-000001fa" linkageExportForAS="true" linkageExportForRS="true" linkageClassName="$ConsoleFont" linkageURL="fonts_console.swf" font="ArialMT" size="0" id="2" sourceLastImported="1572118449" embeddedCharacters="ˆ˜–—‘’‚“”„†‡•…‰‹›€™" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/fonts_console/$DebugTextFont" itemID="5db49e19-000001fc" linkageExportForAS="true" linkageExportForRS="true" linkageClassName="$DebugTextFont" linkageURL="fonts_console.swf" font="Consolas" size="0" id="1" sourceLastImported="1572314669" embeddedCharacters="ˆ˜–—‘’‚“”„†‡•…‰‹›€™" embedRanges="1|2|3|4|5"/>
+     </fonts>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="$DebugTextFont" color="#00FF00" locked="true" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText selected="true" width="286.15" height="169.8" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="327" ty="27"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>abcdefghijklmnopqrs&#xA;tuvwxyzABCDEFGHIJKL&#xA;MNOPQRSTUVWXYZ01234&#xA;56789 !”#$%&amp;’()*+,-&#xA;./:;&lt;=&gt;?@[\]^_`{|}~&#xA;ˆ˜–—‘’‚“”„†‡•…‰‹›€™&#xD;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="1" lineHeight="23.4" size="20" bitmapSize="400" face="$DebugTextFont*" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="$ConsoleFont" color="#FFCC00" locked="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMStaticText width="286.15" height="162.45" isSelectable="false">
+                                             <matrix>
+                                                  <Matrix tx="27" ty="27"/>
+                                             </matrix>
+                                             <textRuns>
+                                                  <DOMTextRun>
+                                                       <characters>abcdefghijklmnopqrstuv&#xA;wxyzABCDEFGHIJKLM&#xA;NOPQRSTUVWXYZ012&#xA;3456789 !”#$%&amp;’()*+,-&#xA;./:;&lt;=&gt;?@[\]^_`{|}~ˆ˜–—&#xA;‘’‚“”„†‡•…‰‹›€™&#xD;</characters>
+                                                       <textAttrs>
+                                                            <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="1" lineHeight="22.35" size="20" bitmapSize="400" face="$ConsoleFont*" fillColor="#FFFFFF"/>
+                                                       </textAttrs>
+                                                  </DOMTextRun>
+                                             </textRuns>
+                                        </DOMStaticText>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

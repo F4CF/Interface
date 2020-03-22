@@ -1,0 +1,505 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItem" itemID="5dc28c2c-000005b5" linkageExportForAS="true" linkageClassName="HUDObjectiveItem" lastModified="1573034141">
+  <timeline>
+    <DOMTimeline name="HUDObjectiveItem">
+      <layers>
+        <DOMLayer name="Labels" color="#666666" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="5" name="Reset" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" duration="14" name="FadeIn" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="217" name="FadeOut" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="236" duration="27" name="FastFadeOut" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="HUDObjectiveItemInternal_mc" color="#7BA2AD" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" selected="true" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.0703125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.23046875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.30078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.37890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.4609375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.53125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.609375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.69140625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.76171875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.83984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="219" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="237" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.9609375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="238" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="239" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.87890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="240" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.83984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="241" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.80078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="242" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.76171875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="243" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.73046875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="244" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.69140625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="245" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="246" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.609375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="247" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5703125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="248" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.53125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="249" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.48828125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="250" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.4609375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="251" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.421875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="252" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.37890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="253" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.33984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="254" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.30078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="255" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.26171875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="256" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.23046875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="257" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.19140625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="258" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.1484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="259" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.109375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="260" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.0703125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="261" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.03125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="262" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" name="HUDObjectiveItemInternal_mc" centerPoint3DX="172" centerPoint3DY="14.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

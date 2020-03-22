@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ExamineMenu_UNK/ConfirmPanel/MessageBoxButtonList/MessageBoxButtonList" itemID="5dd8473b-000002f4" linkageExportForAS="true" linkageClassName="MessageBoxButtonList" lastModified="1574562013">
+  <timeline>
+    <DOMTimeline name="MessageBoxButtonList">
+      <layers>
+        <DOMLayer name="ScrollDown" color="#9562A0" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/ScrollingList/ScrollArrow" name="ScrollDown" centerPoint3DX="-2.05" centerPoint3DY="105.95">
+                  <matrix>
+                    <Matrix a="0" b="1.99998474121094" c="-0.571426391601563" d="0" tx="-5" ty="96.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ScrollUp" color="#E4E443" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/ScrollingList/ScrollArrow" name="ScrollUp" centerPoint3DX="-12.05" centerPoint3DY="45.95">
+                  <matrix>
+                    <Matrix a="0" b="-1.99998474121094" c="0.571426391601563" d="0" tx="-15" ty="36.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="border" color="#BAECCC" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu_UNK/ConfirmPanel/MessageBoxButtonList/MessageBoxButtonList_Border" name="border" centerPoint3DX="50.5" centerPoint3DY="50.5">
+                  <matrix>
+                    <Matrix a="2.49998474121094" d="1.39993286132813"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

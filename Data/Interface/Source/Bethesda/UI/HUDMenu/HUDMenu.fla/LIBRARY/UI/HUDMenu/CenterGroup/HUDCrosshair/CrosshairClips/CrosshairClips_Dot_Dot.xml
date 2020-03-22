@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClips_Dot_Dot" itemID="5dc27622-00000506" linkageExportForAS="true" linkageClassName="HUDMenu_fla.dotLoop_79" lastModified="1573025314">
+  <timeline>
+    <DOMTimeline name="CrosshairClips_Dot_Dot">
+      <layers>
+        <DOMLayer name="Layer 1" color="#8B4BC7" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsBorder" centerPoint3DX="1.25" centerPoint3DY="1.25">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

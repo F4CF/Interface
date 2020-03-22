@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/MapMarkers/FactoryMarker_Undiscovered" itemID="5daa492a-000002a2" symbolType="graphic" lastModified="1571441353">
+  <timeline>
+    <DOMTimeline name="FactoryMarker_Undiscovered">
+      <layers>
+        <DOMLayer name="Shape" color="#4F4FFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!126 -218|112 -222!112 -222|60 -222!60 -222[50 -222 43 -215!43 -215[36 -208 36 -198!36 -198|36 -41!36 -41|2 -16!2 -16|2 -31!2 -31[2 -47 -11 -53!-11 -53|-22 -55!-22 -55|-37 -50!-37 -50|-83 -16!-83 -16|-83 -31!-83 -31[-83 -47 -96 -53!-96
+ -53|-107 -55!-107 -55|-121 -50!-121 -50|-207 15!-207 15[-217 22 -217 34!-217 34|-217 198!-217 198[-217 208 -209 215!-209 215[-202 222 -193 222!-193 222|193 222!193 222[203 222 210 215!210 215|217 198!217 198|217 -198!217 -198|210 -215
+!210 -215[203 -222 193 -222!193 -222|140 -222!140 -222|126 -218!193 -198|193 198!193 198|-193 198!-193 198|-193 34!-193 34|-107 -31!-107 -31|-107 33!-107 33|-22 -31!-22 -31|-22 33!-22 33|60 -29!60 -29|60 -198!60 -198|112 -198!112 -198
+|112 16!112 16|140 16!140 16|140 -198!140 -198|193 -198"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

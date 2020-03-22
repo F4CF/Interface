@@ -1,0 +1,156 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Pipboy/InvPage/PaperDoll/DamageIcons/DamageIcons" itemID="5db02779-00000499" linkageExportForAS="true" linkageClassName="DamageIcons" lastModified="1571833024">
+  <timeline>
+    <DOMTimeline name="DamageIcons">
+      <layers>
+        <DOMLayer name="Layer 1" color="#5D9CBC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/DamageIcons/Symbol 35" selected="true" centerPoint3DX="7.25" centerPoint3DY="9">
+                  <matrix>
+                    <Matrix a="0.994049072265625" d="0.999725341796875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/DamageIcons/Symbol 37" centerPoint3DX="3.55" centerPoint3DY="5.9">
+                  <matrix>
+                    <Matrix a="1.58541870117188" d="1.59092712402344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/DamageIcons/Symbol 39" centerPoint3DX="4.9" centerPoint3DY="5.9">
+                  <matrix>
+                    <Matrix a="1.58541870117188" d="1.59092712402344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/DamageIcons/Symbol 41" centerPoint3DX="3.35" centerPoint3DY="5.9">
+                  <matrix>
+                    <Matrix a="1.58541870117188" d="1.59092712402344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/DamageIcons/Symbol 43" centerPoint3DX="5.85" centerPoint3DY="5.9">
+                  <matrix>
+                    <Matrix a="1.58541870117188" d="1.59092712402344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/DamageIcons/Symbol 45" centerPoint3DX="5.9" centerPoint3DY="5.5">
+                  <matrix>
+                    <Matrix a="1.58541870117188" d="1.59092712402344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/DamageIcons/Symbol 47" centerPoint3DX="15" centerPoint3DY="15">
+                  <matrix>
+                    <Matrix a="0.5963134765625" d="0.60076904296875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/DamageIcons/Symbol 37" centerPoint3DX="3.55" centerPoint3DY="5.9">
+                  <matrix>
+                    <Matrix a="1.58541870117188" d="1.59092712402344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/DamageIcons/Symbol 39" centerPoint3DX="4.9" centerPoint3DY="5.9">
+                  <matrix>
+                    <Matrix a="1.58541870117188" d="1.59092712402344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/DamageIcons/Symbol 41" centerPoint3DX="3.35" centerPoint3DY="5.9">
+                  <matrix>
+                    <Matrix a="1.58541870117188" d="1.59092712402344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/DamageIcons/Symbol 43" centerPoint3DX="5.85" centerPoint3DY="5.9">
+                  <matrix>
+                    <Matrix a="1.58541870117188" d="1.59092712402344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/DamageIcons/Symbol 45" centerPoint3DX="5.9" centerPoint3DY="5.5">
+                  <matrix>
+                    <Matrix a="1.58541870117188" d="1.59092712402344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

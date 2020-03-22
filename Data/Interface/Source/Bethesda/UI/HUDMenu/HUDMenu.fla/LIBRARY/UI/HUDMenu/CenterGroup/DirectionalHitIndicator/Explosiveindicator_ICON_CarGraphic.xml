@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/DirectionalHitIndicator/Explosiveindicator_ICON_CarGraphic" itemID="5dc2918b-000005e9" symbolType="graphic" lastModified="1573034269">
+  <timeline>
+    <DOMTimeline name="Explosiveindicator_ICON_CarGraphic">
+      <layers>
+        <DOMLayer name="Shape" color="#4F4FFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!434 55S1|460 121!460 121|126 121!126 121|153 55!153 55|154 53!154 53|189 49!189 49|398 49!398 49|433 53!433 53|434 55!447 6|398 0!398 0|189 0!189 0|140 6!140 6[119 14 110 34!110 34[95 61 55 171!55 171[41 173 27 183!27 183[0 203 0 247
+!0 247|0 398!0 398|44 398!44 398|44 452!44 452[44 471 58 484!58 484[71 498 90 498!90 498[110 498 124 484!124 484[137 471 137 452!137 452|137 398!137 398|449 398!449 398|449 452!449 452[449 471 463 484!463 484[477 498 496 498!496 498[515
+ 498 529 484!529 484[543 471 543 452!543 452|543 398!543 398|586 398!586 398|586 247!586 247[586 203 559 183!559 183[551 176 540 173!540 173|531 171!531 171|478 34!478 34[468 14 447 6!496 217[515 217 528 231!528 231[542 244 542 263!542
+ 263[542 281 528 294!528 294[515 308 496 308!496 308[477 308 464 294!464 294[450 281 450 263!450 263[450 244 464 231!464 231[477 217 496 217!90 217[110 217 123 231!123 231[136 244 136 263!136 263[136 281 123 294!123 294[110 308 90 308
+!90 308[72 308 59 294!59 294[46 281 46 263!46 263[46 244 59 231!59 231[72 217 90 217"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

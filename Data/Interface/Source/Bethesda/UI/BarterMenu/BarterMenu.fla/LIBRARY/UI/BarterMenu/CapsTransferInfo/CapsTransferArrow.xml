@@ -1,0 +1,15 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/CapsTransferInfo/CapsTransferArrow" itemID="5dc043e8-000001c0" linkageExportForAS="true" linkageClassName="CapsTransferArrow_mc" lastModified="1572882271">
+  <timeline>
+    <DOMTimeline name="CapsTransferArrow">
+      <layers>
+        <DOMLayer name="Empty" color="#00FFFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

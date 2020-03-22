@@ -1,0 +1,63 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/RightMeters/AmmoCount" itemID="5dc28798-00000572" lastModified="1573029784">
+  <timeline>
+    <DOMTimeline name="AmmoCount">
+      <layers>
+        <DOMLayer name="Layer 1" color="#EF77E4">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/_1/Symbol 618" name="AmmoLineInstance" centerPoint3DX="22" centerPoint3DY="1">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#E4C60E">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="ClipCount_tf" fontRenderingMode="standard" width="48" height="42.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="-47" ty="-38"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>015</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" rotation="true" lineSpacing="5" lineHeight="35.75" size="32" bitmapSize="640" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#D631D9" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="ReserveCount_tf" width="48" height="42.2" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-47"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>216</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" rotation="true" lineSpacing="5" lineHeight="13.7" bitmapSize="240" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

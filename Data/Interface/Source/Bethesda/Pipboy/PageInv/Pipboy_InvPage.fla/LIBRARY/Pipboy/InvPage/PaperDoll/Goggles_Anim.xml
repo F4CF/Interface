@@ -1,0 +1,76 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Pipboy/InvPage/PaperDoll/Goggles_Anim" itemID="5db021c2-00000491" linkageExportForAS="true" linkageClassName="Goggles_Anim" lastModified="1571833435">
+  <timeline>
+    <DOMTimeline name="Goggles_Anim" currentFrame="2">
+      <layers>
+        <DOMLayer name="Labels" color="#9A1BCC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" name="Shown" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="24" name="Animate" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Art" color="#25B8E4" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/Goggles_AnimShape" centerPoint3DX="-3.55" centerPoint3DY="-76">
+                  <matrix>
+                    <Matrix tx="-31.15" ty="-88.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/Goggles_AnimShape" centerPoint3DX="-3.55" centerPoint3DY="-76">
+                  <matrix>
+                    <Matrix tx="-31.15" ty="-88.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="22" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/Goggles_AnimShape" centerPoint3DX="-3.55" centerPoint3DY="-76">
+                  <matrix>
+                    <Matrix tx="-31.15" ty="-88.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/Goggles_AnimShape" centerPoint3DX="-3.55" centerPoint3DY="-76">
+                  <matrix>
+                    <Matrix tx="-31.15" ty="-88.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

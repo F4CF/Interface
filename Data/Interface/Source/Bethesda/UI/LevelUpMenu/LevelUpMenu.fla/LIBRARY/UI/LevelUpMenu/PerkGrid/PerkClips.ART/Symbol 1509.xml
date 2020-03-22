@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1509" itemID="5dc12b90-00000238" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 1509">
+      <layers>
+        <DOMLayer name="Layer 1" color="#60F9E3" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#D4D4D4"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#B2B2B2"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!134 -164[103 -182 90 -171!90 -171|-166 78!-166 78[-176 88 -165 110!-165 110|-138 147!-138 147|-103 172!-103 172|-76 171!-76 171|173 -85!173 -85|174 -85!174 -85|174 -86!174 -86[182 -101 169 -126!169 -126[156 -148 134 -164"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!134 -152|161 -121!161 -121[172 -100 167 -91!167 -91|165 -89!165 -89|157 -114!157 -114|129 -147!129 -147[111 -161 96 -163!96 -163|91 -163!91 -163|93 -166!93 -166|104 -168!104 -168[118 -166 134 -152"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="!96 -160[110 -159 128 -145!128 -145|155 -113!155 -113[164 -96 162 -85!162 -85|110 -32!110 -32|105 -53!105 -53|81 -86!81 -86|49 -109!49 -109|39 -111!39 -111|87 -159!87 -159|96 -160"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="!49 -106|79 -84!79 -84|103 -52!103 -52[111 -35 105 -28!105 -28|-75 156!-75 156|-79 139!-79 139|-105 104!-105 104[-123 86 -140 79!-140 79|-147 76!-147 76|36 -109!36 -109|49 -106"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!-142 84[-126 91 -109 108!-109 108|-84 142!-84 142[-76 159 -82 164!-82 164[-88 170 -100 164!-100 164|-132 141!-132 141|-157 107!-157 107[-165 90 -160 84!-160 84[-155 79 -142 84"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

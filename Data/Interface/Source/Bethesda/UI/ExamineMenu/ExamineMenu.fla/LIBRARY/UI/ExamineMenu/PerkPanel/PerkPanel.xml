@@ -1,0 +1,112 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ExamineMenu/PerkPanel/PerkPanel" itemID="5dd85090-0000039b" lastModified="1574457590">
+  <timeline>
+    <DOMTimeline name="PerkPanel">
+      <layers>
+        <DOMLayer name="Requires_tf" color="#F48A15" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="Requires_tf" selected="true" width="107" height="20.9" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="7.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Req: 1</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="0" lineHeight="17.9" size="16" bitmapSize="320" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PerkLock_mc" color="#10CBE5" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Icons/LockIcon" name="PerkLock_mc" centerPoint3DX="123.9" centerPoint3DY="33.1">
+                  <matrix>
+                    <Matrix a="0.574462890625" d="0.571792602539063" tx="112.15" ty="18.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PerkLoaderClip_mc" color="#F66A8A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/PerkPanel/PerkLoaderClip" name="PerkLoaderClip_mc" centerPoint3DX="-40.25" centerPoint3DY="19.75">
+                  <matrix>
+                    <Matrix tx="-40.25" ty="19.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PerkName_tf" color="#2AD38D" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="PerkName_tf" selected="true" width="125.25" height="63.5" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="3.8" ty="149"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" lineHeight="13.7"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shape" color="#70CEB3" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FFFFFF" alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2665 135S2|2640 135!2640 135|2640 30!2640 30|25 30!25 30|25 135!25 135|0 135"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!0 135S6|0 0!0 0|2665 0!2665 0|2665 135"/>
+                    <Edge fillStyle1="1" edges="!0 4220S2|25 4220!25 4220|25 4320!25 4320|2640 4320!2640 4320|2640 4220!2640 4220|2665 4220"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!2665 4220S6|2665 4350!2665 4350|0 4350!0 4350|0 4220"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

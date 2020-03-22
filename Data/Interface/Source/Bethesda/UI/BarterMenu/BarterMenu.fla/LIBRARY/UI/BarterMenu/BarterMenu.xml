@@ -1,0 +1,123 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/BarterMenu" itemID="5dc043bd-000001b9" linkageExportForAS="true" linkageClassName="BarterMenu" lastModified="1572882912">
+  <timeline>
+    <DOMTimeline name="BarterMenu">
+      <layers>
+        <DOMLayer name="QuantityMenu_mc" color="#FFFF00" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/QuantityMenu/QuantityMenu" name="QuantityMenu_mc" centerPoint3DX="447.3" centerPoint3DY="294.4">
+                  <matrix>
+                    <Matrix tx="356.95" ty="227.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ContainerInventory_mc" color="#00FFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/List/ContainerInventory" name="ContainerInventory_mc" centerPoint3DX="937.3" centerPoint3DY="344.5">
+                  <matrix>
+                    <Matrix tx="774.3" ty="168.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PlayerInventory_mc" color="#FF9900" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/List/PlayerInventory" name="PlayerInventory_mc" centerPoint3DX="373.3" centerPoint3DY="344.5">
+                  <matrix>
+                    <Matrix tx="185.35" ty="168.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ContainerList_mc" color="#CC66FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/List/ContainerList" name="ContainerList_mc" centerPoint3DX="971.4" centerPoint3DY="375.2">
+                  <matrix>
+                    <Matrix a="0.999862670898438" tx="788.6" ty="228"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ItemCard_mc" color="#0099FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/ItemCard/ItemCard" name="ItemCard_mc" centerPoint3DX="722" centerPoint3DY="484.4">
+                  <matrix>
+                    <Matrix tx="722" ty="484.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CapsTransferInfo_mc" color="#00FF00" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/CapsTransferInfo/CapsTransferInfo" name="CapsTransferInfo_mc" centerPoint3DX="645" centerPoint3DY="576.65">
+                  <matrix>
+                    <Matrix a="0.970291137695312" d="0.970001220703125" tx="544" ty="535"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ButtonHintBar_mc" color="#CC0000" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/BSButtonHintBar/BSButtonHintBar" name="ButtonHintBar_mc" centerPoint3DX="659.45" centerPoint3DY="704">
+                  <matrix>
+                    <Matrix tx="640" ty="688"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

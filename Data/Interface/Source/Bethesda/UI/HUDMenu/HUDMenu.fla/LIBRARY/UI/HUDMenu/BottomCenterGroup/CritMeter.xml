@@ -1,0 +1,294 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/BottomCenterGroup/CritMeter" itemID="5dc282e0-00000551" linkageExportForAS="true" linkageClassName="HUDMenu_fla.CritMeter_34" lastModified="1573028800">
+  <timeline>
+    <DOMTimeline name="CritMeter">
+      <layers>
+        <DOMLayer name="Labels Layer" color="#666666" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="15" name="Flashing" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="DisplayText_tf" color="#F66CFA" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="16" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="DisplayText_tf" selected="true" fontRenderingMode="standard" width="44" height="29" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="-140.55" ty="-13"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>CRIT</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" rotation="true" lineSpacing="0" lineHeight="24.55" size="22" bitmapSize="440" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Bracket_mc" color="#AE6EC8" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MeterBar/MeterBarBracket" name="Bracket_mc" selected="true" centerPoint3DX="22" centerPoint3DY="-4">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="MeterBar_mc" color="#3281DC" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/_0/CritMeterBar" name="MeterBar_mc" selected="true" centerPoint3DX="20" centerPoint3DY="-5">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/_0/CritMeterBar" name="MeterBar_mc" centerPoint3DX="20" centerPoint3DY="-5">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.87890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/_0/CritMeterBar" name="MeterBar_mc" centerPoint3DX="20" centerPoint3DY="-5">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.76171875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/_0/CritMeterBar" name="MeterBar_mc" centerPoint3DX="20" centerPoint3DY="-5">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/_0/CritMeterBar" name="MeterBar_mc" centerPoint3DX="20" centerPoint3DY="-5">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.53125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/_0/CritMeterBar" name="MeterBar_mc" centerPoint3DX="20" centerPoint3DY="-5">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.41015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/_0/CritMeterBar" name="MeterBar_mc" centerPoint3DX="20" centerPoint3DY="-5">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.30078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/_0/CritMeterBar" name="MeterBar_mc" centerPoint3DX="20" centerPoint3DY="-5">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.37890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/_0/CritMeterBar" name="MeterBar_mc" centerPoint3DX="20" centerPoint3DY="-5">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.46875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/_0/CritMeterBar" name="MeterBar_mc" centerPoint3DX="20" centerPoint3DY="-5">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.55859375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/_0/CritMeterBar" name="MeterBar_mc" centerPoint3DX="20" centerPoint3DY="-5">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6484375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/_0/CritMeterBar" name="MeterBar_mc" centerPoint3DX="20" centerPoint3DY="-5">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.73046875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/_0/CritMeterBar" name="MeterBar_mc" centerPoint3DX="20" centerPoint3DY="-5">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8203125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/_0/CritMeterBar" name="MeterBar_mc" centerPoint3DX="20" centerPoint3DY="-5">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.91015625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/_0/CritMeterBar" name="MeterBar_mc" centerPoint3DX="20" centerPoint3DY="-5">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CritMeterStars_mc" color="#D597A4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/BottomCenterGroup/CritMeterStarHolder" name="CritMeterStars_mc" selected="true" centerPoint3DX="130" centerPoint3DY="-12">
+                  <matrix>
+                    <Matrix tx="130" ty="-12"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 59" itemID="5dc02675-00000031" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 59">
+      <layers>
+        <DOMLayer name="Layer 1" color="#E3C645" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!69 -16[85 -11 85 7!85 7[85 26 70 40!70 40[55 55 33 55!33 55[10 55 -5 40!-5 40[-21 26 -21 7!-21 7[-21 -11 -7 -16!-7 -16|29 -19!29 -19|69 -16!185 -156|104 -156!104 -156|104 -179!104 -179|99 -189!99 -189|92 -193!92 -193|84 -190!84 -190
+|79 -185!79 -185|-130 -185!-130 -185|-130 -179!-130 -179|-312 -179!-312 -179|-312 -118!-312 -118|-130 -118!-130 -118|-106 -58!-106 -58|-99 -46!-99 -46|-81 -28!-81 -28|-58 -22!-58 -22[-44 -17 -41 -11!-41 -11|-40 7!-40 7|-35 32!-35 32[-22
+ 67 24 69!24 69[63 70 84 51!84 51|103 25!103 25|111 8!111 8|132 -7!132 -7|160 5!160 5[175 15 185 36!185 36[201 67 193 132!193 132|183 193!183 193|311 193!311 193|311 142!311 142[308 81 290 40!290 40[266 -12 235 -43!235 -43|239 -71!239
+ -71[242 -80 238 -86!238 -86|223 -97!223 -97[216 -99 204 -117!204 -117[193 -134 179 -137!179 -137|185 -156"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

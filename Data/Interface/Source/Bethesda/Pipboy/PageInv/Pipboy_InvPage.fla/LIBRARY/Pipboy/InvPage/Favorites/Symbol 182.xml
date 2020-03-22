@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Pipboy/InvPage/Favorites/Symbol 182" itemID="5db01f6b-00000433" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 182">
+      <layers>
+        <DOMLayer name="Layer 1" color="#E1FA9F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!0 -123|-5 -123!-5 -123|17 -91!17 -91|39 -39!39 -39[46 -15 39 -11!39 -11[32 -7 16 -25!16 -25|-17 -72!-17 -72|-39 -122!-39 -122|-113 -111!-113 -111|-101 -93!-101 -93|-78 -40!-78 -40[-72 -17 -79 -13!-79 -13[-86 -9 -102 -27!-102 -27|-135
+ -75!-135 -75|-148 -101!-148 -101[-217 -79 -258 -40!-258 -40[-300 0 -300 46!-300 46[-300 92 -212 110!-212 110|0 123!0 123|212 110!212 110[300 94 300 46!300 46[300 -6 248 -49!248 -49[197 -92 114 -111!114 -111|126 -91!126 -91|149 -39!149
+ -39[156 -15 149 -11!149 -11[142 -7 126 -25!126 -25[109 -43 94 -72!94 -72[78 -100 72 -119!72 -119|0 -123"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

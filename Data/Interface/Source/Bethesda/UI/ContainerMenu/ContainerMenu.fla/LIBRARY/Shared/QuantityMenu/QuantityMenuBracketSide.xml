@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/QuantityMenu/QuantityMenuBracketSide" itemID="5dadd28c-0000024c" lastModified="1571751673">
+  <timeline>
+    <DOMTimeline name="QuantityMenuBracketSide">
+      <layers>
+        <DOMLayer name="Shape" color="#4467EE" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!263 0S1|0 0!0 0|0 1522!0 1522|20 1522!20 1522|20 1487!20 1487|19 1487!19 1487|19 37!19 37|263 37!263 37|263 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/BottomCenterGroup/HUDCompassWidget/CompassBar" itemID="5dc284db-00000561" lastModified="1573029279">
+  <timeline>
+    <DOMTimeline name="CompassBar">
+      <layers>
+        <DOMLayer name="Shape" color="#87E0FB" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!3000 -160S1|3000 -40!3000 -40|-3000 -40!-3000 -40|-3000 -160!-3000 -160|-3040 -160!-3040 -160|-3040 0!-3040 0|3040 0!3040 0|3040 -160!3040 -160|3000 -160"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

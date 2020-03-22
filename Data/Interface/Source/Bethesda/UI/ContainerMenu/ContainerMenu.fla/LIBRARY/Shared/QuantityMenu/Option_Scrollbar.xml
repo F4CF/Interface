@@ -1,0 +1,110 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/QuantityMenu/Option_Scrollbar" itemID="5dadd087-00000243" linkageExportForAS="true" linkageClassName="Option_Scrollbar" lastModified="1571751668">
+  <timeline>
+    <DOMTimeline name="Option_Scrollbar">
+      <layers>
+        <DOMLayer name="Thumb_mc" color="#7E28F9" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Border" name="Thumb_mc" centerPoint3DX="101.5" centerPoint3DY="57">
+                  <matrix>
+                    <Matrix a="0.030029296875" d="0.139999389648438" tx="51" ty="6.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="RightCatcher_mc" color="#F9DC7F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Border" name="RightCatcher_mc" centerPoint3DX="82" centerPoint3DY="57.5">
+                  <matrix>
+                    <Matrix a="0.355056762695313" d="0.120025634765625" tx="31.5" ty="7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="LeftCatcher_mc" color="#21B8F4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Border" name="LeftCatcher_mc" centerPoint3DX="46.5" centerPoint3DY="57.5">
+                  <matrix>
+                    <Matrix a="0.35504150390625" d="0.120025634765625" tx="-4" ty="7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Track_mc" color="#8E6A94" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/QuantityMenu/Track" name="Track_mc" centerPoint3DX="32" centerPoint3DY="14">
+                  <matrix>
+                    <Matrix tx="1" ty="9.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="RightArrow_mc" color="#CFAEAC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/QuantityMenu/Arrow" name="RightArrow_mc" centerPoint3DX="66.75" centerPoint3DY="18.25">
+                  <matrix>
+                    <Matrix a="0.571426391601563" d="0.4571533203125" tx="62.4" ty="9.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="LeftArrow_mc" color="#B0DFFB" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/QuantityMenu/Arrow" name="LeftArrow_mc" centerPoint3DX="5.25" centerPoint3DY="26.25">
+                  <matrix>
+                    <Matrix a="-0.571441650390625" d="-0.4571533203125" tx="0.9" ty="17.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

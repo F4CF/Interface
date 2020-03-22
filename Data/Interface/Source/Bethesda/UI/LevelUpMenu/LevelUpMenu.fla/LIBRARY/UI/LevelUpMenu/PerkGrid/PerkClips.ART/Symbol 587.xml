@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 587" itemID="5dc12b90-000000ee" symbolType="graphic" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 587">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-1161 -1577|-1159 -1508!-1159 -1508|-1163 -1415!-1163 -1415|-1167 -1319!-1167 -1319|-1172 -1317!-1172 -1317|-1177 -1319!-1177 -1319|-1177 -1365!-1177 -1365[-1169 -1409 -1169 -1509!-1169 -1509[-1169 -1588 -1195 -1671!-1195 -1671[-1222
+ -1755 -1222 -1772!-1222 -1772|-1217 -1789!-1217 -1789|-1177 -1649!-1177 -1649[-1164 -1610 -1161 -1577!-1233 -1354[-1226 -1334 -1225 -1301!-1225 -1301|-1222 -1249!-1222 -1249|-1191 -1144!-1191 -1144|-1149 -1031!-1149 -1031[-1140 -1002
+ -1137 -964!-1137 -964|-1111 -1018!-1111 -1018|-1106 -1012!-1106 -1012[-1106 -993 -1136 -934!-1136 -934|-1144 -809!-1144 -809|-1150 -807!-1150 -807|-1155 -827!-1155 -827|-1150 -879!-1150 -879|-1147 -913!-1147 -913|-1148 -911!-1148 -911
+[-1191 -834 -1191 -750!-1191 -750[-1191 -683 -1181 -640!-1181 -640|-1187 -636!-1187 -636|-1191 -637!-1191 -637[-1201 -672 -1201 -751!-1201 -751[-1201 -816 -1175 -880!-1175 -880|-1146 -944!-1146 -944[-1150 -1001 -1192 -1113!-1192 -1113
+[-1238 -1235 -1238 -1335!-1238 -1335|-1233 -1354"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

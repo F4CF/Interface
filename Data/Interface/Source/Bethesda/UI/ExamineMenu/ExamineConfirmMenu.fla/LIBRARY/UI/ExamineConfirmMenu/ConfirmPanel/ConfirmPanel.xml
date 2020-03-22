@@ -1,0 +1,96 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ExamineConfirmMenu/ConfirmPanel/ConfirmPanel" itemID="5ddaa90e-00000270" linkageExportForAS="true" linkageClassName="ConfirmPanel" lastModified="1574611834">
+  <timeline>
+    <DOMTimeline name="ConfirmPanel">
+      <layers>
+        <DOMLayer name="ScrollDown_mc" color="#09BDC1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineConfirmMenu/ConfirmPanel/ConfirmPanel_ScrollArrow" name="ScrollDown_mc" selected="true" centerPoint3DX="454.8" centerPoint3DY="117.25">
+                  <matrix>
+                    <Matrix a="0" b="1.99998474121094" c="-0.571426391601563" d="0" tx="450.45" ty="108.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ScrollUp_mc" color="#F161D9" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineConfirmMenu/ConfirmPanel/ConfirmPanel_ScrollArrow" name="ScrollUp_mc" selected="true" centerPoint3DX="444.8" centerPoint3DY="113.25">
+                  <matrix>
+                    <Matrix a="0" b="-1.99998474121094" c="0.571426391601563" d="0" tx="440.45" ty="104.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ButtonHintBar_mc" color="#8B32F1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BSButtonHintBar/BSButtonHintBar" name="ButtonHintBar_mc" selected="true" centerPoint3DX="259.45" centerPoint3DY="200">
+                  <matrix>
+                    <Matrix tx="240" ty="184"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ConfirmQuestion_tf" color="#8F7EDA" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="ConfirmQuestion_tf" selected="true" width="456" height="51.55" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="12" ty="18"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Make Short Ported Barrel?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="24.55" size="22" bitmapSize="440" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BGRect_mc" color="#BDDD59" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineConfirmMenu/ConfirmPanel/BGRect" name="BGRect_mc" selected="true" centerPoint3DX="171.25" centerPoint3DY="111.25">
+                  <matrix>
+                    <Matrix a="1.41177368164063" d="1.04545593261719"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.94921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/PromptMenu/PromptMenuPanel" itemID="5dc00961-00000156" linkageExportForAS="true" linkageClassName="PromptMenu_fla.PromptMenuPanel_1" lastModified="1572866441">
+  <timeline>
+    <DOMTimeline name="PromptMenuPanel">
+      <layers>
+        <DOMLayer name="MessageHolder_mc" color="#9B42CE" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/PromptMenu/MessageHolder" name="MessageHolder_mc" selected="true" centerPoint3DX="172" centerPoint3DY="17">
+                  <matrix>
+                    <Matrix tx="7" ty="3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

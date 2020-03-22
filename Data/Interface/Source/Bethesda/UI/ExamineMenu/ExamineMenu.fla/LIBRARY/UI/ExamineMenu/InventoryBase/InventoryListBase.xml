@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ExamineMenu/InventoryBase/InventoryListBase" itemID="5dd84785-00000304" linkageExportForAS="true" linkageClassName="ExamineMenu_fla.InventoryListBase_24" lastModified="1574456836">
+  <timeline>
+    <DOMTimeline name="InventoryListBase">
+      <layers>
+        <DOMLayer name="Brackets_mc" color="#AAFD02" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu/InventoryBase/Brackets" name="Brackets_mc" centerPoint3DX="336.55" centerPoint3DY="139.35">
+                  <matrix>
+                    <Matrix tx="5.75" ty="30.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="InventoryList_mc" color="#55B1E0" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu_UNK/Lists/ExamineMenuList" name="InventoryList_mc" centerPoint3DX="149.2" centerPoint3DY="131.45">
+                  <matrix>
+                    <Matrix tx="9.4" ty="35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

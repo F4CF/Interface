@@ -1,0 +1,76 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Pipboy/InvPage/PaperDoll/Leg_Right_Anim" itemID="5db021d3-00000493" linkageExportForAS="true" linkageClassName="Leg_Right_Anim" lastModified="1571833393">
+  <timeline>
+    <DOMTimeline name="Leg_Right_Anim" currentFrame="2">
+      <layers>
+        <DOMLayer name="Labels" color="#50EBC4" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" name="Shown" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="24" name="Animate" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Art" color="#6BCDB3" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/Leg_Right_AnimShape" centerPoint3DX="-21.7" centerPoint3DY="64.45">
+                  <matrix>
+                    <Matrix tx="-42.55" ty="33.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/Leg_Right_AnimShape" centerPoint3DX="-21.7" centerPoint3DY="64.45">
+                  <matrix>
+                    <Matrix tx="-42.55" ty="33.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="22" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/Leg_Right_AnimShape" centerPoint3DX="-21.7" centerPoint3DY="64.45">
+                  <matrix>
+                    <Matrix tx="-42.55" ty="33.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/Leg_Right_AnimShape" centerPoint3DX="-21.7" centerPoint3DY="64.45">
+                  <matrix>
+                    <Matrix tx="-42.55" ty="33.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

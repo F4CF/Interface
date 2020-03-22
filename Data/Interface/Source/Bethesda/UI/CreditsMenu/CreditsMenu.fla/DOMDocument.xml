@@ -1,0 +1,60 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#333333" width="1280" height="720" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" vanishingPoint3DX="640" vanishingPoint3DY="360" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="305D558C3805B443A70AE328E2994010">
+     <folders>
+          <DOMFolderItem name="Shared" itemID="5dd9c87a-000006c0" isExpanded="true"/>
+          <DOMFolderItem name="Shared/BSButtonHintBar" itemID="5dc04049-00000167"/>
+          <DOMFolderItem name="Shared/Fonts" itemID="5dc04014-0000015c"/>
+          <DOMFolderItem name="UI" itemID="5dc04010-0000015b" isExpanded="true"/>
+          <DOMFolderItem name="UI/CreditsMenu" itemID="5dc04005-00000158" isExpanded="true"/>
+          <DOMFolderItem name="UI/CreditsMenu/Assets" itemID="5dc04071-0000016e"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Shared/Fonts/Font 20" itemID="5dc03ff5-00000003" font="RobotoCondensed-Bold" size="0" id="20" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/Font 21" itemID="5dc03ff5-00000005" font="RobotoCondensed-Regular" size="0" id="21" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/Font 22" itemID="5dc03ff5-00000007" font="Share-TechMono" size="0" id="22" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЀЁЍАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёѝ–—‘’‚“”„†‡•…‰‹›⁄€™Ω∂∏∑∕√∞∧∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/Font 23" itemID="5dc03ff5-00000009" font="Eurostile LT Std Roman" size="0" id="23" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/Font 24" itemID="5dc03ff5-0000000b" font="Brody" size="0" id="24" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĂăĄąĆćČčĎďĐđĘęĚěĞğİıĹĺĽľŁłŃńŇňŐőŒœŔŕŘřŚśŞşŠšŢţŤťŮůŰűŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜ΔΣΩμπ–—‗‘’‚“”„†‡•…‰‹›‼ⁿ₣™Ω←→∂∏∕√∞∫≠≤≥■" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/Font 25" itemID="5dc03ff5-0000000d" font="Controller--Buttons" size="0" id="25" embedRanges="1|2"/>
+          <DOMFontItem name="Shared/Fonts/Font 26" itemID="5dc03ff5-0000000f" font="Eurostile Cyr Std Bold" size="0" id="26" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/Font 27" itemID="5dc03ff5-00000011" font="Handwritten_Institute" size="0" id="27" embeddedCharacters="!&quot;#$%&amp;&apos;()*+,-/:;&lt;=&gt;?@[\]^_{|}~¡¢£¤§©«¬®°±²µ¶»¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿĄąĆćĈĉĔęĜĝĤĥıĴĵŁłŃńŐőŒœŚśŜŝŠšŬŭŰűŸŹźŻżŽžƒμ‘’“”†‡•€™" embedRanges="1|2|3"/>
+          <DOMFontItem name="Shared/Fonts/Font 28" itemID="5dc03ff5-00000013" font="Controller--Buttons-inverted" size="0" id="28" embedRanges="1|2"/>
+     </fonts>
+     <media>
+          <DOMBitmapItem name="UI/CreditsMenu/Assets/CreationEngineLogo.png" itemID="5dd9c909-000006c2" linkageExportForAS="true" linkageClassName="CreationEngineLogo" sourceExternalFilepath="../CreditsMenu.fla/LIBRARY/UI/CreditsMenu/Assets/CreationEngineLogo.png" sourceLastImported="1574553713" externalFileSize="4828" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="UI/CreditsMenu/Assets/CreationEngineLogo.png" bitmapDataHRef="M 3 1571730685.dat" frameRight="3520" frameBottom="2000"/>
+          <DOMBitmapItem name="UI/CreditsMenu/Assets/MiddlewareLogos.png" itemID="5dc0402b-00000160" linkageExportForAS="true" linkageClassName="MiddlewareLogos" sourceLastImported="1574553713" externalFileSize="17452" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="UI/CreditsMenu/Assets/MiddlewareLogos.png" bitmapDataHRef="M 2 1571730685.dat" frameRight="18780" frameBottom="2080"/>
+          <DOMBitmapItem name="UI/CreditsMenu/Assets/SkyrimLogo.png" itemID="5dc04026-0000015f" linkageExportForAS="true" linkageClassName="SkyrimLogo" sourceLastImported="1574553713" externalFileSize="1212" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="UI/CreditsMenu/Assets/SkyrimLogo.png" bitmapDataHRef="M 1 1571730685.dat" frameRight="14600" frameBottom="8000"/>
+     </media>
+     <symbols>
+          <Include href="Shared/BSButtonHintBar/BSButtonHint.xml" itemID="5dc04080-00000171" lastModified="1572880512"/>
+          <Include href="Shared/BSButtonHintBar/BSButtonHint_IconHolder.xml" itemID="5dc04087-00000172" lastModified="1572880519"/>
+          <Include href="Shared/BSButtonHintBar/BSButtonHintBar.xml" itemID="5dc0407d-00000170" lastModified="1572880509"/>
+          <Include href="Shared/BSButtonHintBar/Symbol 8.xml" loadImmediate="false" itemID="5dc03ff5-00000024" lastModified="1571730685"/>
+          <Include href="Shared/BSButtonHintBar/Symbol 12.xml" loadImmediate="false" itemID="5dc03ff5-00000027" lastModified="1571730685"/>
+          <Include href="Shared/BSButtonHintBar/Symbol 14.xml" loadImmediate="false" itemID="5dc03ff5-00000028" lastModified="1571730685"/>
+          <Include href="UI/CreditsMenu/Background.xml" loadImmediate="false" itemID="5dc040d8-00000174" lastModified="1572880698"/>
+          <Include href="UI/CreditsMenu/CreditsMenu.xml" itemID="5dc0404d-00000168" lastModified="1572880694"/>
+          <Include href="UI/CreditsMenu/CreditsMenuContainer.xml" loadImmediate="false" itemID="5dc04114-00000175" lastModified="1572880696"/>
+          <Include href="UI/CreditsMenu/Fallout4logo.xml" itemID="5dc0403d-00000162" lastModified="1572880704"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Menu_mc" color="#00FF00" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="UI/CreditsMenu/CreditsMenu" name="Menu_mc" centerPoint3DX="675" centerPoint3DY="450">
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

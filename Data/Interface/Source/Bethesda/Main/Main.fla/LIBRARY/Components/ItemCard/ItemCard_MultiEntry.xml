@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/ItemCard/ItemCard_MultiEntry" itemID="5dae93b0-000002d0" linkageExportForAS="true" linkageClassName="Components.ItemCard_MultiEntry" lastModified="1572138289">
+  <timeline>
+    <DOMTimeline name="ItemCard_MultiEntry">
+      <layers>
+        <DOMLayer name="EntryHolder_mc" color="#9C59C6" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/ItemCard/ItemCard_EntryHolder" name="EntryHolder_mc" centerPoint3DX="-73.15" centerPoint3DY="-3.4">
+                  <matrix>
+                    <Matrix tx="-73.15" ty="-3.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Label_tf" color="#FFFF00" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="Label_tf" selected="true" width="129.05" height="33.6" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="-233.45" ty="-0.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>DMG Resist</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" size="28" bitmapSize="560" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Background_mc" color="#00CC33" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/ItemCard/ItemCard_EntryBackground" name="Background_mc" centerPoint3DX="-189.2" centerPoint3DY="50.5">
+                  <matrix>
+                    <Matrix a="1.636474609375" d="0.330490112304688" tx="-239.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/ObjectiveListItemBG" itemID="5dc29547-000005f9" lastModified="1573034123">
+  <timeline>
+    <DOMTimeline name="ObjectiveListItemBG">
+      <layers>
+        <DOMLayer name="Layer 1" color="#2ABBDE" locked="true" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/Symbol 257" selected="true" centerPoint3DX="173.75" centerPoint3DY="14.75">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ContainerMenu/Lists/Container/ContainerList" itemID="5dae6b8a-0000027f" linkageExportForAS="true" linkageClassName="ContainerList" lastModified="1571721766">
+  <timeline>
+    <DOMTimeline name="ContainerList">
+      <layers>
+        <DOMLayer name="ScrollDown" color="#9C709E" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Lists/ScrollArrow" name="ScrollDown" centerPoint3DX="21.5" centerPoint3DY="276.1">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="14" ty="268.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ScrollUp" color="#A0C35E" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Lists/ScrollArrow" name="ScrollUp" centerPoint3DX="22.5" centerPoint3DY="-10.05">
+                  <matrix>
+                    <Matrix tx="15" ty="-17.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="border" color="#FC2074" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Border" name="border" centerPoint3DX="50.5" centerPoint3DY="43.5">
+                  <matrix>
+                    <Matrix a="3.33683776855469" d="2.9501953125" ty="-7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

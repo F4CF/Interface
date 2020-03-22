@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ExamineMenu_UNK/Lists/RequirementList/RequirementList_ScrollArrow" itemID="5dd9da48-000007aa" lastModified="1574559922">
+  <timeline>
+    <DOMTimeline name="RequirementList_ScrollArrow">
+      <layers>
+        <DOMLayer name="Graphic" color="#8F7EDA" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu_UNK/ScrollArrow (27)" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-1.5" ty="10.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

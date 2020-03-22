@@ -1,0 +1,1477 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/MapMarkers/_DEMO_MapMarkers" itemID="5db705a9-00000316" lastModified="1572275702">
+  <timeline>
+    <DOMTimeline name="_DEMO_MapMarkers">
+      <layers>
+        <DOMLayer name="AirfieldMarker" color="#F26FD3" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/AirfieldMarker" centerPoint3DX="267.05" centerPoint3DY="61.1">
+                  <matrix>
+                    <Matrix tx="255.95" ty="50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="269.95" ty="38"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>AirfieldMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BunkerHillMarker" color="#6E7EAD" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/BunkerHillMarker" centerPoint3DX="263.95" centerPoint3DY="96.6">
+                  <matrix>
+                    <Matrix tx="255.95" ty="85.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="269.95" ty="75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>BunkerHillMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CamperMarker" color="#2ABBDE" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/CamperMarker" centerPoint3DX="267.05" centerPoint3DY="126.35">
+                  <matrix>
+                    <Matrix tx="255.95" ty="118.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="269.95" ty="104.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>CamperMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CarMarker" color="#6788CD" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/CarMarker" centerPoint3DX="267.05" centerPoint3DY="158.2">
+                  <matrix>
+                    <Matrix tx="255.95" ty="151.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="269.95" ty="137.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>CarMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CaveMarker" color="#AA6BCF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/CaveMarker" centerPoint3DX="266.55" centerPoint3DY="194.75">
+                  <matrix>
+                    <Matrix tx="255.95" ty="184.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="269.95" ty="171.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>CaveMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ChurchMarker" color="#ED9EB0" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/ChurchMarker" centerPoint3DX="266.35" centerPoint3DY="227.8">
+                  <matrix>
+                    <Matrix tx="255.95" ty="216.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="269.95" ty="200.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ChurchMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CityMarker" color="#F5B0A5" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/CityMarker" centerPoint3DX="265.8" centerPoint3DY="259.65">
+                  <matrix>
+                    <Matrix tx="255.95" ty="249.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="269.95" ty="236.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>CityMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CountryClubMarker" color="#80ECB6" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/CountryClubMarker" centerPoint3DX="267.05" centerPoint3DY="293.4">
+                  <matrix>
+                    <Matrix tx="255.95" ty="282.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="269.95" ty="269.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>CountryClubMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CustomHouseMarker" color="#F301A3" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/CustomHouseMarker" centerPoint3DX="262.95" centerPoint3DY="326.2">
+                  <matrix>
+                    <Matrix tx="255.95" ty="315.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="269.95" ty="299"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>CustomHouseMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="DiamondCityMarker" color="#DF3790" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/DiamondCityMarker" centerPoint3DX="266.1" centerPoint3DY="358.5">
+                  <matrix>
+                    <Matrix tx="255.9" ty="347.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="269.95" ty="331.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>DiamondCityMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="DriveInMarker" color="#E1FA9F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/DriveInMarker" centerPoint3DX="267.05" centerPoint3DY="391.8">
+                  <matrix>
+                    <Matrix tx="255.95" ty="380.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="269.95" ty="369.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>DriveInMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ElevatedHighwayMarker" color="#DD04C3" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/ElevatedHighwayMarker" centerPoint3DX="267.05" centerPoint3DY="422.4">
+                  <matrix>
+                    <Matrix tx="255.95" ty="413.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="269.95" ty="403.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ElevatedHighwayMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="EncampmentMarker" color="#37A8D3" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/EncampmentMarker" centerPoint3DX="265.9" centerPoint3DY="453.65">
+                  <matrix>
+                    <Matrix tx="255.95" ty="446.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="269.95" ty="435.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>EncampmentMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="FactoryMarker" color="#FB06D6" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/FactoryMarker" centerPoint3DX="266.1" centerPoint3DY="489.65">
+                  <matrix>
+                    <Matrix tx="255.95" ty="479.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="269.95" ty="466.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>FactoryMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="FaneuilHallMarker" color="#D8FCC2" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/FaneuilHallMarker" centerPoint3DX="274.45" centerPoint3DY="530.4">
+                  <matrix>
+                    <Matrix tx="255.95" ty="511.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="269.95" ty="499.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>FaneuilHallMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="FarmMarker" color="#EC4A92" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/FarmMarker" centerPoint3DX="266.7" centerPoint3DY="555.8">
+                  <matrix>
+                    <Matrix tx="255.95" ty="544.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="269.95" ty="532.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>FarmMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="FillingStationMarker" color="#C68FCC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/FillingStationMarker" centerPoint3DX="267.05" centerPoint3DY="588.6">
+                  <matrix>
+                    <Matrix tx="255.95" ty="577.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="269.95" ty="565.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>FillingStationMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ForestedMarker" color="#13ACD3" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/ForestedMarker" centerPoint3DX="265.15" centerPoint3DY="621.4">
+                  <matrix>
+                    <Matrix tx="255.95" ty="610.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="269.95" ty="598.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ForestedMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="GoodneighborMarker" color="#F35486" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/GoodneighborMarker" centerPoint3DX="267.05" centerPoint3DY="653.55">
+                  <matrix>
+                    <Matrix tx="255.95" ty="643.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="269.95" ty="632.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>GoodneighborMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="GraveyardMarker" color="#FC2074" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/GraveyardMarker" centerPoint3DX="264.2" centerPoint3DY="686.65">
+                  <matrix>
+                    <Matrix tx="255.95" ty="676.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="269.95" ty="664.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>GraveyardMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="HospitalMarker" color="#A0C35E" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/HospitalMarker" centerPoint3DX="558.95" centerPoint3DY="59.55">
+                  <matrix>
+                    <Matrix tx="547.85" ty="48.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="561.85" ty="34.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>HospitalMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="IndustrialDomeMarker" color="#CE457F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/IndustrialDomeMarker" centerPoint3DX="557.8" centerPoint3DY="92.2">
+                  <matrix>
+                    <Matrix tx="547.85" ty="81.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="561.85" ty="67.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>IndustrialDomeMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="IndustrialStacksMarker" color="#BDAF9B" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/IndustrialStacksMarker" centerPoint3DX="558.7" centerPoint3DY="124.85">
+                  <matrix>
+                    <Matrix tx="547.85" ty="113.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="561.85" ty="100.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>IndustrialStacksMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="InstituteMarker" color="#E5953F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/InstituteMarker" centerPoint3DX="558.95" centerPoint3DY="157.5">
+                  <matrix>
+                    <Matrix tx="547.85" ty="146.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="561.85" ty="133.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>InstituteMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="IrishPrideMarker" color="#65ECD5" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/IrishPrideMarker" centerPoint3DX="558.95" centerPoint3DY="189.75">
+                  <matrix>
+                    <Matrix tx="547.85" ty="179.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="561.85" ty="165.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>IrishPrideMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="JunkyardMarker" color="#E0368C" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/JunkyardMarker" centerPoint3DX="558.95" centerPoint3DY="222.55">
+                  <matrix>
+                    <Matrix tx="547.85" ty="211.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="561.85" ty="198.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>JunkyardMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="LandmarkMarker" color="#F96BF3" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/LandmarkMarker" centerPoint3DX="558.25" centerPoint3DY="254.8">
+                  <matrix>
+                    <Matrix tx="547.6" ty="244.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="561.85" ty="231.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>LandmarkMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="MetroMarker" color="#6540E7" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/MetroMarker" centerPoint3DX="558.1" centerPoint3DY="287.9">
+                  <matrix>
+                    <Matrix tx="547.4" ty="277.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="561.85" ty="264.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MetroMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="MilitaryBaseMarker" color="#CB88CB" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/MilitaryBaseMarker" centerPoint3DX="558.95" centerPoint3DY="320.75">
+                  <matrix>
+                    <Matrix tx="547.85" ty="309.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="561.85" ty="297.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MilitaryBaseMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="MonumentMarker" color="#ADCD68" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/MonumentMarker" centerPoint3DX="558" centerPoint3DY="352.45">
+                  <matrix>
+                    <Matrix tx="547.85" ty="342.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="561.85" ty="330.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>MonumentMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ObservatoryMarker" color="#7ED976" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/ObservatoryMarker" centerPoint3DX="557.05" centerPoint3DY="386.05">
+                  <matrix>
+                    <Matrix tx="547.85" ty="374.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="561.85" ty="363.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ObservatoryMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="OfficeMarker" color="#A069B6" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/OfficeMarker" centerPoint3DX="556.75" centerPoint3DY="414.75">
+                  <matrix>
+                    <Matrix tx="547.85" ty="405.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="561.85" ty="396.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>OfficeMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PierMarker" color="#FCD3F0" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/PierMarker" centerPoint3DX="558.95" centerPoint3DY="448.45">
+                  <matrix>
+                    <Matrix tx="547.85" ty="440.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="561.85" ty="429.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>PierMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PondLakeMarker" color="#C605E2" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/PondLakeMarker" centerPoint3DX="558.3" centerPoint3DY="484">
+                  <matrix>
+                    <Matrix tx="547.85" ty="472.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="561.85" ty="462.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>PondLakeMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="QuarryMarker" color="#F391E3" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/QuarryMarker" centerPoint3DX="558.95" centerPoint3DY="515.85">
+                  <matrix>
+                    <Matrix tx="547.85" ty="505.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="561.85" ty="494.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>QuarryMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="RadioactiveAreaMarker" color="#35CDE9" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/RadioactiveAreaMarker" centerPoint3DX="557.75" centerPoint3DY="546.75">
+                  <matrix>
+                    <Matrix tx="547.85" ty="536.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="561.85" ty="527.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>RadioactiveAreaMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="RadioTowerMarker" color="#489BE4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/RadioTowerMarker" centerPoint3DX="555.45" centerPoint3DY="581.95">
+                  <matrix>
+                    <Matrix tx="547.85" ty="570.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="561.85" ty="560.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>RadioTowerMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SalemMarker" color="#4467EE" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/SalemMarker" centerPoint3DX="558.95" centerPoint3DY="613.65">
+                  <matrix>
+                    <Matrix tx="547.85" ty="603.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="561.85" ty="593.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SalemMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SancHillsMarker" color="#5AC970" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/SancHillsMarker" centerPoint3DX="553" centerPoint3DY="642.8">
+                  <matrix>
+                    <Matrix tx="547.85" ty="636.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="561.85" ty="626.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SancHillsMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SchoolMarker" color="#35E4B7" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/SchoolMarker" centerPoint3DX="557" centerPoint3DY="680.3">
+                  <matrix>
+                    <Matrix tx="547.85" ty="669.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="561.85" ty="659.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SchoolMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SettlementMarker" color="#A4C39C" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/SettlementMarker" centerPoint3DX="853.35" centerPoint3DY="225.45">
+                  <matrix>
+                    <Matrix tx="843.15" ty="214.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="857.65" ty="202.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SettlementMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SewerMarker" color="#F95F49" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/SewerMarker" centerPoint3DX="854.5" centerPoint3DY="259.15">
+                  <matrix>
+                    <Matrix tx="843.65" ty="248.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="857.65" ty="235.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SewerMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ShipwreckMarker" color="#B6B0BE" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/ShipwreckMarker" centerPoint3DX="854.75" centerPoint3DY="291.45">
+                  <matrix>
+                    <Matrix tx="843.65" ty="281.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="857.65" ty="268.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ShipwreckMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SubmarineMarker" color="#A551B9" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/SubmarineMarker" centerPoint3DX="854.75" centerPoint3DY="322">
+                  <matrix>
+                    <Matrix tx="843.65" ty="314.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="857.65" ty="301"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SubmarineMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SwanPondMarker" color="#FF9F1D" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/SwanPondMarker" centerPoint3DX="854.75" centerPoint3DY="358.55">
+                  <matrix>
+                    <Matrix tx="843.65" ty="347.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="857.65" ty="333.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SwanPondMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SynthHeadMarker" color="#F2D495" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/SynthHeadMarker" centerPoint3DX="852.35" centerPoint3DY="392">
+                  <matrix>
+                    <Matrix tx="843.7" ty="380.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="857.65" ty="366.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SynthHeadMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TownMarker" color="#CDB6B4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/TownMarker" centerPoint3DX="853.8" centerPoint3DY="424.1">
+                  <matrix>
+                    <Matrix tx="842.8" ty="413.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="857.65" ty="399.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>TownMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TownRuinsMarker" color="#5586F0" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/TownRuinsMarker" centerPoint3DX="854.4" centerPoint3DY="456.75">
+                  <matrix>
+                    <Matrix tx="843.6" ty="446.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="857.65" ty="432.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>TownRuinsMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="UrbanRuinsMarker" color="#5AD2ED" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/UrbanRuinsMarker" centerPoint3DX="854.55" centerPoint3DY="490.9">
+                  <matrix>
+                    <Matrix tx="843.7" ty="480.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="857.65" ty="465.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>UrbanRuinsMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="VaultMarker" color="#B5F5B0" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/VaultMarker" centerPoint3DX="854.35" centerPoint3DY="524.55">
+                  <matrix>
+                    <Matrix tx="843.65" ty="513.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="221" height="24" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="857.65" ty="498.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>VaultMarker</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="9" lineHeight="24" size="20" bitmapSize="400" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Background" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/_DEMO_MapMarkersBorder" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="51.1999969482422" d="28.8000030517578"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.5" y="12.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

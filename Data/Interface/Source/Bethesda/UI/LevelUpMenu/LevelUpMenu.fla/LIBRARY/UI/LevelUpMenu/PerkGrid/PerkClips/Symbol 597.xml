@@ -1,0 +1,1111 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 597" itemID="5dc12b90-000000f3" linkageExportForAS="true" linkageClassName="PerkClip4c929" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 597">
+      <layers>
+        <DOMLayer name="Layer 1" color="#70CEB3">
+          <frames>
+            <DOMFrame index="0" duration="109" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Border" name="border" centerPoint3DX="-131.55" centerPoint3DY="-121.85">
+                  <matrix>
+                    <Matrix a="4.18157958984375" d="3.06521606445313" tx="-179.7" ty="-169.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#A2B5AA">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 580" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 581" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 582" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 583" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 585" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 587" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 580" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 581" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 582" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 583" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 585" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="23" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 587" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="25" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 580" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 581" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 582" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="31" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 583" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-1205 -1624|-1165 -1484!-1165 -1484[-1152 -1445 -1149 -1412!-1149 -1412|-1147 -1343!-1147 -1343|-1151 -1250!-1151 -1250|-1155 -1154!-1155 -1154|-1160 -1152!-1160 -1152|-1165 -1154!-1165 -1154|-1165 -1200!-1165 -1200[-1157 -1244 -1157
+ -1344!-1157 -1344[-1157 -1423 -1183 -1506!-1183 -1506[-1210 -1590 -1210 -1607!-1210 -1607|-1205 -1624!-1229 -1217|-1212 -1175!-1212 -1175|-1185 -1132!-1185 -1132|-1165 -1091!-1165 -1091[-1129 -981 -1128 -924!-1128 -924|-1128 -767!-1128
+ -767|-1132 -766!-1132 -766|-1138 -770!-1138 -770|-1138 -921!-1138 -921[-1134 -996 -1186 -1109!-1186 -1109|-1252 -1249!-1252 -1249[-1238 -1242 -1229 -1217"/>
+                    <Edge fillStyle1="1" edges="
+!-1172 -897|-1183 -848!-1183 -848[-1195 -797 -1195 -750!-1195 -750|-1191 -701!-1191 -701|-1181 -672!-1181 -672|-1172 -653!-1172 -653|-1173 -648!-1173 -648|-1178 -646!-1178 -646[-1194 -646 -1201 -697!-1201 -697|-1205 -749!-1205 -749[-1205
+ -849 -1175 -901!-1175 -901|-1172 -897"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!-1161 -1577|-1159 -1508!-1159 -1508|-1163 -1415!-1163 -1415|-1167 -1319!-1167 -1319|-1172 -1317!-1172 -1317|-1177 -1319!-1177 -1319|-1177 -1365!-1177 -1365[-1169 -1409 -1169 -1509!-1169 -1509[-1169 -1588 -1195 -1671!-1195 -1671[-1222
+ -1755 -1222 -1772!-1222 -1772|-1217 -1789!-1217 -1789|-1177 -1649!-1177 -1649[-1164 -1610 -1161 -1577"/>
+                    <Edge fillStyle1="1" edges="
+!-1233 -1354[-1226 -1334 -1225 -1301!-1225 -1301|-1222 -1249!-1222 -1249|-1191 -1144!-1191 -1144|-1149 -1031!-1149 -1031[-1140 -1002 -1137 -964!-1137 -964|-1111 -1018!-1111 -1018|-1106 -1012!-1106 -1012[-1106 -993 -1136 -934!-1136 -934
+|-1144 -809!-1144 -809|-1150 -807!-1150 -807|-1155 -827!-1155 -827|-1150 -879!-1150 -879|-1147 -913!-1147 -913|-1148 -911!-1148 -911[-1191 -834 -1191 -750!-1191 -750[-1191 -683 -1181 -640!-1181 -640|-1187 -636!-1187 -636|-1191 -637!-1191
+ -637[-1201 -672 -1201 -751!-1201 -751[-1201 -816 -1175 -880!-1175 -880|-1146 -944!-1146 -944[-1150 -1001 -1192 -1113!-1192 -1113[-1238 -1235 -1238 -1335!-1238 -1335|-1233 -1354"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="37" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 580" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 581" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="41" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!-1183 -1453[-1199 -1396 -1199 -1359!-1199 -1359[-1199 -1296 -1165 -1216!-1165 -1216[-1132 -1136 -1132 -1092!-1132 -1092[-1132 -1071 -1135 -1055!-1135 -1055|-1138 -1003!-1138 -1003|-1142 -1002!-1142 -1002|-1148 -1003!-1148 -1003|-1148
+ -1039!-1148 -1039[-1142 -1066 -1142 -1093!-1142 -1093[-1142 -1129 -1176 -1212!-1176 -1212[-1210 -1294 -1210 -1359!-1210 -1359|-1208 -1409!-1208 -1409[-1204 -1433 -1185 -1461!-1185 -1461|-1183 -1453"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!-1193 -1109|-1193 -1092!-1193 -1092[-1193 -1026 -1166 -937!-1166 -937[-1140 -847 -1140 -812!-1140 -812[-1140 -784 -1148 -757!-1148 -757[-1159 -723 -1163 -689!-1163 -689|-1167 -688!-1167 -688[-1173 -689 -1173 -696!-1173 -696|-1162 -742
+!-1162 -742[-1151 -782 -1151 -814!-1151 -814[-1151 -847 -1177 -936!-1177 -936[-1203 -1024 -1203 -1091!-1203 -1091[-1203 -1106 -1193 -1109"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="43" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 583" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="45" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 585" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="47" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 587" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 580" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="51" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 581" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="53" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 582" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 583" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="57" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 585" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 587" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="61" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 580" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="63" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 581" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="65" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 582" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="67" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 583" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 585" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 587" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="73" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 580" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="75" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 581" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="77" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 593" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="79" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 594" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="81" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 595" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="83" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 596" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="85" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 580" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="87" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 581" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="89" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 582" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="91" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 583" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="93" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 585" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="95" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 587" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="97" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 580" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="99" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 581" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="101" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 582" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="103" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 583" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="105" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 585" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="107" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 587" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#E40ECB">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 578" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 579" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#D59758"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#8B5C29"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#6C674E"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#FFEB33"/>
+                    </FillStyle>
+                    <FillStyle index="6">
+                      <SolidColor color="#FFE1BA"/>
+                    </FillStyle>
+                    <FillStyle index="7">
+                      <SolidColor color="#0067B1"/>
+                    </FillStyle>
+                    <FillStyle index="8">
+                      <SolidColor color="#FF4000"/>
+                    </FillStyle>
+                    <FillStyle index="9">
+                      <SolidColor color="#3D3718"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!280 -2240[150 -2240 -26 -2203!-26 -2203|-108 -2183!-108 -2183[-147 -2169 -178 -2140!-178 -2140[-256 -2069 -320 -1942!-320 -1942[-365 -1856 -414 -1716!-414 -1716|-415 -1711!-415 -1711|-460 -1689!-460 -1689[-572 -1634 -629 -1590!-629 -1590
+[-717 -1522 -730 -1446!-730 -1446[-759 -1396 -724 -1361!-724 -1361[-682 -1318 -597 -1301!-597 -1301|-455 -1284!-455 -1284|-436 -1287!-436 -1287|-434 -1249!-434 -1249[-426 -1157 -400 -1072!-400 -1072|-374 -998!-374 -998[-350 -935 -316
+ -878!-316 -878[-355 -823 -362 -792!-362 -792[-365 -783 -359 -775!-359 -775[-354 -767 -344 -767!-344 -767[-294 -764 -249 -749!-249 -749[-190 -730 -188 -701!-188 -701[-184 -639 -275 -455!-275 -455[-360 -580 -431 -607!-431 -607[-396 -681
+ -411 -732!-411 -732[-386 -774 -376 -817!-376 -817[-360 -886 -396 -924!-396 -924[-379 -951 -380 -976!-380 -976|-384 -994!-384 -994[-391 -1014 -411 -1029!-411 -1029[-449 -1058 -521 -1027!-521 -1027[-567 -1008 -620 -969!-620 -969[-689 -1032
+ -739 -1008!-739 -1008[-803 -976 -814 -852!-814 -852|-856 -854!-856 -854[-881 -846 -893 -815!-893 -815|-1212 -639!-1212 -639|-1221 -629!-1221 -629|-1226 -602!-1226 -602[-1228 -574 -1215 -555!-1215 -555[-1194 -523 -1146 -522!-1146 -522
+[-1075 -518 -963 -564!-963 -564[-966 -526 -941 -480!-941 -480[-889 -386 -832 -369!-832 -369[-845 -297 -778 -244!-778 -244[-767 -139 -686 36!-686 36[-565 298 -393 352!-393 352|-393 359!-393 359[-451 902 -463 1081!-463 1081[-506 1714 -424
+ 1769!-424 1769|-424 1940!-424 1940[-497 1945 -588 1966!-588 1966[-709 1994 -738 2031!-738 2031[-753 2049 -750 2071!-750 2071[-741 2116 -603 2130!-603 2130|-345 2138!-345 2138[-402 2163 -448 2190!-448 2190[-508 2226 -520 2250!-520 2250
+[-525 2261 -522 2280!-522 2280|-515 2302!-515 2302|-486 2320!-486 2320[-411 2350 -194 2328!-194 2328[18 2306 121 2261!121 2261|153 2290!153 2290|169 2295!169 2295|315 2276!315 2276[329 2274 332 2262!332 2262[405 2007 416 1880!416 1880
+|477 1879!477 1879|613 1871!613 1871|625 1869!625 1869[680 1861 701 1845!701 1845[734 1820 734 1752!734 1752[734 1401 703 1033!703 1033[681 781 620 454!620 454|564 177!564 177[563 173 568 160!568 160[572 147 577 143!577 143[615 105 704
+ -101!704 -101[808 -338 843 -516!843 -516[883 -715 784 -861!784 -861[786 -938 883 -1080!883 -1080|938 -1153!938 -1153[941 -1163 935 -1171!935 -1171[929 -1179 919 -1179!919 -1179|860 -1175!860 -1175[881 -1273 888 -1381!888 -1381[991 -1416
+ 1069 -1474!1069 -1474[1155 -1539 1198 -1623!1198 -1623[1256 -1736 1101 -1802!1101 -1802[999 -1845 852 -1855!852 -1855|827 -1849!827 -1849[811 -1896 777 -1964!777 -1964|721 -2076!721 -2076|656 -2199!656 -2199[613 -2262 551 -2286!551 -2286
+|438 -2291!438 -2291[397 -2283 328 -2259!328 -2259|318 -2255!318 -2255|280 -2240"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!128 -2176|-20 -2115!-20 -2115[-3 -2140 39 -2156!39 -2156|128 -2176"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!246 -2194[298 -2205 319 -2219!319 -2219|327 -2229!327 -2229|337 -2232!337 -2232[468 -2277 538 -2226!538 -2226[580 -2195 616 -2122!616 -2122|671 -2000!671 -2000|735 -1866!735 -1866[766 -1789 770 -1723!770 -1723[662 -1660 465 -1686!465
+ -1686|154 -1748!154 -1748|-56 -1775!-56 -1775|-265 -1767!-265 -1767|-328 -1753!-328 -1753[-258 -1941 -166 -2074!-166 -2074|-116 -2136!-116 -2136[-91 -2157 -48 -2166!-48 -2166|-28 -2171!-28 -2171[-95 -2144 -107 -2076!-107 -2076[-110 -2064
+ -91 -2064!-91 -2064|-65 -2067!-65 -2067[49 -2102 167 -2156!167 -2156|246 -2194"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!837 -1813[992 -1799 1099 -1731!1099 -1731[1186 -1676 1095 -1570!1095 -1570[1029 -1494 937 -1444!937 -1444[874 -1411 806 -1396!806 -1396[672 -1364 510 -1397!510 -1397[447 -1411 337 -1457!337 -1457[221 -1506 166 -1520!166 -1520[-64 -1580
+ -245 -1586!-245 -1586[-482 -1594 -652 -1514!-652 -1514|-676 -1500!-676 -1500[-650 -1552 -582 -1601!-582 -1601[-536 -1633 -453 -1675!-453 -1675|-393 -1704!-393 -1704|-362 -1710!-362 -1710[-311 -1729 -260 -1737!-260 -1737[-146 -1756 13
+ -1730!13 -1730|293 -1673!293 -1673[459 -1639 567 -1642!567 -1642[713 -1646 826 -1714!826 -1714|843 -1724!843 -1724|848 -1732!848 -1732|848 -1735!848 -1735|837 -1813"/>
+                    <Edge fillStyle0="1" fillStyle1="5" edges="
+!-75 -1406|6 -1382!6 -1382|91 -1330!91 -1330[140 -1297 139 -1318!139 -1318[138 -1331 93 -1360!93 -1360|15 -1406!15 -1406[-6 -1418 -73 -1438!-73 -1438|-32 -1469!-32 -1469[-6 -1490 -2 -1505!-2 -1505|-2 -1506!-2 -1506[157 -1470 322 -1403
+!322 -1403[503 -1331 695 -1343!695 -1343|814 -1360!814 -1360|824 -1363!824 -1363[821 -1259 803 -1169!803 -1169|801 -1169!801 -1169|613 -1145!613 -1145[351 -1115 292 -1094!292 -1094[223 -1069 109 -1053!109 -1053|112 -1073!112 -1073[125
+ -1126 107 -1181!107 -1181[90 -1228 53 -1241!53 -1241|-15 -1238"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!891 -1139|724 -895!724 -895|670 -905!670 -905|538 -897!538 -897|321 -848!321 -848|310 -839!310 -839[306 -832 308 -824!308 -824[312 -806 331 -810!331 -810|401 -828!401 -828|544 -853!544 -853[605 -860 679 -851!679 -851|741 -841!741 -841
+|787 -757!787 -757[830 -650 812 -536!812 -536[785 -365 682 -131!682 -131[592 71 549 114!549 114[499 164 302 200!302 200[108 235 -49 224!-49 224|52 139!52 139[156 48 279 -140!279 -140[341 -235 387 -320!387 -320|319 -277!319 -277[218 -132
+ 86 7!86 7[-179 284 -337 266!-337 266[-497 248 -621 23!-621 23[-708 -136 -717 -221!-717 -221[-682 -335 -578 -433!-578 -433[-524 -485 -454 -535!-454 -535[-418 -529 -374 -497!-374 -497[-328 -464 -299 -419!-299 -419|-335 -115!-335 -115[-337
+ -96 -318 -93!-318 -93[-300 -89 -295 -107!-295 -107|-272 -198!-272 -198[-258 -133 -234 -121!-234 -121|-195 -124!-195 -124[-158 -148 -178 -263!-178 -263[-191 -341 -226 -443!-226 -443|-47 -672!-47 -672[1 -695 55 -708!55 -708[153 -731 220
+ -707!220 -707[254 -695 280 -669!280 -669[298 -652 360 -620!360 -620[319 -714 233 -745!233 -745[157 -772 53 -749!53 -749[-8 -735 -62 -709!-62 -709[-66 -784 -73 -827!-73 -827[-85 -902 -121 -953!-121 -953[-55 -955 75 -987!75 -987[196 -1017
+ 305 -1056!305 -1056[395 -1088 617 -1112!617 -1112|770 -1128!770 -1128|844 -1139!844 -1139|891 -1139"/>
+                    <Edge fillStyle0="5" fillStyle1="1" edges="
+!-80 -1389|-13 -1360!-13 -1360|34 -1333!34 -1333[73 -1304 68 -1297!68 -1297[66 -1284 30 -1306!30 -1306|-21 -1339!-21 -1339|-80 -1353!-84 -1330|-42 -1317!-42 -1317[-27 -1314 -6 -1301!-6 -1301|14 -1280!14 -1280[18 -1271 10 -1272!10 -1272
+[6 -1269 -10 -1277!-10 -1277|-44 -1294"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="
+!-15 -1238|-52 -1220!-52 -1220|-69 -1214!-69 -1214[-85 -1206 -79 -1196!-79 -1196[-73 -1186 -50 -1184!-50 -1184|-27 -1184!-27 -1184|1 -1197!1 -1197|39 -1199!39 -1199[56 -1193 65 -1167!65 -1167[85 -1109 57 -1046!57 -1046|-113 -1032!-113
+ -1032|-188 -1029!-188 -1029|-206 -1016!-206 -1016[-211 -1002 -200 -994!-200 -994[-160 -959 -134 -874!-134 -874|-132 -871!-132 -871|-121 -831!-121 -831|-121 -826!-121 -826|-107 -751!-107 -751[-197 -777 -258 -858!-258 -858[-323 -944 -364
+ -1101!-364 -1101[-376 -1147 -381 -1209!-381 -1209|-384 -1263!-384 -1263|-374 -1257!-374 -1257[-363 -1226 -342 -1201!-342 -1201[-322 -1176 -310 -1177!-310 -1177[-296 -1178 -288 -1206!-288 -1206[-280 -1234 -284 -1271!-284 -1271[-289 -1309
+ -302 -1334!-302 -1334[-315 -1359 -330 -1358!-330 -1358[-347 -1356 -357 -1346!-357 -1346[-364 -1333 -371 -1347!-371 -1347|-381 -1370!-381 -1370|-376 -1432!-376 -1432|-323 -1446!-323 -1446|-273 -1451!-273 -1451[-247 -1454 -242 -1459!-242
+ -1459[-256 -1494 -366 -1502!-366 -1502|-357 -1542!-357 -1542|-124 -1529!-124 -1529|-32 -1512!-32 -1512[-42 -1477 -91 -1454!-91 -1454|-90 -1452!-90 -1452[-108 -1454 -110 -1436!-110 -1436[-112 -1418 -83 -1409!-83 -1409|-75 -1406"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!-415 -1536|-435 -1383!-435 -1383|-437 -1326!-437 -1326[-748 -1366 -638 -1474!-638 -1474[-609 -1503 -546 -1517!-546 -1517|-444 -1533!-444 -1533|-415 -1536!-435 -997[-421 -986 -420 -974!-420 -974[-419 -952 -444 -927!-444 -927|-556 -895
+!-556 -895|-592 -940!-592 -940[-545 -974 -504 -991!-504 -991[-454 -1011 -435 -997"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!-75 -1406|-80 -1389"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="
+!-80 -1389|-88 -1390!-88 -1390[-101 -1390 -105 -1376!-105 -1376[-108 -1361 -89 -1355!-89 -1355|-80 -1353!-84 -1330|-91 -1330!-91 -1330[-99 -1330 -103 -1323!-103 -1323[-106 -1316 -97 -1310!-97 -1310[-84 -1302 -48 -1296!-48 -1296|-44 -1294"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!-80 -1353|-84 -1330"/>
+                    <Edge fillStyle0="6" fillStyle1="1" edges="
+!-34 -1247|-40 -1248!-40 -1248[-48 -1253 -68 -1248!-68 -1248|-87 -1243!-87 -1243[-98 -1238 -104 -1249!-104 -1249[-110 -1260 -99 -1267!-99 -1267|-67 -1277!-67 -1277|-46 -1278"/>
+                    <Edge fillStyle0="5" fillStyle1="1" edges="
+!-46 -1278|-30 -1273!-30 -1273[-18 -1266 -21 -1256!-21 -1256[-24 -1247 -34 -1247"/>
+                    <Edge fillStyle0="5" fillStyle1="6" edges="
+!-44 -1294|-46 -1278!-34 -1247|-15 -1238"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="
+!-844 -816[-830 -820 -808 -804!-808 -804|-787 -802!-787 -802[-776 -807 -776 -820!-776 -820[-776 -860 -765 -901!-765 -901[-750 -958 -721 -972!-721 -972[-698 -984 -652 -943!-652 -943[-614 -909 -582 -861!-582 -861[-573 -848 -559 -853!-559
+ -853|-421 -892!-421 -892[-400 -862 -422 -801!-422 -801[-433 -771 -449 -746!-449 -746[-456 -738 -451 -728!-451 -728[-441 -701 -452 -660!-452 -660[-460 -633 -474 -611!-474 -611[-640 -571 -783 -432!-783 -432|-831 -436!-831 -436[-877 -448
+ -906 -499!-906 -499[-932 -548 -919 -577!-919 -577[-911 -595 -888 -607!-888 -607|-867 -617!-867 -617[-859 -618 -855 -626!-855 -626[-850 -633 -852 -641!-852 -641|-861 -696!-861 -696[-868 -759 -857 -796!-857 -796[-853 -812 -844 -816"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!-1122 -643|-903 -764!-903 -764[-906 -716 -895 -649!-895 -649[-921 -637 -940 -617!-940 -617[-1026 -580 -1080 -569!-1080 -569[-1110 -589 -1122 -643"/>
+                    <Edge fillStyle0="1" fillStyle1="8" edges="
+!-1182 -577[-1190 -589 -1185 -608!-1185 -608|-1140 -633!-1140 -633[-1131 -590 -1105 -564!-1105 -564|-1144 -562!-1144 -562[-1173 -563 -1182 -577"/>
+                    <Edge fillStyle0="1" fillStyle1="9" edges="
+!-252 -792|-316 -805!-316 -805|-294 -843!-294 -843|-252 -792!-153 -724[-129 -713 -102 -709!-102 -709|-99 -670!-99 -670|-184 -563!-184 -563[-145 -660 -148 -703!-148 -703|-153 -724"/>
+                    <Edge fillStyle0="1" fillStyle1="7" edges="
+!-789 -374[-661 -494 -535 -548!-535 -548[-698 -382 -763 -284!-763 -284[-808 -327 -789 -374"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!587 532[633 804 645 1052!645 1052[665 1450 662 1757!662 1757[659 1838 477 1843!477 1843|398 1840!398 1840|394 1841!394 1841[130 1849 -87 1811!-87 1811[-217 1788 -299 1757!-299 1757|-304 358!-304 358[-216 348 -105 268!-105 268[-47 303
+ 71 300!71 300[248 296 528 207!528 207|587 532"/>
+                    <Edge fillStyle0="1" fillStyle1="9" edges="
+!-344 360|-339 1756!-339 1756[-365 1760 -393 1744!-393 1744[-425 1716 -426 1547!-426 1547[-426 1452 -412 1222!-412 1222|-403 1068!-403 1068[-389 780 -353 359!-353 359|-344 360"/>
+                    <Edge fillStyle0="1" fillStyle1="7" edges="
+!-188 1832|-188 2062!-188 2062[-299 2063 -352 2014!-352 2014[-381 1987 -384 1958!-384 1958|-384 1791!-384 1791[-347 1803 -319 1792!-319 1792[-269 1813 -188 1832!347 1884|340 1975!340 1975[336 2028 324 2076!324 2076[101 2108 -31 2100!-31
+ 2100[-122 2094 -148 2073!-148 2073|-148 1841!-148 1841|55 1874!55 1874|347 1884"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!173 2254|137 2223!137 2223[127 2213 115 2220!115 2220[11 2272 -215 2283!-215 2283[-433 2293 -452 2259!-452 2259|-450 2252!-450 2252[-437 2226 -359 2188!-359 2188[-296 2157 -224 2134!-224 2134|-212 2124!-212 2124|-172 2106!-172 2106[-126
+ 2141 -37 2159!-37 2159[105 2186 319 2157!319 2157|297 2238!297 2238|173 2254!-420 1980[-388 2074 -264 2096!-264 2096[-434 2101 -560 2088!-560 2088[-687 2074 -691 2050!-691 2050|-688 2042!-688 2042[-669 2018 -579 2000!-579 2000|-420 1980"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#D59758"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#8B5C29"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#FFEB33"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#FFE1BA"/>
+                    </FillStyle>
+                    <FillStyle index="6">
+                      <SolidColor color="#6C674E"/>
+                    </FillStyle>
+                    <FillStyle index="7">
+                      <SolidColor color="#3D3718"/>
+                    </FillStyle>
+                    <FillStyle index="8">
+                      <SolidColor color="#0067B1"/>
+                    </FillStyle>
+                    <FillStyle index="9">
+                      <SolidColor color="#FF4000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!332 -2241[187 -2242 1 -2203!1 -2203|-72 -2187!-72 -2187[-112 -2176 -136 -2154!-136 -2154[-214 -2080 -268 -1955!-268 -1955[-308 -1863 -341 -1725!-341 -1725[-432 -1669 -498 -1606!-498 -1606[-602 -1506 -605 -1421!-605 -1421[-621 -1400 -620
+ -1375!-620 -1375[-618 -1348 -596 -1324!-596 -1324[-559 -1285 -470 -1272!-470 -1272|-329 -1259!-329 -1259|-305 -1264!-305 -1264[-299 -1118 -231 -988!-231 -988|-295 -904!-295 -904[-355 -821 -362 -792!-362 -792[-365 -783 -359 -775!-359
+ -775[-354 -767 -344 -767!-344 -767[-293 -764 -248 -749!-248 -749[-190 -730 -188 -701!-188 -701[-184 -639 -275 -455!-275 -455[-360 -580 -431 -607!-431 -607[-396 -681 -411 -732!-411 -732[-389 -774 -381 -798!-381 -798[-355 -880 -396 -924
+!-396 -924[-379 -951 -380 -976!-380 -976[-382 -1007 -411 -1029!-411 -1029[-449 -1058 -521 -1027!-521 -1027[-567 -1008 -620 -969!-620 -969[-689 -1032 -739 -1008!-739 -1008[-803 -976 -814 -852!-814 -852|-856 -854!-856 -854[-881 -846 -893
+ -815!-893 -815|-1211 -639!-1211 -639|-1220 -629!-1220 -629|-1226 -602!-1226 -602[-1228 -575 -1215 -555!-1215 -555[-1194 -523 -1146 -522!-1146 -522[-1075 -518 -963 -564!-963 -564[-966 -526 -941 -480!-941 -480[-889 -386 -832 -369!-832
+ -369[-845 -297 -777 -244!-777 -244[-769 -144 -686 36!-686 36[-565 298 -393 352!-393 352|-393 359!-393 359|-462 1081!-462 1081[-506 1714 -424 1769!-424 1769|-424 1940!-424 1940[-497 1945 -588 1966!-588 1966[-709 1994 -738 2031!-738 2031
+[-754 2050 -749 2071!-749 2071[-741 2116 -603 2130!-603 2130|-345 2138!-345 2138[-403 2163 -448 2190!-448 2190[-508 2226 -520 2250!-520 2250[-525 2261 -522 2280!-522 2280|-515 2302!-515 2302[-504 2313 -486 2320!-486 2320[-411 2350 -194
+ 2328!-194 2328[18 2306 121 2261!121 2261|153 2290!153 2290|169 2295!169 2295|316 2276!316 2276[329 2274 332 2262!332 2262[405 2007 417 1880!417 1880|477 1879!477 1879|613 1871!613 1871|625 1869!625 1869[680 1861 701 1845!701 1845[734
+ 1820 734 1752!734 1752[734 1401 703 1033!703 1033[688 863 662 700!662 700|669 685!669 685[696 623 677 582!677 582|667 567!667 567[741 472 723 411!723 411[712 383 685 369!685 369[710 285 752 59!752 59[804 -223 810 -384!810 -384[834 -466
+ 843 -516!843 -516[883 -715 784 -861!784 -861[786 -934 877 -1070!877 -1070|938 -1153!938 -1153[941 -1163 935 -1171!935 -1171[929 -1179 919 -1179!919 -1179|767 -1164!767 -1164[832 -1251 852 -1376!852 -1376[869 -1488 846 -1607!846 -1607
+|981 -1599!981 -1599|1116 -1570!1116 -1570|1180 -1568!1180 -1568[1223 -1576 1222 -1606!1222 -1606[1221 -1700 1058 -1777!1058 -1777[930 -1839 805 -1853!805 -1853[790 -2010 735 -2129!735 -2129[663 -2283 551 -2292!551 -2292[481 -2298 415
+ -2275!415 -2275[376 -2261 339 -2240!339 -2240|332 -2241"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!148 -2140[175 -2155 240 -2176!240 -2176[140 -2104 85 -2078!85 -2078[102 -2115 148 -2140"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!41 -2027[141 -2059 223 -2115!223 -2115|319 -2189!319 -2189[378 -2234 424 -2248!424 -2248|516 -2253!516 -2253[571 -2241 616 -2170!616 -2170[638 -2135 673 -2048!673 -2048[724 -1923 730 -1802!730 -1802[633 -1812 516 -1797!516 -1797|304
+ -1756!304 -1756|180 -1723!180 -1723|42 -1688!42 -1688|-109 -1675!-109 -1675[-188 -1680 -243 -1715!-243 -1715[-283 -1742 -232 -1872!-232 -1872[-215 -1917 -154 -2039!-154 -2039[-125 -2094 -80 -2142!-80 -2142[-71 -2153 -55 -2158!-55 -2158
+|-21 -2166!-21 -2166[121 -2199 242 -2203!242 -2203[138 -2172 92 -2151!92 -2151[12 -2114 -1 -2036!-1 -2036[-3 -2024 16 -2024!16 -2024|41 -2027"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!1108 -1623[928 -1671 775 -1632!775 -1632[701 -1613 570 -1553!570 -1553[434 -1491 366 -1472!366 -1472|355 -1469!355 -1469|341 -1470!341 -1470[328 -1471 308 -1458!308 -1458|256 -1447!256 -1447[128 -1424 -115 -1416!-115 -1416[-270 -1409
+ -392 -1437!-392 -1437|-467 -1452!-467 -1452|-543 -1454!-543 -1454|-560 -1450!-560 -1450[-541 -1512 -461 -1586!-461 -1586[-400 -1641 -323 -1689!-323 -1689[-304 -1675 -270 -1663!-270 -1663|-225 -1650!-225 -1650|23 -1659!23 -1659|47 -1664
+!47 -1664|389 -1744!389 -1744[592 -1785 737 -1758!737 -1758|779 -1761!779 -1761[808 -1770 808 -1785!808 -1785|808 -1805!808 -1805[888 -1786 999 -1731!999 -1731[1101 -1682 1137 -1616!1137 -1616|1108 -1623"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!806 -1602[829 -1486 813 -1376!813 -1376[795 -1251 730 -1167!730 -1167[694 -1235 639 -1240!639 -1240[671 -1294 664 -1366!664 -1366[657 -1441 601 -1448!601 -1448[554 -1454 494 -1415!494 -1415[467 -1441 427 -1455!427 -1455|590 -1524!590
+ -1524[694 -1571 754 -1590!754 -1590|806 -1602"/>
+                    <Edge fillStyle0="1" fillStyle1="5" edges="
+!368 -1362[366 -1351 381 -1346!381 -1346|426 -1333!426 -1333|466 -1308!466 -1308[489 -1293 488 -1304!488 -1304[487 -1312 470 -1328!470 -1328|437 -1353!437 -1353[409 -1370 380 -1372!380 -1372[370 -1374 368 -1362!362 -1435[423 -1418 457
+ -1375!457 -1375[464 -1366 484 -1372!484 -1372[502 -1377 510 -1386!510 -1386|544 -1416!544 -1416[566 -1428 583 -1412!583 -1412[603 -1392 607 -1343!607 -1343[610 -1309 599 -1265!599 -1265[584 -1209 557 -1214!557 -1214[543 -1216 521 -1202
+!521 -1202[499 -1189 521 -1185!521 -1185[577 -1175 618 -1213!618 -1213[661 -1213 689 -1162!689 -1162|687 -1155!687 -1155|598 -1144!598 -1144[352 -1114 292 -1094!292 -1094[186 -1056 -10 -1039!-10 -1039|-188 -1029!-188 -1029|-197 -1026
+!-197 -1026[-220 -1072 -231 -1105!-231 -1105[-257 -1177 -265 -1255!-265 -1255|-268 -1289!-268 -1289|-268 -1292!-268 -1292|-267 -1372!-267 -1372|-160 -1373!-160 -1373[-170 -1371 -172 -1351!-172 -1351|-175 -1319!-175 -1319|-184 -1259!-184
+ -1259[-192 -1221 -225 -1130!-225 -1130[-228 -1120 -223 -1108!-223 -1108|-215 -1098!-215 -1098|-149 -1049!-149 -1049|-115 -1048!-115 -1048|-100 -1059!-100 -1059[-93 -1064 -93 -1070!-93 -1070[-93 -1078 -100 -1082!-100 -1082|-153 -1118
+!-153 -1118|-164 -1132!-164 -1132|-166 -1150!-166 -1150|-153 -1242!-153 -1242|-147 -1319!-147 -1319|-148 -1355!-148 -1355[-148 -1373 -159 -1373!-159 -1373|-39 -1380!-39 -1380|-56 -1377!-56 -1377[-58 -1353 -22 -1349!-22 -1349|31 -1353
+!31 -1353|32 -1354!32 -1354[29 -1335 33 -1315!33 -1315[38 -1286 52 -1267!52 -1267[66 -1249 82 -1252!82 -1252[97 -1254 105 -1276!105 -1276[112 -1299 107 -1328!107 -1328[99 -1376 72 -1388!72 -1388|262 -1413!262 -1413|352 -1432!352 -1432
+|362 -1435!400 -1276|417 -1269!417 -1269[434 -1258 436 -1252!436 -1252[441 -1241 452 -1245!452 -1245[463 -1249 458 -1263!458 -1263|435 -1288!435 -1288[420 -1297 406 -1299!406 -1299[394 -1301 392 -1290!392 -1290[389 -1279 400 -1276"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="
+!602 -1112|891 -1139!891 -1139|724 -895!724 -895|670 -905!670 -905|539 -897!539 -897|321 -848!321 -848|310 -839!310 -839[306 -832 308 -824!308 -824|317 -812!317 -812|331 -810!331 -810|401 -828!401 -828|544 -853!544 -853|741 -841!741 -841
+|788 -757!788 -757[831 -650 813 -536!813 -536[783 -355 677 -119!677 -119|601 34!601 34[566 98 549 114!549 114[499 164 302 200!302 200[108 235 -48 224!-48 224|52 139!52 139[156 48 279 -140!279 -140[341 -235 387 -320!387 -320|319 -277!319
+ -277[218 -132 86 7!86 7[-179 284 -337 266!-337 266[-497 248 -621 23!-621 23[-708 -136 -717 -221!-717 -221[-682 -335 -578 -433!-578 -433[-524 -485 -454 -535!-454 -535[-418 -529 -374 -497!-374 -497[-328 -464 -299 -419!-299 -419|-335 -115
+!-335 -115[-337 -96 -318 -93!-318 -93[-300 -89 -295 -107!-295 -107|-272 -198!-272 -198[-258 -133 -234 -121!-234 -121|-195 -124!-195 -124[-158 -148 -178 -263!-178 -263[-191 -341 -226 -443!-226 -443|-47 -672!-47 -672[1 -695 55 -708!55 -708
+[153 -731 220 -707!220 -707[253 -696 281 -669!281 -669[298 -652 360 -620!360 -620[319 -714 233 -745!233 -745[157 -772 54 -749!54 -749[-9 -735 -62 -709!-62 -709|-73 -827!-73 -827[-85 -902 -121 -953!-121 -953[-55 -955 75 -987!75 -987[196
+ -1017 305 -1056!305 -1056[393 -1086 602 -1112"/>
+                    <Edge fillStyle0="1" fillStyle1="7" edges="
+!725 -149[710 -23 679 121!679 121[653 237 632 301!632 301[631 266 598 238!598 238|574 222!574 222|564 177!564 177[563 173 568 160!568 160[572 147 577 143!577 143[592 128 628 60!628 60[667 -13 707 -106!707 -106|725 -149"/>
+                    <Edge fillStyle0="1" fillStyle1="5" edges="
+!655 400[680 407 684 423!684 423[696 461 636 541!636 541|606 377!606 377|613 366!613 366|635 386!635 386|655 400"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="
+!528 207|587 532!587 532[633 804 645 1052!645 1052[665 1450 662 1757!662 1757[659 1838 477 1843!477 1843|398 1840!398 1840|394 1841!394 1841[130 1849 -87 1811!-87 1811[-217 1788 -299 1757!-299 1757|-304 358!-304 358[-216 348 -105 268
+!-105 268[-47 303 71 300!71 300[248 296 528 207"/>
+                    <Edge fillStyle0="1" fillStyle1="8" edges="
+!348 1884|341 1975!341 1975[336 2029 324 2076!324 2076[101 2108 -31 2100!-31 2100[-122 2094 -148 2073!-148 2073|-148 1841!-148 1841|55 1874!55 1874|348 1884"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!138 2223[127 2214 115 2220!115 2220[11 2272 -215 2283!-215 2283[-433 2293 -452 2259!-452 2259|-450 2252!-450 2252[-437 2226 -359 2188!-359 2188[-296 2157 -224 2134!-224 2134|-212 2124!-212 2124|-172 2106!-172 2106[-125 2141 -37 2159
+!-37 2159[105 2186 319 2157!319 2157|297 2238!297 2238|173 2254!173 2254|138 2223!-421 -1396|-326 -1378!-326 -1378|-303 -1359!-303 -1359|-305 -1300!-305 -1300|-411 -1313!-411 -1313[-459 -1321 -501 -1338!-501 -1338[-519 -1347 -538 -1381
+!-538 -1381[-560 -1419 -516 -1414!-516 -1414|-421 -1396!-435 -997[-421 -986 -420 -974!-420 -974[-419 -952 -444 -927!-444 -927|-556 -895!-556 -895|-592 -940!-592 -940[-545 -974 -504 -991!-504 -991[-454 -1011 -435 -997"/>
+                    <Edge fillStyle0="1" fillStyle1="5" edges="
+!-844 -816[-830 -820 -808 -804!-808 -804|-787 -802!-787 -802[-776 -807 -776 -820!-776 -820[-776 -860 -765 -901!-765 -901[-750 -958 -721 -972!-721 -972[-698 -984 -652 -943!-652 -943[-612 -909 -581 -861!-581 -861[-574 -848 -559 -853!-559
+ -853|-420 -892!-420 -892[-399 -862 -422 -801!-422 -801[-433 -771 -449 -746!-449 -746[-456 -738 -451 -728!-451 -728[-441 -701 -452 -660!-452 -660[-460 -633 -474 -611!-474 -611[-638 -571 -782 -432!-782 -432|-831 -436!-831 -436[-877 -448
+ -906 -499!-906 -499[-932 -548 -919 -577!-919 -577[-911 -595 -888 -607!-888 -607|-867 -617!-867 -617[-859 -618 -854 -626!-854 -626[-850 -633 -852 -641!-852 -641|-861 -696!-861 -696[-868 -759 -857 -796!-857 -796[-853 -812 -844 -816"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!-1122 -643|-903 -764!-903 -764[-906 -716 -895 -649!-895 -649[-921 -637 -940 -617!-940 -617[-1018 -582 -1080 -569!-1080 -569[-1110 -589 -1122 -643"/>
+                    <Edge fillStyle0="1" fillStyle1="9" edges="
+!-1140 -633[-1128 -588 -1105 -564!-1105 -564|-1144 -562!-1144 -562[-1173 -563 -1182 -577!-1182 -577[-1190 -589 -1185 -608!-1185 -608|-1140 -633"/>
+                    <Edge fillStyle0="1" fillStyle1="7" edges="
+!-119 -816[-102 -739 -99 -670!-99 -670|-183 -563!-183 -563[-146 -662 -148 -703!-148 -703[-154 -784 -315 -805!-315 -805[-299 -842 -212 -954!-212 -954[-173 -890 -125 -842!-125 -842|-119 -816"/>
+                    <Edge fillStyle0="1" fillStyle1="8" edges="
+!-789 -374[-661 -494 -535 -548!-535 -548[-698 -382 -763 -284!-763 -284[-808 -327 -789 -374"/>
+                    <Edge fillStyle0="1" fillStyle1="7" edges="
+!-344 360|-339 1756!-339 1756[-365 1760 -393 1744!-393 1744[-425 1716 -426 1547!-426 1547[-426 1452 -412 1222!-412 1222|-403 1068!-403 1068[-389 780 -353 359!-353 359|-344 360"/>
+                    <Edge fillStyle0="1" fillStyle1="8" edges="
+!-384 1791[-347 1803 -319 1792!-319 1792[-269 1813 -188 1832!-188 1832|-188 2062!-188 2062[-299 2063 -352 2014!-352 2014[-381 1987 -384 1958!-384 1958|-384 1791"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!-420 1980[-388 2074 -264 2096!-264 2096[-434 2101 -560 2088!-560 2088[-687 2074 -691 2050!-691 2050|-688 2042!-688 2042[-669 2018 -579 2000!-579 2000|-420 1980"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#8B5C29"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#D59758"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#FFE1BA"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#6C674E"/>
+                    </FillStyle>
+                    <FillStyle index="6">
+                      <SolidColor color="#3D3718"/>
+                    </FillStyle>
+                    <FillStyle index="7">
+                      <SolidColor color="#B2B2B2"/>
+                    </FillStyle>
+                    <FillStyle index="8">
+                      <SolidColor color="#0067B1"/>
+                    </FillStyle>
+                    <FillStyle index="9">
+                      <SolidColor color="#FF4000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!244 -2229|39 -2204!39 -2204|0 -2196!0 -2196|-81 -2177!-81 -2177[-127 -2164 -155 -2141!-155 -2141[-282 -2039 -337 -1742!-337 -1742|-336 -1728!-336 -1728[-452 -1608 -536 -1492!-536 -1492[-673 -1306 -665 -1209!-665 -1209[-690 -1161 -651
+ -1148!-651 -1148[-600 -1130 -520 -1170!-520 -1170[-429 -1216 -392 -1215!-392 -1215|-375 -1218!-375 -1218[-357 -1066 -275 -938!-275 -938[-352 -834 -362 -792!-362 -792[-364 -783 -359 -775!-359 -775[-353 -767 -344 -767!-344 -767[-293 -764
+ -248 -749!-248 -749[-190 -730 -188 -701!-188 -701[-184 -642 -274 -455!-274 -455[-358 -580 -430 -607!-430 -607[-396 -680 -410 -732!-410 -732[-390 -769 -381 -798!-381 -798[-353 -880 -395 -924!-395 -924[-379 -949 -380 -976!-380 -976[-382
+ -1007 -411 -1029!-411 -1029[-448 -1058 -521 -1027!-521 -1027[-567 -1008 -620 -969!-620 -969[-689 -1032 -738 -1008!-738 -1008[-800 -977 -814 -852!-814 -852|-856 -854!-856 -854[-881 -845 -892 -815!-892 -815|-1211 -639!-1211 -639|-1220
+ -629!-1220 -629|-1226 -602!-1226 -602[-1228 -575 -1215 -555!-1215 -555[-1193 -523 -1146 -522!-1146 -522[-1076 -518 -962 -564!-962 -564[-966 -528 -940 -480!-940 -480[-887 -386 -831 -369!-831 -369[-837 -339 -826 -309!-826 -309[-813 -273
+ -777 -244!-777 -244[-766 -138 -685 36!-685 36[-565 298 -392 352!-392 352|-393 359!-393 359|-462 1081!-462 1081[-506 1714 -424 1769!-424 1769|-424 1940!-424 1940[-497 1945 -588 1966!-588 1966[-708 1994 -738 2031!-738 2031[-752 2048 -749
+ 2071!-749 2071[-741 2116 -603 2130!-603 2130|-345 2138!-345 2138[-403 2163 -448 2190!-448 2190[-508 2226 -519 2250!-519 2250[-524 2261 -521 2280!-521 2280|-514 2302!-514 2302|-486 2320!-486 2320[-411 2350 -194 2328!-194 2328[19 2306
+ 121 2261!121 2261|154 2290!154 2290|170 2295!170 2295|315 2276!315 2276[327 2274 332 2262!332 2262[405 2007 416 1880!416 1880|477 1879!477 1879|613 1871!613 1871|624 1869!624 1869[680 1861 700 1845!700 1845[734 1820 734 1752!734 1752
+[734 1464 713 1167!713 1167|721 1153!721 1153|721 1150!721 1150|708 947!708 947|740 942!740 942[791 921 812 813!812 813[833 813 848 805!848 805[882 789 900 740!900 740[915 740 929 730!929 730[966 708 978 641!978 641[990 572 965 539!965
+ 539|952 526!952 526[1003 414 974 362!974 362[960 337 928 328!928 328[939 202 926 -99!926 -99[909 -478 855 -595!855 -595[865 -691 835 -770!835 -770|784 -861!784 -861[787 -933 869 -1059!869 -1059|937 -1153!937 -1153[940 -1162 935 -1171
+!935 -1171[929 -1179 918 -1179!918 -1179|668 -1153!668 -1153|672 -1167!672 -1167|682 -1170!682 -1170[748 -1190 769 -1277!769 -1277[791 -1365 735 -1418!735 -1418[876 -1462 982 -1544!982 -1544[1104 -1637 1144 -1753!1144 -1753[1157 -1789
+ 1149 -1817!1149 -1817[1139 -1849 1104 -1855!1104 -1855[1065 -1860 997 -1853!997 -1853|888 -1845!888 -1845|733 -1853!733 -1853[729 -1917 687 -1997!687 -1997[634 -2086 611 -2132!611 -2132[559 -2241 447 -2263!447 -2263[402 -2272 344 -2261
+!344 -2261[290 -2251 244 -2229"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!175 -2184|35 -2136!35 -2136[-37 -2099 -49 -2025!-49 -2025[-51 -2013 -32 -2013!-32 -2013|-6 -2016!-6 -2016[98 -2050 155 -2098!155 -2098|203 -2142!203 -2142|247 -2182!247 -2182|298 -2208!298 -2208|305 -2216!305 -2216|345 -2226!345 -2226
+[423 -2240 481 -2182!481 -2182[520 -2144 560 -2056!560 -2056[578 -2016 619 -1951!619 -1951[651 -1892 656 -1840!656 -1840|632 -1834!632 -1834[549 -1810 423 -1762!423 -1762[246 -1694 216 -1684!216 -1684[65 -1630 -53 -1644!-53 -1644[-98
+ -1650 -174 -1683!-174 -1683[-265 -1723 -260 -1754!-260 -1754[-229 -1927 -155 -2058!-155 -2058[-128 -2106 -107 -2123!-107 -2123[-85 -2143 -37 -2155!-37 -2155|45 -2173!45 -2173|183 -2191!183 -2191|175 -2184"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!39 -2070[60 -2113 126 -2141!126 -2141[75 -2092 39 -2070!1006 -1814[1045 -1819 1061 -1814!1061 -1814[1132 -1790 973 -1602!973 -1602[889 -1519 770 -1470!770 -1470[651 -1421 534 -1421!534 -1421[454 -1420 328 -1446!328 -1446|123 -1485!123
+ -1485[-13 -1504 -145 -1487!-145 -1487[-375 -1457 -575 -1310!-575 -1310|-617 -1271!-617 -1271[-590 -1356 -485 -1493!-485 -1493[-408 -1594 -312 -1695!-312 -1695[-290 -1676 -208 -1639!-208 -1639[-110 -1593 42 -1609!42 -1609[164 -1621 345
+ -1691!345 -1691[600 -1791 641 -1803!641 -1803|681 -1814!681 -1814|830 -1806!830 -1806[880 -1803 950 -1807!950 -1807|1006 -1814"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!206 -1330[201 -1359 186 -1377!186 -1377[172 -1395 156 -1393!156 -1393|150 -1391!150 -1391|159 -1438!159 -1438|391 -1393!391 -1393[523 -1374 622 -1391!622 -1391|674 -1401!674 -1401[736 -1361 721 -1286!721 -1286[707 -1211 635 -1189!635
+ -1189|620 -1185!620 -1185|611 -1146!611 -1146|591 -1143!591 -1143[344 -1112 292 -1094!292 -1094[186 -1056 -10 -1039!-10 -1039|-187 -1029!-187 -1029[-200 -1029 -206 -1016!-206 -1016[-209 -1002 -200 -994!-200 -994|-166 -954!-166 -954[-138
+ -916 -127 -882!-127 -882|-114 -825!-114 -825[-207 -904 -267 -1017!-267 -1017[-326 -1131 -339 -1255!-339 -1255|-342 -1335!-342 -1335[-312 -1341 -302 -1330!-302 -1330|-281 -1298!-281 -1298[-292 -1290 -296 -1270!-296 -1270[-300 -1250 -296
+ -1227!-296 -1227[-291 -1199 -277 -1180!-277 -1180[-263 -1162 -247 -1164!-247 -1164[-231 -1167 -224 -1189!-224 -1189[-217 -1211 -222 -1240!-222 -1240[-225 -1261 -236 -1279!-236 -1279[-180 -1295 -193 -1321!-193 -1321[-213 -1303 -229 -1314
+!-229 -1314|-265 -1346!-265 -1346[-293 -1369 -308 -1368!-308 -1368[-321 -1367 -341 -1352!-341 -1352|-338 -1401!-338 -1401|-219 -1444!-219 -1444|-142 -1460!-142 -1460|114 -1447!114 -1447|86 -1388!86 -1388[73 -1367 42 -1379!42 -1379[41
+ -1355 76 -1351!76 -1351|130 -1356!130 -1356|131 -1356!131 -1356[128 -1338 131 -1317!131 -1317[136 -1289 151 -1270!151 -1270[165 -1252 180 -1254!180 -1254[196 -1257 203 -1279!203 -1279[211 -1301 206 -1330!466 -1365[464 -1354 479 -1349
+!479 -1349|524 -1335!524 -1335|564 -1310!564 -1310[586 -1296 585 -1307!585 -1307|568 -1330!568 -1330|534 -1356!534 -1356[506 -1372 478 -1375!478 -1375[468 -1376 466 -1365!490 -1292[487 -1281 498 -1278!498 -1278|514 -1271!514 -1271|534
+ -1254!534 -1254[538 -1243 549 -1247!549 -1247[561 -1251 555 -1265!555 -1265[549 -1280 532 -1290!532 -1290|503 -1302!503 -1302[492 -1303 490 -1292"/>
+                    <Edge fillStyle0="1" fillStyle1="5" edges="
+!595 -1111|891 -1139!891 -1139|724 -895!724 -895|670 -905!670 -905|538 -897!538 -897|320 -848!320 -848[304 -843 307 -824!307 -824[312 -806 330 -810!330 -810|400 -828!400 -828|543 -853!543 -853|740 -841!740 -841|787 -757!787 -757[830 -650
+ 812 -536!812 -536[785 -364 681 -131!681 -131[592 71 548 114!548 114[498 164 302 200!302 200[109 235 -48 224!-48 224|53 139!53 139[157 48 280 -140!280 -140[342 -235 387 -320!387 -320|319 -277!319 -277[218 -132 86 7!86 7[-178 284 -336
+ 266!-336 266[-497 248 -620 23!-620 23[-707 -136 -716 -221!-716 -221[-681 -335 -577 -433!-577 -433[-523 -485 -454 -535!-454 -535[-417 -529 -373 -497!-373 -497[-327 -464 -298 -419!-298 -419|-334 -115!-334 -115[-336 -97 -318 -93!-318 -93
+|-303 -95!-303 -95[-296 -100 -295 -107!-295 -107|-271 -198!-271 -198[-259 -134 -233 -121!-233 -121[-215 -111 -195 -124!-195 -124[-158 -148 -177 -263!-177 -263[-191 -339 -226 -443!-226 -443|-46 -672!-46 -672[2 -695 56 -708!56 -708[153
+ -731 220 -707!220 -707[255 -695 280 -669!280 -669[297 -652 359 -620!359 -620[320 -713 234 -745!234 -745[158 -772 54 -749!54 -749[-7 -735 -61 -709!-61 -709[-65 -784 -73 -827!-73 -827[-85 -902 -121 -953!-121 -953[-55 -955 75 -987!75 -987
+[196 -1017 305 -1056!305 -1056[386 -1085 595 -1111"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="
+!870 -36[876 154 863 273!863 273[854 238 816 218!816 218[725 169 580 253!580 253|563 177!563 177|567 160!567 160|577 143!577 143[606 113 684 -62!684 -62[771 -259 820 -429!820 -429[863 -287 870 -36"/>
+                    <Edge fillStyle0="1" edges="
+!854 -584[854 -519 841 -513!841 -513|854 -584"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!883 356|905 365!905 365[929 366 939 381!939 381[949 399 940 439!940 439[933 471 916 507!916 507[884 492 861 502!861 502[842 510 832 530!832 530[817 525 804 530!804 530[791 534 781 548!781 548|753 488!753 488[835 406 858 340!858 340|883
+ 356!934 564[948 584 939 634!939 634[931 679 909 696!909 696|906 697!906 697[906 599 865 553!865 553[869 541 875 539!875 539[889 534 912 551!912 551[918 555 923 555!923 555|927 557!927 557|934 564!830 574[852 593 861 644!861 644[867 678
+ 866 716!866 716[854 758 831 769!831 769|814 773!814 773|797 610!797 610[806 571 818 568!818 568[822 566 830 574!589 294[720 212 797 253!797 253[823 266 826 290!826 290[831 327 785 390!785 390|714 470!714 470[702 482 711 496!711 496[733
+ 529 745 566!745 566[759 613 740 626!740 626[725 638 680 605!680 605|641 569!641 569|614 419!614 419[641 386 679 368!679 368[696 360 689 342!689 342|679 331!679 331[671 328 664 331!664 331|602 358!602 358|589 294!678 651[730 682 762 659
+!762 659|772 751!772 751[733 808 705 812!705 812[698 814 689 806!689 806[672 790 670 741!670 741[669 701 678 651"/>
+                    <Edge fillStyle0="1" fillStyle1="7" edges="
+!771 816[754 893 724 905!724 905|706 906!706 906|698 902!698 902|689 899!689 899|682 848!682 848|710 852!710 852[739 848 771 816"/>
+                    <Edge fillStyle0="1" fillStyle1="5" edges="
+!586 532[633 804 645 1052!645 1052[665 1450 661 1757!661 1757[658 1838 476 1843!476 1843|397 1840!397 1840|394 1841!394 1841[130 1849 -87 1811!-87 1811[-215 1789 -299 1757!-299 1757|-304 358!-304 358[-216 349 -105 268!-105 268[-47 303
+ 72 300!72 300[249 296 527 207!527 207|586 532"/>
+                    <Edge fillStyle0="1" fillStyle1="8" edges="
+!347 1884|340 1975!340 1975[336 2028 324 2076!324 2076[101 2108 -30 2100!-30 2100[-121 2094 -148 2073!-148 2073|-148 1841!-148 1841|55 1874!55 1874|347 1884"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!297 2238|174 2254!174 2254|138 2223!138 2223[128 2213 116 2220!116 2220[11 2272 -215 2283!-215 2283[-432 2293 -451 2259!-451 2259|-450 2252!-450 2252[-436 2226 -358 2188!-358 2188[-294 2157 -223 2134!-223 2134|-211 2124!-211 2124|-171
+ 2106!-171 2106[-125 2141 -37 2159!-37 2159[105 2186 319 2157!319 2157|297 2238!-445 -1346|-395 -1374!-395 -1374|-377 -1359!-377 -1359|-379 -1274!-379 -1274|-378 -1254!-378 -1254[-421 -1251 -474 -1229!-474 -1229[-523 -1205 -551 -1196
+!-551 -1196[-603 -1179 -587 -1224!-587 -1224[-574 -1258 -525 -1295!-525 -1295|-445 -1346!-435 -997[-420 -986 -420 -974!-420 -974[-419 -951 -443 -927!-443 -927|-556 -895!-556 -895|-591 -940!-591 -940|-503 -991!-503 -991[-454 -1011 -435
+ -997"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!-48 -1321|-49 -1357!-49 -1357[-51 -1378 -61 -1376!-61 -1376[-73 -1374 -73 -1353!-73 -1353|-85 -1261!-85 -1261[-93 -1223 -126 -1132!-126 -1132|-126 -1115!-126 -1115|-117 -1101!-117 -1101|-51 -1051!-51 -1051[-25 -1036 -1 -1061!-1 -1061
+[6 -1066 6 -1073!6 -1073|-1 -1084!-1 -1084|-54 -1120!-54 -1120[-72 -1132 -68 -1152!-68 -1152|-54 -1244!-54 -1244|-48 -1321!-843 -816[-827 -820 -808 -804!-808 -804|-787 -802!-787 -802[-775 -807 -775 -820!-775 -820[-775 -860 -764 -901!-764
+ -901[-749 -958 -720 -972!-720 -972[-697 -984 -651 -943!-651 -943[-613 -909 -581 -861!-581 -861[-572 -848 -559 -853!-559 -853|-420 -892!-420 -892[-399 -862 -422 -801!-422 -801[-433 -771 -449 -746!-449 -746[-454 -737 -451 -728!-451 -728
+[-433 -682 -473 -611!-473 -611[-639 -571 -782 -432!-782 -432|-831 -436!-831 -436[-877 -448 -905 -499!-905 -499[-931 -546 -919 -577!-919 -577[-911 -595 -888 -607!-888 -607|-866 -617!-866 -617[-858 -618 -854 -626!-854 -626[-849 -633 -851
+ -641!-851 -641[-874 -736 -856 -796!-856 -796[-852 -812 -843 -816"/>
+                    <Edge fillStyle0="1" fillStyle1="9" edges="
+!-1184 -608|-1140 -633!-1140 -633[-1128 -588 -1105 -564!-1105 -564|-1144 -562!-1144 -562[-1172 -563 -1181 -577!-1181 -577[-1189 -589 -1184 -608"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!-1121 -643|-902 -764!-902 -764[-906 -706 -894 -649!-894 -649|-939 -617!-939 -617[-1025 -580 -1080 -569!-1080 -569[-1109 -589 -1121 -643"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="
+!-248 -899[-187 -818 -104 -764!-104 -764|-98 -670!-98 -670|-183 -563!-183 -563[-145 -658 -148 -703!-148 -703[-152 -783 -315 -805!-315 -805[-303 -832 -281 -859!-281 -859|-248 -899"/>
+                    <Edge fillStyle0="1" fillStyle1="8" edges="
+!-703 -447[-615 -514 -535 -548!-535 -548[-700 -378 -762 -284!-762 -284[-790 -310 -793 -341!-793 -341[-795 -360 -788 -374!-788 -374|-703 -447"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="
+!-344 360|-339 1756!-339 1756[-364 1760 -392 1744!-392 1744[-424 1716 -425 1547!-425 1547[-426 1448 -412 1222!-412 1222|-403 1068!-403 1068|-353 359!-353 359|-344 360"/>
+                    <Edge fillStyle0="1" fillStyle1="8" edges="
+!-319 1792[-269 1813 -188 1832!-188 1832|-188 2062!-188 2062[-298 2063 -351 2014!-351 2014[-377 1989 -384 1958!-384 1958|-384 1791!-384 1791[-346 1803 -319 1792"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!-264 2096[-433 2101 -560 2088!-560 2088[-686 2074 -691 2050!-691 2050|-688 2042!-688 2042[-668 2018 -579 2000!-579 2000|-419 1980!-419 1980[-408 2015 -379 2043!-379 2043[-336 2083 -264 2096"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="63" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#8B5C29"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#D59758"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#FFE1BA"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#6C674E"/>
+                    </FillStyle>
+                    <FillStyle index="6">
+                      <SolidColor color="#3D3718"/>
+                    </FillStyle>
+                    <FillStyle index="7">
+                      <SolidColor color="#B2B2B2"/>
+                    </FillStyle>
+                    <FillStyle index="8">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                    <FillStyle index="9">
+                      <SolidColor color="#0067B1"/>
+                    </FillStyle>
+                    <FillStyle index="10">
+                      <SolidColor color="#FF4000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!244 -2229|39 -2204!39 -2204|0 -2196!0 -2196|-81 -2177!-81 -2177[-127 -2164 -155 -2141!-155 -2141[-230 -2081 -278 -1958!-278 -1958[-312 -1874 -337 -1742!-337 -1742|-336 -1728!-336 -1728[-452 -1608 -536 -1492!-536 -1492[-673 -1306 -665
+ -1209!-665 -1209[-690 -1161 -651 -1148!-651 -1148[-600 -1130 -520 -1170!-520 -1170[-429 -1216 -392 -1215!-392 -1215|-375 -1218!-375 -1218[-357 -1066 -275 -938!-275 -938[-350 -836 -362 -792!-362 -792[-364 -782 -358 -775!-358 -775[-353
+ -767 -343 -767!-343 -767[-293 -764 -248 -749!-248 -749[-189 -730 -188 -701!-188 -701[-186 -668 -217 -586!-217 -586[-241 -522 -274 -455!-274 -455[-359 -580 -430 -607!-430 -607[-396 -680 -410 -732!-410 -732[-390 -769 -380 -798!-380 -798
+[-354 -880 -395 -924!-395 -924[-379 -949 -380 -976!-380 -976[-380 -1007 -411 -1029!-411 -1029[-448 -1058 -521 -1027!-521 -1027[-568 -1008 -619 -969!-619 -969[-688 -1032 -738 -1008!-738 -1008[-800 -977 -814 -852!-814 -852|-855 -854!-855
+ -854[-881 -845 -892 -815!-892 -815|-1211 -639!-1211 -639|-1220 -629!-1220 -629|-1225 -602!-1225 -602[-1228 -574 -1215 -555!-1215 -555[-1193 -523 -1146 -522!-1146 -522[-1074 -518 -962 -564!-962 -564[-966 -528 -940 -480!-940 -480[-887
+ -386 -831 -369!-831 -369[-846 -298 -777 -244!-777 -244[-766 -138 -685 36!-685 36[-565 298 -392 352!-392 352|-393 359!-393 359|-462 1081!-462 1081[-506 1714 -424 1769!-424 1769|-424 1940!-424 1940[-497 1945 -588 1966!-588 1966[-708 1994
+ -738 2031!-738 2031[-752 2050 -749 2071!-749 2071[-741 2116 -603 2130!-603 2130|-345 2138!-345 2138[-403 2163 -448 2190!-448 2190[-508 2226 -519 2250!-519 2250[-524 2261 -521 2280!-521 2280|-514 2302!-514 2302|-486 2320!-486 2320[-411
+ 2350 -194 2328!-194 2328[19 2306 121 2261!121 2261|154 2290!154 2290|170 2295!170 2295|316 2276!316 2276[330 2274 333 2262!333 2262[406 2007 417 1880!417 1880|478 1879!478 1879|614 1871!614 1871|626 1869!626 1869[681 1861 702 1845!702
+ 1845[735 1820 735 1752!735 1752[735 1413 703 1033!703 1033|687 873!687 873|768 1215!768 1215[773 1228 786 1228!786 1228|926 1227!926 1227[935 1227 941 1221!941 1221|980 1129!980 1129|979 1127!979 1127|939 927!939 927|970 918!970 918
+[1018 890 1024 780!1024 780[1044 778 1059 768!1059 768[1090 748 1102 697!1102 697[1118 693 1129 683!1129 683[1162 655 1165 588!1165 588[1169 519 1138 488!1138 488|1124 477!1124 477[1160 361 1124 312!1124 312[1107 289 1074 284!1074 284
+[1067 140 1016 -135!1016 -135[945 -516 853 -664!853 -664[842 -776 785 -861!785 -861[787 -936 877 -1070!877 -1070|939 -1153!939 -1153|936 -1171!936 -1171[930 -1179 920 -1179!920 -1179|669 -1153!669 -1153|674 -1167!674 -1167|683 -1170!683
+ -1170[749 -1190 770 -1277!770 -1277[792 -1365 736 -1418!736 -1418[877 -1462 983 -1544!983 -1544[1105 -1637 1145 -1753!1145 -1753[1158 -1789 1150 -1817!1150 -1817[1140 -1849 1105 -1855!1105 -1855[1066 -1860 998 -1853!998 -1853|890 -1845
+!890 -1845|735 -1853!735 -1853[731 -1917 688 -1997!688 -1997|612 -2132!612 -2132[560 -2241 448 -2263!448 -2263[403 -2272 345 -2261!345 -2261[291 -2251 244 -2229"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!35 -2136[-37 -2099 -49 -2025!-49 -2025[-51 -2013 -32 -2013!-32 -2013|-6 -2016!-6 -2016[98 -2050 155 -2098!155 -2098|203 -2142!203 -2142|247 -2182!247 -2182[276 -2193 299 -2208!299 -2208|307 -2216!307 -2216|347 -2226!347 -2226[425 -2240
+ 483 -2182!483 -2182[520 -2144 561 -2056!561 -2056[580 -2016 620 -1951!620 -1951[652 -1893 657 -1840!657 -1840|633 -1834!633 -1834[549 -1810 423 -1762!423 -1762|216 -1684!216 -1684[65 -1630 -53 -1644!-53 -1644[-98 -1650 -174 -1683!-174
+ -1683[-265 -1723 -260 -1754!-260 -1754[-229 -1927 -155 -2058!-155 -2058[-128 -2106 -107 -2123!-107 -2123[-85 -2143 -37 -2155!-37 -2155|45 -2173!45 -2173|183 -2191!183 -2191|175 -2184!175 -2184|35 -2136"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!39 -2070[60 -2113 127 -2141!127 -2141[72 -2090 39 -2070!1007 -1814[1046 -1819 1062 -1814!1062 -1814[1133 -1790 974 -1602!974 -1602[890 -1519 771 -1470!771 -1470[652 -1421 535 -1421!535 -1421[455 -1420 328 -1446!328 -1446|123 -1485!123
+ -1485[-13 -1504 -145 -1487!-145 -1487[-375 -1457 -575 -1310!-575 -1310|-617 -1271!-617 -1271[-590 -1356 -485 -1493!-485 -1493[-408 -1594 -312 -1695!-312 -1695[-293 -1679 -257 -1662!-257 -1662|-208 -1639!-208 -1639[-110 -1593 42 -1609
+!42 -1609[164 -1621 345 -1691!345 -1691[602 -1791 642 -1803!642 -1803|682 -1814!682 -1814|831 -1806!831 -1806[881 -1803 951 -1807!951 -1807|1007 -1814"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!206 -1330[201 -1358 186 -1377!186 -1377[172 -1395 157 -1393!157 -1393|151 -1391!151 -1391|159 -1438!159 -1438|392 -1393!392 -1393[525 -1374 624 -1391!624 -1391|675 -1401!675 -1401[737 -1361 722 -1286!722 -1286[708 -1211 636 -1189!636
+ -1189|622 -1185!622 -1185|612 -1146!612 -1146|592 -1143!592 -1143[347 -1112 293 -1094!293 -1094[187 -1056 -10 -1039!-10 -1039|-187 -1029!-187 -1029[-201 -1029 -205 -1016!-205 -1016[-210 -1002 -200 -994!-200 -994|-166 -954!-166 -954[-138
+ -916 -127 -882!-127 -882|-113 -825!-113 -825[-207 -904 -266 -1017!-266 -1017[-326 -1131 -339 -1255!-339 -1255|-342 -1335!-342 -1335[-312 -1341 -302 -1330!-302 -1330|-281 -1298!-281 -1298[-292 -1290 -296 -1270!-296 -1270[-300 -1250 -296
+ -1227!-296 -1227[-291 -1199 -277 -1180!-277 -1180[-263 -1162 -247 -1164!-247 -1164[-231 -1167 -224 -1189!-224 -1189[-217 -1211 -222 -1240!-222 -1240[-225 -1260 -235 -1279!-235 -1279[-180 -1296 -193 -1321!-193 -1321[-213 -1303 -229 -1314
+!-229 -1314|-265 -1346!-265 -1346[-293 -1369 -308 -1368!-308 -1368[-321 -1367 -341 -1352!-341 -1352|-338 -1401!-338 -1401|-219 -1444!-219 -1444|-142 -1460!-142 -1460|114 -1447!114 -1447|86 -1388!86 -1388[73 -1367 43 -1379!43 -1379[41
+ -1355 76 -1351!76 -1351|130 -1356!130 -1356|131 -1356!131 -1356[128 -1338 131 -1317!131 -1317[136 -1288 151 -1270!151 -1270[165 -1252 181 -1254!181 -1254[196 -1257 204 -1279!204 -1279[211 -1302 206 -1330!467 -1365[465 -1354 480 -1349
+!480 -1349|525 -1335!525 -1335|565 -1310!565 -1310[587 -1296 587 -1307!587 -1307[586 -1315 569 -1330!569 -1330|536 -1356!536 -1356[506 -1373 479 -1375!479 -1375[469 -1376 467 -1365!491 -1292[488 -1281 499 -1278!499 -1278|515 -1271!515
+ -1271|535 -1254!535 -1254[539 -1243 550 -1247!550 -1247[562 -1251 556 -1265!556 -1265[550 -1280 533 -1290!533 -1290[520 -1298 505 -1302!505 -1302[493 -1303 491 -1292"/>
+                    <Edge fillStyle0="1" fillStyle1="5" edges="
+!596 -1111|892 -1139!892 -1139|725 -895!725 -895|671 -905!671 -905|539 -897!539 -897|322 -848!322 -848[305 -843 308 -824!308 -824[313 -807 332 -810!332 -810|402 -828!402 -828|544 -853!544 -853|741 -841!741 -841|788 -757!788 -757[831 -650
+ 813 -536!813 -536[786 -365 682 -131!682 -131[593 71 550 114!550 114[500 164 303 200!303 200[109 235 -48 224!-48 224|53 139!53 139[157 48 280 -140!280 -140[342 -235 388 -320!388 -320|320 -277!320 -277[218 -132 86 7!86 7[-178 284 -336
+ 266!-336 266[-497 248 -620 23!-620 23[-707 -136 -716 -221!-716 -221[-681 -335 -577 -433!-577 -433[-523 -485 -454 -535!-454 -535[-417 -529 -373 -497!-373 -497[-327 -464 -298 -419!-298 -419|-334 -115!-334 -115[-336 -97 -318 -93!-318 -93
+[-298 -89 -295 -107!-295 -107|-271 -198!-271 -198[-259 -134 -233 -121!-233 -121[-215 -111 -195 -124!-195 -124[-158 -148 -177 -263!-177 -263[-191 -339 -226 -443!-226 -443|-46 -672!-46 -672[2 -695 56 -708!56 -708[153 -731 220 -707!220 -707
+[255 -695 281 -669!281 -669[298 -652 360 -620!360 -620[321 -713 234 -745!234 -745[158 -772 54 -749!54 -749[-7 -735 -61 -709!-61 -709[-65 -784 -73 -827!-73 -827[-85 -902 -121 -953!-121 -953[-55 -955 75 -987!75 -987[196 -1017 306 -1056
+!306 -1056[387 -1085 596 -1111"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="
+!961 -101[997 100 1002 238!1002 238[987 205 948 190!948 190[878 164 786 212!786 212[724 245 662 306!662 306|630 57!630 57[689 -54 744 -194!744 -194[811 -364 840 -497!840 -497[912 -375 961 -101"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!813 322|736 371!736 371[659 430 629 495!629 495|621 455!621 455[626 425 643 393!643 393[655 371 662 364!662 364[694 323 758 277!758 277[863 201 934 228!934 228[961 239 967 260!967 260[977 297 941 365!941 365[915 413 881 454!881 454[869
+ 466 881 480!881 480[908 511 924 545!924 545[945 589 927 605!927 605[914 619 865 592!865 592[820 567 786 527!786 527[751 486 755 463!755 463[762 425 798 387!798 387|832 357!832 357|841 345!841 345|839 330!839 330[829 315 813 322!1006
+ 305|1033 317!1033 317|1056 324!1056 324[1082 322 1092 336!1092 336[1115 367 1086 464!1086 464|1030 466!1030 466[1012 476 1006 497!1006 497|978 501!978 501[967 507 957 522!957 522|922 467!922 467[992 375 1006 305!1111 517[1127 536 1125
+ 586!1125 586[1124 636 1104 651!1104 651|1102 653!1102 653[1086 554 1042 516!1042 516[1044 503 1050 501!1050 501[1062 493 1088 508!1088 508|1088 507!1088 507|1099 510!1099 510|1111 517!1021 741|982 581!982 581[983 566 987 553!987 553
+[991 539 997 537!997 537|1010 541!1010 541[1034 557 1050 606!1050 606[1062 643 1064 677!1064 677[1058 722 1037 735!1037 735|1021 741!869 639[925 661 954 635!954 635|976 725!976 725[944 787 918 794!918 794[909 796 902 790!902 790[883 776
+ 874 728!874 728[867 689 869 639"/>
+                    <Edge fillStyle0="1" fillStyle1="7" edges="
+!833 722[843 797 878 823!878 823[901 840 928 833!928 833[955 826 984 789!984 789[978 863 950 884!950 884|932 887!932 887|923 884!923 884|902 886!902 886[893 894 894 906!894 906|935 1111!935 1111|843 1114!843 1114|757 738!757 738|698 467
+!698 467|721 437!721 437|716 456!716 456[709 494 748 543!748 543[781 587 831 618!831 618[826 672 833 722"/>
+                    <Edge fillStyle0="1" edges="
+!596 117|625 346!625 346|606 377!606 377|565 177!565 177[564 173 569 160!569 160|578 143!578 143|596 117"/>
+                    <Edge fillStyle0="1" fillStyle1="8" edges="
+!666 509|808 1139!808 1139|798 1182!798 1182|652 554!652 554[656 532 666 509"/>
+                    <Edge fillStyle0="1" fillStyle1="5" edges="
+!588 532[634 804 646 1052!646 1052[666 1450 662 1757!662 1757[659 1838 477 1843!477 1843|399 1840!399 1840|395 1841!395 1841[131 1849 -87 1811!-87 1811[-215 1789 -299 1757!-299 1757|-303 358!-303 358[-216 348 -105 268!-105 268[-47 303
+ 72 300!72 300[249 296 528 207!528 207|588 532"/>
+                    <Edge fillStyle0="1" fillStyle1="9" edges="
+!341 1975[337 2028 325 2076!325 2076[102 2108 -30 2100!-30 2100[-121 2094 -148 2073!-148 2073|-148 1841!-148 1841|56 1874!56 1874|348 1884!348 1884|341 1975"/>
+                    <Edge fillStyle0="1" fillStyle1="8" edges="
+!842 1178[843 1165 856 1154!856 1154[869 1143 888 1141!888 1141|919 1147!919 1147[932 1155 931 1168!931 1168[930 1181 917 1192!917 1192[903 1203 885 1204!885 1204|854 1199!854 1199[841 1191 842 1178"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!174 2254|138 2223!138 2223[128 2213 116 2220!116 2220[11 2272 -215 2283!-215 2283[-432 2293 -451 2259!-451 2259|-450 2252!-450 2252[-436 2226 -358 2188!-358 2188[-294 2157 -223 2134!-223 2134|-211 2124!-211 2124|-171 2106!-171 2106[-125
+ 2141 -36 2159!-36 2159[106 2186 320 2157!320 2157|298 2238!298 2238|174 2254!-445 -1346|-395 -1374!-395 -1374|-376 -1359!-376 -1359|-378 -1274!-378 -1274|-378 -1254!-378 -1254[-421 -1251 -474 -1229!-474 -1229[-523 -1205 -551 -1196!-551
+ -1196[-603 -1179 -586 -1224!-586 -1224[-574 -1258 -525 -1295!-525 -1295|-445 -1346!-435 -997[-420 -986 -420 -974!-420 -974[-419 -951 -443 -927!-443 -927|-556 -895!-556 -895|-591 -940!-591 -940|-503 -991!-503 -991[-454 -1011 -435 -997"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!-76 -1321|-85 -1261!-85 -1261[-93 -1223 -126 -1132!-126 -1132|-126 -1115!-126 -1115[-123 -1105 -116 -1101!-116 -1101|-51 -1051!-51 -1051[-25 -1036 -1 -1061!-1 -1061[6 -1066 6 -1073!6 -1073|-1 -1084!-1 -1084|-54 -1120!-54 -1120[-71 -1133
+ -68 -1152!-68 -1152|-54 -1244!-54 -1244|-48 -1321!-48 -1321|-49 -1357!-49 -1357[-51 -1378 -61 -1376!-61 -1376[-71 -1374 -73 -1353!-73 -1353|-76 -1321!-843 -816[-829 -820 -807 -804!-807 -804|-786 -802!-786 -802[-775 -807 -775 -820!-775
+ -820[-775 -860 -764 -901!-764 -901[-749 -958 -720 -972!-720 -972[-697 -984 -651 -943!-651 -943[-613 -909 -581 -861!-581 -861[-572 -848 -559 -853!-559 -853|-420 -892!-420 -892[-399 -862 -422 -801!-422 -801[-433 -771 -449 -746!-449 -746
+[-454 -737 -451 -728!-451 -728[-433 -683 -473 -611!-473 -611[-639 -571 -782 -432!-782 -432|-830 -436!-830 -436[-876 -448 -905 -499!-905 -499[-932 -546 -918 -577!-918 -577[-910 -595 -887 -607!-887 -607|-866 -617!-866 -617[-858 -618 -854
+ -626!-854 -626[-849 -633 -851 -641!-851 -641[-873 -736 -856 -796!-856 -796[-852 -812 -843 -816"/>
+                    <Edge fillStyle0="1" fillStyle1="10" edges="
+!-1184 -608[-1161 -620 -1139 -633!-1139 -633[-1130 -590 -1105 -564!-1105 -564|-1143 -562!-1143 -562[-1172 -563 -1181 -577!-1181 -577[-1189 -589 -1184 -608"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!-1121 -643|-902 -764!-902 -764[-905 -716 -894 -649!-894 -649|-939 -617!-939 -617[-1025 -580 -1080 -569!-1080 -569[-1109 -589 -1121 -643"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="
+!-281 -859|-248 -899!-248 -899[-187 -818 -104 -764!-104 -764|-98 -670!-98 -670|-183 -563!-183 -563[-145 -658 -148 -703!-148 -703[-152 -783 -315 -805!-315 -805[-303 -832 -281 -859"/>
+                    <Edge fillStyle0="1" fillStyle1="9" edges="
+!-793 -341[-795 -360 -788 -374!-788 -374[-660 -494 -535 -548!-535 -548[-700 -378 -762 -284!-762 -284[-790 -310 -793 -341"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="
+!-343 360|-339 1756!-339 1756[-364 1760 -392 1744!-392 1744[-424 1716 -425 1547!-425 1547[-425 1444 -411 1222!-411 1222|-403 1068!-403 1068[-387 775 -352 359!-352 359|-343 360"/>
+                    <Edge fillStyle0="1" fillStyle1="9" edges="
+!-318 1792[-268 1813 -188 1832!-188 1832|-188 2062!-188 2062[-298 2063 -351 2014!-351 2014[-377 1989 -384 1958!-384 1958|-384 1791!-384 1791[-345 1803 -318 1792"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!-264 2096[-433 2101 -560 2088!-560 2088[-686 2074 -691 2050!-691 2050|-688 2042!-688 2042[-668 2018 -578 2000!-578 2000|-419 1980!-419 1980[-408 2015 -379 2043!-379 2043[-336 2083 -264 2096"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="77" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="85" duration="24" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 579" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#B8C92A">
+          <frames>
+            <DOMFrame index="0" duration="109" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 93" centerPoint3DX="177.05" centerPoint3DY="-58.65">
+                  <matrix>
+                    <Matrix a="1.89605712890625" d="1.89605712890625" tx="159.4" ty="-120.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#FB1081" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="109" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 577" centerPoint3DX="168.65" centerPoint3DY="95.8">
+                  <matrix>
+                    <Matrix a="1.89605712890625" d="1.89605712890625" tx="133.8" ty="56.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

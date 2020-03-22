@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/MapMarkers/SewerMarker" itemID="5daa489f-0000029b" linkageExportForAS="true" linkageClassName="SewerMarker" lastModified="1571441575">
+  <timeline>
+    <DOMTimeline name="SewerMarker">
+      <layers>
+        <DOMLayer name="Labels" color="#F76FB9" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" name="Discovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="Undiscovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shapes" color="#F55D7C" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!136 -136[193 -80 193 0!193 0[193 80 136 137!136 137[80 193 0 193!0 193[-80 193 -137 137!-137 137[-193 80 -193 0!-193 0[-193 -80 -137 -136!-137 -136[-80 -193 0 -193!0 -193[80 -193 136 -136!32 -49|56 3!56 3[70 31 70 55!70 55[70 83 50 104
+!50 104[30 124 1 124!1 124[-28 124 -47 104!-47 104[-68 83 -68 55!-68 55[-68 32 -55 5!-55 5|-32 -46!-32 -46|-12 -111!-12 -111|1 -140!1 -140[5 -140 13 -112!13 -112[25 -67 32 -49!0 -151[-44 -151 -82 -127!-82 -127[-118 -104 -137 -65!-137
+ -65[-126 -61 -126 -49!-126 -49|-126 50!-126 50[-126 61 -137 66!-137 66[-118 104 -82 128!-82 128[-44 152 0 152!0 152[62 152 107 107!107 107[151 62 151 0!151 0[151 -62 107 -107!107 -107[62 -151 0 -151"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!54 -56|38 -109!38 -109|25 -150!25 -150[16 -164 1 -164!1 -164[-14 -164 -23 -148!-23 -148|-40 -101!-40 -101|-55 -54!-55 -54|-71 -19!-71 -19|-86 14!-86 14|-92 55!-92 55[-92 93 -65 121!-65 121[-38 148 1 148!1 148[40 148 67 121!67 121[94
+ 93 94 55!94 55|87 14!87 14|71 -20!71 -20|54 -56!13 -112|31 -49!31 -49|56 3!56 3[70 31 70 55!70 55[70 83 50 104!50 104[29 124 1 124!1 124[-28 124 -48 104!-48 104[-68 83 -68 55!-68 55[-68 32 -56 5!-56 5|-32 -46!-32 -46|-12 -111!-12 -111
+|1 -140!1 -140[5 -140 13 -112!0 -217[-90 -217 -154 -153!-154 -153[-217 -89 -217 0!-217 0[-217 90 -154 154!-154 154[-90 217 0 217!0 217[89 217 153 154!153 154[217 90 217 0!217 0[217 -89 153 -153!153 -153[89 -217 0 -217!136 -136[193 -80
+ 193 0!193 0[193 80 136 137!136 137[80 193 0 193!0 193[-80 193 -137 137!-137 137[-193 80 -193 0!-193 0[-193 -80 -137 -136!-137 -136[-80 -193 0 -193!0 -193[80 -193 136 -136"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

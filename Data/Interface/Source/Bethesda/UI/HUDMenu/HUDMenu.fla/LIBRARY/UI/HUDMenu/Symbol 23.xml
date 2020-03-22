@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/Symbol 23" itemID="5dc13d4a-00000025" symbolType="graphic" lastModified="1574615673">
+  <timeline>
+    <DOMTimeline name="Symbol 23">
+      <layers>
+        <DOMLayer name="Shape" color="#4F4FFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!123 -285S1|118 -295!118 -295|0 -400!0 -400|-118 -295!-118 -295|-123 -285!-123 -285|-119 -274!-119 -274[-115 -269 -109 -269!-109 -269|-98 -273!-98 -273|0 -360!0 -360|98 -273!98 -273|109 -269!109 -269[115 -269 119 -274!119 -274|123 -285"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

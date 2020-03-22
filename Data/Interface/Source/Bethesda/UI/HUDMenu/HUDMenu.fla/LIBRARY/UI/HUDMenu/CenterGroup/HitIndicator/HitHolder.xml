@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/HitIndicator/HitHolder" itemID="5dc271d6-000004ce" lastModified="1573024286">
+  <timeline>
+    <DOMTimeline name="HitHolder">
+      <layers>
+        <DOMLayer name="TintBase" color="#E14E7F" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HitIndicator/HitHolder_TintBase" name="TintBase" selected="true">
+                  <matrix>
+                    <Matrix tx="-18.95" ty="-18.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

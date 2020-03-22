@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/DirectionalHitIndicator/DirectionalHitIndicator_Arc_Tween1" itemID="5dc29904-00000615" symbolType="graphic" lastModified="1573034270">
+  <timeline>
+    <DOMTimeline name="DirectionalHitIndicator_Arc_Tween1">
+      <layers>
+        <DOMLayer name="Shape" color="#00FFFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#E9E9E9"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-202 -1288S2[-193 -1307 -148 -1258!-148 -1258[-89 -1191 -5 -1030!-5 -1030[105 -819 167 -583!167 -583[245 -293 240 8!240 8[237 310 152 598!152 598[83 831 -32 1040!-32 1040[-119 1197 -182 1260!-182 1260[-229 1306 -237 1287!-237 1287[-245
+ 1283 -212 1231!-212 1231[-151 1136 -92 1002!-92 1002[128 507 133 8!133 8[143 -492 -67 -989!-67 -989[-121 -1121 -179 -1228!-179 -1228[-210 -1285 -202 -1288"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

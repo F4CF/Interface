@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/MapMarkers/FactoryMarker" itemID="5daa47c8-0000026f" linkageExportForAS="true" linkageClassName="FactoryMarker" lastModified="1571441356">
+  <timeline>
+    <DOMTimeline name="FactoryMarker">
+      <layers>
+        <DOMLayer name="Labels" color="#A9F106" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" name="Discovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="Undiscovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Graphics" color="#5D9CBC" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/FactoryMarker_Discovered" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.927459716796875" d="0.9267578125" ty="-0.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/MapMarkers/FactoryMarker_Undiscovered" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.93548583984375" d="0.936935424804688" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

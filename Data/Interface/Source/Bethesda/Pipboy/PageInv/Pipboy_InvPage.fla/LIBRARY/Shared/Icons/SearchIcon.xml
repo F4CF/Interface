@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/Icons/SearchIcon" itemID="5db05b74-000004f8" lastModified="1571839320">
+  <timeline>
+    <DOMTimeline name="SearchIcon">
+      <layers>
+        <DOMLayer name="Shape" color="#D3B46A" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!33 -61S1[33 -22 5 5!5 5[-23 33 -62 33!-62 33[-101 33 -129 5!-129 5[-157 -22 -157 -61!-157 -61[-157 -100 -129 -128!-129 -128[-101 -156 -62 -156!-62 -156[-23 -156 5 -128!5 -128[33 -100 33 -61!36 -159[-5 -199 -62 -199!-62 -199[-119 -199
+ -159 -159!-159 -159[-200 -118 -200 -61!-200 -61[-200 -4 -159 36!-159 36[-119 76 -62 76!-62 76[-16 76 22 47!22 47|41 65!41 65|39 68!39 68[34 73 34 80!34 80[34 87 39 92!39 92|141 194!141 194|154 199!154 199|166 194!166 194|195 166!195
+ 166|200 154!200 154|195 142!195 142|92 40!92 40[88 35 80 35!80 35|66 41!66 41|47 23!47 23[76 -15 76 -61!76 -61[76 -118 36 -159"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

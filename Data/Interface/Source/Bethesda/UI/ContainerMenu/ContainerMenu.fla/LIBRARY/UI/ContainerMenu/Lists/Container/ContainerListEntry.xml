@@ -1,0 +1,109 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ContainerMenu/Lists/Container/ContainerListEntry" itemID="5dae8c15-000002bb" linkageExportForAS="true" linkageClassName="ContainerListEntry" lastModified="1571734246">
+  <timeline>
+    <DOMTimeline name="ContainerListEntry">
+      <layers>
+        <DOMLayer name="TaggedForSearchIcon_mc" color="#F6F39D" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/Icons/TaggedForSearchIcon" name="TaggedForSearchIcon_mc" centerPoint3DX="50.3" centerPoint3DY="30.25">
+                  <matrix>
+                    <Matrix a="0.399322509765625" d="0.395004272460938" tx="35.3" ty="15.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="LegendaryIcon_mc" color="#8B32F1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Lists/Entries/LegendaryIcon" name="LegendaryIcon_mc" centerPoint3DX="29.05" centerPoint3DY="12.15">
+                  <matrix>
+                    <Matrix a="1.48515319824219" d="1.484375" tx="24" ty="7.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="FavoriteIcon_mc" color="#AB72EB" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Lists/Entries/FavoriteIcon" name="FavoriteIcon_mc" centerPoint3DX="16" centerPoint3DY="13.35">
+                  <matrix>
+                    <Matrix tx="10.95" ty="9.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="LeftIcon_mc" color="#88F25D" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Lists/Entries/LeftIcon" name="LeftIcon_mc" centerPoint3DX="-6.95" centerPoint3DY="13.3">
+                  <matrix>
+                    <Matrix tx="-13" ty="8.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="textField" color="#A64F9D" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="textField" width="271.75" height="25.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="8.25" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Item</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="0.5" lineSpacing="5" lineHeight="21.6" size="18" bitmapSize="360" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="border" color="#BEC4D2" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Lists/Border" name="border" centerPoint3DX="191" centerPoint3DY="20.95">
+                  <matrix>
+                    <Matrix a="0.761276245117188" d="0.649139404296875" tx="-29" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/DirectionalHitIndicator/Explosiveindicator_ICON" itemID="5dc28c4b-000005bb" linkageExportForAS="true" linkageClassName="HUDMenu_fla.Explosiveindicator_ICON_154" lastModified="1573034275">
+  <timeline>
+    <DOMTimeline name="Explosiveindicator_ICON">
+      <layers>
+        <DOMLayer name="Explosive Type" color="#B8BD93" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/RightMeters/ExplosiveAmmoCount/ExplosiveAmmo_Grenade" centerPoint3DX="11.55" centerPoint3DY="15">
+                  <matrix>
+                    <Matrix tx="-2.25" ty="0.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/DirectionalHitIndicator/Explosiveindicator_ICON_Car" selected="true" centerPoint3DX="149.05" centerPoint3DY="12.4">
+                  <matrix>
+                    <Matrix tx="134.4" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Border" color="#F3A77E" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/DirectionalHitIndicator/Explosiveindicator_ICON_Border" selected="true" centerPoint3DX="155" centerPoint3DY="20.3">
+                  <matrix>
+                    <Matrix tx="134.3" ty="-0.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

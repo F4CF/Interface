@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ContainerMenu/Lists/Entries/LeftIcon" itemID="5dae8c57-000002bf" lastModified="1571722056">
+  <timeline>
+    <DOMTimeline name="LeftIcon">
+      <layers>
+        <DOMLayer name="BestIcon_mc" color="#943EE8" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Lists/Entries/BestIcon" name="BestIcon_mc" centerPoint3DX="13.5" centerPoint3DY="9.5">
+                  <matrix>
+                    <Matrix tx="8.5" ty="7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BarterIcon_mc" color="#7F42FB" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Lists/Entries/BarterIcon" name="BarterIcon_mc" centerPoint3DX="14.9" centerPoint3DY="13.85">
+                  <matrix>
+                    <Matrix a="0.631576538085938" d="0.631576538085938" tx="6.9" ty="5.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="EquipIcon_mc" color="#666FF0" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Lists/Entries/EquipIcon" name="EquipIcon_mc" centerPoint3DX="8" centerPoint3DY="4">
+                  <matrix>
+                    <Matrix tx="4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

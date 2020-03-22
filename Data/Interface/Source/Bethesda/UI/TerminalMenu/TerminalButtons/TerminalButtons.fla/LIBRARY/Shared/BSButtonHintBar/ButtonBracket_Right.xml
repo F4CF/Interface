@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/BSButtonHintBar/ButtonBracket_Right" itemID="5dc00675-0000015b" lastModified="1572865745">
+  <timeline>
+    <DOMTimeline name="ButtonBracket_Right">
+      <layers>
+        <DOMLayer name="Shape" color="#1CAFD9" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!91 600S1|0 600!0 600|0 640!0 640|131 640!131 640|131 0!131 0|0 0!0 0|0 40!0 40|91 40!91 40|91 600"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

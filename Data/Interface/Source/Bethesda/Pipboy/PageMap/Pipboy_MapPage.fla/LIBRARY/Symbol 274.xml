@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 274" itemID="5dc02709-000001c5" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 274">
+      <layers>
+        <DOMLayer name="Layer 1" color="#D25A5A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!509 216[509 244 490 263!490 263[470 282 443 282!443 282[416 282 397 263!397 263[377 244 377 216!377 216[377 189 397 170!397 170[416 151 443 151!443 151[470 151 490 170!490 170[509 189 509 216!546 94[453 0 320 0!320 0[187 0 94 94!94 94
+[0 187 0 320!0 320[0 452 94 546!94 546[187 640 320 640!320 640[453 640 546 546!546 546[640 452 640 320!640 320[640 187 546 94!543 375[519 446 458 489!458 489[396 534 320 534!320 534[244 534 182 489!182 489[121 446 97 375!97 375|133 375
+!133 375[162 406 211 427!211 427[265 449 320 449!320 449[374 449 432 424!432 424[485 402 507 375!507 375|543 375!262 216[262 244 243 263!243 263[224 282 196 282!196 282[169 282 150 263!150 263[131 244 131 216!131 216[131 189 150 170!150
+ 170[169 151 196 151!196 151[224 151 243 170!243 170[262 189 262 216"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

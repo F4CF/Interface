@@ -1,0 +1,185 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#666666" width="1280" height="720" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" vanishingPoint3DX="640" vanishingPoint3DY="360" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="534C4412578B7D48B0BF06917D7322E0">
+     <folders>
+          <DOMFolderItem name="Shared" itemID="5dd99e15-00000433" isExpanded="true"/>
+          <DOMFolderItem name="Shared/BSButtonHintBar" itemID="5dd84655-000002e0"/>
+          <DOMFolderItem name="Shared/Fonts" itemID="5dd99e28-00000437"/>
+          <DOMFolderItem name="Shared/Fonts/fonts_en" itemID="5dd84568-000002ca"/>
+          <DOMFolderItem name="Shared/Icons" itemID="5dd9cfcf-00000701"/>
+          <DOMFolderItem name="Shared/Icons/DamageIcons" itemID="5dd846cf-000002ee"/>
+          <DOMFolderItem name="Shared/ItemCard" itemID="5dd845da-000002d0"/>
+          <DOMFolderItem name="Shared/ItemCard/AmmoEntry" itemID="5dd9de38-000007d6"/>
+          <DOMFolderItem name="Shared/ItemCard/ComponentsEntry" itemID="5dd9de2e-000007d1"/>
+          <DOMFolderItem name="Shared/ItemCard/DescriptionEntry" itemID="5dd9de43-000007db"/>
+          <DOMFolderItem name="Shared/ItemCard/MultiEntry" itemID="5dd9de15-000007c7"/>
+          <DOMFolderItem name="Shared/ItemCard/StandardEntry" itemID="5dd9de20-000007cb"/>
+          <DOMFolderItem name="Shared/ItemCard/TimedEntry" itemID="5dd9de0a-000007c2"/>
+          <DOMFolderItem name="Shared/ScrollingList" itemID="5dd9d974-000007a1"/>
+          <DOMFolderItem name="Shared/TextEntry" itemID="5dd845ea-000002d5"/>
+          <DOMFolderItem name="Shared/VignetteMenu" itemID="5dd84684-000002e7"/>
+          <DOMFolderItem name="UI" itemID="5dd84444-000002c6" isExpanded="true"/>
+          <DOMFolderItem name="UI/ExamineMenu" itemID="5dd8443e-000002c5" isExpanded="true"/>
+          <DOMFolderItem name="UI/ExamineMenu_UNK" itemID="5dd9e0ee-000007e5" isExpanded="true"/>
+          <DOMFolderItem name="UI/ExamineMenu_UNK/ConfirmPanel" itemID="5dd845fa-000002da" isExpanded="true"/>
+          <DOMFolderItem name="UI/ExamineMenu_UNK/ConfirmPanel/MessageBoxButtonList" itemID="5dd9d89c-00000796"/>
+          <DOMFolderItem name="UI/ExamineMenu_UNK/Lists" itemID="5dd9d794-00000780" isExpanded="true"/>
+          <DOMFolderItem name="UI/ExamineMenu_UNK/Lists/InvListEntry" itemID="5dd9d249-0000071b"/>
+          <DOMFolderItem name="UI/ExamineMenu_UNK/Lists/ItemSelectList" itemID="5dd9d7cf-00000786"/>
+          <DOMFolderItem name="UI/ExamineMenu_UNK/Lists/ModPartList" itemID="5dd9d78b-0000077e"/>
+          <DOMFolderItem name="UI/ExamineMenu_UNK/Lists/PropertyModList" itemID="5dd9d7fc-0000078c"/>
+          <DOMFolderItem name="UI/ExamineMenu_UNK/Lists/RequirementList" itemID="5dd9da54-000007ab"/>
+          <DOMFolderItem name="UI/ExamineMenu/ComponentsBracketBase" itemID="5dd858d2-000003b4"/>
+          <DOMFolderItem name="UI/ExamineMenu/CurrentModsBase" itemID="5dd84b08-00000353"/>
+          <DOMFolderItem name="UI/ExamineMenu/InventoryBase" itemID="5dd84c18-00000365"/>
+          <DOMFolderItem name="UI/ExamineMenu/InventoryBracketBase" itemID="5dd85724-000003a0"/>
+          <DOMFolderItem name="UI/ExamineMenu/ItemCardList" itemID="5dd84fd7-00000393" isExpanded="true"/>
+          <DOMFolderItem name="UI/ExamineMenu/ItemCatcher" itemID="5dd85931-000003bb"/>
+          <DOMFolderItem name="UI/ExamineMenu/ItemSelectBracketBase" itemID="5dd84afd-0000034e"/>
+          <DOMFolderItem name="UI/ExamineMenu/ModBracketBase" itemID="5dd858a3-000003ae"/>
+          <DOMFolderItem name="UI/ExamineMenu/ModDescriptionBase" itemID="5dd84f96-0000038d"/>
+          <DOMFolderItem name="UI/ExamineMenu/ModSlotBase" itemID="5dd84e28-00000381"/>
+          <DOMFolderItem name="UI/ExamineMenu/ModSlotBracketBase" itemID="5dd8583f-000003a8"/>
+          <DOMFolderItem name="UI/ExamineMenu/MouseReleaseCatcher" itemID="5dd84b8f-00000359"/>
+          <DOMFolderItem name="UI/ExamineMenu/PerkPanel" itemID="5dd85053-00000399"/>
+          <DOMFolderItem name="UI/ExamineMenu/VaultBoySafeRectGroup" itemID="5dd9d915-0000079e"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Shared/Fonts/fonts_en/Font 176" itemID="5dc01bf0-00000003" font="RobotoCondensed-Bold" size="0" id="176" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/fonts_en/Font 177" itemID="5dc01bf0-00000005" font="RobotoCondensed-Regular" size="0" id="177" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/fonts_en/Font 178" itemID="5dc01bf0-00000007" font="Share-TechMono" size="0" id="178" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЀЁЍАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёѝ–—‘’‚“”„†‡•…‰‹›⁄€™Ω∂∏∑∕√∞∧∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/fonts_en/Font 179" itemID="5dc01bf0-00000009" font="Eurostile LT Std Roman" size="0" id="179" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/fonts_en/Font 180" itemID="5dc01bf0-0000000b" font="Brody" size="0" id="180" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĂăĄąĆćČčĎďĐđĘęĚěĞğİıĹĺĽľŁłŃńŇňŐőŒœŔŕŘřŚśŞşŠšŢţŤťŮůŰűŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜ΔΣΩμπ–—‗‘’‚“”„†‡•…‰‹›‼ⁿ₣™Ω←→∂∏∕√∞∫≠≤≥■" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/fonts_en/Font 181" itemID="5dc01bf0-0000000d" font="Controller--Buttons" size="0" id="181" embedRanges="1|2"/>
+          <DOMFontItem name="Shared/Fonts/fonts_en/Font 182" itemID="5dc01bf0-0000000f" font="Eurostile Cyr Std Bold" size="0" id="182" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/fonts_en/Font 183" itemID="5dc01bf0-00000011" font="Handwritten_Institute" size="0" id="183" embeddedCharacters="!&quot;#$%&amp;&apos;()*+,-/:;&lt;=&gt;?@[\]^_{|}~¡¢£¤§©«¬®°±²µ¶»¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿĄąĆćĈĉĔęĜĝĤĥıĴĵŁłŃńŐőŒœŚśŜŝŠšŬŭŰűŸŹźŻżŽžƒμ‘’“”†‡•€™" embedRanges="1|2|3"/>
+          <DOMFontItem name="Shared/Fonts/fonts_en/Font 184" itemID="5dc01bf0-00000013" font="Controller--Buttons-inverted" size="0" id="184" embedRanges="1|2"/>
+     </fonts>
+     <symbols>
+          <Include href="Shared/BorderGraphic.xml" itemIcon="1" loadImmediate="false" itemID="5dd84d55-00000378" lastModified="1574456661"/>
+          <Include href="Shared/BSButtonHintBar/BSButtonHint.xml" itemID="5dd847bf-0000030c" lastModified="1574455231"/>
+          <Include href="Shared/BSButtonHintBar/BSButtonHint_IconHolder.xml" itemID="5dd847c6-0000030d" lastModified="1574455238"/>
+          <Include href="Shared/BSButtonHintBar/BSButtonHintBar.xml" itemID="5dd847b9-0000030b" lastModified="1574455225"/>
+          <Include href="Shared/BSButtonHintBar/Symbol 117.xml" loadImmediate="false" itemID="5dc01bf0-00000055" lastModified="1571730685"/>
+          <Include href="Shared/BSButtonHintBar/Symbol 119.xml" loadImmediate="false" itemID="5dc01bf0-00000056" lastModified="1571730685"/>
+          <Include href="Shared/BSButtonHintBar/Symbol 130.xml" loadImmediate="false" itemID="5dc01bf0-0000005c" lastModified="1571730685"/>
+          <Include href="Shared/Icons/AmmoIcon.xml" loadImmediate="false" itemID="5dd9dbb2-000007b8" lastModified="1574559145"/>
+          <Include href="Shared/Icons/DamageIcons/DamageIcons.xml" itemID="5dd84d0d-00000372" lastModified="1574559217"/>
+          <Include href="Shared/Icons/DamageIcons/Symbol 81.xml" loadImmediate="false" itemID="5dc01bf0-00000042" lastModified="1574460140"/>
+          <Include href="Shared/Icons/DamageIcons/Symbol 83.xml" loadImmediate="false" itemID="5dc01bf0-00000043" lastModified="1574459968"/>
+          <Include href="Shared/Icons/DamageIcons/Symbol 85.xml" loadImmediate="false" itemID="5dc01bf0-00000044" lastModified="1574459976"/>
+          <Include href="Shared/Icons/DamageIcons/Symbol 87.xml" loadImmediate="false" itemID="5dc01bf0-00000045" lastModified="1574459992"/>
+          <Include href="Shared/Icons/DamageIcons/Symbol 89.xml" loadImmediate="false" itemID="5dc01bf0-00000046" lastModified="1574459994"/>
+          <Include href="Shared/Icons/DamageIcons/Symbol 91.xml" loadImmediate="false" itemID="5dc01bf0-00000047" lastModified="1574460001"/>
+          <Include href="Shared/Icons/DamageIcons/Symbol 93.xml" loadImmediate="false" itemID="5dc01bf0-00000048" lastModified="1574460134"/>
+          <Include href="Shared/Icons/FavoriteIcon.xml" loadImmediate="false" itemID="5dd9d14e-00000716" lastModified="1574559151"/>
+          <Include href="Shared/Icons/LegendaryIcon.xml" loadImmediate="false" itemID="5dd9d0f1-00000714" lastModified="1574559147"/>
+          <Include href="Shared/Icons/LockIcon.xml" loadImmediate="false" itemID="5dd9d18a-00000717" lastModified="1574559146"/>
+          <Include href="Shared/Icons/TaggedIcon.xml" loadImmediate="false" itemID="5dd9dae3-000007b1" lastModified="1574559143"/>
+          <Include href="Shared/ItemCard/AmmoEntry/ItemCard_AmmoEntry.xml" itemID="5dd9cf81-000006f5" lastModified="1574555521"/>
+          <Include href="Shared/ItemCard/ComponentsEntry/ItemCard_ComponentEntry_Entry.xml" itemID="5dd9cfb8-000006fd" lastModified="1574559340"/>
+          <Include href="Shared/ItemCard/ComponentsEntry/ItemCard_ComponentsEntry.xml" itemID="5dd9cfb1-000006fc" lastModified="1574559333"/>
+          <Include href="Shared/ItemCard/DescriptionEntry/ItemCard_DescriptionEntry.xml" itemID="5dd9cfad-000006fb" lastModified="1574555565"/>
+          <Include href="Shared/ItemCard/ItemCard.xml" itemID="5dd85024-00000395" lastModified="1574457380"/>
+          <Include href="Shared/ItemCard/ItemCard_Comparison.xml" itemID="5dd9cf93-000006f6" lastModified="1574559437"/>
+          <Include href="Shared/ItemCard/ItemCard_Comparison_Best.xml" loadImmediate="false" itemID="5dd9de94-000007de" lastModified="1574559446"/>
+          <Include href="Shared/ItemCard/ItemCard_Comparison_Worst.xml" loadImmediate="false" itemID="5dd9debb-000007df" lastModified="1574559475"/>
+          <Include href="Shared/ItemCard/MultiEntry/ItemCard_MultiEntry.xml" itemID="5dd9cfa8-000006fa" lastModified="1574555560"/>
+          <Include href="Shared/ItemCard/MultiEntry/ItemCard_MultiEntry_Value.xml" itemID="5dd9cfa3-000006f9" lastModified="1574555555"/>
+          <Include href="Shared/ItemCard/StandardEntry/ItemCard_StandardEntry.xml" itemID="5dd9cf9f-000006f8" lastModified="1574555551"/>
+          <Include href="Shared/ItemCard/TimedEntry/ItemCard_TimedEntry.xml" itemID="5dd9cf9b-000006f7" lastModified="1574559330"/>
+          <Include href="Shared/ItemCard/TimedEntry/Symbol 72.xml" loadImmediate="false" itemID="5dc01bf0-0000003e" lastModified="1574460148"/>
+          <Include href="Shared/ScrollingList/List2Icon.xml" itemID="5dd8478d-00000305" lastModified="1574557893"/>
+          <Include href="Shared/ScrollingList/ScrollArrow.xml" loadImmediate="false" itemID="5dd84ddf-0000037c" lastModified="1574555732"/>
+          <Include href="Shared/ScrollingList/ScrollBorder.xml" loadImmediate="false" itemID="5dd84dd2-0000037b" lastModified="1574555730"/>
+          <Include href="Shared/ScrollingList/ScrollBorderGraphic.xml" itemIcon="1" loadImmediate="false" itemID="5dd84eeb-00000388" lastModified="1574555753"/>
+          <Include href="Shared/TextEntry/TextEntry.xml" itemID="5dd84cff-00000370" lastModified="1574559914"/>
+          <Include href="Shared/TextEntry/TextEntryAnim.xml" loadImmediate="false" itemID="5dd9dfca-000007e2" lastModified="1574559690"/>
+          <Include href="Shared/TextEntry/TextEntryBackground.xml" loadImmediate="false" itemID="5dd9dfd4-000007e3" lastModified="1574559700"/>
+          <Include href="Shared/VignetteMenu/VignetteMenu.xml" itemID="5dd847b1-0000030a" lastModified="1574455217"/>
+          <Include href="UI/ExamineMenu_UNK/Border (9).xml" itemIcon="1" loadImmediate="false" itemID="5dd9dbd4-000007ba" lastModified="1574558676"/>
+          <Include href="UI/ExamineMenu_UNK/ConfirmPanel/BGRect.xml" loadImmediate="false" itemID="5dd9dc98-000007bc" lastModified="1574562849"/>
+          <Include href="UI/ExamineMenu_UNK/ConfirmPanel/ConfirmPanel.xml" itemID="5dd84d18-00000374" lastModified="1574559140"/>
+          <Include href="UI/ExamineMenu_UNK/ConfirmPanel/ConfirmPanelComponentEntry.xml" itemID="5dd84d1f-00000376" lastModified="1574559133"/>
+          <Include href="UI/ExamineMenu_UNK/ConfirmPanel/ConfirmPanelComponentSourceEntry.xml" itemID="5dd84d1c-00000375" lastModified="1574559130"/>
+          <Include href="UI/ExamineMenu_UNK/ConfirmPanel/MessageBoxButtonList/MessageBoxButtonList.xml" itemID="5dd8473b-000002f4" lastModified="1574562013"/>
+          <Include href="UI/ExamineMenu_UNK/ConfirmPanel/MessageBoxButtonList/MessageBoxButtonList_Border.xml" loadImmediate="false" itemID="5dd9d88b-00000791" lastModified="1574561242"/>
+          <Include href="UI/ExamineMenu_UNK/ConfirmPanel/ModMenuConfirmListEntry.xml" itemID="5dd847a9-00000309" lastModified="1574559120"/>
+          <Include href="UI/ExamineMenu_UNK/ConfirmPanel/ModMenuConfirmListEntry_Background.xml" loadImmediate="false" itemID="5dd9dd5a-000007bd" lastModified="1574559131"/>
+          <Include href="UI/ExamineMenu_UNK/Lists/CurrentModList.xml" itemID="5dd8477a-00000302" lastModified="1574559920"/>
+          <Include href="UI/ExamineMenu_UNK/Lists/ExamineMenuList.xml" itemID="5dd84765-00000300" lastModified="1574559916"/>
+          <Include href="UI/ExamineMenu_UNK/Lists/InvListEntry/BestIcon.xml" loadImmediate="false" itemID="5dd9d1dc-00000719" lastModified="1574556124"/>
+          <Include href="UI/ExamineMenu_UNK/Lists/InvListEntry/EquipIcon.xml" loadImmediate="false" itemID="5dd9d231-0000071a" lastModified="1574556209"/>
+          <Include href="UI/ExamineMenu_UNK/Lists/InvListEntry/InvListEntry.xml" itemID="5dd84744-000002f7" lastModified="1574557695"/>
+          <Include href="UI/ExamineMenu_UNK/Lists/ItemSelectList/ItemSelectList.xml" itemID="5dd84741-000002f6" lastModified="1574557619"/>
+          <Include href="UI/ExamineMenu_UNK/Lists/ItemSelectList/ItemSelectListEntry.xml" itemID="5dd8473e-000002f5" lastModified="1574455102"/>
+          <Include href="UI/ExamineMenu_UNK/Lists/ModPartList/ModListEntry.xml" itemID="5dd84736-000002f3" lastModified="1574558598"/>
+          <Include href="UI/ExamineMenu_UNK/Lists/ModPartList/ModPartList.xml" itemID="5dd84733-000002f2" lastModified="1574557554"/>
+          <Include href="UI/ExamineMenu_UNK/Lists/ModPartList/ModPartListEntry.xml" itemID="5dd8472f-000002f1" lastModified="1574558377"/>
+          <Include href="UI/ExamineMenu_UNK/Lists/ModPartList/ModPartListEntry_Border.xml" loadImmediate="false" itemID="5dd9daa1-000007ae" lastModified="1574558369"/>
+          <Include href="UI/ExamineMenu_UNK/Lists/ModPartList/ModSelectedIcon.xml" itemID="5dd8479b-00000307" lastModified="1574460098"/>
+          <Include href="UI/ExamineMenu_UNK/Lists/PropertyModList/PropertyModList.xml" itemID="5dd8475d-000002fe" lastModified="1574557799"/>
+          <Include href="UI/ExamineMenu_UNK/Lists/PropertyModList/PropertyModList_Border.xml" loadImmediate="false" itemID="5dd9d843-00000790" lastModified="1574557763"/>
+          <Include href="UI/ExamineMenu_UNK/Lists/PropertyModList/PropertyModListEntry.xml" itemID="5dd8475a-000002fd" lastModified="1574557776"/>
+          <Include href="UI/ExamineMenu_UNK/Lists/RequirementList/RequirementList.xml" itemID="5dd84752-000002fb" lastModified="1574559924"/>
+          <Include href="UI/ExamineMenu_UNK/Lists/RequirementList/RequirementList_Border.xml" loadImmediate="false" itemID="5dd9d9f1-000007a9" lastModified="1574559925"/>
+          <Include href="UI/ExamineMenu_UNK/Lists/RequirementList/RequirementList_ScrollArrow.xml" loadImmediate="false" itemID="5dd9da48-000007aa" lastModified="1574559922"/>
+          <Include href="UI/ExamineMenu_UNK/Lists/RequirementList/RequirementListEntry.xml" itemID="5dd8474f-000002fa" lastModified="1574559932"/>
+          <Include href="UI/ExamineMenu_UNK/ScrollArrow (27).xml" itemIcon="1" loadImmediate="false" itemID="5dd9dbc6-000007b9" lastModified="1574558662"/>
+          <Include href="UI/ExamineMenu_UNK/Symbol 34.xml" loadImmediate="false" itemID="5dc01bf0-00000027" lastModified="1574460038"/>
+          <Include href="UI/ExamineMenu_UNK/Symbol 35.xml" loadImmediate="false" itemID="5dc01bf0-00000028" lastModified="1574459949"/>
+          <Include href="UI/ExamineMenu_UNK/Symbol 41.xml" loadImmediate="false" itemID="5dc01bf0-0000002b" lastModified="1574460054"/>
+          <Include href="UI/ExamineMenu_UNK/Symbol 43.xml" loadImmediate="false" itemID="5dc01bf0-0000002c" lastModified="1574460067"/>
+          <Include href="UI/ExamineMenu_UNK/Symbol 78.xml" loadImmediate="false" itemID="5dc01bf0-00000041" lastModified="1574459926"/>
+          <Include href="UI/ExamineMenu_UNK/Symbol 97.xml" loadImmediate="false" itemID="5dc01bf0-0000004b" lastModified="1574460007"/>
+          <Include href="UI/ExamineMenu/ComponentsBracketBase/ComponentsBracketBase.xml" loadImmediate="false" itemID="5dd858c7-000003b0" lastModified="1574560081"/>
+          <Include href="UI/ExamineMenu/CurrentModsBase/CurrentModListEntry.xml" itemID="5dd8477d-00000303" lastModified="1574562885"/>
+          <Include href="UI/ExamineMenu/CurrentModsBase/ModsBase.xml" itemID="5dd84793-00000306" lastModified="1574558139"/>
+          <Include href="UI/ExamineMenu/ExamineMenu.xml" itemID="5dd8453d-000002c9" lastModified="1574562193"/>
+          <Include href="UI/ExamineMenu/InventoryBase/Border.xml" loadImmediate="false" itemID="5dd84cc2-0000036e" lastModified="1574459430"/>
+          <Include href="UI/ExamineMenu/InventoryBase/Brackets.xml" loadImmediate="false" itemID="5dd84c62-00000367" lastModified="1574456709"/>
+          <Include href="UI/ExamineMenu/InventoryBase/InventoryListBase.xml" itemID="5dd84785-00000304" lastModified="1574456836"/>
+          <Include href="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBase.xml" loadImmediate="false" itemID="5dd85747-000003a2" lastModified="1574459442"/>
+          <Include href="UI/ExamineMenu/InventoryBracketBase/InventoryBracketBaseGraphic.xml" itemIcon="1" loadImmediate="false" itemID="5dd857f0-000003a4" lastModified="1574459376"/>
+          <Include href="UI/ExamineMenu/InventoryBracketBase/RightBarReference.xml" loadImmediate="false" itemID="5dd857a3-000003a3" lastModified="1574459417"/>
+          <Include href="UI/ExamineMenu/ItemCatcher/ItemCatcherClip.xml" loadImmediate="false" itemID="5dd8591b-000003b6" lastModified="1574562017"/>
+          <Include href="UI/ExamineMenu/ItemSelectBracketBase/ItemSelectBracketBase.xml" loadImmediate="false" itemID="5dd84ac3-00000340" lastModified="1574456003"/>
+          <Include href="UI/ExamineMenu/ModBracketBase/ModBracketBase.xml" loadImmediate="false" itemID="5dd85899-000003aa" lastModified="1574459545"/>
+          <Include href="UI/ExamineMenu/ModDescriptionBase/ModDescriptionBase.xml" loadImmediate="false" itemID="5dd84f9d-0000038e" lastModified="1574457267"/>
+          <Include href="UI/ExamineMenu/ModSlotBase/ModSlotBase.xml" itemID="5dd847a1-00000308" lastModified="1574456937"/>
+          <Include href="UI/ExamineMenu/ModSlotBase/RightHandList.xml" itemID="5dd8474b-000002f9" lastModified="1574457107"/>
+          <Include href="UI/ExamineMenu/ModSlotBracketBase/ModSlotBracketBase.xml" loadImmediate="false" itemID="5dd85847-000003a9" lastModified="1574459519"/>
+          <Include href="UI/ExamineMenu/MouseReleaseCatcher/MouseReleaseCatcher.xml" loadImmediate="false" itemID="5dd84d6a-00000379" lastModified="1574562823"/>
+          <Include href="UI/ExamineMenu/PerkPanel/PerkLoaderClip.xml" itemID="5dd8472c-000002f0" lastModified="1574455084"/>
+          <Include href="UI/ExamineMenu/PerkPanel/PerkPanel.xml" loadImmediate="false" itemID="5dd85090-0000039b" lastModified="1574457590"/>
+          <Include href="UI/ExamineMenu/VaultBoySafeRectGroup/FeaturedItemVaultboy.xml" itemID="5dd84761-000002ff" lastModified="1574557920"/>
+          <Include href="UI/ExamineMenu/VaultBoySafeRectGroup/QuestImageInternal.xml" itemID="5dd84755-000002fc" lastModified="1574557905"/>
+          <Include href="UI/ExamineMenu/VaultBoySafeRectGroup/VaultBoyImageInternal.xml" itemID="5dd84748-000002f8" lastModified="1574558757"/>
+          <Include href="UI/ExamineMenu/VaultBoySafeRectGroup/VaultBoySafeRectGroup.xml" itemID="5dd8476e-00000301" lastModified="1574558009"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="BaseInstance" color="#00FF00" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="UI/ExamineMenu/ExamineMenu" name="BaseInstance" centerPoint3DX="658.85" centerPoint3DY="355.3">
+                                             <matrix>
+                                                  <Matrix tx="-1" ty="-10"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="37668" publishTime="1574542999" publishDebug="true"/>
+     </publishHistory>
+</DOMDocument>

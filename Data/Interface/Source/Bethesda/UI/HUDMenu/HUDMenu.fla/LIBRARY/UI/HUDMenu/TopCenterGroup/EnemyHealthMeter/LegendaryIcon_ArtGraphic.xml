@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/TopCenterGroup/EnemyHealthMeter/LegendaryIcon_ArtGraphic" itemID="5dc2692e-00000466" symbolType="graphic" lastModified="1573021998">
+  <timeline>
+    <DOMTimeline name="LegendaryIcon_ArtGraphic">
+      <layers>
+        <DOMLayer name="Shape" color="#4F4FFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!313 114S1|205 98!205 98|157 0!157 0|109 98!109 98|0 114!0 114|79 190!79 190|60 297!60 297|157 246!157 246|253 297!253 297|235 190!235 190|313 114"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

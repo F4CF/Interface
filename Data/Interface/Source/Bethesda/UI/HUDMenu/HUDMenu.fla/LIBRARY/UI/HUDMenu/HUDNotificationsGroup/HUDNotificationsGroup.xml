@@ -1,0 +1,120 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/HUDNotificationsGroup/HUDNotificationsGroup" itemID="5dc13f89-000002d3" linkageExportForAS="true" linkageClassName="HUDNotificationsGroup" lastModified="1573021382">
+  <timeline>
+    <DOMTimeline name="HUDNotificationsGroup">
+      <layers>
+        <DOMLayer name="PromptMessageHolder_mc" color="#45C48B" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/PromptMessageWidget" name="PromptMessageHolder_mc" selected="true" centerPoint3DX="172" centerPoint3DY="21">
+                  <matrix>
+                    <Matrix tx="7" ty="3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TutorialText_mc" color="#DAAB84" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/TutorialText/TutorialText" name="TutorialText_mc" selected="true" centerPoint3DX="172" centerPoint3DY="124.9">
+                  <matrix>
+                    <Matrix tx="7" ty="44"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Messages_mc" color="#EF9457" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/Messages/Messages" name="Messages_mc" selected="true" centerPoint3DX="7" centerPoint3DY="44">
+                  <matrix>
+                    <Matrix tx="7" ty="44"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="QuestVaultBoy_mc" color="#BA1EEF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/QuestVaultBoy/QuestUpdateVaultBoy" name="QuestVaultBoy_mc" selected="true" centerPoint3DX="7" centerPoint3DY="44">
+                  <matrix>
+                    <Matrix tx="7" ty="44"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ObjectiveUpdates_mc" color="#C8BA50" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveUpdates" name="ObjectiveUpdates_mc" selected="true" centerPoint3DY="272">
+                  <matrix>
+                    <Matrix ty="272"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="QuestUpdates_mc" color="#B8AD3A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/QuestUpdates" name="QuestUpdates_mc" selected="true" centerPoint3DX="247" centerPoint3DY="265.65">
+                  <matrix>
+                    <Matrix tx="-3" ty="208"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="XPMeter_mc" color="#A1A7AF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/XPMeter/XPMeter" name="XPMeter_mc" selected="true" centerPoint3DX="131" centerPoint3DY="304.45">
+                  <matrix>
+                    <Matrix tx="-2" ty="272"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

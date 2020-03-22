@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PipboyMenu/BottomBar/WeightIcon" itemID="5db00f23-000002b0" lastModified="1571819632">
+  <timeline>
+    <DOMTimeline name="WeightIcon">
+      <layers>
+        <DOMLayer name="Shape" color="#EBE61B" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!0 -300S1[-59 -300 -101 -258!-101 -258[-143 -217 -143 -157!-143 -157[-143 -135 -136 -115!-136 -115|-175 -115!-175 -115[-200 -110 -220 -90!-220 -90[-240 -70 -244 -45!-244 -45|-301 221!-301 221[-307 252 -287 276!-287 276[-268 300 -235 300
+!-235 300|234 300!234 300[267 300 287 276!287 276[306 252 301 221!301 221|244 -45!244 -45[239 -70 219 -90!219 -90[200 -110 174 -115!174 -115|136 -115!136 -115|142 -157!142 -157[142 -217 101 -258!101 -258[59 -300 0 -300!60 -220[85 -194
+ 85 -159!85 -159[85 -123 60 -98!60 -98[36 -74 0 -74!0 -74[-35 -74 -60 -98!-60 -98[-85 -123 -85 -159!-85 -159[-85 -194 -60 -220!-60 -220[-35 -244 0 -244!0 -244[36 -244 60 -220"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

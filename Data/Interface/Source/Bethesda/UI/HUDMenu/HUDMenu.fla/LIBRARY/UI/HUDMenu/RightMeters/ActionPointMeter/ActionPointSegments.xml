@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/RightMeters/ActionPointMeter/ActionPointSegments" itemID="5dc28b20-000005b1" lastModified="1573030791">
+  <timeline>
+    <DOMTimeline name="ActionPointSegments">
+      <layers>
+        <DOMLayer name="Segment" color="#6DF2C4" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/RightMeters/ActionPointMeter/ActionPointBarSegment" selected="true" centerPoint3DX="0.5" centerPoint3DY="2">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

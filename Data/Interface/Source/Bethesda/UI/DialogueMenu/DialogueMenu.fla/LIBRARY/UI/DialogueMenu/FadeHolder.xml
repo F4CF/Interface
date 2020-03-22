@@ -1,0 +1,85 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/DialogueMenu/FadeHolder" itemID="5dc01104-00000161" lastModified="1572869802">
+  <timeline>
+    <DOMTimeline name="FadeHolder">
+      <layers>
+        <DOMLayer name="SpeechChallengeAnim_mc" color="#FFCC00" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/DialogueMenu/SpeechChallenge/SpeechChallenge_Anim" name="SpeechChallengeAnim_mc" selected="true" centerPoint3DX="43.8" centerPoint3DY="64.55">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Positive" color="#A947D3" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/DialogueMenu/Button_FadeAnimation/Button_FadeAnim" name="Positive" selected="true" centerPoint3DX="87" centerPoint3DY="41.3">
+                  <matrix>
+                    <Matrix tx="-13" ty="28.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Negative" color="#0066FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/DialogueMenu/Button_FadeAnimation/Button_FadeAnim" name="Negative" selected="true" centerPoint3DX="117" centerPoint3DY="13.8">
+                  <matrix>
+                    <Matrix tx="17" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Neutral" color="#00CC00" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/DialogueMenu/Button_FadeAnimation/Button_FadeAnim" name="Neutral" selected="true" centerPoint3DX="85" centerPoint3DY="13.8">
+                  <matrix>
+                    <Matrix tx="-15" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Question" color="#CC0000" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/DialogueMenu/Button_FadeAnimation/Button_FadeAnim" name="Question" selected="true" centerPoint3DX="113" centerPoint3DY="-13.7">
+                  <matrix>
+                    <Matrix tx="13" ty="-26.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

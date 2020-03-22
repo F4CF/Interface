@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/DirectionalHitIndicator/DirectionalHitIndicator" itemID="5dc28c55-000005bd" linkageExportForAS="true" linkageClassName="DirectionalHitIndicator" lastModified="1573034222">
+  <timeline>
+    <DOMTimeline name="DirectionalHitIndicator">
+      <layers>
+        <DOMLayer name="Arc_mc" color="#48BF9F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/DirectionalHitIndicator/DirectionalHitIndicator_Arc" name="Arc_mc" selected="true" centerPoint3DX="13.8" centerPoint3DY="69.65">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

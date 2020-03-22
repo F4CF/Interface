@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ContainerMenu/Lists/PlayerInventory/PlayerBracketBackground" itemID="5dae69d7-00000270" lastModified="1571748638">
+  <timeline>
+    <DOMTimeline name="PlayerBracketBackground">
+      <layers>
+        <DOMLayer name="PlayerBracketBackgroundShape" color="#57D3A8" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Lists/PlayerInventory/PlayerBracketBackgroundShape" centerPoint3DX="142.5" centerPoint3DY="107.65">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

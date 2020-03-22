@@ -1,0 +1,120 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/RightMeters" itemID="5dc1487a-000002c7" linkageExportForAS="true" linkageClassName="HUDMenu_fla.RightMeters_2" lastModified="1572948090">
+  <timeline>
+    <DOMTimeline name="RightMeters">
+      <layers>
+        <DOMLayer name="Layer 1" color="#E3ED4E">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/_1/Symbol 620" name="PowerArmorLowBatteryWarning_mc" centerPoint3DX="200" centerPoint3DY="-398">
+                  <matrix>
+                    <Matrix ty="-410.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9EDD48">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/_0/Symbol 598" name="ExplosiveAmmoCount_mc" centerPoint3DX="31.35" centerPoint3DY="-126.9">
+                  <matrix>
+                    <Matrix ty="-150"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#B7F6A9">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/_0/Symbol 603" name="FlashLightWidget_mc" centerPoint3DX="22" centerPoint3DY="-211.5">
+                  <matrix>
+                    <Matrix ty="-233.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#10B9CB">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/_1/Symbol 619" name="AmmoCount_mc" centerPoint3DX="26" centerPoint3DY="-41.9">
+                  <matrix>
+                    <Matrix ty="-84"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#DDF816">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/_1/Symbol 615" name="FatigueWarning_mc" centerPoint3DX="-137.8" centerPoint3DY="-21">
+                  <matrix>
+                    <Matrix tx="-256.55" ty="-46"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#4FF2DF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/_0/Symbol 607" name="ActionPointMeter_mc" centerPoint3DX="89" centerPoint3DY="-13.55">
+                  <matrix>
+                    <Matrix tx="-30" ty="-32"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#6579E1" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/_0/Symbol 608" name="HUDActiveEffectsWidget_mc" centerPoint3DX="-30" centerPoint3DY="-22">
+                  <matrix>
+                    <Matrix tx="-30" ty="-22"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

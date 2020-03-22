@@ -1,0 +1,263 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#333333" width="876" height="700" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" vanishingPoint3DX="438" vanishingPoint3DY="350" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="838B17F43A603144A2BAFDF434768EE9">
+     <fonts>
+          <DOMFontItem name="Font 286" itemID="5dc02709-0000013f" font="RobotoCondensed-Bold" size="0" id="286" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 287" itemID="5dc02709-00000141" font="RobotoCondensed-Regular" size="0" id="287" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 288" itemID="5dc02709-00000143" font="Share-TechMono" size="0" id="288" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЀЁЍАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёѝ–—‘’‚“”„†‡•…‰‹›⁄€™Ω∂∏∑∕√∞∧∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 289" itemID="5dc02709-00000145" font="Eurostile LT Std Roman" size="0" id="289" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 290" itemID="5dc02709-00000147" font="Brody" size="0" id="290" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĂăĄąĆćČčĎďĐđĘęĚěĞğİıĹĺĽľŁłŃńŇňŐőŒœŔŕŘřŚśŞşŠšŢţŤťŮůŰűŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜ΔΣΩμπ–—‗‘’‚“”„†‡•…‰‹›‼ⁿ₣™Ω←→∂∏∕√∞∫≠≤≥■" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 291" itemID="5dc02709-00000149" font="Controller--Buttons" size="0" id="291" embedRanges="1|2"/>
+          <DOMFontItem name="Font 292" itemID="5dc02709-0000014b" font="Eurostile Cyr Std Bold" size="0" id="292" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 293" itemID="5dc02709-0000014d" font="Handwritten_Institute" size="0" id="293" embeddedCharacters="!&quot;#$%&amp;&apos;()*+,-/:;&lt;=&gt;?@[\]^_{|}~¡¢£¤§©«¬®°±²µ¶»¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿĄąĆćĈĉĔęĜĝĤĥıĴĵŁłŃńŐőŒœŚśŜŝŠšŬŭŰűŸŹźŻżŽžƒμ‘’“”†‡•€™" embedRanges="1|2|3"/>
+          <DOMFontItem name="Font 294" itemID="5dc02709-0000014f" font="Controller--Buttons-inverted" size="0" id="294" embedRanges="1|2"/>
+     </fonts>
+     <media>
+          <DOMBitmapItem name="bitmap1.png" itemID="5dc02709-00000154" linkageExportForAS="true" linkageClassName="MapPlaceholder" sourceExternalFilepath="./LIBRARY/bitmap1.png" sourceLastImported="1574466121" externalFileCRC32="2868116800" externalFileSize="69" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="bitmap1.png" bitmapDataHRef="M 1 1571730685.dat" frameRight="160" frameBottom="140"/>
+          <DOMSoundItem name="sound167.mp3" itemID="5dc02709-00000158" sourceExternalFilepath="./LIBRARY/sound167.mp3" sourceLastImported="1572873993" externalFileCRC32="3499481810" externalFileSize="883" href="sound167.mp3" soundDataHRef="M 2 1572873993.dat" format="22kHz 16bit Mono" sampleCount="576" exportFormat="5" exportBits="7" dataLength="883" exportNative="true" cachedSampleCount="144"/>
+     </media>
+     <symbols>
+          <Include href="Symbol 4.xml" loadImmediate="false" itemID="5dc02709-00000159" lastModified="1571730685"/>
+          <Include href="Symbol 5.xml" loadImmediate="false" itemID="5dc02709-0000015a" lastModified="1571730685"/>
+          <Include href="Symbol 6.xml" loadImmediate="false" itemID="5dc02709-0000015b" lastModified="1571730685"/>
+          <Include href="Symbol 7.xml" itemID="5dc02709-0000015c" lastModified="1571730685"/>
+          <Include href="Symbol 10.xml" itemID="5dc02709-0000015d" lastModified="1571730685"/>
+          <Include href="Symbol 13.xml" itemID="5dc02709-0000015e" lastModified="1571730685"/>
+          <Include href="Symbol 16.xml" itemID="5dc02709-0000015f" lastModified="1571730685"/>
+          <Include href="Symbol 19.xml" itemID="5dc02709-00000160" lastModified="1571730685"/>
+          <Include href="Symbol 22.xml" itemID="5dc02709-00000161" lastModified="1571730685"/>
+          <Include href="Symbol 25.xml" itemID="5dc02709-00000162" lastModified="1571730685"/>
+          <Include href="Symbol 28.xml" itemID="5dc02709-00000163" lastModified="1571730685"/>
+          <Include href="Symbol 31.xml" itemID="5dc02709-00000164" lastModified="1571730685"/>
+          <Include href="Symbol 34.xml" itemID="5dc02709-00000165" lastModified="1571730685"/>
+          <Include href="Symbol 37.xml" itemID="5dc02709-00000166" lastModified="1571730685"/>
+          <Include href="Symbol 40.xml" itemID="5dc02709-00000167" lastModified="1571730685"/>
+          <Include href="Symbol 43.xml" itemID="5dc02709-00000168" lastModified="1571730685"/>
+          <Include href="Symbol 46.xml" itemID="5dc02709-00000169" lastModified="1571730685"/>
+          <Include href="Symbol 49.xml" itemID="5dc02709-0000016a" lastModified="1571730685"/>
+          <Include href="Symbol 52.xml" itemID="5dc02709-0000016b" lastModified="1571730685"/>
+          <Include href="Symbol 55.xml" itemID="5dc02709-0000016c" lastModified="1571730685"/>
+          <Include href="Symbol 58.xml" itemID="5dc02709-0000016d" lastModified="1571730685"/>
+          <Include href="Symbol 61.xml" itemID="5dc02709-0000016e" lastModified="1571730685"/>
+          <Include href="Symbol 64.xml" itemID="5dc02709-0000016f" lastModified="1571730685"/>
+          <Include href="Symbol 66.xml" itemIcon="1" loadImmediate="false" itemID="5dc02709-00000170" lastModified="1571730685"/>
+          <Include href="Symbol 67.xml" itemID="5dc02709-00000171" lastModified="1571730685"/>
+          <Include href="Symbol 70.xml" itemID="5dc02709-00000172" lastModified="1571730685"/>
+          <Include href="Symbol 73.xml" itemID="5dc02709-00000173" lastModified="1571730685"/>
+          <Include href="Symbol 74.xml" itemIcon="1" loadImmediate="false" itemID="5dc02709-00000174" lastModified="1571730685"/>
+          <Include href="Symbol 75.xml" itemIcon="1" loadImmediate="false" itemID="5dc02709-00000175" lastModified="1571730685"/>
+          <Include href="Symbol 76.xml" itemIcon="1" loadImmediate="false" itemID="5dc02709-00000176" lastModified="1571730685"/>
+          <Include href="Symbol 77.xml" itemID="5dc02709-00000177" lastModified="1571730685"/>
+          <Include href="Symbol 78.xml" itemID="5dc02709-00000178" lastModified="1571730685"/>
+          <Include href="Symbol 80.xml" itemID="5dc02709-00000179" lastModified="1571730685"/>
+          <Include href="Symbol 81.xml" itemID="5dc02709-0000017a" lastModified="1571730685"/>
+          <Include href="Symbol 84.xml" itemID="5dc02709-0000017b" lastModified="1571730685"/>
+          <Include href="Symbol 87.xml" itemID="5dc02709-0000017c" lastModified="1571730685"/>
+          <Include href="Symbol 89.xml" itemID="5dc02709-0000017d" lastModified="1571730685"/>
+          <Include href="Symbol 90.xml" itemID="5dc02709-0000017e" lastModified="1571730685"/>
+          <Include href="Symbol 93.xml" itemID="5dc02709-0000017f" lastModified="1571730685"/>
+          <Include href="Symbol 96.xml" itemID="5dc02709-00000180" lastModified="1571730685"/>
+          <Include href="Symbol 99.xml" itemID="5dc02709-00000181" lastModified="1571730685"/>
+          <Include href="Symbol 101.xml" itemID="5dc02709-00000182" lastModified="1571730685"/>
+          <Include href="Symbol 102.xml" itemID="5dc02709-00000183" lastModified="1571730685"/>
+          <Include href="Symbol 104.xml" itemID="5dc02709-00000184" lastModified="1571730685"/>
+          <Include href="Symbol 107.xml" itemID="5dc02709-00000185" lastModified="1571730685"/>
+          <Include href="Symbol 110.xml" itemID="5dc02709-00000186" lastModified="1571730685"/>
+          <Include href="Symbol 113.xml" itemID="5dc02709-00000187" lastModified="1571730685"/>
+          <Include href="Symbol 116.xml" itemID="5dc02709-00000188" lastModified="1571730685"/>
+          <Include href="Symbol 119.xml" itemID="5dc02709-00000189" lastModified="1571730685"/>
+          <Include href="Symbol 122.xml" itemID="5dc02709-0000018a" lastModified="1571730685"/>
+          <Include href="Symbol 125.xml" itemID="5dc02709-0000018b" lastModified="1571730685"/>
+          <Include href="Symbol 128.xml" itemID="5dc02709-0000018c" lastModified="1571730685"/>
+          <Include href="Symbol 129.xml" itemIcon="1" loadImmediate="false" itemID="5dc02709-0000018d" lastModified="1571730685"/>
+          <Include href="Symbol 130.xml" itemIcon="1" loadImmediate="false" itemID="5dc02709-0000018e" lastModified="1571730685"/>
+          <Include href="Symbol 131.xml" itemID="5dc02709-0000018f" lastModified="1571730685"/>
+          <Include href="Symbol 134.xml" itemID="5dc02709-00000190" lastModified="1571730685"/>
+          <Include href="Symbol 137.xml" itemID="5dc02709-00000191" lastModified="1571730685"/>
+          <Include href="Symbol 140.xml" itemID="5dc02709-00000192" lastModified="1571730685"/>
+          <Include href="Symbol 143.xml" itemID="5dc02709-00000193" lastModified="1571730685"/>
+          <Include href="Symbol 146.xml" itemID="5dc02709-00000194" lastModified="1571730685"/>
+          <Include href="Symbol 147.xml" itemIcon="1" loadImmediate="false" itemID="5dc02709-00000195" lastModified="1571730685"/>
+          <Include href="Symbol 148.xml" itemIcon="1" loadImmediate="false" itemID="5dc02709-00000196" lastModified="1571730685"/>
+          <Include href="Symbol 149.xml" itemID="5dc02709-00000197" lastModified="1571730685"/>
+          <Include href="Symbol 152.xml" itemID="5dc02709-00000198" lastModified="1571730685"/>
+          <Include href="Symbol 155.xml" itemID="5dc02709-00000199" lastModified="1571730685"/>
+          <Include href="Symbol 158.xml" itemID="5dc02709-0000019a" lastModified="1571730685"/>
+          <Include href="Symbol 160.xml" itemIcon="1" loadImmediate="false" itemID="5dc02709-0000019b" lastModified="1571730685"/>
+          <Include href="Symbol 161.xml" itemID="5dc02709-0000019c" lastModified="1571730685"/>
+          <Include href="Symbol 164.xml" itemID="5dc02709-0000019d" lastModified="1571730685"/>
+          <Include href="Symbol 168.xml" itemID="5dc02709-0000019e" lastModified="1571730685"/>
+          <Include href="Symbol 171.xml" itemID="5dc02709-0000019f" lastModified="1571730685"/>
+          <Include href="Symbol 174.xml" itemID="5dc02709-000001a0" lastModified="1571730685"/>
+          <Include href="Symbol 177.xml" itemID="5dc02709-000001a1" lastModified="1571730685"/>
+          <Include href="Symbol 180.xml" itemID="5dc02709-000001a2" lastModified="1571730685"/>
+          <Include href="Symbol 183.xml" itemID="5dc02709-000001a3" lastModified="1571730685"/>
+          <Include href="Symbol 186.xml" itemID="5dc02709-000001a4" lastModified="1571730685"/>
+          <Include href="Symbol 189.xml" itemID="5dc02709-000001a5" lastModified="1571730685"/>
+          <Include href="Symbol 192.xml" itemID="5dc02709-000001a6" lastModified="1571730685"/>
+          <Include href="Symbol 195.xml" itemID="5dc02709-000001a7" lastModified="1571730685"/>
+          <Include href="Symbol 198.xml" itemID="5dc02709-000001a8" lastModified="1571730685"/>
+          <Include href="Symbol 201.xml" itemID="5dc02709-000001a9" lastModified="1571730685"/>
+          <Include href="Symbol 204.xml" itemID="5dc02709-000001aa" lastModified="1571730685"/>
+          <Include href="Symbol 207.xml" itemID="5dc02709-000001ab" lastModified="1571730685"/>
+          <Include href="Symbol 210.xml" itemID="5dc02709-000001ac" lastModified="1571730685"/>
+          <Include href="Symbol 211.xml" itemID="5dc02709-000001ad" lastModified="1571730685"/>
+          <Include href="Symbol 214.xml" itemID="5dc02709-000001ae" lastModified="1571730685"/>
+          <Include href="Symbol 217.xml" itemID="5dc02709-000001af" lastModified="1571730685"/>
+          <Include href="Symbol 220.xml" itemID="5dc02709-000001b0" lastModified="1571730685"/>
+          <Include href="Symbol 222.xml" itemIcon="1" loadImmediate="false" itemID="5dc02709-000001b1" lastModified="1571730685"/>
+          <Include href="Symbol 223.xml" loadImmediate="false" itemID="5dc02709-000001b2" lastModified="1571730685"/>
+          <Include href="Symbol 224.xml" itemID="5dc02709-000001b3" lastModified="1571730685"/>
+          <Include href="Symbol 227.xml" itemID="5dc02709-000001b4" lastModified="1571730685"/>
+          <Include href="Symbol 230.xml" itemID="5dc02709-000001b5" lastModified="1571730685"/>
+          <Include href="Symbol 233.xml" itemID="5dc02709-000001b6" lastModified="1571730685"/>
+          <Include href="Symbol 236.xml" itemID="5dc02709-000001b7" lastModified="1571730685"/>
+          <Include href="Symbol 239.xml" itemID="5dc02709-000001b8" lastModified="1571730685"/>
+          <Include href="Symbol 242.xml" itemID="5dc02709-000001b9" lastModified="1571730685"/>
+          <Include href="Symbol 245.xml" itemID="5dc02709-000001ba" lastModified="1571730685"/>
+          <Include href="Symbol 248.xml" itemID="5dc02709-000001bb" lastModified="1571730685"/>
+          <Include href="Symbol 251.xml" itemID="5dc02709-000001bc" lastModified="1571730685"/>
+          <Include href="Symbol 254.xml" itemID="5dc02709-000001bd" lastModified="1571730685"/>
+          <Include href="Symbol 257.xml" itemID="5dc02709-000001be" lastModified="1571730685"/>
+          <Include href="Symbol 260.xml" itemID="5dc02709-000001bf" lastModified="1571730685"/>
+          <Include href="Symbol 263.xml" itemID="5dc02709-000001c0" lastModified="1571730685"/>
+          <Include href="Symbol 266.xml" itemID="5dc02709-000001c1" lastModified="1571730685"/>
+          <Include href="Symbol 269.xml" itemID="5dc02709-000001c2" lastModified="1571730685"/>
+          <Include href="Symbol 270.xml" itemID="5dc02709-000001c3" lastModified="1571730685"/>
+          <Include href="Symbol 272.xml" loadImmediate="false" itemID="5dc02709-000001c4" lastModified="1571730685"/>
+          <Include href="Symbol 274.xml" loadImmediate="false" itemID="5dc02709-000001c5" lastModified="1571730685"/>
+          <Include href="Symbol 277.xml" itemID="5dc02709-000001c6" lastModified="1571730685"/>
+          <Include href="Symbol 279.xml" loadImmediate="false" itemID="5dc02709-000001c7" lastModified="1571730685"/>
+          <Include href="Symbol 281.xml" itemID="5dc02709-000001c8" lastModified="1571730685"/>
+          <Include href="Symbol 282.xml" loadImmediate="false" itemID="5dc02709-000001c9" lastModified="1571730685"/>
+          <Include href="Symbol 283.xml" itemID="5dc02709-000001ca" lastModified="1571730685"/>
+          <Include href="Symbol 284.xml" itemID="5dc02709-000001cb" lastModified="1571730685"/>
+          <Include href="Symbol 285.xml" loadImmediate="false" itemID="5dc02709-000001cc" lastModified="1571730685"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#2AD38D" locked="true" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 285" name="MessageHolder_mc" centerPoint3DX="442.4" centerPoint3DY="353.5">
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#A2B5AA" locked="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 270" name="CompanionMessages" centerPoint3DX="45.95" centerPoint3DY="74.5">
+                                             <matrix>
+                                                  <Matrix tx="45.95" ty="74.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#B8C92A" locked="true" layerType="mask">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 223" centerPoint3DX="96.45" centerPoint3DY="125">
+                                             <matrix>
+                                                  <Matrix a="7.84066772460938" d="5.47001647949219" tx="45.95" ty="74.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#BECFFA" parentLayerIndex="2" locked="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 281" name="SelectionInfo_mc" centerPoint3DX="638" centerPoint3DY="386.05">
+                                             <matrix>
+                                                  <Matrix tx="438" ty="350"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 5" color="#E4C640" locked="true" layerType="mask">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 223" name="WorldMapMask_mc" centerPoint3DX="96.45" centerPoint3DY="125">
+                                             <matrix>
+                                                  <Matrix a="7.84066772460938" d="5.47001647949219" tx="45.95" ty="74.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 6" color="#C20AED" parentLayerIndex="4" locked="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 283" name="WorldMapHolder_mc">
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 7" color="#ED9889" locked="true" layerType="mask">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 223" name="LocalMapMask_mc" centerPoint3DX="96.45" centerPoint3DY="125">
+                                             <matrix>
+                                                  <Matrix a="7.84066772460938" d="5.50006103515625" tx="45.95" ty="74.5"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 8" color="#90BBC7" parentLayerIndex="6" locked="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 284" name="LocalMapHolder_mc">
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

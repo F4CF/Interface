@@ -1,0 +1,225 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ContainerMenu/Lists/PlayerInventory/PlayerInventory" itemID="5dae66da-00000263" linkageExportForAS="true" linkageClassName="PlayerInventory" lastModified="1574552880">
+  <timeline>
+    <DOMTimeline name="PlayerInventory">
+      <layers>
+        <DOMLayer name="RightHitBox_tf" color="#FB06D6" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="RightHitBox_tf" width="286" height="32.4" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="21.6" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="5" lineHeight="14.3" bitmapSize="240" face="$Controller_Buttons_inverted*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="LeftHitBox_tf" color="#9999FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="LeftHitBox_tf" width="24" height="32.4" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="-8.4" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="5" lineHeight="14.3" bitmapSize="240" face="$Controller_Buttons_inverted*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PlayerSwitchButton_tf" color="#37A8D3" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="PlayerSwitchButton_tf" selected="true" width="31" height="25.45" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="278.1" ty="12.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Y</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" letterSpacing="0.5" lineSpacing="5" lineHeight="19.05" size="16" bitmapSize="320" face="$Controller_Buttons_inverted*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PlayerCaps_tf" color="#F7F06C" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="PlayerCaps_tf" selected="true" width="127.6" height="38.4" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.740676879882813" d="0.739761352539063" tx="192.8" ty="315.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>110</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineHeight="38.4" size="32" bitmapSize="640" face="$MAIN_Font_Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PlayerWeight_tf" color="#DD04C3" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="PlayerWeight_tf" selected="true" width="136" height="38.4" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.740676879882813" d="0.739761352539063" tx="43" ty="315.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>370/175</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineHeight="38.4" size="32" bitmapSize="640" face="$MAIN_Font_Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CapsIcon" color="#FF0000" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Lists/PlayerInventory/CapsIcon" centerPoint3DX="190.75" centerPoint3DY="343.45">
+                  <matrix>
+                    <Matrix a="0.634506225585938" d="0.632125854492188" tx="175.8" ty="328.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="WeightIcon" color="#00FF00" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Lists/PlayerInventory/WeightIcon" centerPoint3DX="40.1" centerPoint3DY="343.9">
+                  <matrix>
+                    <Matrix a="0.630462646484375" d="0.629257202148438" tx="25" ty="328.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CapsBackground" color="#0000FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Background" centerPoint3DX="210.2" centerPoint3DY="364">
+                  <matrix>
+                    <Matrix a="1.52001953125" d="0.2965087890625" tx="159.7" ty="313.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="WeightBackground" color="#FFFF00" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Background" centerPoint3DX="56.7" centerPoint3DY="364">
+                  <matrix>
+                    <Matrix a="1.52000427246094" d="0.2965087890625" tx="6.2" ty="313.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PlayerListHeader" color="#FF9900" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Lists/ListHeader" name="PlayerListHeader" centerPoint3DX="131.4" centerPoint3DY="21.2">
+                  <matrix>
+                    <Matrix tx="11.15" ty="3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PlayerList_mc" color="#339900" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Lists/Player/PlayerList" name="PlayerList_mc" centerPoint3DX="194.95" centerPoint3DY="217.45">
+                  <matrix>
+                    <Matrix tx="12.15" ty="69.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PlayerBracketBackground_mc" color="#0099FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ContainerMenu/Lists/PlayerInventory/PlayerBracketBackground" name="PlayerBracketBackground_mc" centerPoint3DX="143.5" centerPoint3DY="135.4">
+                  <matrix>
+                    <Matrix a="1.1231689453125" d="1.51193237304688" tx="1" ty="27.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ContainerMenu/Lists/Entries/LegendaryIcon" itemID="5dae8c2e-000002bd" lastModified="1571722051">
+  <timeline>
+    <DOMTimeline name="LegendaryIcon">
+      <layers>
+        <DOMLayer name="Shape" color="#B16AAD" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!202 75S2|152 123!152 123|164 192!164 192|102 159!102 159|38 192!38 192|49 123!49 123|0 75!0 75|70 63!70 63|102 0!102 0|133 63!133 63|202 75"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/Assets/HotkeyIcons/Icons/HotkeyIcons_4" itemID="5dc38260-000001c7" lastModified="1573093984">
+  <timeline>
+    <DOMTimeline name="HotkeyIcons_4" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Layer_1" color="#9B42CE" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!24 -85|34 -85!34 -85|43 -82!43 -82|49 -74!49 -74|64 -20!64 -20|63 -12!63 -12|56 0!56 0|24 8!24 8|-10 11!-10 11[-40 11 -59 -8!-59 -8[-81 -31 -83 -75!-83 -75|-78 -83!-78 -83|-67 -85!-67 -85|-27 -85!-27 -85[-8 -59 -7 -45!-7 -45[-6 -30 -12
+ -17!-12 -17|-18 -6!-18 -6|-2 -5!-2 -5|15 -19!15 -19[30 -43 24 -85!304 -94|269 -204!269 -204|263 -212!263 -212|254 -215!254 -215|-296 -215!-296 -215|-304 -212!-304 -212|-307 -204!-307 -204|-307 -149!-307 -149|-304 -141!-304 -141|-296
+ -138!-296 -138|-293 -138!-293 -138|-286 -134!-286 -134|-282 -126!-282 -126|-282 -96!-282 -96|-279 -88!-279 -88|-271 -85!-271 -85|-143 -85!-143 -85[-120 -85 -120 -76!-120 -76[-117 -38 -97 -10!-97 -10[-66 36 2 36!2 36|67 28!67 28[77 26
+ 84 50!84 50|128 207!128 207|133 214!133 214|142 216!142 216|299 188!299 188|306 183!306 183|307 175!307 175|239 -22!239 -22|240 -31!240 -31|245 -39!245 -39|298 -77!298 -77|303 -85!303 -85|304 -94"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

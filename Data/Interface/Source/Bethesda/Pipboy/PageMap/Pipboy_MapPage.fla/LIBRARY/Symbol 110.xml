@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 110" itemID="5dc02709-00000186" linkageExportForAS="true" linkageClassName="OfficeMarker" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 110">
+      <layers>
+        <DOMLayer name="Labels Layer" color="#DB5497">
+          <frames>
+            <DOMFrame index="0" name="Discovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="Undiscovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#8787CA" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!66 -70|66 34!66 34|118 34!118 34|118 -70!118 -70|66 -70!51 62|-53 62!-53 62|-53 165!-53 165|51 165!51 165|51 62!188 188|-188 188!-188 188|-188 -118!-188 -118|-5 -188!-5 -188|188 -118!188 -118|188 188!26 -70|-26 -70!-26 -70|-26 34!-26
+ 34|26 34!26 34|26 -70!-119 -70|-119 34!-119 34|-68 34!-68 34|-68 -70!-68 -70|-119 -70"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!5 -186|-4 -188!-4 -188|-13 -186!-13 -186|-172 -125!-172 -125[-188 -118 -188 -101!-188 -101|-188 163!-188 163[-188 173 -181 181!-181 181[-173 188 -163 188!-163 188|163 188!163 188[173 188 181 181!181 181[188 173 188 163!188 163|188 -101
+!188 -101[188 -118 171 -125!171 -125|5 -186!163 163|-163 163!-163 163|-163 -101!-163 -101|-4 -163!-4 -163|163 -101!163 -101|163 163"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

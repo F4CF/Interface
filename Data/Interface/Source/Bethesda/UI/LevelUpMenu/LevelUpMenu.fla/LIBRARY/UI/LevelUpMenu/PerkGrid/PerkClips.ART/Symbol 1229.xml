@@ -1,0 +1,920 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1229" itemID="5dc12b90-000001eb" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 1229">
+      <layers>
+        <DOMLayer name="Layer 1" color="#9FCB72">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="34.85" centerPoint3DY="-59.4">
+                  <matrix>
+                    <Matrix a="0.434371948242188" d="0.434371948242188" tx="25.35" ty="-68.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="35.15" centerPoint3DY="-59.9">
+                  <matrix>
+                    <Matrix a="0.384033203125" b="-0.245681762695313" c="0.245681762695313" d="0.384033203125" tx="25.65" ty="-68.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="37.15" centerPoint3DY="-59.75">
+                  <matrix>
+                    <Matrix a="0.198638916015625" b="-0.434982299804688" c="0.434982299804688" d="0.198638916015625" tx="27.65" ty="-68.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="41" centerPoint3DY="-60.15">
+                  <matrix>
+                    <Matrix a="-0.0701141357421875" b="-0.495834350585938" c="0.495834350585938" d="-0.0701141357421875" tx="31.5" ty="-69"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="46.25" centerPoint3DY="-61.85">
+                  <matrix>
+                    <Matrix a="-0.341796875" b="-0.39501953125" c="0.39501953125" d="-0.341796875" tx="36.75" ty="-70.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="51.85" centerPoint3DY="-65.6">
+                  <matrix>
+                    <Matrix a="-0.523056030273438" b="-0.152908325195313" c="0.152908325195313" d="-0.523056030273438" tx="42.35" ty="-74.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="56.65" centerPoint3DY="-71.35">
+                  <matrix>
+                    <Matrix a="-0.544357299804688" b="0.159103393554688" c="-0.159103393554688" d="-0.544357299804688" tx="47.15" ty="-80.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="59.5" centerPoint3DY="-78.45">
+                  <matrix>
+                    <Matrix a="-0.385345458984375" b="0.445327758789063" c="-0.445327758789063" d="-0.385345458984375" tx="50" ty="-87.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="60.1" centerPoint3DY="-85.6">
+                  <matrix>
+                    <Matrix a="-0.085693359375" b="0.605743408203125" c="-0.605743408203125" d="-0.085693359375" tx="50.6" ty="-94.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="58.7" centerPoint3DY="-91.4">
+                  <matrix>
+                    <Matrix a="0.263137817382813" b="0.576263427734375" c="-0.576263427734375" d="0.263137817382813" tx="49.2" ty="-100.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="56.1" centerPoint3DY="-95">
+                  <matrix>
+                    <Matrix a="0.552169799804688" b="0.353286743164063" c="-0.353286743164063" d="0.552169799804688" tx="46.6" ty="-103.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="53.95" centerPoint3DY="-96.05">
+                  <matrix>
+                    <Matrix a="0.6787109375" d="0.6787109375" tx="44.45" ty="-104.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#B9F108">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-48" centerPoint3DY="-28.3">
+                  <matrix>
+                    <Matrix a="0.434371948242188" d="0.434371948242188" tx="-57.5" ty="-37.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-49.45" centerPoint3DY="-31.4">
+                  <matrix>
+                    <Matrix a="0.393875122070313" b="0.251983642578125" c="-0.251983642578125" d="0.393875122070313" tx="-58.95" ty="-40.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-50" centerPoint3DY="-32.85">
+                  <matrix>
+                    <Matrix a="0.208343505859375" b="0.45623779296875" c="-0.45623779296875" d="0.208343505859375" tx="-59.5" ty="-41.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-50.65" centerPoint3DY="-32.35">
+                  <matrix>
+                    <Matrix a="-0.0750274658203125" b="0.53057861328125" c="-0.53057861328125" d="-0.0750274658203125" tx="-60.15" ty="-41.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-52.85" centerPoint3DY="-30.05">
+                  <matrix>
+                    <Matrix a="-0.372360229492188" b="0.430343627929688" c="-0.430343627929688" d="-0.372360229492188" tx="-62.35" ty="-38.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-57.05" centerPoint3DY="-27.1">
+                  <matrix>
+                    <Matrix a="-0.579147338867188" b="0.169296264648438" c="-0.169296264648438" d="-0.579147338867188" tx="-66.55" ty="-35.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-63.65" centerPoint3DY="-25">
+                  <matrix>
+                    <Matrix a="-0.611663818359375" b="-0.17877197265625" c="0.17877197265625" d="-0.611663818359375" tx="-73.15" ty="-33.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-71.85" centerPoint3DY="-24.6">
+                  <matrix>
+                    <Matrix a="-0.4388427734375" b="-0.50714111328125" c="0.50714111328125" d="-0.4388427734375" tx="-81.35" ty="-33.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-80.5" centerPoint3DY="-26.95">
+                  <matrix>
+                    <Matrix a="-0.098785400390625" b="-0.6983642578125" c="0.6983642578125" d="-0.098785400390625" tx="-90" ty="-35.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-87.8" centerPoint3DY="-31.75">
+                  <matrix>
+                    <Matrix a="0.306808471679688" b="-0.671905517578125" c="0.671905517578125" d="0.306808471679688" tx="-97.3" ty="-40.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-92.65" centerPoint3DY="-38.15">
+                  <matrix>
+                    <Matrix a="0.650543212890625" b="-0.416244506835938" c="0.416244506835938" d="0.650543212890625" tx="-102.15" ty="-47"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-94.55" centerPoint3DY="-44.4">
+                  <matrix>
+                    <Matrix a="0.807373046875" d="0.807373046875" tx="-104.05" ty="-53.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#B49F6D">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-64.8" centerPoint3DY="22.55">
+                  <matrix>
+                    <Matrix a="0.56231689453125" d="0.56231689453125" tx="-74.3" ty="13.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-64.3" centerPoint3DY="21.35">
+                  <matrix>
+                    <Matrix a="0.496932983398438" b="0.317901611328125" c="-0.317901611328125" d="0.496932983398438" tx="-73.8" ty="12.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-62.9" centerPoint3DY="22.25">
+                  <matrix>
+                    <Matrix a="0.256942749023438" b="0.5626220703125" c="-0.5626220703125" d="0.256942749023438" tx="-72.4" ty="13.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-61.8" centerPoint3DY="25.65">
+                  <matrix>
+                    <Matrix a="-0.0906524658203125" b="0.641098022460938" c="-0.641098022460938" d="-0.0906524658203125" tx="-71.3" ty="16.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-62.65" centerPoint3DY="30.95">
+                  <matrix>
+                    <Matrix a="-0.441787719726563" b="0.510574340820313" c="-0.510574340820313" d="-0.441787719726563" tx="-72.15" ty="22.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-65.9" centerPoint3DY="36.85">
+                  <matrix>
+                    <Matrix a="-0.675857543945313" b="0.19757080078125" c="-0.19757080078125" d="-0.675857543945313" tx="-75.4" ty="28"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-71.85" centerPoint3DY="41.8">
+                  <matrix>
+                    <Matrix a="-0.703170776367188" b="-0.205520629882813" c="0.205520629882813" d="-0.703170776367188" tx="-81.35" ty="32.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-79.5" centerPoint3DY="44.6">
+                  <matrix>
+                    <Matrix a="-0.497634887695313" b="-0.5750732421875" c="0.5750732421875" d="-0.497634887695313" tx="-89" ty="35.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-87.5" centerPoint3DY="44.35">
+                  <matrix>
+                    <Matrix a="-0.110641479492188" b="-0.782058715820313" c="0.782058715820313" d="-0.110641479492188" tx="-97" ty="35.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-94" centerPoint3DY="41.4">
+                  <matrix>
+                    <Matrix a="0.339645385742188" b="-0.743820190429688" c="0.743820190429688" d="0.339645385742188" tx="-103.5" ty="32.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-97.7" centerPoint3DY="36.85">
+                  <matrix>
+                    <Matrix a="0.712570190429688" b="-0.455917358398438" c="0.455917358398438" d="0.712570190429688" tx="-107.2" ty="28"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-98.15" centerPoint3DY="32.55">
+                  <matrix>
+                    <Matrix a="0.875686645507813" d="0.875686645507813" tx="-107.65" ty="23.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#80C2CD">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="38.2" centerPoint3DY="17">
+                  <matrix>
+                    <Matrix a="0.56231689453125" d="0.56231689453125" tx="28.7" ty="8.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="44.2" centerPoint3DY="17.4">
+                  <matrix>
+                    <Matrix a="0.531173706054688" b="0.339828491210938" c="-0.339828491210938" d="0.531173706054688" tx="34.7" ty="8.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="51.8" centerPoint3DY="19.95">
+                  <matrix>
+                    <Matrix a="0.290740966796875" b="0.636642456054688" c="-0.636642456054688" d="0.290740966796875" tx="42.3" ty="11.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="59.3" centerPoint3DY="25.35">
+                  <matrix>
+                    <Matrix a="-0.107757568359375" b="0.762054443359375" c="-0.762054443359375" d="-0.107757568359375" tx="49.8" ty="16.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="65.15" centerPoint3DY="33.45">
+                  <matrix>
+                    <Matrix a="-0.5482177734375" b="0.633590698242188" c="-0.633590698242188" d="-0.5482177734375" tx="55.65" ty="24.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="67.8" centerPoint3DY="42.65">
+                  <matrix>
+                    <Matrix a="-0.871170043945313" b="0.254669189453125" c="-0.254669189453125" d="-0.871170043945313" tx="58.3" ty="33.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="66.9" centerPoint3DY="51.15">
+                  <matrix>
+                    <Matrix a="-0.93756103515625" b="-0.274032592773438" c="0.274032592773438" d="-0.93756103515625" tx="57.4" ty="42.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="63.3" centerPoint3DY="56.8">
+                  <matrix>
+                    <Matrix a="-0.683929443359375" b="-0.790359497070313" c="0.790359497070313" d="-0.683929443359375" tx="53.8" ty="47.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="58.8" centerPoint3DY="58.45">
+                  <matrix>
+                    <Matrix a="-0.15625" b="-1.10458374023438" c="1.10458374023438" d="-0.15625" tx="49.3" ty="49.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="56.2" centerPoint3DY="56.05">
+                  <matrix>
+                    <Matrix a="0.491744995117188" b="-1.076904296875" c="1.076904296875" d="0.491744995117188" tx="46.7" ty="47.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="57.5" centerPoint3DY="50.95">
+                  <matrix>
+                    <Matrix a="1.05519104003906" b="-0.675140380859375" c="0.675140380859375" d="1.05519104003906" tx="48" ty="42.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="63.6" centerPoint3DY="45.85">
+                  <matrix>
+                    <Matrix a="1.32377624511719" d="1.32377624511719" tx="54.1" ty="37"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#5AD554">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-37.2" centerPoint3DY="-46.15">
+                  <matrix>
+                    <Matrix a="0.56231689453125" d="0.56231689453125" tx="-46.7" ty="-55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-43.65" centerPoint3DY="-46.35">
+                  <matrix>
+                    <Matrix a="0.532791137695313" b="-0.307601928710938" c="0.3076171875" d="0.532791137695313" tx="-53.15" ty="-55.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-48.35" centerPoint3DY="-45.6">
+                  <matrix>
+                    <Matrix a="0.334075927734375" b="-0.578628540039063" c="0.578628540039063" d="0.334075927734375" tx="-57.85" ty="-54.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-50.7" centerPoint3DY="-44.8">
+                  <matrix>
+                    <Matrix a="0" b="-0.721054077148438" c="0.721054077148438" d="0" tx="-60.2" ty="-53.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-50.95" centerPoint3DY="-45.3">
+                  <matrix>
+                    <Matrix a="-0.386978149414063" b="-0.670272827148438" c="0.670272827148438" d="-0.386978149414063" tx="-60.45" ty="-54.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-50.05" centerPoint3DY="-48.15">
+                  <matrix>
+                    <Matrix a="-0.716110229492188" b="-0.413436889648438" c="0.4134521484375" d="-0.716110229492188" tx="-59.55" ty="-57"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-49.3" centerPoint3DY="-53.85">
+                  <matrix>
+                    <Matrix a="-0.879806518554688" d="-0.879806518554688" tx="-58.8" ty="-62.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-50.25" centerPoint3DY="-61.85">
+                  <matrix>
+                    <Matrix a="-0.807754516601563" b="0.46368408203125" c="-0.46368408203125" d="-0.807754516601563" tx="-59.75" ty="-70.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-53.95" centerPoint3DY="-71.3">
+                  <matrix>
+                    <Matrix a="-0.492813110351563" b="0.85357666015625" c="-0.85357666015625" d="-0.492813110351563" tx="-63.45" ty="-80.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-61.05" centerPoint3DY="-80.4">
+                  <matrix>
+                    <Matrix a="-4.57763671875e-05" b="1.03854370117188" c="-1.03854370117188" d="-4.57763671875e-05" tx="-70.55" ty="-89.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-70.9" centerPoint3DY="-87.4">
+                  <matrix>
+                    <Matrix a="0.545730590820313" b="0.945236206054688" c="-0.945236206054688" d="0.545730590820313" tx="-80.4" ty="-96.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-82.25" centerPoint3DY="-91.05">
+                  <matrix>
+                    <Matrix a="0.989166259765625" b="0.572219848632813" c="-0.572219848632813" d="0.989166259765625" tx="-91.75" ty="-99.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="-93.1" centerPoint3DY="-90.95">
+                  <matrix>
+                    <Matrix a="1.19729614257813" d="1.19729614257813" tx="-102.6" ty="-99.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#ABE162" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="9.1" centerPoint3DY="-44.8">
+                  <matrix>
+                    <Matrix a="0.56231689453125" d="0.56231689453125" tx="-0.4" ty="-53.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="7.6" centerPoint3DY="-46.5">
+                  <matrix>
+                    <Matrix a="0.53387451171875" b="-0.341552734375" c="0.341552734375" d="0.53387451171875" tx="-1.9" ty="-55.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="8.35" centerPoint3DY="-46.85">
+                  <matrix>
+                    <Matrix a="0.293380737304688" b="-0.6424560546875" c="0.6424560546875" d="0.293380737304688" tx="-1.15" ty="-55.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="12.05" centerPoint3DY="-47.35">
+                  <matrix>
+                    <Matrix a="-0.109100341796875" b="-0.77154541015625" c="0.77154541015625" d="-0.109100341796875" tx="2.55" ty="-56.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="18.3" centerPoint3DY="-49.85">
+                  <matrix>
+                    <Matrix a="-0.556564331054688" b="-0.643234252929688" c="0.643234252929688" d="-0.556564331054688" tx="8.8" ty="-58.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="25.6" centerPoint3DY="-55.5">
+                  <matrix>
+                    <Matrix a="-0.886489868164063" b="-0.259140014648438" c="0.259140014648438" d="-0.886489868164063" tx="16.1" ty="-64.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="31.8" centerPoint3DY="-64.85">
+                  <matrix>
+                    <Matrix a="-0.9559326171875" b="0.279403686523438" c="-0.279403686523438" d="-0.9559326171875" tx="22.3" ty="-73.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="34.95" centerPoint3DY="-76.75">
+                  <matrix>
+                    <Matrix a="-0.698516845703125" b="0.807235717773438" c="-0.807235717773438" d="-0.698516845703125" tx="25.45" ty="-85.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="34" centerPoint3DY="-89.2">
+                  <matrix>
+                    <Matrix a="-0.159835815429688" b="1.1298828125" c="-1.1298828125" d="-0.159835815429688" tx="24.5" ty="-98.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="28.95" centerPoint3DY="-99.6">
+                  <matrix>
+                    <Matrix a="0.503662109375" b="1.10301208496094" c="-1.10301208496094" d="0.503662109375" tx="19.45" ty="-108.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="21.55" centerPoint3DY="-105.8">
+                  <matrix>
+                    <Matrix a="1.08204650878906" b="0.69232177734375" c="-0.69232177734375" d="1.08204650878906" tx="12.05" ty="-114.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1228" centerPoint3DX="14.4" centerPoint3DY="-106.95">
+                  <matrix>
+                    <Matrix a="1.35891723632813" d="1.35891723632813" tx="4.9" ty="-115.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

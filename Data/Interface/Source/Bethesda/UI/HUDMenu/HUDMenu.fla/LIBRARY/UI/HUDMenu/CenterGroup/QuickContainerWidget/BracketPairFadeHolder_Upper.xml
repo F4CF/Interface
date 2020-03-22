@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/QuickContainerWidget/BracketPairFadeHolder_Upper" itemID="5dc280f6-00000547" lastModified="1573028086">
+  <timeline>
+    <DOMTimeline name="BracketPairFadeHolder_Upper">
+      <layers>
+        <DOMLayer name="Shape" color="#A2AADA" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!5400 0S1|0 0!0 0|0 200!0 200|40 200!40 200|40 40!40 40|5360 40!5360 40|5360 200!5360 200|5400 200!5400 200|5400 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

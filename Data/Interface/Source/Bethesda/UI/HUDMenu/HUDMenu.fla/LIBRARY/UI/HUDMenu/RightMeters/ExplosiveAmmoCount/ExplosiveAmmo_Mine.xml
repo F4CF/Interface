@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/RightMeters/ExplosiveAmmoCount/ExplosiveAmmo_Mine" itemID="5dc288c8-00000578" lastModified="1573032591">
+  <timeline>
+    <DOMTimeline name="ExplosiveAmmo_Mine">
+      <layers>
+        <DOMLayer name="Graphic" color="#F2EA25" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/RightMeters/ExplosiveAmmoCount/ExplosiveAmmo_MineGraphic" selected="true" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

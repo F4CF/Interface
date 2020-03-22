@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 104" itemID="5dc02709-00000184" linkageExportForAS="true" linkageClassName="PlayerLocMarker" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 104">
+      <layers>
+        <DOMLayer name="Layer 1" color="#C2D25C" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!112 195|0 -146!0 -146|-111 195!-111 195|0 162!0 162|112 195"/>
+                    <Edge fillStyle0="1" edges="!158 250|169 240!169 240|9 -250!9 -250|-9 -250!-9 -250|-168 238!-168 238|-154 249!-154 249|0 205!0 205|158 250"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

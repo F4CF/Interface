@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Pipboy/InvPage/PaperDoll/PaperDoll_ResistEntry" itemID="5db0219c-0000048d" linkageExportForAS="true" linkageClassName="PaperDoll_ResistEntry" lastModified="1571840356">
+  <timeline>
+    <DOMTimeline name="PaperDoll_ResistEntry">
+      <layers>
+        <DOMLayer name="Value_tf" color="#FF0000" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="Value_tf" width="36" height="23.75" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="23.3" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>0</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineHeight="21.6" size="18" bitmapSize="360" face="$MAIN_Font*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Icon_mc" color="#0099FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/PaperDoll/DamageIcons/DamageIcons" name="Icon_mc" centerPoint3DX="18.55" centerPoint3DY="21.7">
+                  <matrix>
+                    <Matrix a="0.996063232421875" d="1.00126647949219" tx="9.2" ty="12.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

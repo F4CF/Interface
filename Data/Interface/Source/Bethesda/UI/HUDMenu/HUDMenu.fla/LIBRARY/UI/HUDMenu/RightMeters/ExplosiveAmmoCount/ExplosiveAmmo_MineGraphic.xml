@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/RightMeters/ExplosiveAmmoCount/ExplosiveAmmo_MineGraphic" itemID="5dc288d0-00000579" symbolType="graphic" lastModified="1573030096">
+  <timeline>
+    <DOMTimeline name="ExplosiveAmmo_MineGraphic">
+      <layers>
+        <DOMLayer name="Shape" color="#4F4FFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!482 210S2[498 245 483 260!483 260|434 258!434 258[398 241 362 204!362 204[324 166 307 132!307 132[292 94 305 81!305 81|356 83!356 83[391 99 429 136!429 136[466 173 482 210!550 486|528 499!528 499[497 501 445 482!445 482[344 446 237 339
+!237 339[123 225 84 126!84 126[49 46 79 16!79 16[99 -4 143 1!143 1[185 6 240 36!240 36[271 40 305 61!305 61[298 63 293 69!293 69[284 78 283 92!283 92[279 111 292 138!292 138[309 176 349 216!349 216[388 255 427 273!427 273[454 285 473
+ 283!473 283[487 281 496 272!496 272|503 260!503 260[526 295 529 325!529 325[559 379 563 421!563 421[570 466 550 486!46 43[40 89 68 154!68 154[89 202 128 254!128 254[164 304 213 353!213 353|312 438!312 438[363 476 410 497!410 497[472
+ 526 517 519!517 519|449 560!449 560[404 577 322 534!322 534[238 491 156 409!156 409[73 326 30 243!30 243[-12 161 5 115!5 115|46 43"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

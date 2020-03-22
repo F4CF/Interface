@@ -1,0 +1,198 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Presentation/Slides" itemID="5db6bd7d-000001e8" lastModified="1573104935" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="Slides" currentFrame="3">
+      <layers>
+        <DOMLayer name="Guide:StageBounds" color="#FF9900" locked="true" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <matrix>
+                    <Matrix d="1.18032836914063" ty="-87.35"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#00FF00"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!25600 13680S4|0 13680!0 13680|0 1480!0 1480|25600 1480!25600 1480|25600 13680"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Slide Title" color="#0099FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="625.65" height="46.9" autoExpand="true">
+                  <matrix>
+                    <Matrix tx="262" ty="-62"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Scaleform User Interface Preview</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="46.9" size="42" bitmapSize="840" face="ArialMT" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText width="254.6" height="46.9" autoExpand="true">
+                  <matrix>
+                    <Matrix tx="262" ty="-62"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>English Fonts</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="46.9" size="42" bitmapSize="840" face="ArialMT" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMStaticText width="445.95" height="46.9" autoExpand="true">
+                  <matrix>
+                    <Matrix tx="262" ty="-62"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Components: Item Card</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="46.9" size="42" bitmapSize="840" face="ArialMT" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMStaticText width="245.25" height="46.9" autoExpand="true">
+                  <matrix>
+                    <Matrix tx="262" ty="-62"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Map Markers</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="46.9" size="42" bitmapSize="840" face="ArialMT" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMStaticText width="77.2" height="46.9" autoExpand="true">
+                  <matrix>
+                    <Matrix tx="262" ty="-62"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Test</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="46.9" size="42" bitmapSize="840" face="ArialMT" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Slide Content" color="#00CC00" current="true" isSelected="true" autoNamed="false" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="642.5" height="17.9" autoExpand="true">
+                  <matrix>
+                    <Matrix tx="301.3" ty="113.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>This document will provide a live preview for some elements of the Fallout 4 user interface.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="17.9" size="16" bitmapSize="320" face="ArialMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Fonts.fonts_en.Sample/Fonts_Sample" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="640" y="360"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Demostration/Demo_ItemCardEntry" centerPoint3DX="210.25" centerPoint3DY="199.9">
+                  <matrix>
+                    <Matrix tx="85.4" ty="55.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="124.25" y="144.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/MapMarkers/_DEMO_MapMarkers" selected="true" centerPoint3DX="640" centerPoint3DY="360">
+                  <transformationPoint>
+                    <Point x="640" y="360"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Slide Background" color="#FF0000" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Presentation/Background_StyleGrid" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="640" y="339.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Presentation/Background" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point x="640" y="360"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

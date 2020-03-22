@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/BottomCenterGroup/BottomCenterGroup" itemID="5dc1486b-000002c6" linkageExportForAS="true" linkageClassName="HUDMenu_fla.BottomCenterGroup_24" lastModified="1573029704">
+  <timeline>
+    <DOMTimeline name="BottomCenterGroup">
+      <layers>
+        <DOMLayer name="SubtitleText_mc" color="#3FD4A1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/BottomCenterGroup/Subtitles" name="SubtitleText_mc" selected="true" centerPoint3DX="275" centerPoint3DY="51.25">
+                  <matrix>
+                    <Matrix ty="-30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PerkVaultBoy_mc" color="#2DB8B5" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/BottomCenterGroup/PerkVaultBoy" name="PerkVaultBoy_mc" selected="true" centerPoint3DY="-214">
+                  <matrix>
+                    <Matrix ty="-214"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CritMeter_mc" color="#DD83E2" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/BottomCenterGroup/CritMeter/CritMeter" name="CritMeter_mc" selected="true" centerPoint3DX="167" centerPoint3DY="-63.5">
+                  <matrix>
+                    <Matrix ty="-80"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CompassWidget_mc" color="#B07FDE" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/BottomCenterGroup/HUDCompassWidget/HUDCompassWidget" name="CompassWidget_mc" selected="true" centerPoint3DX="180" centerPoint3DY="32">
+                  <matrix>
+                    <Matrix ty="-24"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

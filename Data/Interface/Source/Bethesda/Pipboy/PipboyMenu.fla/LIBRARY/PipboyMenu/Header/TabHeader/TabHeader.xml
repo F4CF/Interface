@@ -1,0 +1,67 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PipboyMenu/Header/TabHeader/TabHeader" itemID="5db014d4-000002d4" linkageExportForAS="true" linkageClassName="TabHeader" lastModified="1571933595">
+  <timeline>
+    <DOMTimeline name="TabHeader">
+      <layers>
+        <DOMLayer name="Labels" color="#D17092" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="4" name="nextPage" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" duration="5" name="prevPage" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TabHeader_AlphaHolder" color="#A9BFF3" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PipboyMenu/Header/TabHeader/TabHeader_AlphaHolder" name="AlphaHolder" centerPoint3DX="329.3" centerPoint3DY="22.4">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PipboyMenu/Header/TabHeader/TabHeader_AlphaHolder" name="AlphaHolder" centerPoint3DX="304.3" centerPoint3DY="22.4">
+                  <matrix>
+                    <Matrix tx="-25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PipboyMenu/Header/TabHeader/TabHeader_AlphaHolder" name="AlphaHolder" centerPoint3DX="354.3" centerPoint3DY="22.4">
+                  <matrix>
+                    <Matrix tx="25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PipboyMenu/Header/TabHeader/TabHeader_AlphaHolder" name="AlphaHolder" centerPoint3DX="329.3" centerPoint3DY="22.4">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 72" itemID="5dc02773-000002c3" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 72">
+      <layers>
+        <DOMLayer name="Layer 1" color="#CDB6B4" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!865 582|865 189!865 189|859 175!859 175[853 169 845 169!845 169|766 169!766 169[758 169 752 175!752 175[746 181 746 189!746 189|746 399!746 399|118 399!118 399|118 20!118 20[118 0 98 0!98 0|20 0!20 0[0 0 0 20!0 20|0 582!0 582[0 590 6
+ 596!6 596[12 602 20 602!20 602|98 602!98 602|113 596!113 596|118 582!118 582|118 518!118 518|746 518!746 518|746 582!746 582[746 590 752 596!752 596[758 602 766 602!766 602|845 602!845 602|859 596!859 596|865 582!498 133[420 133 354
+ 154!354 154[352 201 317 235!317 235[283 268 235 268!235 268[209 268 185 257!185 257[162 285 152 308!152 308|152 361!152 361|705 361!705 361|705 169!705 169[620 133 498 133!298 86[272 60 235 60!235 60[198 60 173 86!173 86[147 112 147
+ 149!147 149[147 186 173 211!173 211[198 237 235 237!235 237[272 237 298 211!298 211[324 186 324 149!324 149[324 112 298 86"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,75 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 791" itemID="5dc12b90-00000150" symbolType="graphic" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 791">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FF4000"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#D4D4D4"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#B2B2B2"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                    <FillStyle index="6">
+                      <SolidColor color="#BF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!12 -1448|-7 -1462!-7 -1462|-8 -1463!-8 -1463|-8 -1464!-8 -1464|-9 -1464!-9 -1464|-12 -1467!-12 -1467|-15 -1468!-15 -1468|-26 -1472!-26 -1472|-57 -1484!-57 -1484|-67 -1487!-67 -1487|-67 -1486!-67 -1486|-86 -1482!-86 -1482|-101 -1466!-101
+ -1466[-107 -1453 -105 -1440!-105 -1440[-103 -1424 -92 -1417!-92 -1417|-76 -1411!-76 -1411|-51 -1409!-51 -1409|-26 -1408!-26 -1408|-22 -1409!-22 -1409|-17 -1411!-17 -1411|-17 -1410!-17 -1410|-8 -1412!-8 -1412|6 -1417!6 -1417|17 -1428
+!17 -1428[21 -1438 12 -1448"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!16 -1432[8 -1428 -2 -1427!-2 -1427|0 -1441!0 -1441|-3 -1456!-3 -1456|14 -1440!14 -1440|16 -1432"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!-7 -1459|-1 -1444!-1 -1444[-1 -1435 -4 -1428!-4 -1428|-15 -1429!-15 -1429|-45 -1433!-45 -1433|-42 -1456!-42 -1456[-43 -1469 -51 -1477!-51 -1477|-20 -1466!-20 -1466|-9 -1460!-9 -1460|-7 -1459"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!-6 -1424|-8 -1421!-8 -1421|-20 -1420!-20 -1420|-51 -1424!-51 -1424|-47 -1430!-47 -1430|-16 -1424!-16 -1424|-6 -1424!-46 -1434|-63 -1418!-63 -1418|-85 -1417!-85 -1417[-98 -1422 -102 -1437!-102 -1437[-106 -1451 -100 -1464!-100 -1464|-85
+ -1480!-85 -1480[-73 -1485 -62 -1480!-62 -1480[-49 -1476 -46 -1460!-46 -1460[-42 -1446 -46 -1434!-87 -1457|-90 -1447!-90 -1447|-86 -1438!-86 -1438|-76 -1437!-76 -1437[-72 -1439 -70 -1444!-70 -1444|-69 -1444!-69 -1444|-69 -1445!-69 -1445
+|-68 -1454!-68 -1454|-72 -1462!-72 -1462|-81 -1463!-81 -1463|-87 -1457"/>
+                    <Edge fillStyle0="1" fillStyle1="5" edges="
+!-81 -1460|-75 -1460!-75 -1460[-66 -1455 -70 -1446!-70 -1446[-74 -1437 -83 -1442!-83 -1442[-91 -1445 -87 -1455!-87 -1455|-81 -1460!-53 -1422|-54 -1420!-54 -1420|-19 -1417!-19 -1417|-13 -1416!-13 -1416|-17 -1414!-17 -1414|-17 -1413!-17
+ -1413|-26 -1412!-26 -1412|-45 -1412!-45 -1412|-64 -1413!-64 -1413|-53 -1422"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="
+!-11 -1415|-8 -1417!-8 -1417|-5 -1418!-5 -1418|14 -1426!14 -1426[8 -1420 -6 -1416!-6 -1416|-11 -1415!-3 -1424|4 -1424!4 -1424|-5 -1422!-5 -1422|-3 -1424"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!-222 -1471[-222 -1450 -252 -1445!-252 -1445[-358 -1506 -447 -1488!-447 -1488[-569 -1462 -616 -1471!-616 -1471|-611 -1485!-611 -1485[-610 -1494 -591 -1498!-591 -1498[-536 -1512 -264 -1505!-264 -1505[-228 -1488 -222 -1471"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

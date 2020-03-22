@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/QuantityMenu/Symbol 82" itemID="5dc0421c-00000041" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 82">
+      <layers>
+        <DOMLayer name="Layer 1" color="#489BE4">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/Symbol 81" name="QuantityMenuRightBracket_mc" centerPoint3DX="179.15" centerPoint3DY="55.5">
+                  <matrix>
+                    <Matrix a="-1" tx="162.85" ty="-0.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#35CDE9">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/Symbol 81" name="QuantityMenuLeftBracket_mc" centerPoint3DX="1.3" centerPoint3DY="55.5">
+                  <matrix>
+                    <Matrix tx="-15" ty="-0.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#F391E3" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/Symbol 79" name="QuantityMenuBottomBracket_mc" centerPoint3DX="30.5" centerPoint3DY="97.5">
+                  <matrix>
+                    <Matrix a="2.20120239257813" d="2" tx="1" ty="97"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

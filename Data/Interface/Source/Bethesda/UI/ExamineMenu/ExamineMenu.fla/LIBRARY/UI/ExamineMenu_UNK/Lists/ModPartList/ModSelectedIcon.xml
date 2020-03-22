@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ExamineMenu_UNK/Lists/ModPartList/ModSelectedIcon" itemID="5dd8479b-00000307" linkageExportForAS="true" linkageClassName="ExamineMenu_fla.ModSelectedIcon_79" lastModified="1574460098">
+  <timeline>
+    <DOMTimeline name="ModSelectedIcon" currentFrame="1">
+      <layers>
+        <DOMLayer name="Labels" color="#894DBE" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" name="Unselected" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="Selected" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Icon" color="#7894DB" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu_UNK/Symbol 41" centerPoint3DX="3.35" centerPoint3DY="3.55">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu_UNK/Symbol 43" centerPoint3DX="3.4" centerPoint3DY="3.55">
+                  <matrix>
+                    <Matrix tx="0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

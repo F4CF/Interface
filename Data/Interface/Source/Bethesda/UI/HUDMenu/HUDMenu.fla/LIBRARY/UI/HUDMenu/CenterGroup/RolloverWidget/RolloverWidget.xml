@@ -1,0 +1,77 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/RolloverWidget/RolloverWidget" itemID="5dc26c2e-00000480" linkageExportForAS="true" linkageClassName="RolloverWidget" lastModified="1573023959">
+  <timeline>
+    <DOMTimeline name="RolloverWidget">
+      <layers>
+        <DOMLayer name="RolloverName_tf" color="#87F04C" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="RolloverName_tf" selected="true" fontRenderingMode="standard" width="321" height="86" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-160" ty="-74"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Rollover Name</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" lineHeight="22.35" size="20" bitmapSize="400" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TaggedForSearchIcon_mc" color="#E7F684" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/RolloverWidget/TaggedForSearchIcon" name="TaggedForSearchIcon_mc" centerPoint3DX="98.15" centerPoint3DY="15.2">
+                  <matrix>
+                    <Matrix a="0.399322509765625" d="0.39666748046875" tx="83.15" ty="0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="LegendaryIcon_mc" color="#FB4F9A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/TopCenterGroup/EnemyHealthMeter/LegendaryIcon_Art" name="LegendaryIcon_mc" centerPoint3DX="71.05" centerPoint3DY="7.1">
+                  <matrix>
+                    <Matrix a="0.662246704101563" d="0.658538818359375" tx="63.5" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ButtonHintBar_mc" color="#B7F3A0" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BSButtonHintBar/BSButtonHintBar" name="ButtonHintBar_mc" centerPoint3DX="19.45" centerPoint3DY="44">
+                  <matrix>
+                    <Matrix ty="28"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

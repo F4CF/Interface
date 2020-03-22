@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/CapsTransferInfo/DirectionalArrow" itemID="5dc04689-000001d7" lastModified="1572882252">
+  <timeline>
+    <DOMTimeline name="DirectionalArrow">
+      <layers>
+        <DOMLayer name="Shape" color="#D66254" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!306 851S1|1 1660!1 1660|0 1660!0 1660|0 1700!0 1700|369 1700!369 1700|689 851!689 851|369 0!369 0|0 0!0 0|0 40!0 40|1 40!1 40|306 851!789 851|469 1700!469 1700|589 1700!589 1700|909 851!909 851|589 0!589 0|469 0!469 0|789 851"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

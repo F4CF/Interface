@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/TopCenterGroup/EnemyHealthMeter/LegendaryIcon" itemID="5dc267ff-00000462" lastModified="1573022041">
+  <timeline>
+    <DOMTimeline name="LegendaryIcon">
+      <layers>
+        <DOMLayer name="Icon" color="#9607F4" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/TopCenterGroup/EnemyHealthMeter/LegendaryIcon_Art" selected="true" centerPoint3DX="5.65" centerPoint3DY="7.1">
+                  <matrix>
+                    <Matrix a="1.32119750976563" d="1.32403564453125" tx="-1.9" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

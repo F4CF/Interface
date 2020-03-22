@@ -1,0 +1,36 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#009966" width="1280" height="720" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" gridSnapTo="true" viewAngle3D="100.925968316201" vanishingPoint3DX="640" vanishingPoint3DY="360" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="9A5BA31B69DA0749B10A09EC6E9AE87C">
+     <folders>
+          <DOMFolderItem name="Shared" itemID="5dd9db50-000007b2" isExpanded="true"/>
+          <DOMFolderItem name="Shared/Assets" itemID="5ddade4b-00000153" isExpanded="true"/>
+          <DOMFolderItem name="Shared/Assets/DamageIcons" itemID="5db5359a-0000020d" isExpanded="true"/>
+          <DOMFolderItem name="Shared/Assets/DamageIcons/Icons" itemID="5ddc0420-000007ad"/>
+     </folders>
+     <symbols>
+          <Include href="Shared/Assets/DamageIcons/DamageIcons.xml" itemID="5db53626-0000027a" lastModified="1574539687"/>
+          <Include href="Shared/Assets/DamageIcons/Icons/DamageIcons_Damage.xml" loadImmediate="false" itemID="5dd98c9f-000003e3" lastModified="1574539694"/>
+          <Include href="Shared/Assets/DamageIcons/Icons/DamageIcons_Defense.xml" loadImmediate="false" itemID="5ddc03d5-000007a9" lastModified="1574699989"/>
+          <Include href="Shared/Assets/DamageIcons/Icons/DamageIcons_Energy.xml" loadImmediate="false" itemID="5dd98c27-000003de" lastModified="1574538279"/>
+          <Include href="Shared/Assets/DamageIcons/Icons/DamageIcons_Fire.xml" loadImmediate="false" itemID="5dd98ddd-000003e4" lastModified="1574538717"/>
+          <Include href="Shared/Assets/DamageIcons/Icons/DamageIcons_Frost.xml" loadImmediate="false" itemID="5dd98de1-000003e5" lastModified="1574538721"/>
+          <Include href="Shared/Assets/DamageIcons/Icons/DamageIcons_Poison.xml" loadImmediate="false" itemID="5dd98c5c-000003e1" lastModified="1574538332"/>
+          <Include href="Shared/Assets/DamageIcons/Icons/DamageIcons_Radiation.xml" loadImmediate="false" itemID="5dd98c41-000003df" lastModified="1574538305"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Empty" color="#4FFF4F" locked="true" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="1535" publishTime="1574701620" publishDebug="true"/>
+     </publishHistory>
+</DOMDocument>

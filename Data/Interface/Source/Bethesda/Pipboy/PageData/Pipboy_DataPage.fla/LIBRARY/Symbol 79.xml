@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 79" itemID="5dc02773-000002c9" linkageExportForAS="true" linkageClassName="StatsTab" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 79">
+      <layers>
+        <DOMLayer name="Layer 1" color="#F48A15">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 77" name="ValueList_mc" centerPoint3DX="639.9" centerPoint3DY="388">
+                  <matrix>
+                    <Matrix tx="439.3" ty="165.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#E40ECB" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 78" name="CategoryList_mc" centerPoint3DX="237.2" centerPoint3DY="385.95">
+                  <matrix>
+                    <Matrix tx="37.75" ty="165.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

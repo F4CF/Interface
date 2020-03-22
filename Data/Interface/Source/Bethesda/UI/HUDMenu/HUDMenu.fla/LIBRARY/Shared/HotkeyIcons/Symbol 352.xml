@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/HotkeyIcons/Symbol 352" itemID="5dc13d4a-000000af" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 352">
+      <layers>
+        <DOMLayer name="Layer 1" color="#3CDB70" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!53 -50|-77 -181!-77 -181|18 -277!18 -277|0 -296!0 -296|-74 -269!-74 -269[-105 -258 -146 -250!-146 -250|-285 -111!-285 -111|-286 -105!-286 -105|-223 -41!-223 -41|-217 -42!-217 -42|-144 -114!-144 -114|-13 16!-13 16|-185 181!-185 181[-204
+ 183 -218 197!-218 197[-233 213 -234 231!-234 231[-234 251 -222 262!-222 262[-210 274 -191 273!-191 273[-172 272 -157 258!-157 258[-144 244 -143 227!-143 227|30 60!30 60|230 260!230 260|297 193!297 193|97 -7!97 -7|160 -70!160 -70[200
+ -54 232 -60!232 -60[265 -68 285 -88!285 -88[306 -109 312 -139!312 -139[318 -169 305 -198!305 -198|254 -147!254 -147|209 -161!209 -161|194 -208!194 -208|245 -258!245 -258[214 -271 184 -265!184 -265[153 -258 133 -237!133 -237[114 -219
+ 106 -186!106 -186[100 -157 116 -113!116 -113|53 -50!-172 214[-160 226 -176 242!-176 242[-191 257 -204 245!-204 245[-216 233 -201 217!-201 217[-183 201 -172 214"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

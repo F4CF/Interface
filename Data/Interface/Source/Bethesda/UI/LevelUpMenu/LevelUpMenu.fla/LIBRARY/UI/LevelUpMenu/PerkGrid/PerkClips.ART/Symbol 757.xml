@@ -1,0 +1,80 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 757" itemID="5dc12b90-00000148" symbolType="graphic" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 757">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#B2B2B2"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#FF4000"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor color="#BF0000"/>
+                    </FillStyle>
+                    <FillStyle index="6">
+                      <SolidColor color="#D4D4D4"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!-354 -1558|-355 -1559!-355 -1559|-369 -1560!-369 -1560|-371 -1559!-371 -1559|-371 -1560!-371 -1560|-367 -1561!-367 -1561|-358 -1562!-358 -1562|-350 -1562!-350 -1562|-354 -1558"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="!-338 -1549|-340 -1553!-340 -1553|-344 -1553!-344 -1553|-347 -1550!-347 -1550|-347 -1549!-347 -1549|-346 -1547"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!-346 -1547|-346 -1549!-346 -1549[-345 -1553 -341 -1551!-341 -1551|-338 -1549"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="!-342 -1562|-333 -1554!-333 -1554|-332 -1543!-332 -1543|-339 -1535!-339 -1535|-348 -1534!-348 -1534[-354 -1535 -356 -1541!-356 -1541|-356 -1553!-356 -1553|-351 -1560!-351 -1560|-342 -1562"/>
+                    <Edge fillStyle0="1" edges="!-338 -1562|-345 -1564!-345 -1564|-356 -1564!-356 -1564|-366 -1563!-366 -1563|-369 -1562!-369 -1562|-370 -1562!-370 -1562|-374 -1561!-374 -1561|-380 -1557!-380 -1557|-384 -1552!-384 -1552|-381 -1545!-381 -1545|-373 -1539!-373 -1539|-372
+ -1539!-372 -1539|-372 -1538!-372 -1538|-370 -1538!-370 -1538|-369 -1537!-369 -1537|-364 -1536!-364 -1536|-351 -1533!-351 -1533|-346 -1532!-346 -1532|-338 -1534!-338 -1534|-332 -1542!-332 -1542|-332 -1553!-332 -1553|-338 -1562"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!-383 -1551|-376 -1553!-376 -1553|-376 -1548!-376 -1548|-374 -1542!-374 -1542|-382 -1548!-382 -1548|-383 -1551"/>
+                    <Edge fillStyle0="1" fillStyle1="5" edges="
+!-375 -1558|-382 -1554!-382 -1554|-375 -1559!-375 -1559|-372 -1559!-372 -1559|-374 -1558!-374 -1558|-375 -1558!-375 -1557|-375 -1555!-375 -1555|-378 -1555!-378 -1555|-375 -1557"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!-374 -1557|-368 -1557!-368 -1557|-355 -1557!-355 -1557|-357 -1555!-357 -1555|-370 -1556!-370 -1556|-374 -1555!-374 -1555|-374 -1557"/>
+                    <Edge fillStyle0="1" fillStyle1="6" edges="
+!-375 -1554|-370 -1554!-370 -1554|-357 -1554!-357 -1554|-358 -1543!-358 -1543|-353 -1535!-353 -1535|-366 -1538!-366 -1538|-371 -1541!-371 -1541|-372 -1541!-372 -1541|-375 -1547!-375 -1547|-375 -1554"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="
+!-338 -1546|-338 -1545!-338 -1545|-341 -1542!-341 -1542|-344 -1542!-344 -1542|-346 -1545"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!-346 -1545|-344 -1544!-344 -1544|-340 -1544!-340 -1544|-338 -1546"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="
+!-346 -1545|-346 -1546!-346 -1546|-346 -1547!-338 -1549|-338 -1546"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#4F4FFF">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!179 -1441|179 -1435!179 -1435|151 -1430!151 -1430[55 -1430 29 -1448!29 -1448[-4 -1469 -74 -1475!-74 -1475|-78 -1469!-78 -1469[-82 -1468 -82 -1492!-82 -1492[-82 -1515 -72 -1513!-72 -1513|-63 -1509!-63 -1509[143 -1484 175 -1452!175 -1452
+|179 -1441"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/MapMarkers/Symbol 240" itemID="5dc13d4a-00000076" linkageExportForAS="true" linkageClassName="CamperMarker" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 240">
+      <layers>
+        <DOMLayer name="Labels Layer" color="#97AFFA">
+          <frames>
+            <DOMFrame index="0" name="Discovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="Undiscovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#F301A3" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!89 -42|85 -31!85 -31|74 -27!74 -27|19 -27!19 -27|19 -92!19 -92|74 -92!74 -92|85 -88!85 -88|89 -77!89 -77|89 -42!111 -124[98 -137 79 -137!79 -137|-152 -137!-152 -137[-171 -137 -185 -124!-185 -124[-198 -110 -198 -91!-198 -91|-198 73!-198
+ 73|-125 73!-125 73[-121 47 -101 31!-101 31[-82 13 -56 13!-56 13[-30 13 -10 31!-10 31[9 47 13 73!13 73|198 73!198 73|198 44!198 44|124 44!124 44|124 -91!124 -91[124 -110 111 -124!-142 -92|-19 -92!-19 -92|-19 -27!-19 -27|-142 -27!-142
+ -27|-153 -31!-153 -31|-157 -42!-157 -42|-157 -77!-157 -77|-153 -88!-153 -88|-142 -92!-94 46[-109 62 -109 84!-109 84[-109 106 -94 122!-94 122[-78 137 -56 137!-56 137[-34 137 -18 122!-18 122[-2 106 -2 84!-2 84[-2 62 -18 46!-18 46[-34 31
+ -56 31!-56 31[-78 31 -94 46!-73 67[-66 59 -56 59!-56 59[-46 59 -38 67!-38 67[-31 74 -31 84!-31 84[-31 94 -38 101!-38 101[-46 108 -56 108!-56 108[-66 108 -73 101!-73 101[-80 94 -80 84!-80 84[-80 74 -73 67"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!110 -124[124 -110 124 -91!124 -91|124 44!124 44|198 44!198 44|198 73!198 73|-4 73!-4 73|-2 86!-2 86[-2 108 -18 124!-18 124[-34 139 -56 139!-56 139[-78 139 -94 124!-94 124[-109 108 -109 86!-109 86|-107 73!-107 73|-198 73!-198 73|-198
+ -91!-198 -91[-198 -110 -185 -124!-185 -124[-172 -137 -153 -137!-153 -137|78 -137!78 -137[97 -137 110 -124!127 -140[107 -161 78 -161!78 -161|-153 -161!-153 -161[-181 -161 -202 -140!-202 -140[-222 -120 -222 -91!-222 -91|-222 73!-222 73
+[-222 83 -215 89!-215 89[-208 97 -198 97!-198 97|-133 97!-133 97[-128 124 -107 143!-107 143[-85 161 -56 161!-56 161[-28 161 -6 143!-6 143[15 124 20 97!20 97|198 97!198 97[208 97 215 89!215 89[222 83 222 73!222 73|222 44!222 44[222 34
+ 215 27!215 27[208 20 198 20!198 20|148 20!148 20|148 -91!148 -91[148 -120 127 -140"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

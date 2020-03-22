@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/MeterBar/MeterBarBracket" itemID="5dc2683f-00000464" lastModified="1573021759">
+  <timeline>
+    <DOMTimeline name="MeterBarBracket">
+      <layers>
+        <DOMLayer name="Shape" color="#EC1F9E" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!4040 0S1|4000 0!4000 0|4000 120!4000 120|0 120!0 120|0 0!0 0|-40 0!-40 0|-40 160!-40 160|4040 160!4040 160|4040 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

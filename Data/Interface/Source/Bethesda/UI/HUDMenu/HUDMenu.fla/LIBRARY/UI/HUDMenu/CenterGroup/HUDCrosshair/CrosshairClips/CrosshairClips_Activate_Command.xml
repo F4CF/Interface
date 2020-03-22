@@ -1,0 +1,1224 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClips_Activate_Command" itemID="5dc27b02-0000052b" linkageExportForAS="true" linkageClassName="HUDMenu_fla.activate2command_97" lastModified="1573026562">
+  <timeline>
+    <DOMTimeline name="CrosshairClips_Activate_Command">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FF580">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="-17.05" centerPoint3DY="23.15">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="-17.8" ty="17.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="-19.45" centerPoint3DY="17.3">
+                  <matrix>
+                    <Matrix a="0.258819580078125" b="-0.965927124023438" c="0.965927124023438" d="0.258819580078125" tx="-20.2" ty="11.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="-21.85" centerPoint3DY="11.4">
+                  <matrix>
+                    <Matrix a="0.5" b="-0.86602783203125" c="0.86602783203125" d="0.5" tx="-22.6" ty="5.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="-24.4" centerPoint3DY="5.45">
+                  <matrix>
+                    <Matrix a="0.707107543945313" b="-0.707107543945313" c="0.707107543945313" d="0.707107543945313" tx="-25.15" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="-26.65" centerPoint3DY="5.55">
+                  <matrix>
+                    <Matrix a="0.555572509765625" b="-0.831466674804688" c="0.831466674804688" d="0.555572509765625" tx="-27.4" ty="0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="-28.9" centerPoint3DY="5.6">
+                  <matrix>
+                    <Matrix a="0.3826904296875" b="-0.923873901367188" c="0.923873901367188" d="0.3826904296875" tx="-29.65" ty="0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="-31.15" centerPoint3DY="5.65">
+                  <matrix>
+                    <Matrix a="0.195083618164063" b="-0.980789184570312" c="0.980789184570312" d="0.195083618164063" tx="-31.9" ty="0.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="-33.4" centerPoint3DY="5.7">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="-34.15" ty="0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#29EDBE">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="-12.3" centerPoint3DY="18.4">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="-17.8" ty="17.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="-14.7" centerPoint3DY="12.55">
+                  <matrix>
+                    <Matrix a="0.258819580078125" b="-0.965927124023438" c="0.965927124023438" d="0.258819580078125" tx="-20.2" ty="11.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="-17.1" centerPoint3DY="6.65">
+                  <matrix>
+                    <Matrix a="0.5" b="-0.86602783203125" c="0.86602783203125" d="0.5" tx="-22.6" ty="5.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="-19.65" centerPoint3DY="0.7">
+                  <matrix>
+                    <Matrix a="0.707107543945313" b="-0.707107543945313" c="0.707107543945313" d="0.707107543945313" tx="-25.15" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="-21.9" centerPoint3DY="0.65">
+                  <matrix>
+                    <Matrix a="0.831466674804688" b="-0.555572509765625" c="0.555572509765625" d="0.831466674804688" tx="-27.4" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="-24.15" centerPoint3DY="0.6">
+                  <matrix>
+                    <Matrix a="0.923873901367188" b="-0.3826904296875" c="0.3826904296875" d="0.923873901367188" tx="-29.65" ty="-0.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="-26.4" centerPoint3DY="0.55">
+                  <matrix>
+                    <Matrix a="0.980789184570312" b="-0.195083618164063" c="0.195083618164063" d="0.980789184570312" tx="-31.9" ty="-0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="-28.65" centerPoint3DY="0.45">
+                  <matrix>
+                    <Matrix tx="-34.15" ty="-0.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#7BFE83">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="18.4" centerPoint3DY="23.15">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="17.65" ty="17.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="12.5" centerPoint3DY="25.55">
+                  <matrix>
+                    <Matrix a="-0.965927124023438" b="-0.258819580078125" c="0.258819580078125" d="-0.965927124023438" tx="11.75" ty="20.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="6.65" centerPoint3DY="28.05">
+                  <matrix>
+                    <Matrix a="-0.86602783203125" b="-0.5" c="0.5" d="-0.86602783203125" tx="5.9" ty="22.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="0.65" centerPoint3DY="30.5">
+                  <matrix>
+                    <Matrix a="-0.707107543945313" b="-0.707107543945313" c="0.707107543945313" d="-0.707107543945313" tx="-0.1" ty="25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="0.75" centerPoint3DY="32.35">
+                  <matrix>
+                    <Matrix a="-0.831466674804688" b="-0.555572509765625" c="0.555572509765625" d="-0.831466674804688" ty="26.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="0.8" centerPoint3DY="34.25">
+                  <matrix>
+                    <Matrix a="-0.923873901367188" b="-0.3826904296875" c="0.3826904296875" d="-0.923873901367188" tx="0.05" ty="28.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="0.9" centerPoint3DY="36.1">
+                  <matrix>
+                    <Matrix a="-0.980789184570312" b="-0.195083618164063" c="0.195083618164063" d="-0.980789184570312" tx="0.15" ty="30.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="0.95" centerPoint3DY="38">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="0.2" ty="32.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#85E0EF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="23.15" centerPoint3DY="18.4">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="17.65" ty="17.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="17.25" centerPoint3DY="20.8">
+                  <matrix>
+                    <Matrix a="-0.965927124023438" b="-0.258819580078125" c="0.258819580078125" d="-0.965927124023438" tx="11.75" ty="20.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="11.4" centerPoint3DY="23.3">
+                  <matrix>
+                    <Matrix a="-0.86602783203125" b="-0.5" c="0.5" d="-0.86602783203125" tx="5.9" ty="22.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="5.4" centerPoint3DY="25.75">
+                  <matrix>
+                    <Matrix a="-0.707107543945313" b="-0.707107543945313" c="0.707107543945313" d="-0.707107543945313" tx="-0.1" ty="25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="5.35" centerPoint3DY="27.6">
+                  <matrix>
+                    <Matrix a="-0.555572509765625" b="-0.831466674804688" c="0.831466674804688" d="-0.555572509765625" tx="-0.15" ty="26.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="5.3" centerPoint3DY="29.5">
+                  <matrix>
+                    <Matrix a="-0.3826904296875" b="-0.923873901367188" c="0.923873901367188" d="-0.3826904296875" tx="-0.2" ty="28.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="5.25" centerPoint3DY="31.35">
+                  <matrix>
+                    <Matrix a="-0.195083618164063" b="-0.980789184570312" c="0.980789184570312" d="-0.195083618164063" tx="-0.25" ty="30.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="5.2" centerPoint3DY="33.25">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="-0.3" ty="32.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#D6C99B">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="18.4" centerPoint3DY="-12.25">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1" d="0" tx="17.65" ty="-17.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="20.8" centerPoint3DY="-6.35">
+                  <matrix>
+                    <Matrix a="-0.258819580078125" b="0.965927124023438" c="-0.965927124023438" d="-0.258819580078125" tx="20.05" ty="-11.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="23.3" centerPoint3DY="-0.4">
+                  <matrix>
+                    <Matrix a="-0.5" b="0.86602783203125" c="-0.86602783203125" d="-0.5" tx="22.55" ty="-5.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="25.75" centerPoint3DY="5.5">
+                  <matrix>
+                    <Matrix a="-0.707107543945313" b="0.707107543945313" c="-0.707107543945313" d="-0.707107543945313" tx="25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="28" centerPoint3DY="5.4">
+                  <matrix>
+                    <Matrix a="-0.555572509765625" b="0.831466674804688" c="-0.831466674804688" d="-0.555572509765625" tx="27.25" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="30.3" centerPoint3DY="5.35">
+                  <matrix>
+                    <Matrix a="-0.3826904296875" b="0.923873901367188" c="-0.923873901367188" d="-0.3826904296875" tx="29.55" ty="-0.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="32.6" centerPoint3DY="5.25">
+                  <matrix>
+                    <Matrix a="-0.195083618164063" b="0.980789184570312" c="-0.980789184570312" d="-0.195083618164063" tx="31.85" ty="-0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="34.9" centerPoint3DY="5.2">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1" d="0" tx="34.15" ty="-0.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#16FEEA">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="23.15" centerPoint3DY="-17">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1" d="0" tx="17.65" ty="-17.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="25.55" centerPoint3DY="-11.1">
+                  <matrix>
+                    <Matrix a="-0.258819580078125" b="0.965927124023438" c="-0.965927124023438" d="-0.258819580078125" tx="20.05" ty="-11.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="28.05" centerPoint3DY="-5.15">
+                  <matrix>
+                    <Matrix a="-0.5" b="0.86602783203125" c="-0.86602783203125" d="-0.5" tx="22.55" ty="-5.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="30.5" centerPoint3DY="0.75">
+                  <matrix>
+                    <Matrix a="-0.707107543945313" b="0.707107543945313" c="-0.707107543945313" d="-0.707107543945313" tx="25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="32.75" centerPoint3DY="0.8">
+                  <matrix>
+                    <Matrix a="-0.831466674804688" b="0.555572509765625" c="-0.555572509765625" d="-0.831466674804688" tx="27.25" ty="0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="35.05" centerPoint3DY="0.85">
+                  <matrix>
+                    <Matrix a="-0.923873901367188" b="0.3826904296875" c="-0.3826904296875" d="-0.923873901367188" tx="29.55" ty="0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="37.35" centerPoint3DY="0.9">
+                  <matrix>
+                    <Matrix a="-0.980789184570312" b="0.195083618164063" c="-0.195083618164063" d="-0.980789184570312" tx="31.85" ty="0.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="39.65" centerPoint3DY="0.95">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="34.15" ty="0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#90B557">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="-17.05" centerPoint3DY="-12.35">
+                  <matrix>
+                    <Matrix tx="-17.8" ty="-17.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="-11.15" centerPoint3DY="-14.75">
+                  <matrix>
+                    <Matrix a="0.965927124023438" b="0.258819580078125" c="-0.258819580078125" d="0.965927124023438" tx="-11.9" ty="-20.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="-5.2" centerPoint3DY="-17.2">
+                  <matrix>
+                    <Matrix a="0.86602783203125" b="0.5" c="-0.5" d="0.86602783203125" tx="-5.95" ty="-22.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="0.7" centerPoint3DY="-19.65">
+                  <matrix>
+                    <Matrix a="0.707107543945313" b="0.707107543945313" c="-0.707107543945313" d="0.707107543945313" tx="-0.05" ty="-25.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="0.6" centerPoint3DY="-21.5">
+                  <matrix>
+                    <Matrix a="0.831466674804688" b="0.555572509765625" c="-0.555572509765625" d="0.831466674804688" tx="-0.15" ty="-27"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="0.55" centerPoint3DY="-23.4">
+                  <matrix>
+                    <Matrix a="0.923873901367188" b="0.3826904296875" c="-0.3826904296875" d="0.923873901367188" tx="-0.2" ty="-28.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="0.5" centerPoint3DY="-25.25">
+                  <matrix>
+                    <Matrix a="0.980789184570312" b="0.195083618164063" c="-0.195083618164063" d="0.980789184570312" tx="-0.25" ty="-30.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 515" centerPoint3DX="0.45" centerPoint3DY="-27.15">
+                  <matrix>
+                    <Matrix tx="-0.3" ty="-32.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#3CC4DB">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="-12.3" centerPoint3DY="-17.1">
+                  <matrix>
+                    <Matrix tx="-17.8" ty="-17.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="-6.4" centerPoint3DY="-19.5">
+                  <matrix>
+                    <Matrix a="0.965927124023438" b="0.258819580078125" c="-0.258819580078125" d="0.965927124023438" tx="-11.9" ty="-20.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="-0.45" centerPoint3DY="-21.95">
+                  <matrix>
+                    <Matrix a="0.86602783203125" b="0.5" c="-0.5" d="0.86602783203125" tx="-5.95" ty="-22.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="5.45" centerPoint3DY="-24.4">
+                  <matrix>
+                    <Matrix a="0.707107543945313" b="0.707107543945313" c="-0.707107543945313" d="0.707107543945313" tx="-0.05" ty="-25.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="5.5" centerPoint3DY="-26.25">
+                  <matrix>
+                    <Matrix a="0.555572509765625" b="0.831466674804688" c="-0.831466674804688" d="0.555572509765625" ty="-27"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="5.55" centerPoint3DY="-28.15">
+                  <matrix>
+                    <Matrix a="0.3826904296875" b="0.923873901367188" c="-0.923873901367188" d="0.3826904296875" tx="0.05" ty="-28.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="5.6" centerPoint3DY="-30">
+                  <matrix>
+                    <Matrix a="0.195083618164063" b="0.980789184570312" c="-0.980789184570312" d="0.195083618164063" tx="0.1" ty="-30.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/Symbol 514" centerPoint3DX="5.7" centerPoint3DY="-31.9">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1" d="0" tx="0.2" ty="-32.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#BCCD7A">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsArrow" centerPoint3DX="4.75" centerPoint3DY="35.4">
+                  <matrix>
+                    <Matrix a="-1" d="0.601486206054688" tx="-0.1" ty="28.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsArrow" centerPoint3DX="4.8" centerPoint3DY="38.4">
+                  <matrix>
+                    <Matrix a="-1" tx="-0.05" ty="31.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsArrow" centerPoint3DX="4.8" centerPoint3DY="25.9">
+                  <matrix>
+                    <Matrix a="-1" d="0.0099945068359375" tx="-0.05" ty="19.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsArrow" centerPoint3DX="4.8" centerPoint3DY="13.1">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="-0.05" ty="6.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 10" color="#C9B206">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsArrow" centerPoint3DX="-24.25" centerPoint3DY="6.6">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="-0.601486206054688" d="0" tx="-29.1" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsArrow" centerPoint3DX="-27.9" centerPoint3DY="6.6">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="-1" d="0" tx="-32.75" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsArrow" centerPoint3DX="-14.7" centerPoint3DY="6.6">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="0.0099945068359375" d="0" tx="-19.55" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsArrow" centerPoint3DX="-1.6" centerPoint3DY="6.6">
+                  <matrix>
+                    <Matrix a="0" b="-1" c="1" d="0" tx="-6.45" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 11" color="#75E828">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsArrow" centerPoint3DX="34" centerPoint3DY="6.65">
+                  <matrix>
+                    <Matrix a="0" b="1" c="0.601486206054688" d="0" tx="29.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsArrow" centerPoint3DX="37.55" centerPoint3DY="6.55">
+                  <matrix>
+                    <Matrix a="0" b="1" c="1" d="0" tx="32.7" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsArrow" centerPoint3DX="24.3" centerPoint3DY="6.55">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-0.0099945068359375" d="0" tx="19.45" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsArrow" centerPoint3DX="11.2" centerPoint3DY="6.55">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1" d="0" tx="6.35" ty="-0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 12" color="#C20EE7">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsArrow" centerPoint3DX="4.8" centerPoint3DY="-22.3">
+                  <matrix>
+                    <Matrix d="-0.601425170898438" tx="-0.05" ty="-28.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsArrow" centerPoint3DX="4.75" centerPoint3DY="-25.1">
+                  <matrix>
+                    <Matrix d="-1" tx="-0.1" ty="-31.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsArrow" centerPoint3DX="4.75" centerPoint3DY="-12.4">
+                  <matrix>
+                    <Matrix d="0.0099945068359375" tx="-0.1" ty="-19.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairClips/CrosshairClipsArrow" centerPoint3DX="4.75" centerPoint3DY="0.2">
+                  <matrix>
+                    <Matrix tx="-0.1" ty="-6.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 13" color="#A8EC11">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairTicks_Down" name="Down" centerPoint3DX="0.7" centerPoint3DY="34.25">
+                  <matrix>
+                    <Matrix d="0.134658813476563" tx="-0.05" ty="26.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairTicks_Down" name="Down" centerPoint3DX="0.7" centerPoint3DY="30.65">
+                  <matrix>
+                    <Matrix d="0.666656494140625" tx="-0.05" ty="23.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairTicks_Down" name="Down" centerPoint3DX="0.7" centerPoint3DY="26.9">
+                  <matrix>
+                    <Matrix d="1.19863891601563" tx="-0.05" ty="19.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 14" color="#AFD5AC">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairTicks_Right" name="Right" centerPoint3DX="36.5" centerPoint3DY="0.7">
+                  <matrix>
+                    <Matrix a="0.11236572265625" tx="27.6" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairTicks_Right" name="Right" centerPoint3DX="32.15" centerPoint3DY="0.7">
+                  <matrix>
+                    <Matrix a="0.556182861328125" tx="23.25" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairTicks_Right" name="Right" centerPoint3DX="27.85" centerPoint3DY="0.7">
+                  <matrix>
+                    <Matrix tx="18.95" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 15" color="#9DB059">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairTicks_Up" name="Up" centerPoint3DX="0.7" centerPoint3DY="-19.6">
+                  <matrix>
+                    <Matrix d="0.134658813476563" tx="-0.05" ty="-27.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairTicks_Up" name="Up" centerPoint3DX="0.7" centerPoint3DY="-15.8">
+                  <matrix>
+                    <Matrix d="0.666656494140625" tx="-0.05" ty="-23.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairTicks_Up" name="Up" centerPoint3DX="0.7" centerPoint3DY="-12.1">
+                  <matrix>
+                    <Matrix d="1.19863891601563" tx="-0.05" ty="-19.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 16" color="#EB84C2" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairTicks_Left" name="Left" centerPoint3DX="-18.65" centerPoint3DY="0.7">
+                  <matrix>
+                    <Matrix a="0.11236572265625" tx="-27.55" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairTicks_Left" name="Left" centerPoint3DX="-14.3" centerPoint3DY="0.7">
+                  <matrix>
+                    <Matrix a="0.556182861328125" tx="-23.2" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/CenterGroup/HUDCrosshair/CrosshairTicks_Left" name="Left" centerPoint3DX="-10.05" centerPoint3DY="0.7">
+                  <matrix>
+                    <Matrix tx="-18.95" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

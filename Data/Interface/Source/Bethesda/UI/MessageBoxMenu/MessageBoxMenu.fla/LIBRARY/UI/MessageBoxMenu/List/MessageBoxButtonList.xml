@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/MessageBoxMenu/List/MessageBoxButtonList" itemID="5dc03506-0000030c" linkageExportForAS="true" linkageClassName="MessageBoxButtonList" lastModified="1572877895">
+  <timeline>
+    <DOMTimeline name="MessageBoxButtonList">
+      <layers>
+        <DOMLayer name="ScrollDown" color="#1CAFD9" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/MessageBoxMenu/List/ScrollArrow" name="ScrollDown" centerPoint3DX="-19.5" centerPoint3DY="188.5">
+                  <matrix>
+                    <Matrix d="-1" tx="-27" ty="179"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ScrollUp" color="#9CD465" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/MessageBoxMenu/List/ScrollArrow" name="ScrollUp" centerPoint3DX="-20.5" centerPoint3DY="15.5">
+                  <matrix>
+                    <Matrix tx="-28" ty="6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="border" color="#FF6600" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/MessageBoxMenu/List/MessageBoxButtonList_Border" name="border" centerPoint3DX="50.5" centerPoint3DY="50.5">
+                  <matrix>
+                    <Matrix a="4.49998474121094" d="1.84989929199219"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

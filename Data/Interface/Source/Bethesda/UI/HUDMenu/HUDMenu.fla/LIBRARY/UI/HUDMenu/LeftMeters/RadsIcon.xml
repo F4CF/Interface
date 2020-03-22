@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/LeftMeters/RadsIcon" itemID="5dc2814d-00000548" lastModified="1573028202">
+  <timeline>
+    <DOMTimeline name="RadsIcon">
+      <layers>
+        <DOMLayer name="Shape" color="#CB11E6" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!0 -506S1[-209 -506 -357 -358!-357 -358[-505 -210 -505 0!-505 0[-505 210 -357 358!-357 358[-209 506 0 506!0 506[210 506 358 358!358 358[506 210 506 0!506 0[506 -209 358 -358!358 -358[210 -506 0 -506!106 -62[123 -34 124 0!124 0|460 0!460
+ 0[460 126 396 233!396 233[334 337 229 398!229 398|62 109!62 109[33 126 0 126!0 126[-34 126 -64 109!-64 109|-230 397!-230 397[-334 336 -395 232!-395 232[-459 125 -459 0!-459 0|-125 0!-125 0[-125 -33 -107 -62!-107 -62[-91 -90 -62 -106
+!-62 -106|-230 -397!-230 -397[-122 -460 0 -460!0 -460[123 -460 229 -398!229 -398|60 -106!60 -106[89 -91 106 -62"/>
+                    <Edge fillStyle1="1" edges="
+!59 61S2[35 87 -1 87!-1 87[-35 87 -61 61!-61 61[-85 37 -85 1!-85 1[-85 -33 -61 -59!-61 -59[-35 -83 -1 -83!-1 -83[35 -83 59 -59!59 -59[85 -33 85 3!85 3[85 37 59 61"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

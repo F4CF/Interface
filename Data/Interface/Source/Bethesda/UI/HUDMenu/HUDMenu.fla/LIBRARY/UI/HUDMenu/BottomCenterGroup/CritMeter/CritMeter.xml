@@ -1,0 +1,126 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/BottomCenterGroup/CritMeter/CritMeter" itemID="5dc282e0-00000551" linkageExportForAS="true" linkageClassName="HUDMenu_fla.CritMeter_34" lastModified="1573032761" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="CritMeter" currentFrame="7">
+      <layers>
+        <DOMLayer name="Labels Layer" color="#666666" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="15" name="Flashing" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="DisplayText_tf" color="#FFCC00" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="16" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="DisplayText_tf" selected="true" fontRenderingMode="standard" width="44" height="29" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="-140.55" ty="-13"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>CRIT</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" rotation="true" lineSpacing="0" lineHeight="24.55" size="22" bitmapSize="440" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Bracket_mc" color="#0099FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/MeterBar/MeterBarBracket" name="Bracket_mc" centerPoint3DX="22" centerPoint3DY="-4">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="MeterBar_mc" color="#009900" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/BottomCenterGroup/CritMeter/CritMeterBar" name="MeterBar_mc" centerPoint3DX="20" centerPoint3DY="-5">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="6" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/BottomCenterGroup/CritMeter/CritMeterBar" name="MeterBar_mc" centerPoint3DX="20" centerPoint3DY="-5">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/BottomCenterGroup/CritMeter/CritMeterBar" name="MeterBar_mc" centerPoint3DX="20" centerPoint3DY="-5">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.30078125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/BottomCenterGroup/CritMeter/CritMeterBar" name="MeterBar_mc" centerPoint3DX="20" centerPoint3DY="-5">
+                  <matrix>
+                    <Matrix tx="-80" ty="-8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CritMeterStars_mc" color="#CC0000" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="16" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/BottomCenterGroup/CritMeter/CritMeterStarHolder" name="CritMeterStars_mc" centerPoint3DX="130" centerPoint3DY="-12">
+                  <matrix>
+                    <Matrix tx="130" ty="-12"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

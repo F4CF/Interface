@@ -1,0 +1,15 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/ItemCard/Entries/ComponentsEntry/ItemCard_ComponentEntry_Entry_EntryHolder" itemID="5dd9d2ee-00000725" lastModified="1574556398">
+  <timeline>
+    <DOMTimeline name="ItemCard_ComponentEntry_Entry_EntryHolder">
+      <layers>
+        <DOMLayer name="Empty" color="#4FFF4F" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

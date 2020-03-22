@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/QuickContainerWidget/BetterIcon" itemID="5dc27c41-00000539" lastModified="1573026968">
+  <timeline>
+    <DOMTimeline name="BetterIcon">
+      <layers>
+        <DOMLayer name="Shape" color="#D93D97" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!92 -90S1|92 -9!92 -9|10 -9!10 -9|10 48!10 48|92 48!92 48|92 130!92 130|151 130!151 130|151 48!151 48|230 48!230 48|230 -9!230 -9|151 -9!151 -9|151 -90!151 -90|92 -90"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

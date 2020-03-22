@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PipboyMenu/Header/PageHeader/PageHeader_Selector" itemID="5db01478-000002d2" lastModified="1571820664">
+  <timeline>
+    <DOMTimeline name="PageHeader_Selector">
+      <layers>
+        <DOMLayer name="Layer 1" color="#38E09F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!180 -561|115 -561!115 -561|60 -561!60 -561|0 -561!0 -561|0 -481!0 -481|40 -481!40 -481|40 -521!40 -521|60 -521!60 -521|115 -521!115 -521|180 -521!180 -521|180 -561"/>
+                    <Edge fillStyle1="1" edges="!40 -480|40 -291!40 -291|0 -291!0 -291|0 -480!0 -480|40 -480!40 -290|40 40!40 40|0 40!0 40|0 -290!0 -290|40 -290"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

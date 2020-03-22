@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/CenterGroup/QuickContainerWidget" itemID="5dc27b6b-0000052e" linkageExportForAS="true" linkageClassName="QuickContainerWidget" lastModified="1573026667">
+  <timeline>
+    <DOMTimeline name="QuickContainerWidget">
+      <layers>
+        <DOMLayer name="ListItems_mc" color="#9A648D" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/_1/ListItems" name="ListItems_mc" selected="true" centerPoint3DX="-6" centerPoint3DY="75.15">
+                  <matrix>
+                    <Matrix tx="-135"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#B814BC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/_0/Symbol 558" name="ListHeaderAndBracket_mc" centerPoint3DY="58">
+                  <matrix>
+                    <Matrix tx="-135" ty="-36"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#6DDCF7" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/BSButtonHintBar/BSButtonHintBar" name="ButtonHintBar_mc" centerPoint3DX="19.45" centerPoint3DY="178">
+                  <matrix>
+                    <Matrix ty="162"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

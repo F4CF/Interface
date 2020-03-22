@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveIcons_Completed" itemID="5dc2980b-0000060d" lastModified="1573034179">
+  <timeline>
+    <DOMTimeline name="HUDObjectiveIcons_Completed">
+      <layers>
+        <DOMLayer name="Shape" color="#A96379" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!193 -145S2|-35 191!-35 191|-192 38!-192 38|-137 -19!-137 -19|-48 67!-48 67|127 -190!127 -190|193 -145"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

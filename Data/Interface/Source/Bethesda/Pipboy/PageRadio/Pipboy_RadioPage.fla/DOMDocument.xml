@@ -1,0 +1,113 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#333333" width="876" height="700" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" vanishingPoint3DX="438" vanishingPoint3DY="350" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="458FB0C1484F5F44A2EC98F66C752A24">
+     <fonts>
+          <DOMFontItem name="Font 25" itemID="5dc026b9-00000013" font="Controller--Buttons-inverted" size="0" id="25" embedRanges="1|2"/>
+          <DOMFontItem name="Font 24" itemID="5dc026b9-00000011" font="Handwritten_Institute" size="0" id="24" embeddedCharacters="!&quot;#$%&amp;&apos;()*+,-/:;&lt;=&gt;?@[\]^_{|}~¡¢£¤§©«¬®°±²µ¶»¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿĄąĆćĈĉĔęĜĝĤĥıĴĵŁłŃńŐőŒœŚśŜŝŠšŬŭŰűŸŹźŻżŽžƒμ‘’“”†‡•€™" embedRanges="1|2|3"/>
+          <DOMFontItem name="Font 23" itemID="5dc026b9-0000000f" font="Eurostile Cyr Std Bold" size="0" id="23" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 22" itemID="5dc026b9-0000000d" font="Controller--Buttons" size="0" id="22" embedRanges="1|2"/>
+          <DOMFontItem name="Font 21" itemID="5dc026b9-0000000b" font="Brody" size="0" id="21" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĂăĄąĆćČčĎďĐđĘęĚěĞğİıĹĺĽľŁłŃńŇňŐőŒœŔŕŘřŚśŞşŠšŢţŤťŮůŰűŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜ΔΣΩμπ–—‗‘’‚“”„†‡•…‰‹›‼ⁿ₣™Ω←→∂∏∕√∞∫≠≤≥■" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 20" itemID="5dc026b9-00000009" font="Eurostile LT Std Roman" size="0" id="20" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 19" itemID="5dc026b9-00000007" font="Share-TechMono" size="0" id="19" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЀЁЍАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёѝ–—‘’‚“”„†‡•…‰‹›⁄€™Ω∂∏∑∕√∞∧∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 18" itemID="5dc026b9-00000005" font="RobotoCondensed-Regular" size="0" id="18" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Font 17" itemID="5dc026b9-00000003" font="RobotoCondensed-Bold" size="0" id="17" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+     </fonts>
+     <symbols>
+          <Include href="Symbol 1.xml" itemIcon="1" loadImmediate="false" itemID="5dc026b9-00000014" lastModified="1571730685"/>
+          <Include href="Symbol 2.xml" loadImmediate="false" itemID="5dc026b9-00000015" lastModified="1571730685"/>
+          <Include href="Symbol 5.xml" loadImmediate="false" itemID="5dc026b9-00000016" lastModified="1571730685"/>
+          <Include href="Symbol 6.xml" itemID="5dc026b9-00000017" lastModified="1571730685"/>
+          <Include href="Symbol 7.xml" loadImmediate="false" itemID="5dc026b9-00000018" lastModified="1571730685"/>
+          <Include href="Symbol 9.xml" itemID="5dc026b9-00000019" lastModified="1571730685"/>
+          <Include href="Symbol 11.xml" loadImmediate="false" itemID="5dc026b9-0000001a" lastModified="1571730685"/>
+          <Include href="Symbol 12.xml" itemID="5dc026b9-0000001b" lastModified="1571730685"/>
+          <Include href="Symbol 13.xml" itemID="5dc026b9-0000001c" lastModified="1571730685"/>
+          <Include href="Symbol 16.xml" loadImmediate="false" itemID="5dc026b9-0000001d" lastModified="1571730685"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#F21CC9">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 12" name="List_mc" centerPoint3DX="236.95" centerPoint3DY="381.55">
+                                             <matrix>
+                                                  <Matrix tx="37.5" ty="163.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 2" color="#8DDB43">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 16" name="DeadWave_mc" centerPoint3DX="688.8" centerPoint3DY="271.85">
+                                             <matrix>
+                                                  <Matrix tx="565.8" ty="270.35"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 3" color="#09BDC1">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Symbol 13" name="RadioWave_mc" centerPoint3DX="570.95" centerPoint3DY="158">
+                                             <matrix>
+                                                  <Matrix tx="570.95" ty="158"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#7CFB1F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMShape isFloating="true">
+                                             <strokes>
+                                                  <StrokeStyle index="1">
+                                                       <SolidStroke scaleMode="normal">
+                                                            <fill>
+                                                                 <SolidColor color="#FFFFFF"/>
+                                                            </fill>
+                                                       </SolidStroke>
+                                                  </StrokeStyle>
+                                             </strokes>
+                                             <edges>
+                                                  <Edge strokeStyle="1" edges="!13508 7919|13508 7831!13754 7764|13754 7919!14490 7917|14493 7820!14244 7763|14244 7919!13998 7919|13998 7831!14366 7918|14369 7817!14739 7772|14736 7917!14980 7917|14983 7820!14858 7918|14859 7817!14612 7918|14615 7817!15102 7918|15105
+ 7817!15226 7917|15229 7769!15348 7918|15351 7815!16087 7907|16087 7815!15965 7906|15965 7818!15719 7772|15719 7906!15841 7907|15841 7815!15597 7907|15597 7815!15475 7906|15475 7818!16235 7522|16235 7767!16235 7276|16235 7522!16235 7032
+|16235 7276!16235 7032|16128 7028!16230 6908|16064 6905!16230 7154|16142 7154!16139 7276|16235 7276!16235 7522|16139 7522!16230 7644|16142 7644!16095 7399|16229 7398!16235 7767|16139 7767!16235 2930|16235 7032!16205 3100|16113 3100!16204
+ 3222|16116 3222!16070 3468|16204 3468!16205 3346|16113 3346!16205 3590|16113 3590!16215 3961|16067 3958!16070 4448|16215 4451!16215 4207|16118 4204!16216 4329|16115 4328!16216 4575|16115 4572!16216 4085|16115 4082!16216 3839|16113 3836
+!16204 3712|16116 3712!16061 4943|16217 4943!16062 5433|16217 5433!16217 5189|16129 5189!16218 5557|16126 5557!16218 5311|16126 5311!16218 5067|16115 5063!16216 4821|16115 4818!16215 4697|16118 4694!16229 6050|16128 6047!16217 5679|16129
+ 5679!16229 5804|16126 5802!16228 5926|16062 5923!16228 6662|16131 6659!16229 6540|16128 6537!16229 6294|16128 6293!16069 6414|16228 6416!16228 6172|16131 6169!16229 6786|16128 6783!13137 7933|13015 7933!13261 7933|13137 7933!13383 7933
+|13261 7933!16235 7767|16235 7933!16235 7933|13383 7933!13385 7828|13383 7933!13261 7933|13264 7764!13018 7833|13015 7933!13140 7830|13137 7933!13630 7920|13630 7828!13876 7920|13876 7828!14120 7920|14124 7817!12279 7933|12155 7933!12401
+ 7933|12279 7933!12525 7933|12401 7933!12647 7933|12525 7933!12771 7933|12647 7933!12893 7933|12771 7933!11543 7933|11420 7933!11665 7933|11543 7933!11789 7933|11665 7933!11911 7933|11789 7933!12033 7933|11911 7933!12155 7933|12033 7933
+!11420 7933|11324 7933!12893 7933|12894 7830!12773 7771|12771 7933!12647 7933|12650 7830!12525 7933|12528 7833!12401 7933|12404 7830!12159 7830|12155 7933!12279 7933|12282 7766!12033 7933|12033 7844!11911 7841|11911 7933!11789 7933|11788
+ 7797!11665 7933|11665 7841!11543 7844|11543 7933!11420 7933|11420 7841!13015 7933|12893 7933"/>
+                                             </edges>
+                                        </DOMShape>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

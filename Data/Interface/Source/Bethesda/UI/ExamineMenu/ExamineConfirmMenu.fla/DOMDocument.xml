@@ -1,0 +1,68 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#333333" width="1280" height="720" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" vanishingPoint3DX="640" vanishingPoint3DY="360" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="51105EEC53BBBA45B96D599CA2974ADF">
+     <folders>
+          <DOMFolderItem name="Shared" itemID="5ddaa8aa-00000257" isExpanded="true"/>
+          <DOMFolderItem name="Shared/BSButtonHintBar" itemID="5ddaa8f2-0000026b"/>
+          <DOMFolderItem name="Shared/Fonts" itemID="5ddaa8af-0000025b"/>
+          <DOMFolderItem name="UI" itemID="5ddaa8ca-00000260" isExpanded="true"/>
+          <DOMFolderItem name="UI/ExamineConfirmMenu" itemID="5ddaa8df-00000266" isExpanded="true"/>
+          <DOMFolderItem name="UI/ExamineConfirmMenu/ConfirmPanel" itemID="5ddaaa6b-0000027d"/>
+          <DOMFolderItem name="UI/ExamineConfirmMenu/ConfirmPanel/ComponentEntry" itemID="5ddc13d4-00000149" isExpanded="true"/>
+          <DOMFolderItem name="UI/ExamineConfirmMenu/ConfirmPanel/ComponentSourceEntry" itemID="5ddc13d9-0000014a" isExpanded="true"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Shared/Fonts/Font 34" itemID="5dc01c58-00000013" font="Controller--Buttons-inverted" size="0" id="34" embedRanges="1|2"/>
+          <DOMFontItem name="Shared/Fonts/Font 33" itemID="5dc01c58-00000011" font="Handwritten_Institute" size="0" id="33" embeddedCharacters="!&quot;#$%&amp;&apos;()*+,-/:;&lt;=&gt;?@[\]^_{|}~¡¢£¤§©«¬®°±²µ¶»¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýþÿĄąĆćĈĉĔęĜĝĤĥıĴĵŁłŃńŐőŒœŚśŜŝŠšŬŭŰűŸŹźŻżŽžƒμ‘’“”†‡•€™" embedRanges="1|2|3"/>
+          <DOMFontItem name="Shared/Fonts/Font 32" itemID="5dc01c58-0000000f" font="Eurostile Cyr Std Bold" size="0" id="32" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/Font 31" itemID="5dc01c58-0000000d" font="Controller--Buttons" size="0" id="31" embedRanges="1|2"/>
+          <DOMFontItem name="Shared/Fonts/Font 30" itemID="5dc01c58-0000000b" font="Brody" size="0" id="30" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĂăĄąĆćČčĎďĐđĘęĚěĞğİıĹĺĽľŁłŃńŇňŐőŒœŔŕŘřŚśŞşŠšŢţŤťŮůŰűŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜ΔΣΩμπ–—‗‘’‚“”„†‡•…‰‹›‼ⁿ₣™Ω←→∂∏∕√∞∫≠≤≥■" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/Font 29" itemID="5dc01c58-00000009" font="Eurostile LT Std Roman" size="0" id="29" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЁАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяё–—‘’‚“”„†‡•…‰‹›⁄€ℓ™Ω℮∂∏∑∕√∞∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/Font 28" itemID="5dc01c58-00000007" font="Share-TechMono" size="0" id="28" embeddedCharacters="¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĄąĆćĘęıŁłŃńŒœŚśŠšŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπЀЁЍАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёѝ–—‘’‚“”„†‡•…‰‹›⁄€™Ω∂∏∑∕√∞∧∫≠≤≥" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/Font 27" itemID="5dc01c58-00000005" font="RobotoCondensed-Regular" size="0" id="27" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+          <DOMFontItem name="Shared/Fonts/Font 26" itemID="5dc01c58-00000003" font="RobotoCondensed-Bold" size="0" id="26" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+     </fonts>
+     <symbols>
+          <Include href="Shared/BSButtonHintBar/BSButtonHint.xml" itemID="5ddaab89-00000293" lastModified="1574611849"/>
+          <Include href="Shared/BSButtonHintBar/BSButtonHint_BracketLeft.xml" loadImmediate="false" itemID="5ddaabf6-0000029b" lastModified="1574611958"/>
+          <Include href="Shared/BSButtonHintBar/BSButtonHint_BracketRight.xml" loadImmediate="false" itemID="5ddaabee-0000029a" lastModified="1574611950"/>
+          <Include href="Shared/BSButtonHintBar/BSButtonHint_IconAnimation.xml" loadImmediate="false" itemID="5ddaabe9-00000299" lastModified="1574611945"/>
+          <Include href="Shared/BSButtonHintBar/BSButtonHint_IconHolder.xml" itemID="5ddaab8f-00000294" lastModified="1574612077"/>
+          <Include href="Shared/BSButtonHintBar/BSButtonHintBar.xml" itemID="5ddaab83-00000292" lastModified="1574611843"/>
+          <Include href="UI/ExamineConfirmMenu/ConfirmPanel/BGRect.xml" loadImmediate="false" itemID="5ddaaa65-0000027b" lastModified="1574611823"/>
+          <Include href="UI/ExamineConfirmMenu/ConfirmPanel/ComponentEntry/ConfirmPanelComponentEntry.xml" itemID="5ddaa91b-00000272" lastModified="1574611822"/>
+          <Include href="UI/ExamineConfirmMenu/ConfirmPanel/ComponentEntry/ConfirmPanelComponentEntry_Background.xml" loadImmediate="false" itemID="5ddaaad7-00000289" lastModified="1574611817"/>
+          <Include href="UI/ExamineConfirmMenu/ConfirmPanel/ComponentEntry/ConfirmPanelComponentEntry_List2Icon.xml" itemID="5ddaaae2-0000028a" lastModified="1574611820"/>
+          <Include href="UI/ExamineConfirmMenu/ConfirmPanel/ComponentSourceEntry/ConfirmPanelComponentSourceEntry.xml" itemID="5ddaa924-00000273" lastModified="1574611819"/>
+          <Include href="UI/ExamineConfirmMenu/ConfirmPanel/ConfirmPanel.xml" itemID="5ddaa90e-00000270" lastModified="1574611834"/>
+          <Include href="UI/ExamineConfirmMenu/ConfirmPanel/ConfirmPanel_ScrollArrow.xml" loadImmediate="false" itemID="5ddaaa37-0000027a" lastModified="1574611831"/>
+          <Include href="UI/ExamineConfirmMenu/ExamineConfirmMenu.xml" itemID="5ddaa912-00000271" lastModified="1574611874"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Menu_mc" color="#E3C645" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="UI/ExamineConfirmMenu/ExamineConfirmMenu" name="Menu_mc" selected="true" centerPoint3DX="641.75" centerPoint3DY="361.3">
+                                             <matrix>
+                                                  <Matrix tx="400" ty="245"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="53321" publishTime="1574704225" publishDebug="true"/>
+          <PublishItem publishSize="53321" publishTime="1574704214" publishDebug="true"/>
+          <PublishItem publishSize="30380" publishTime="1574704188" publishDebug="true"/>
+     </publishHistory>
+</DOMDocument>

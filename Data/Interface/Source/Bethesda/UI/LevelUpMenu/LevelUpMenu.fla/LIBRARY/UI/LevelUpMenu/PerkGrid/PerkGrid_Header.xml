@@ -1,0 +1,414 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkGrid_Header" itemID="5dd9f5cc-00000725" lastModified="1574568723">
+  <timeline>
+    <DOMTimeline name="PerkGrid_Header">
+      <layers>
+        <DOMLayer name="Layer 1" color="#B374EA" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="LCK_tf" width="216" height="31.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="1392.25" ty="-3.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$LUCK</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="4" lineHeight="29.05" size="26" bitmapSize="520" fillColor="#FFF797"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#A371E3" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="AGI_tf" width="216" height="31.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="1157.25" ty="-3.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$AGILITY</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="4" lineHeight="29.05" size="26" bitmapSize="520" fillColor="#FFF797"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#BAE01D" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="INT_tf" width="216" height="31.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="918.25" ty="-3.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$INTELLIGENCE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="4" lineHeight="29.05" size="26" bitmapSize="520" fillColor="#FFF797"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#6EEA85" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="CHA_tf" width="216" height="31.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="663.25" ty="-3.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$CHARISMA</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="4" lineHeight="29.05" size="26" bitmapSize="520" fillColor="#FFF797"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="END_tf" color="#5DD8FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="END_tf" selected="true" width="216" height="31.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="426.1" ty="-3.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$ENDURANCE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="4" lineHeight="29.05" size="26" bitmapSize="520" fillColor="#FFF797"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PER_tf" color="#6A81AE" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="PER_tf" selected="true" width="216" height="31.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="184.1" ty="-3.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$PERCEPTION</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="4" lineHeight="29.05" size="26" bitmapSize="520" fillColor="#FFF797"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="STR_tf" color="#4FF2DF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="STR_tf" selected="true" width="216" height="31.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="-50.65" ty="-3.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$STRENGTH</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="4" lineHeight="29.05" size="26" bitmapSize="520" fillColor="#FFF797"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CHAShadow_tf" color="#CC7D52" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="CHAShadow_tf" selected="true" width="216" height="31.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="660.9" ty="-5.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$CHARISMA</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="4" lineHeight="29.05" size="26" bitmapSize="520"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="LCKShadow_tf" color="#6579E1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="LCKShadow_tf" selected="true" width="216" height="31.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="1389.9" ty="-5.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$LUCK</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="4" lineHeight="29.05" size="26" bitmapSize="520"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="AGIShadow_tf" color="#E637C5" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="AGIShadow_tf" selected="true" width="216" height="31.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="1154.9" ty="-5.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$AGILITY</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="4" lineHeight="29.05" size="26" bitmapSize="520"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="INTShadow_tf" color="#F66CFA" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="INTShadow_tf" selected="true" width="216" height="31.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="915.9" ty="-5.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$INTELLIGENCE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="4" lineHeight="29.05" size="26" bitmapSize="520"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ENDShadow_tf" color="#69F2D7" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="ENDShadow_tf" selected="true" width="216" height="31.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="423.75" ty="-5.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$ENDURANCE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="4" lineHeight="29.05" size="26" bitmapSize="520"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PERShadow_tf" color="#AE6EC8" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="PERShadow_tf" selected="true" width="216" height="31.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="181.75" ty="-5.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$PERCEPTION</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="4" lineHeight="29.05" size="26" bitmapSize="520"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="STRShadow_tf" color="#D9AE78" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="STRShadow_tf" selected="true" width="216" height="31.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="-53" ty="-5.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>$STRENGTH</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="4" lineHeight="29.05" size="26" bitmapSize="520"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="LCKStars_mc" color="#88CDEE" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/Misc/SPECIALStar/SPECIALStarHolder" name="LCKStars_mc" selected="true" centerPoint3DX="1500" centerPoint3DY="25">
+                  <matrix>
+                    <Matrix a="1.00018310546875" tx="1500" ty="25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="AGIStars_mc" color="#3FD4A1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/Misc/SPECIALStar/SPECIALStarHolder" name="AGIStars_mc" selected="true" centerPoint3DX="1265" centerPoint3DY="25">
+                  <matrix>
+                    <Matrix a="1.00018310546875" tx="1265" ty="25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="INTStars_mc" color="#2DB8B5" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/Misc/SPECIALStar/SPECIALStarHolder" name="INTStars_mc" selected="true" centerPoint3DX="1025" centerPoint3DY="25">
+                  <matrix>
+                    <Matrix a="1.00018310546875" tx="1025" ty="25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="CHAStars_mc" color="#5CF87A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/Misc/SPECIALStar/SPECIALStarHolder" name="CHAStars_mc" selected="true" centerPoint3DX="770" centerPoint3DY="25">
+                  <matrix>
+                    <Matrix a="1.00018310546875" tx="770" ty="25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ENDStars_mc" color="#F2EA7E" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/Misc/SPECIALStar/SPECIALStarHolder" name="ENDStars_mc" selected="true" centerPoint3DX="535" centerPoint3DY="25">
+                  <matrix>
+                    <Matrix a="1.00018310546875" tx="535" ty="25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PERStars_mc" color="#90E669" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/Misc/SPECIALStar/SPECIALStarHolder" name="PERStars_mc" selected="true" centerPoint3DX="290" centerPoint3DY="25">
+                  <matrix>
+                    <Matrix tx="290" ty="25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="STRStars_mc" color="#DD83E2" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/Misc/SPECIALStar/SPECIALStarHolder" name="STRStars_mc" selected="true" centerPoint3DX="57.5" centerPoint3DY="25">
+                  <matrix>
+                    <Matrix tx="57.5" ty="25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

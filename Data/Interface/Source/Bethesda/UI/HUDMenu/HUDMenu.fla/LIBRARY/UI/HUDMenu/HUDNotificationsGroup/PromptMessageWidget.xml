@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/HUDNotificationsGroup/PromptMessageWidget" itemID="5dc2498f-000002b6" linkageExportForAS="true" linkageClassName="PromptMessageWidget" lastModified="1573018901">
+  <timeline>
+    <DOMTimeline name="PromptMessageWidget">
+      <layers>
+        <DOMLayer name="textField" color="#61EEC4" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="textField" selected="true" fontRenderingMode="standard" width="326" height="32" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="1.00010681152344" tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Message</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="-0.4" lineHeight="21.25" size="19" bitmapSize="380" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

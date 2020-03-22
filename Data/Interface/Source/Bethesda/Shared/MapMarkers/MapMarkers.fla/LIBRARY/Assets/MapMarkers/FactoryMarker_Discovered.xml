@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/MapMarkers/FactoryMarker_Discovered" itemID="5daa491a-000002a1" symbolType="graphic" lastModified="1571441351">
+  <timeline>
+    <DOMTimeline name="FactoryMarker_Discovered">
+      <layers>
+        <DOMLayer name="Shape" color="#4F4FFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!193 -198|193 198!193 198|-193 198!-193 198|-193 34!-193 34|-107 -31!-107 -31|-107 33!-107 33|-22 -31!-22 -31|-22 33!-22 33|59 -29!59 -29|59 -198!59 -198|112 -198!112 -198|112 16!112 16|140 16!140 16|140 -198!140 -198|193 -198!37 82|-15
+ 82!-15 82|-15 107!-15 107|37 107!37 107|37 82!37 124|-15 124!-15 124|-15 149!-15 149|37 149!37 149|37 124!-34 107|-34 82!-34 82|-86 82!-86 82|-86 107!-86 107|-34 107!-105 82|-157 82!-157 82|-157 107!-157 107|-105 107!-105 107|-105 82
+!-105 149|-105 124!-105 124|-157 124!-157 124|-157 149!-157 149|-105 149!-86 149|-34 149!-34 149|-34 124!-34 124|-86 124!-86 124|-86 149"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

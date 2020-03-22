@@ -1,0 +1,204 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/FavoritesMenu/FavoritesCross/EntryHolder" itemID="5dc380e4-0000018b" linkageExportForAS="true" linkageClassName="EntryHolder" lastModified="1573094801">
+  <timeline>
+    <DOMTimeline name="EntryHolder">
+      <layers>
+        <DOMLayer name="Group Bottom" color="#FFFFFF" locked="true" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="Entry_11" color="#CC0000" parentLayerIndex="0" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/FavoritesMenu/FavoritesCross/FavoritesEntry" name="Entry_11" selected="true" centerPoint3DX="208.55" centerPoint3DY="389.65">
+                  <matrix>
+                    <Matrix tx="179.75" ty="360"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Entry_10" color="#009900" parentLayerIndex="0" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/FavoritesMenu/FavoritesCross/FavoritesEntry" name="Entry_10" selected="true" centerPoint3DX="208.55" centerPoint3DY="329.65">
+                  <matrix>
+                    <Matrix tx="179.75" ty="300"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Entry_9" color="#0066FF" parentLayerIndex="0" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/FavoritesMenu/FavoritesCross/FavoritesEntry" name="Entry_9" selected="true" centerPoint3DX="208.55" centerPoint3DY="269.65">
+                  <matrix>
+                    <Matrix tx="179.75" ty="240"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Group Right" color="#FFFFFF" locked="true" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="Entry_5" color="#CC0000" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/FavoritesMenu/FavoritesCross/FavoritesEntry" name="Entry_5" selected="true" centerPoint3DX="388.8" centerPoint3DY="209.65">
+                  <matrix>
+                    <Matrix tx="360" ty="180"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Entry_4" color="#009900" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/FavoritesMenu/FavoritesCross/FavoritesEntry" name="Entry_4" selected="true" centerPoint3DX="328.8" centerPoint3DY="209.65">
+                  <matrix>
+                    <Matrix tx="300" ty="180"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Entry_3" color="#0066FF" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/FavoritesMenu/FavoritesCross/FavoritesEntry" name="Entry_3" selected="true" centerPoint3DX="268.8" centerPoint3DY="209.65">
+                  <matrix>
+                    <Matrix tx="240" ty="180"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Group Left" color="#FFFFFF" locked="true" current="true" isSelected="true" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="Entry_2" color="#CC0000" parentLayerIndex="8" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/FavoritesMenu/FavoritesCross/FavoritesEntry" name="Entry_2" centerPoint3DX="148.8" centerPoint3DY="209.65">
+                  <matrix>
+                    <Matrix tx="120" ty="180"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Entry_1" color="#009900" parentLayerIndex="8" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/FavoritesMenu/FavoritesCross/FavoritesEntry" name="Entry_1" centerPoint3DX="88.8" centerPoint3DY="209.65">
+                  <matrix>
+                    <Matrix tx="60" ty="180"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Entry_0" color="#0066FF" parentLayerIndex="8" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/FavoritesMenu/FavoritesCross/FavoritesEntry" name="Entry_0" centerPoint3DX="28.8" centerPoint3DY="209.65">
+                  <matrix>
+                    <Matrix ty="180"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Group Top" color="#FFFFFF" locked="true" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="Entry_8" color="#CC0000" parentLayerIndex="12" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/FavoritesMenu/FavoritesCross/FavoritesEntry" name="Entry_8" selected="true" centerPoint3DX="208.55" centerPoint3DY="149.65">
+                  <matrix>
+                    <Matrix tx="179.75" ty="120"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Entry_7" color="#009900" parentLayerIndex="12" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/FavoritesMenu/FavoritesCross/FavoritesEntry" name="Entry_7" selected="true" centerPoint3DX="208.55" centerPoint3DY="89.65">
+                  <matrix>
+                    <Matrix tx="179.75" ty="60"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Entry_6" color="#0066FF" parentLayerIndex="12" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/FavoritesMenu/FavoritesCross/FavoritesEntry" name="Entry_6" selected="true" centerPoint3DX="208.55" centerPoint3DY="29.65">
+                  <matrix>
+                    <Matrix tx="179.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

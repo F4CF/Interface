@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/DialogueMenu/SpeechChallenge/SpeechChallenge_Anim" itemID="5dc01062-0000015b" linkageExportForAS="true" linkageClassName="DialogueMenu_fla.SpeechChallenge_Anim_8" lastModified="1572869808" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="SpeechChallenge_Anim">
+      <layers>
+        <DOMLayer name="Labels" color="#666666" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="6" name="hidden" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" duration="64" name="startAnim" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BaseClip_mc" color="#00CC00" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/DialogueMenu/SpeechChallenge/SpeechChallenge_Base" name="BaseClip_mc" selected="true" centerPoint3DX="72.95" centerPoint3DY="107.55">
+                  <matrix>
+                    <Matrix a="0.299819946289063" d="0.299819946289063"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="8" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/DialogueMenu/SpeechChallenge/SpeechChallenge_Base" name="BaseClip_mc" centerPoint3DX="72.95" centerPoint3DY="107.55">
+                  <matrix>
+                    <Matrix a="0.299819946289063" d="0.299819946289063"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="51" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/DialogueMenu/SpeechChallenge/SpeechChallenge_Base" name="BaseClip_mc" centerPoint3DX="68.55" centerPoint3DY="106.85">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599960327148438" tx="-4.4" ty="-0.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="65" duration="4" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/DialogueMenu/SpeechChallenge/SpeechChallenge_Base" name="BaseClip_mc" centerPoint3DX="69.4" centerPoint3DY="107">
+                  <matrix>
+                    <Matrix a="0.539962768554688" d="0.539932250976563" tx="-3.55" ty="-0.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.7890625"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/DialogueMenu/SpeechChallenge/SpeechChallenge_Base" name="BaseClip_mc" centerPoint3DX="72.95" centerPoint3DY="107.55">
+                  <matrix>
+                    <Matrix a="0.299819946289063" d="0.299819946289063"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

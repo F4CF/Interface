@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/EquipIcon" itemID="5dc047e5-000001e2" lastModified="1572883688">
+  <timeline>
+    <DOMTimeline name="EquipIcon">
+      <layers>
+        <DOMLayer name="Graphic" color="#9B42CE" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/CapsTransferInfo/BracketGraphic" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="0.0979156494140625" d="4" tx="2" ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

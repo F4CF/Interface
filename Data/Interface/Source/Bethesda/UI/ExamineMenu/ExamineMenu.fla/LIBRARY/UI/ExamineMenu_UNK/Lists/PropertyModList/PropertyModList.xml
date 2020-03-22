@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/ExamineMenu_UNK/Lists/PropertyModList/PropertyModList" itemID="5dd8475d-000002fe" linkageExportForAS="true" linkageClassName="PropertyModList" lastModified="1574557799">
+  <timeline>
+    <DOMTimeline name="PropertyModList">
+      <layers>
+        <DOMLayer name="border" color="#83C998" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/ExamineMenu_UNK/Lists/PropertyModList/PropertyModList_Border" name="border" centerPoint3DX="42.5" centerPoint3DY="33.1">
+                  <matrix>
+                    <Matrix a="2.3499755859375" d="8.43060302734375" ty="-2.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

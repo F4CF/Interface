@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/RightMeters/HUDActiveEffectsWidget/HUDActiveEffectClip" itemID="5dc28c3a-000005b8" linkageExportForAS="true" linkageClassName="HUDActiveEffectClip" lastModified="1573031415">
+  <timeline>
+    <DOMTimeline name="HUDActiveEffectClip">
+      <layers>
+        <DOMLayer name="Icon_mc" color="#AE9286" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/HotkeyIcons/HotkeyIcons" name="Icon_mc" centerPoint3DX="50.05" centerPoint3DY="51.05">
+                  <matrix>
+                    <Matrix tx="24" ty="24"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Border" color="#AAE09E" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/RightMeters/HUDActiveEffectsWidget/HUDActiveEffectsWidget_Border" centerPoint3DX="50.5" centerPoint3DY="50.5">
+                  <matrix>
+                    <Matrix a="0.479995727539063" d="0.479995727539063"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/MultiActivateMenu/Button_FadeAnimationHolder" itemID="5dc03a46-0000016b" lastModified="1572879478">
+  <timeline>
+    <DOMTimeline name="Button_FadeAnimationHolder">
+      <layers>
+        <DOMLayer name="Button_mc" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/BSButtonHintBar/BSButtonHint" name="Button_mc" selected="true" centerPoint3DX="100" centerPoint3DY="12.8">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

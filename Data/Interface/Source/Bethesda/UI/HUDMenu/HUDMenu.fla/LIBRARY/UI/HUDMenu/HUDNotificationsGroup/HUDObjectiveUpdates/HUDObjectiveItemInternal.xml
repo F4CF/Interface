@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveItemInternal" itemID="5dc296b3-00000608" lastModified="1573034137">
+  <timeline>
+    <DOMTimeline name="HUDObjectiveItemInternal">
+      <layers>
+        <DOMLayer name="ObjectiveIcons_mc" color="#F26FD3" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/HUDObjectiveIcons" name="ObjectiveIcons_mc" selected="true" centerPoint3DX="19.5" centerPoint3DY="19.9">
+                  <matrix>
+                    <Matrix tx="13.5" ty="14"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ObjectiveMessage_tf" color="#FA3CAB" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="ObjectiveMessage_tf" selected="true" fontRenderingMode="standard" width="314" height="23.75" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix tx="27" ty="3.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Report back to Preston</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="-0.25" lineHeight="20.1" size="18" bitmapSize="360" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ObjectiveListItemBG_mc" color="#B68555" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/HUDNotificationsGroup/HUDObjectiveUpdates/ObjectiveListItemBG" name="ObjectiveListItemBG_mc" selected="true" centerPoint3DX="173.75" centerPoint3DY="14.75">
+                  <matrix>
+                    <Matrix a="0.98992919921875" d="0.949142456054688"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

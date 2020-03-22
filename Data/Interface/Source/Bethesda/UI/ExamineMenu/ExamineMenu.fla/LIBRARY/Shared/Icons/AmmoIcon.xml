@@ -1,0 +1,28 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/Icons/AmmoIcon" itemID="5dd9dbb2-000007b8" lastModified="1574559145">
+  <timeline>
+    <DOMTimeline name="AmmoIcon">
+      <layers>
+        <DOMLayer name="Shape" color="#CB88CB" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!185 -51S2|185 51!185 51|132 51!132 51|132 -51!132 -51|185 -51!185 -81|132 -81!132 -81|132 -183!132 -183|185 -183!185 -183|185 -81!108 -183|108 -81!108 -81[-40 -76 -84 -81!-84 -81[-108 -83 -148 -108!-148 -108|-184 -132!-184 -132|-150
+ -155!-150 -155[-110 -179 -84 -183!-84 -183|108 -183!185 183|132 183!132 183|132 81!132 81|185 81!185 81|185 183!108 183[-40 187 -84 183!-84 183[-108 181 -148 156!-148 156|-184 131!-184 131|-150 109!-150 109[-110 85 -84 81!-84 81|108
+ 81!108 81|108 183!108 -51|108 51!108 51[-40 56 -84 51!-84 51[-108 49 -148 24!-148 24|-184 0!-184 0|-150 -23!-150 -23[-110 -47 -84 -51!-84 -51|108 -51"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

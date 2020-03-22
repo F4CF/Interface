@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/FavoritesMenu/FavoritesCross/Selection" itemID="5dc382b9-000001c8" lastModified="1573094798">
+  <timeline>
+    <DOMTimeline name="Selection">
+      <layers>
+        <DOMLayer name="Shape" color="#5CFFDF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!40 45S1|1100 45!1100 45|1100 1105!1100 1105|40 1105!40 1105|40 45!1160 -15|-20 -15!-20 -15|-20 1165!-20 1165|1160 1165!1160 1165|1160 -15"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

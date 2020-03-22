@@ -1,0 +1,156 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/Assets/DamageIcons/DamageIcons" itemID="5db53626-0000027a" linkageExportForAS="true" linkageClassName="DamageIcons" lastModified="1572156966">
+  <timeline>
+    <DOMTimeline name="DamageIcons">
+      <layers>
+        <DOMLayer name="Icons" color="#0397E6" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/DamageIcons/Icons/DamageIcons_DamageResist" centerPoint3DX="7.25" centerPoint3DY="9">
+                  <matrix>
+                    <Matrix a="0.994049072265625" d="0.999725341796875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/DamageIcons/Icons/DamageIcons_Poison" centerPoint3DX="3.55" centerPoint3DY="5.9">
+                  <matrix>
+                    <Matrix a="1.58541870117188" d="1.59092712402344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/DamageIcons/Icons/DamageIcons_Fire" centerPoint3DX="4.9" centerPoint3DY="5.9">
+                  <matrix>
+                    <Matrix a="1.58541870117188" d="1.59092712402344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/DamageIcons/Icons/DamageIcons_Energy" centerPoint3DX="3.35" centerPoint3DY="5.9">
+                  <matrix>
+                    <Matrix a="1.58541870117188" d="1.59092712402344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/DamageIcons/Icons/DamageIcons_Frost" centerPoint3DX="5.85" centerPoint3DY="5.9">
+                  <matrix>
+                    <Matrix a="1.58541870117188" d="1.59092712402344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/DamageIcons/Icons/DamageIcons_Radiation" centerPoint3DX="5.9" centerPoint3DY="5.5">
+                  <matrix>
+                    <Matrix a="1.58541870117188" d="1.59092712402344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/DamageIcons/Icons/DamageIcons_Damage" centerPoint3DX="15" centerPoint3DY="15">
+                  <matrix>
+                    <Matrix a="0.5963134765625" d="0.60076904296875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/DamageIcons/Icons/DamageIcons_Poison" centerPoint3DX="3.55" centerPoint3DY="5.9">
+                  <matrix>
+                    <Matrix a="1.58541870117188" d="1.59092712402344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/DamageIcons/Icons/DamageIcons_Fire" centerPoint3DX="4.9" centerPoint3DY="5.9">
+                  <matrix>
+                    <Matrix a="1.58541870117188" d="1.59092712402344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/DamageIcons/Icons/DamageIcons_Energy" centerPoint3DX="3.35" centerPoint3DY="5.9">
+                  <matrix>
+                    <Matrix a="1.58541870117188" d="1.59092712402344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/DamageIcons/Icons/DamageIcons_Frost" centerPoint3DX="5.85" centerPoint3DY="5.9">
+                  <matrix>
+                    <Matrix a="1.58541870117188" d="1.59092712402344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/Assets/DamageIcons/Icons/DamageIcons_Radiation" centerPoint3DX="5.9" centerPoint3DY="5.5">
+                  <matrix>
+                    <Matrix a="1.58541870117188" d="1.59092712402344"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

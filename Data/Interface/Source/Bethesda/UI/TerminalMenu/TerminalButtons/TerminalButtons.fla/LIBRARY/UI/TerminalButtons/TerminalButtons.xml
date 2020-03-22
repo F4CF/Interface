@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/TerminalButtons/TerminalButtons" itemID="5dc005af-00000152" linkageExportForAS="true" linkageClassName="TerminalButtons" lastModified="1572865629">
+  <timeline>
+    <DOMTimeline name="TerminalButtons">
+      <layers>
+        <DOMLayer name="ButtonHintBar_mc" color="#BDD3F1" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Shared/BSButtonHintBar/BSButtonHintBar" name="ButtonHintBar_mc" centerPoint3DX="659.45" centerPoint3DY="705">
+                  <matrix>
+                    <Matrix tx="640" ty="689"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

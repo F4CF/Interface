@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/BSButtonHintBar/BSButtonHint" itemID="5daea626-00000314" linkageExportForAS="true" linkageClassName="Shared.AS3.BSButtonHint" sourceFlashFilepath="../../BSButtonHintBar/BSButtonHintBar.fla" sourceLibraryItemHRef="BSButtonHintBar/BSButtonHint" sourceLastModified="1571940717" lastModified="1571940717" sourceItemID="00000000-ffffffff">
+  <timeline>
+    <DOMTimeline name="BSButtonHint">
+      <layers>
+        <DOMLayer name="IconHolderInstance" color="#AECB44" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/BSButtonHintBar/BSButtonHint_IconHolder" name="IconHolderInstance" centerPoint3DX="50" centerPoint3DY="15.9">
+                  <matrix>
+                    <Matrix ty="3.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SecondaryIconHolderInstance" color="#EEDFAD" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/BSButtonHintBar/BSButtonHint_IconHolder" name="SecondaryIconHolderInstance" centerPoint3DX="50" centerPoint3DY="15.9">
+                  <matrix>
+                    <Matrix ty="3.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="textField_tf" color="#7F42FB" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="textField_tf" width="196" height="21.6" isSelectable="false" renderAsHTML="true" lineType="multiline no wrap">
+                  <matrix>
+                    <Matrix tx="2" ty="5.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>TEXT</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineHeight="21.6" size="18" bitmapSize="360" face="$MAIN_Font_Bold*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

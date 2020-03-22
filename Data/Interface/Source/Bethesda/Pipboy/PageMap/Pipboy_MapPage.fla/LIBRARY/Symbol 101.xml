@@ -1,0 +1,71 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 101" itemID="5dc02709-00000182" linkageExportForAS="true" linkageClassName="Pipboy_MapPage_fla.PlayerSetMarker_Base_69" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 101">
+      <layers>
+        <DOMLayer name="Labels Layer" color="#0397E6">
+          <frames>
+            <DOMFrame index="0" name="Level" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="Above" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" name="Below" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#DFCB41">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 75" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix ty="-23.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 76" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix ty="-23.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#5CA6A5" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!22 -441|22 0!22 0|-22 0!-22 0|-22 -441!-22 -441|-128 -441!-128 -441|-128 -700!-128 -700|128 -700!128 -700|128 -441!128 -441|22 -441"/>
+                    <Edge fillStyle0="1" edges="!108 -461|-108 -461!-108 -461|-108 -678!-108 -678|108 -678!108 -678|108 -461"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

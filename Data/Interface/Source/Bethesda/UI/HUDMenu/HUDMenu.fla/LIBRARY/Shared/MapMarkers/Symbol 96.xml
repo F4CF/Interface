@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/MapMarkers/Symbol 96" itemID="5dc13d4a-00000040" linkageExportForAS="true" linkageClassName="OfficeMarker" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 96">
+      <layers>
+        <DOMLayer name="Labels Layer" color="#B61AB0">
+          <frames>
+            <DOMFrame index="0" name="Discovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="Undiscovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#BAECCC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!54 -22|54 63!54 63|97 63!97 63|97 -22!97 -22|54 -22!42 86|-43 86!-43 86|-43 171!-43 171|42 171!42 171|42 86!22 -22|-22 -22!-22 -22|-22 63!-22 63|22 63!22 63|22 -22!154 189|-154 189!-154 189|-154 -61!-154 -61|-4 -119!-4 -119|154 -61!154
+ -61|154 189!-98 -22|-98 63!-98 63|-55 63!-55 63|-55 -22!-55 -22|-98 -22"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!162 -83|5 -141!5 -141|-4 -143!-4 -143|-12 -141!-12 -141|-163 -83!-163 -83[-178 -77 -178 -61!-178 -61|-178 189!-178 189[-178 199 -171 206!-171 206[-164 213 -154 213!-154 213|154 213!154 213[164 213 171 206!171 206[178 199 178 189!178
+ 189|178 -61!178 -61[178 -77 162 -83!154 189|-154 189!-154 189|-154 -61!-154 -61|-4 -119!-4 -119|154 -61!154 -61|154 189"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,88 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#666666" width="1280" height="720" frameRate="30" currentTimeline="1" xflVersion="2.971" creatorInfo="Adobe Animate" platform="Windows" versionInfo="Saved by Animate Windows 19.2 build 408" majorVersion="19" minorVersion="2" buildNumber="408" timelineLabelWidth="243" vanishingPoint3DX="640" vanishingPoint3DY="360" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveHasPrompted="true" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F" fileGUID="910553657AC5B246A1A511C1E7C87AFE">
+     <folders>
+          <DOMFolderItem name="Assets" itemID="5db53958-00000330" isExpanded="true"/>
+          <DOMFolderItem name="Assets/Fonts" itemID="5db5397c-00000333"/>
+          <DOMFolderItem name="Assets/MapMarkers" itemID="5daa4774-00000268" isExpanded="true"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="Assets/Fonts/$MAIN_Font" itemID="5daeb3ba-00000280" linkageImportForRS="true" linkageExportInFirstFrame="false" linkageClassName="$MAIN_Font" linkageURL="fonts_en.swf" font="RobotoCondensed-Regular" size="0" id="175" sourceLastImported="1571434121" embeddedCharacters=" &#xD;¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƒƠơƯưǰǺǻǼǽǾǿȘșȚțȷˆˇˉ˘˙˚˛˜˝΄΅Ά·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϑϒϖЀЁЂЃЄЅІЇЈЉЊЋЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёђѓєѕіїјљњћќѝўџѠѡѢѣѤѥѦѧѨѩѪѫѬѭѮѯѰѱѲѳѴѵѶѷѸѹѺѻѼѽѾѿҀҁ҂҃҄҅҆҈҉ҊҋҌҍҎҏҐґҒғҔҕҖҗҘҙҚқҜҝҞҟҠҡҢңҤҥҦҧҨҩҪҫҬҭҮүҰұҲҳҴҵҶҷҸҹҺһҼҽҾҿӀӁӂӃӄӅӆӇӈӉӊӋӌӍӎḀḁḾḿẀẁẂẃẄẅẠạẢảẤấẦầẨẩẪẫẬậẮắẰằẲẳẴẵẶặẸẹẺẻẼẽẾếỀềỂểỄễỆệỈỉỊịỌọỎỏỐốỒồỔổỖỗỘộỚớỜờỞởỠỡỢợỤụỦủỨứỪừỬửỮữỰựỲỳỴỵỶỷỸỹὍ           ​–—―‗‘’‚‛“”„†‡•‥…‰′″‹›‼⁄⁴ⁿ₣₤₧₫€℅ℓ№™Ω℮⅛⅜⅝⅞∂∏∑√∞∫≠≤≥﻿￼" embedRanges="1|2|3|4|5"/>
+     </fonts>
+     <symbols>
+          <Include href="Assets/MapMarkers/_DEMO_MapMarkers.xml" loadImmediate="false" itemID="5db705a9-00000316" lastModified="1572275702"/>
+          <Include href="Assets/MapMarkers/_DEMO_MapMarkersBorder.xml" itemIcon="1" loadImmediate="false" itemID="5db7060d-0000031b" lastModified="1572275725"/>
+          <Include href="Assets/MapMarkers/AirfieldMarker.xml" itemID="5daa4825-0000027f" lastModified="1571441219"/>
+          <Include href="Assets/MapMarkers/BunkerHillMarker.xml" itemID="5daa4822-0000027e" lastModified="1571441217"/>
+          <Include href="Assets/MapMarkers/CamperMarker.xml" itemID="5daa481e-0000027d" lastModified="1571441229"/>
+          <Include href="Assets/MapMarkers/CarMarker.xml" itemID="5daa481a-0000027c" lastModified="1571441247"/>
+          <Include href="Assets/MapMarkers/CaveMarker.xml" itemID="5daa4817-0000027b" lastModified="1571441254"/>
+          <Include href="Assets/MapMarkers/ChurchMarker.xml" itemID="5daa4814-0000027a" lastModified="1571441261"/>
+          <Include href="Assets/MapMarkers/CityMarker.xml" itemID="5daa4812-00000279" lastModified="1571441269"/>
+          <Include href="Assets/MapMarkers/CountryClubMarker.xml" itemID="5daa480e-00000277" lastModified="1571441278"/>
+          <Include href="Assets/MapMarkers/CustomHouseMarker.xml" itemID="5daa480b-00000275" lastModified="1571441289"/>
+          <Include href="Assets/MapMarkers/DiamondCityMarker.xml" itemID="5daa4808-00000274" lastModified="1571441298"/>
+          <Include href="Assets/MapMarkers/DriveInMarker.xml" itemID="5daa47d2-00000272" lastModified="1571441310"/>
+          <Include href="Assets/MapMarkers/ElevatedHighwayMarker.xml" itemID="5daa47cf-00000271" lastModified="1571441321"/>
+          <Include href="Assets/MapMarkers/EncampmentMarker.xml" itemID="5daa47cb-00000270" lastModified="1571441330"/>
+          <Include href="Assets/MapMarkers/FactoryMarker.xml" itemID="5daa47c8-0000026f" lastModified="1571441356"/>
+          <Include href="Assets/MapMarkers/FactoryMarker_Discovered.xml" itemIcon="1" loadImmediate="false" itemID="5daa491a-000002a1" lastModified="1571441351"/>
+          <Include href="Assets/MapMarkers/FactoryMarker_Undiscovered.xml" itemIcon="1" loadImmediate="false" itemID="5daa492a-000002a2" lastModified="1571441353"/>
+          <Include href="Assets/MapMarkers/FaneuilHallMarker.xml" itemID="5daa47c4-0000026e" lastModified="1571441364"/>
+          <Include href="Assets/MapMarkers/FarmMarker.xml" itemID="5daa47c0-0000026d" lastModified="1571441373"/>
+          <Include href="Assets/MapMarkers/FillingStationMarker.xml" itemID="5daa47bb-0000026c" lastModified="1571441381"/>
+          <Include href="Assets/MapMarkers/ForestedMarker.xml" itemID="5daa484c-00000283" lastModified="1571441391"/>
+          <Include href="Assets/MapMarkers/GoodneighborMarker.xml" itemID="5daa4850-00000284" lastModified="1571441400"/>
+          <Include href="Assets/MapMarkers/GraveyardMarker.xml" itemID="5daa485d-00000288" lastModified="1571441407"/>
+          <Include href="Assets/MapMarkers/HospitalMarker.xml" itemID="5daa485a-00000287" lastModified="1571441418"/>
+          <Include href="Assets/MapMarkers/IndustrialDomeMarker.xml" itemID="5daa4858-00000286" lastModified="1571441426"/>
+          <Include href="Assets/MapMarkers/IndustrialStacksMarker.xml" itemID="5daa4854-00000285" lastModified="1571441434"/>
+          <Include href="Assets/MapMarkers/InstituteMarker.xml" itemID="5daa4860-00000289" lastModified="1571441441"/>
+          <Include href="Assets/MapMarkers/IrishPrideMarker.xml" itemID="5daa4864-0000028a" lastModified="1571441449"/>
+          <Include href="Assets/MapMarkers/JunkyardMarker.xml" itemID="5daa4868-0000028b" lastModified="1571441456"/>
+          <Include href="Assets/MapMarkers/LandmarkMarker.xml" itemID="5daa486e-0000028c" lastModified="1571441463"/>
+          <Include href="Assets/MapMarkers/MetroMarker.xml" itemID="5daa4871-0000028d" lastModified="1571441478"/>
+          <Include href="Assets/MapMarkers/MilitaryBaseMarker.xml" itemID="5daa4876-0000028e" lastModified="1571441484"/>
+          <Include href="Assets/MapMarkers/MonumentMarker.xml" itemID="5daa487a-0000028f" lastModified="1571441491"/>
+          <Include href="Assets/MapMarkers/ObservatoryMarker.xml" itemID="5daa487d-00000290" lastModified="1571441497"/>
+          <Include href="Assets/MapMarkers/OfficeMarker.xml" itemID="5daa4880-00000291" lastModified="1571441506"/>
+          <Include href="Assets/MapMarkers/PierMarker.xml" itemID="5daa4883-00000292" lastModified="1571441512"/>
+          <Include href="Assets/MapMarkers/PondLakeMarker.xml" itemID="5daa4885-00000293" lastModified="1571441519"/>
+          <Include href="Assets/MapMarkers/QuarryMarker.xml" itemID="5daa4888-00000294" lastModified="1571441526"/>
+          <Include href="Assets/MapMarkers/RadioactiveAreaMarker.xml" itemID="5daa488a-00000295" lastModified="1571441532"/>
+          <Include href="Assets/MapMarkers/RadioTowerMarker.xml" itemID="5daa488d-00000296" lastModified="1571441539"/>
+          <Include href="Assets/MapMarkers/SalemMarker.xml" itemID="5daa4891-00000297" lastModified="1571441545"/>
+          <Include href="Assets/MapMarkers/SancHillsMarker.xml" itemID="5daa4895-00000298" lastModified="1571441552"/>
+          <Include href="Assets/MapMarkers/SchoolMarker.xml" itemID="5daa4898-00000299" lastModified="1571441559"/>
+          <Include href="Assets/MapMarkers/SettlementMarker.xml" itemID="5daa489b-0000029a" lastModified="1571441568"/>
+          <Include href="Assets/MapMarkers/SewerMarker.xml" itemID="5daa489f-0000029b" lastModified="1571441575"/>
+          <Include href="Assets/MapMarkers/ShipwreckMarker.xml" itemID="5daa48a3-0000029c" lastModified="1571441582"/>
+          <Include href="Assets/MapMarkers/SubmarineMarker.xml" itemID="5daa48a7-0000029d" lastModified="1571441588"/>
+          <Include href="Assets/MapMarkers/SwanPondMarker.xml" itemID="5daa4830-00000282" lastModified="1571441598"/>
+          <Include href="Assets/MapMarkers/SynthHeadMarker.xml" itemID="5daa4829-00000280" lastModified="1571441606"/>
+          <Include href="Assets/MapMarkers/TownMarker.xml" itemID="5daa47d6-00000273" lastModified="1571441613"/>
+          <Include href="Assets/MapMarkers/TownRuinsMarker.xml" itemID="5daa48ab-0000029e" lastModified="1571441620"/>
+          <Include href="Assets/MapMarkers/UrbanRuinsMarker.xml" itemID="5daa48ad-0000029f" lastModified="1571441626"/>
+          <Include href="Assets/MapMarkers/VaultMarker.xml" itemID="5daa48b0-000002a0" lastModified="1571441633"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="MapMarkers" color="#C6F528" locked="true" current="true" isSelected="true" autoNamed="false">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Assets/MapMarkers/_DEMO_MapMarkers" centerPoint3DX="416.4" centerPoint3DY="328.95">
+                                             <transformationPoint>
+                                                  <Point/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <scripts/>
+     <PrinterSettings/>
+     <publishHistory/>
+</DOMDocument>

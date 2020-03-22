@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/BottomCenterGroup/HUDCompassWidget/QuestCompassMarkers_LevelArrow" itemID="5dc29434-000005f5" lastModified="1573033119">
+  <timeline>
+    <DOMTimeline name="QuestCompassMarkers_LevelArrow">
+      <layers>
+        <DOMLayer name="Graphic" color="#E0FB44" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/BottomCenterGroup/HUDCompassWidget/QuestCompassMarkers_LevelArrowGraphic" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix ty="16.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

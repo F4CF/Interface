@@ -1,0 +1,54 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/MapMarkers/GraveyardMarker" itemID="5daa485d-00000288" linkageExportForAS="true" linkageClassName="GraveyardMarker" lastModified="1571441407">
+  <timeline>
+    <DOMTimeline name="GraveyardMarker">
+      <layers>
+        <DOMLayer name="Labels" color="#BBA62B" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" name="Discovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" name="Undiscovered" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shapes" color="#3ABDC0" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!56 -49|-61 -49!-61 -49|-61 -82!-61 -82|56 -82!56 -82|56 -49!68 -152[40 -180 0 -180!0 -180[-39 -180 -67 -152!-67 -152[-95 -124 -95 -85!-95 -85|-95 96!-95 96|-141 96!-141 96|-141 180!-141 180|141 180!141 180|141 96!141 96|95 96!95 96|95
+ -85!95 -85[95 -124 68 -152!21 -2|-25 -2!-25 -2|-25 -34!-25 -34|21 -34!21 -34|21 -2"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!0 -204[-49 -204 -84 -169!-84 -169[-119 -134 -119 -85!-119 -85|-119 73!-119 73|-141 73!-141 73[-151 73 -158 80!-158 80[-165 87 -165 97!-165 97|-165 180!-165 180|-158 197!-158 197[-151 204 -141 204!-141 204|141 204!141 204[151 204 158
+ 197!158 197|165 180!165 180|165 97!165 97[165 86 158 80!158 80[151 73 141 73!141 73|119 73!119 73|119 -85!119 -85[119 -134 85 -169!85 -169[49 -204 0 -204!68 -152[95 -124 95 -85!95 -85|95 97!95 97|141 97!141 97|141 180!141 180|-141 180
+!-141 180|-141 97!-141 97|-95 97!-95 97|-95 -85!-95 -85[-95 -124 -67 -152!-67 -152[-39 -180 0 -180!0 -180[40 -180 68 -152"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 54" itemID="5dc12b90-0000002a" symbolType="graphic" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 54">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#D59758"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor color="#8B5C29"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor color="#0067B1"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-126 1650|-86 1650!-86 1650|-80 1690!-80 1690|-39 1913!-39 1913|-31 1947!-31 1947|-30 1955!-30 1955|-28 1955!-28 1955[-22 1961 -27 1975!-27 1975|26 1972!26 1972[86 1957 122 1903!122 1903[175 1823 301 1822!301 1822[388 1821 426 1840!426
+ 1840[379 2116 59 2153!59 2153[51 2154 40 2170!40 2170[29 2185 24 2202!24 2202|11 2216!11 2216|-109 2261!-109 2261|-128 2264!-128 2264|-147 2262!-147 2262|-209 2193!-209 2193[-220 2181 -213 2147!-213 2147|-214 2109!-214 2109|-219 2083
+!-219 2083[-244 2088 -272 2050!-272 2050|-313 1986!-313 1986[-343 1944 -379 1865!-379 1865|-431 1730!-431 1730|-445 1650!-445 1650|-395 1650"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="
+!173 1948|44 2083!44 2083|-54 2138!-54 2138[-135 2182 -148 2213!-148 2213[-179 2192 -181 2158!-181 2158|-173 2124!-173 2124[-166 2099 -169 2086!-169 2086[-135 2082 -43 2023!-43 2023[21 2046 172 1906!172 1906[238 1845 323 1849!323 1849
+[250 1874 173 1948"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!386 1863[368 1920 317 1980!317 1980[215 2099 57 2114!57 2114[41 2115 26 2127!26 2127[3 2145 -12 2183!-12 2183|-119 2230!-119 2230|-135 2221!-135 2221|-65 2178!-65 2178|-7 2146!-7 2146|25 2126!25 2126|84 2071!84 2071[185 1964 215 1939
+!215 1939[295 1872 379 1860!379 1860|386 1863"/>
+                    <Edge fillStyle0="1" fillStyle1="4" edges="
+!-126 1650|-91 1837!-91 1837|-60 1987!-60 1987[-74 2007 -138 2034!-138 2034[-190 2055 -219 2061!-219 2061[-231 2057 -297 1922!-297 1922[-363 1786 -378 1733!-378 1733|-395 1650"/>
+                    <Edge fillStyle1="4" edges="
+!-395 1650|-126 1650"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

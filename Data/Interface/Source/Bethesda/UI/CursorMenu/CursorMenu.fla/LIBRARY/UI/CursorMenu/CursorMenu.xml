@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/CursorMenu/CursorMenu" itemID="5dc03785-0000012d" linkageExportForAS="true" linkageClassName="CursorMenu" lastModified="1572878360">
+  <timeline>
+    <DOMTimeline name="CursorMenu">
+      <layers>
+        <DOMLayer name="CursorMenuGraphic" color="#FFCC00" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/CursorMenu/CursorMenuGraphic" selected="true" symbolType="graphic" loop="loop">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

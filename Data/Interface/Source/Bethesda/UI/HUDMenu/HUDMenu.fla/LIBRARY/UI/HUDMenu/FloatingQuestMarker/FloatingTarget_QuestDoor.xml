@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/FloatingQuestMarker/FloatingTarget_QuestDoor" itemID="5dc28ea8-000005d6" lastModified="1573031899">
+  <timeline>
+    <DOMTimeline name="FloatingTarget_QuestDoor">
+      <layers>
+        <DOMLayer name="Marker" color="#B58981" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/FloatingQuestMarker/QuestDoorMarker" selected="true" centerPoint3DX="4.15" centerPoint3DY="-7.75">
+                  <matrix>
+                    <Matrix a="0.704666137695313" d="0.70635986328125" tx="-8.65" ty="-35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

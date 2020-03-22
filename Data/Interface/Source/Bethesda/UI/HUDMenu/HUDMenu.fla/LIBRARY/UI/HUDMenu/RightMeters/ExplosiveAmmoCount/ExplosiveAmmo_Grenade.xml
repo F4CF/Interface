@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/RightMeters/ExplosiveAmmoCount/ExplosiveAmmo_Grenade" itemID="5dc28918-0000057e" lastModified="1573030168">
+  <timeline>
+    <DOMTimeline name="ExplosiveAmmo_Grenade">
+      <layers>
+        <DOMLayer name="Layer 1" color="#6FD5D8" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/RightMeters/ExplosiveAmmoCount/ExplosiveAmmo_GrenadeGraphic" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-13.9" ty="-15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/HUDNotificationsGroup/TutorialText/Symbol 469" itemID="5dc13d4a-000000ee" symbolType="graphic" lastModified="1573033377">
+  <timeline>
+    <DOMTimeline name="Symbol 469">
+      <layers>
+        <DOMLayer name="Shape" color="#4F4FFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1829 1198S2[1823 1231 1787 1254!1787 1254[1734 1284 1652 1305!1652 1305|1521 1333!1521 1333|1444 1285!1444 1285[1435 1282 1435 1306!1435 1306[1431 1328 1444 1333!1444 1333|1502 1370!1502 1370[1505 1380 1514 1380!1514 1380|1520 1379!1520
+ 1379[1674 1481 1621 1542!1621 1542[1599 1567 1566 1566!1566 1566[1438 1528 1348 1463!1348 1463[1341 1458 1342 1481!1342 1481[1340 1503 1347 1508!1347 1508|1357 1516!1357 1516[1434 1575 1514 1599!1514 1599|1551 1608!1551 1608|1553 1608
+!1553 1608[1509 1673 1358 1674!1358 1674[1302 1674 1264 1643!1264 1643[1231 1619 1202 1565!1202 1565[1167 1498 1177 1418!1177 1418[1187 1329 1255 1298!1255 1298|1402 1239!1402 1239[1608 1155 1668 1136!1668 1136[1727 1118 1786 1143!1786
+ 1143[1831 1162 1829 1198"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

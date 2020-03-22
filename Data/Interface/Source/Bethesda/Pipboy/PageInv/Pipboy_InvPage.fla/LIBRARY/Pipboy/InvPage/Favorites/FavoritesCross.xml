@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Pipboy/InvPage/Favorites/FavoritesCross" itemID="5db0ef59-00000287" linkageExportForAS="true" linkageClassName="FavoritesCross" lastModified="1571893807">
+  <timeline>
+    <DOMTimeline name="FavoritesCross">
+      <layers>
+        <DOMLayer name="Selection_mc" color="#A86B8F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/Favorites/Symbol 201" name="Selection_mc" centerPoint3DX="209.25" centerPoint3DY="29.5">
+                  <matrix>
+                    <Matrix tx="179.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="EntryHolder_mc" color="#F769D7" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Pipboy/InvPage/Favorites/Symbol 199" name="EntryHolder_mc" centerPoint3DX="208.8" centerPoint3DY="211.85">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shape" color="#79EE23" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!4180 3710S2|4249 3871!4249 3871|4194 3871!4194 3871|4194 3970!4194 3970|4166 3970!4166 3970|4166 3871!4166 3871|4111 3871!4111 3871|4180 3710"/>
+                    <Edge fillStyle0="1" edges="!4465 4147S1|4366 4147!4366 4147|4366 4175!4366 4175|4465 4175!4465 4175|4465 4230!4465 4230|4626 4161!4626 4161|4465 4092!4465 4092|4465 4147!4166 4362|4166 4461!4166 4461|4111 4461!4111 4461|4173 4605!4173 4605|4165 4605!4165 4605|4170
+ 4617!4170 4617|4174 4608!4174 4608|4175 4610!4175 4610|4185 4610!4185 4610|4249 4461!4249 4461|4194 4461!4194 4461|4194 4362!4194 4362|4166 4362"/>
+                    <Edge fillStyle1="1" edges="
+!3974 4175S2|3875 4175!3875 4175|3875 4230!3875 4230|3714 4161!3714 4161|3875 4092!3875 4092|3875 4147!3875 4147|3974 4147!3974 4147|3974 4175"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

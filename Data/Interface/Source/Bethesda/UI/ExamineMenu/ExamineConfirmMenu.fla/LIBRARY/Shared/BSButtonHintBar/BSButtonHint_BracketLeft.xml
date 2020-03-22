@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/BSButtonHintBar/BSButtonHint_BracketLeft" itemID="5ddaabf6-0000029b" lastModified="1574611958">
+  <timeline>
+    <DOMTimeline name="BSButtonHint_BracketLeft">
+      <layers>
+        <DOMLayer name="Layer 1" color="#F76FB9" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!131 40|40 40!40 40|40 600!40 600|131 600!131 600|131 640!131 640|0 640!0 640|0 0!0 0|131 0!131 0|131 40"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

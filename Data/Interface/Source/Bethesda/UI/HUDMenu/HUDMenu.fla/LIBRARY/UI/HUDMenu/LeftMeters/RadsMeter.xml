@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/HUDMenu/LeftMeters/RadsMeter" itemID="5dc27fc5-00000541" lastModified="1573028208">
+  <timeline>
+    <DOMTimeline name="RadsMeter">
+      <layers>
+        <DOMLayer name="RadsNumber_tf" color="#9FB5BC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="RadsNumber_tf" selected="true" fontRenderingMode="standard" width="151.2" height="42.2" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="0.997726440429688" tx="-255" ty="-26"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>+1</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" rotation="true" lineSpacing="5" lineHeight="35.75" size="32" bitmapSize="640" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="RADS_tf" color="#2FC5AB" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="RADS_tf" selected="true" fontRenderingMode="standard" width="70" height="89.4" isSelectable="false" renderAsHTML="true">
+                  <matrix>
+                    <Matrix d="0.997726440429688" tx="-96.2" ty="-26"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>RADS</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="0.1" lineSpacing="5" lineHeight="35.75" size="32" bitmapSize="640" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="RadsIcon_mc" color="#B1E821" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/HUDMenu/LeftMeters/RadsIcon" name="RadsIcon_mc" selected="true" centerPoint3DX="25.25" centerPoint3DY="25.3">
+                  <matrix>
+                    <Matrix a="0.87042236328125" d="0.86956787109375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

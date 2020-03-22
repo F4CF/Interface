@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 32" itemID="5dc02773-000002ad" linkageExportForAS="true" linkageClassName="Quest_DefaultBoy" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 32">
+      <layers>
+        <DOMLayer name="Layer 1" color="#FBB7BB" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 31" centerPoint3DX="78.8" centerPoint3DY="111.05">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

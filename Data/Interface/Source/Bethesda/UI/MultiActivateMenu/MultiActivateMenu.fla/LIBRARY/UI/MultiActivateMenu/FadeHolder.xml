@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/MultiActivateMenu/FadeHolder" itemID="5dc039ba-00000168" lastModified="1572879475">
+  <timeline>
+    <DOMTimeline name="FadeHolder">
+      <layers>
+        <DOMLayer name="A" color="#FFCC00" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/MultiActivateMenu/Button_FadeAnimation" name="A" selected="true" centerPoint3DX="87" centerPoint3DY="41.3">
+                  <matrix>
+                    <Matrix tx="-13" ty="28.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="B" color="#0099FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/MultiActivateMenu/Button_FadeAnimation" name="B" selected="true" centerPoint3DX="117" centerPoint3DY="13.8">
+                  <matrix>
+                    <Matrix tx="17" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="X" color="#00CC00" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/MultiActivateMenu/Button_FadeAnimation" name="X" selected="true" centerPoint3DX="85" centerPoint3DY="13.8">
+                  <matrix>
+                    <Matrix tx="-15" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Y" color="#CC0000" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="UI/MultiActivateMenu/Button_FadeAnimation" name="Y" selected="true" centerPoint3DX="113" centerPoint3DY="-13.7">
+                  <matrix>
+                    <Matrix tx="13" ty="-26.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

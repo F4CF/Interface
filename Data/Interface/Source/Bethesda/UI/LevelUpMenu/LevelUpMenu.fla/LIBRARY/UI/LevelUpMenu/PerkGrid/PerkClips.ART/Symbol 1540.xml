@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkClips.ART/Symbol 1540" itemID="5dc12b90-0000024d" symbolType="graphic" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 1540">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" motionTweenScale="false" keyMode="8192">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!208 96[204 51 194 47!194 47[181 42 179 91!179 91[177 139 172 136!172 136[168 134 139 65!139 65[111 0 98 0!98 0[89 0 107 74!107 74[125 147 103 147!103 147[86 147 88 108!88 108[89 72 61 82!61 82|75 106!75 106[83 132 55 144!55 144[25 157
+ 9 251!9 251[-5 338 4 408!4 408[10 454 98 517!98 517[184 580 185 605!185 605[187 648 197 678!197 678[208 708 220 701!220 701[237 692 216 663!216 663[221 629 209 589!209 589[185 509 103 478!103 478[161 498 152 388!152 388|186 384!186 384
+[200 421 219 445!219 445[246 481 272 470!272 470|290 453!290 453[305 618 271 663!271 663[210 746 196 729!196 729|190 740!190 740[188 751 209 752!209 752[230 753 253 726!253 726|282 686!282 686|304 662!304 662|319 647!319 647[362 426 357
+ 385!357 385[348 316 300 231!300 231[254 150 228 144!228 144[212 140 208 96"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

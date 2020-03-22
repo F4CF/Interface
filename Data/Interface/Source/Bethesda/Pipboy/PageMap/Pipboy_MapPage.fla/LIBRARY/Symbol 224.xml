@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 224" itemID="5dc02709-000001b3" linkageExportForAS="true" linkageClassName="DoorMarker" lastModified="1571730685">
+  <timeline>
+    <DOMTimeline name="Symbol 224">
+      <layers>
+        <DOMLayer name="Layer 1" color="#E62CBA">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 223" centerPoint3DX="38" centerPoint3DY="38">
+                  <matrix>
+                    <Matrix a="0.25" d="0.25" tx="-12.5" ty="-12.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.01171875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#E1FA9F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!113 67|99 61!99 61[93 55 93 47!93 47[93 39 99 33!99 33[105 27 113 27!113 27[122 27 127 33!127 33|133 47!133 47|127 61!127 61[122 67 113 67!160 200|160 -160!160 -160|-153 -160!-153 -160|-153 200!-153 200|-200 200!-200 200|-200 -200!-200
+ -200|200 -200!200 -200|200 200!200 200|160 200"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
