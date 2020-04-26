@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkInfo/PerkInfo" itemID="5dd9f2bf-000006f9" lastModified="1574564978">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkInfo/PerkInfo" itemID="5dd9f2bf-000006f9" lastModified="1587879158">
   <timeline>
     <DOMTimeline name="PerkInfo">
       <layers>
-        <DOMLayer name="Confirm_tf" color="#48EA51" locked="true" autoNamed="false">
+        <DOMLayer name="Confirm_tf" color="#FF0000" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -14,7 +14,7 @@
                     <DOMTextRun>
                       <characters>$ConfirmPerkSelect</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="24.55" size="22" bitmapSize="440" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="26.4" size="22" bitmapSize="440" face="$MAIN_Font*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -23,11 +23,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="StarHolder_mc" color="#B479BB" locked="true" autoNamed="false">
+        <DOMLayer name="StarHolder_mc" color="#00FF00" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkInfo/StarHolder/StarHolder" name="StarHolder_mc" selected="true" centerPoint3DX="524.95" centerPoint3DY="72">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkInfo/StarHolder/StarHolder" name="StarHolder_mc" centerPoint3DX="524.95" centerPoint3DY="72">
                   <matrix>
                     <Matrix tx="524.95" ty="72"/>
                   </matrix>
@@ -39,7 +39,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Reqs_tf" color="#A46E80" locked="true" autoNamed="false">
+        <DOMLayer name="Reqs_tf" color="#0066FF" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -51,7 +51,7 @@
                     <DOMTextRun>
                       <characters></characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="13.7"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="14.45" bitmapSize="240" face="$MAIN_Font*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -60,7 +60,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="PerkName_tf" color="#7DDB62" locked="true" autoNamed="false">
+        <DOMLayer name="PerkName_tf" color="#CCCC00" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -72,7 +72,7 @@
                     <DOMTextRun>
                       <characters></characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="13.7"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="14.45" bitmapSize="240" face="$MAIN_Font_Bold*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -81,7 +81,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="DescriptionText_tf" color="#77AB72" locked="true" autoNamed="false">
+        <DOMLayer name="DescriptionText_tf" color="#FF3399" locked="true" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -93,7 +93,7 @@
                     <DOMTextRun>
                       <characters></characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="13.7"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="14.45" bitmapSize="240" face="$MAIN_Font*"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -102,11 +102,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Background_mc" color="#8259BD" locked="true" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Background_mc" color="#00FFFF" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkInfo/PerkInfo_Background" name="Background_mc" selected="true" centerPoint3DX="651.5" centerPoint3DY="76.35">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkInfo/PerkInfo_Background" name="Background_mc" centerPoint3DX="651.5" centerPoint3DY="76.35">
                   <matrix>
                     <Matrix tx="115" ty="10"/>
                   </matrix>

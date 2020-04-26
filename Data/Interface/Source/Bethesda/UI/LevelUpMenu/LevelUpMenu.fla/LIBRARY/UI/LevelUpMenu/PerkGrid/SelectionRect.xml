@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/SelectionRect" itemID="5dd9f622-00000727" linkageExportForAS="true" linkageClassName="SelectionRect" lastModified="1574568715">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/SelectionRect" itemID="5dd9f622-00000727" linkageExportForAS="true" linkageClassName="SelectionRect" lastModified="1587879168">
   <timeline>
     <DOMTimeline name="SelectionRect">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMShape selected="true" isFloating="true">
+                <DOMShape isFloating="true">
                   <fills>
                     <FillStyle index="1">
                       <SolidColor color="#333333" alpha="0.349019607843137"/>

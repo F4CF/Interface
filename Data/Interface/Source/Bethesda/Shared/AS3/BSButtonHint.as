@@ -12,18 +12,18 @@
 	import flash.text.TextFieldAutoSize;
 	import flash.text.TextFormat;
 	import flash.utils.getDefinitionByName;
-	
+
 	public dynamic class BSButtonHint extends BSUIComponent
 	{
-		
+
 		private static const DISABLED_GREY_OUT_ALPHA:Number = 0.5;
-		
+
 		public static const JUSTIFY_RIGHT:uint = 0;
-		
+
 		public static const JUSTIFY_LEFT:uint = 1;
-		
+
 		private static const DYNAMIC_MOVIE_CLIP_BUFFER = 3;
-		
+
 		private static const NameToTextMap:Object = {
 			"Xenon_A":"A",
 			"Xenon_B":"B",
@@ -75,32 +75,32 @@
 			"PSN_R2_Alt":"x",
 			"PSN_L2_Alt":"y"
 		};
-		 
-		
+
+
 		public var textField_tf:TextField;
-		
+
 		public var IconHolderInstance:MovieClip;
-		
+
 		public var SecondaryIconHolderInstance:MovieClip;
-		
+
 		private var _hitArea:Sprite;
-		
+
 		private var DynamicMovieClip:MovieClip;
-		
+
 		private var bButtonFlashing:Boolean;
-		
+
 		private var _strCurrentDynamicMovieClipName:String;
-		
+
 		private var _DyanmicMovieHeight:Number;
-		
+
 		private var _DynamicMovieY:Number;
-		
+
 		private var _buttonHintData:BSButtonHintData;
-		
+
 		var _bButtonPressed:Boolean = false;
-		
+
 		var _bMouseOver:Boolean = false;
-		
+
 		public function BSButtonHint()
 		{
 			trace("[BSButtonHint] (CTOR)");
@@ -125,7 +125,7 @@
 			addEventListener(MouseEvent.MOUSE_OVER,this.onMouseOver);
 			addEventListener(MouseEvent.MOUSE_OUT,this.onMouseOut);
 		}
-		
+
 		public function set ButtonHintData(value:BSButtonHintData) : void
 		{
 			if(this._buttonHintData)
@@ -139,12 +139,12 @@
 			}
 			SetIsDirty();
 		}
-		
+
 		private function onButtonHintDataDirtyEvent(arEvent:Event) : void
 		{
 			SetIsDirty();
 		}
-		
+
 		public function get PCKey() : String
 		{
 			if(this._buttonHintData.PCKey)
@@ -153,7 +153,7 @@
 			}
 			return "";
 		}
-		
+
 		public function get SecondaryPCKey() : String
 		{
 			if(this._buttonHintData.SecondaryPCKey)
@@ -162,12 +162,12 @@
 			}
 			return "";
 		}
-		
+
 		private function get UsePCKey() : Boolean
 		{
 			return iPlatform == PlatformChangeEvent.PLATFORM_PC_KB_MOUSE && !NameToTextMap.hasOwnProperty(this._buttonHintData.PCKey);
 		}
-		
+
 		public function get ControllerButton() : String
 		{
 			var controllerButtonName:String = "";
@@ -200,7 +200,7 @@
 			}
 			return controllerButtonName;
 		}
-		
+
 		public function get SecondaryControllerButton() : String
 		{
 			var controllerButtonName:String = "";
@@ -236,12 +236,12 @@
 			}
 			return controllerButtonName;
 		}
-		
+
 		public function get ButtonText() : String
 		{
 			return this._buttonHintData.ButtonText;
 		}
-		
+
 		public function get Justification() : uint
 		{
 			if(CompanionAppMode.isOn)
@@ -250,45 +250,46 @@
 			}
 			return this._buttonHintData.Justification;
 		}
-		
+
 		public function get ButtonDisabled() : Boolean
 		{
 			return this._buttonHintData.ButtonDisabled;
 		}
-		
+
 		public function get SecondaryButtonDisabled() : Boolean
 		{
 			return this._buttonHintData.SecondaryButtonDisabled;
 		}
-		
+
 		public function get AllButtonsDisabled() : Boolean
 		{
 			return this.ButtonDisabled && (!this._buttonHintData.hasSecondaryButton || this.SecondaryButtonDisabled);
 		}
-		
+
 		public function get ButtonVisible() : Boolean
 		{
 			return this._buttonHintData && this._buttonHintData.ButtonVisible;
 		}
-		
+
 		public function get UseDynamicMovieClip() : Boolean
 		{
 			return this._buttonHintData.DynamicMovieClipName.length > 0;
 		}
-		
-		public function onTextClick(MouseEvent:Event) : void
+
+		public function onTextClick(event:MouseEvent) : void
 		{
+			trace("BSButtonHint::onTextClick");
 			if(!this.ButtonDisabled && this.ButtonVisible)
 			{
 				this._buttonHintData.onTextClick();
 			}
 		}
-		
+
 		public function get bButtonPressed() : Boolean
 		{
 			return this._bButtonPressed;
 		}
-		
+
 		public function set bButtonPressed(abButtonPressed:Boolean) : *
 		{
 			if(this._bButtonPressed != abButtonPressed)
@@ -297,12 +298,12 @@
 				SetIsDirty();
 			}
 		}
-		
+
 		public function get bMouseOver() : Boolean
 		{
 			return this._bMouseOver;
 		}
-		
+
 		public function set bMouseOver(abMouseOver:Boolean) : *
 		{
 			if(this._bMouseOver != abMouseOver)
@@ -311,17 +312,19 @@
 				SetIsDirty();
 			}
 		}
-		
+
 		private function onMouseOver(event:MouseEvent) : *
 		{
+			trace("BSButtonHint::onMouseOver");
 			this.bMouseOver = true;
 		}
-		
+
 		protected function onMouseOut(event:MouseEvent) : *
 		{
+			trace("BSButtonHint::onMouseOut");
 			this.bMouseOver = false;
 		}
-		
+
 		override public function redrawUIComponent() : void
 		{
 			super.redrawUIComponent();
@@ -343,7 +346,7 @@
 				hitArea = this._hitArea;
 			}
 		}
-		
+
 		public function SetFlashing(abFlash:Boolean) : *
 		{
 			if(abFlash != this.bButtonFlashing)
@@ -352,7 +355,7 @@
 				this.IconHolderInstance.gotoAndPlay(!!abFlash?"Flashing":"Default");
 			}
 		}
-		
+
 		private function UpdateIconTextField(icon_tf:TextField, controllerText:String) : *
 		{
 			var formatUpdate:* = undefined;
@@ -370,7 +373,7 @@
 				icon_tf.y = expectedY;
 			}
 		}
-		
+
 		private function redrawDynamicMovieClip() : void
 		{
 			var clipClass:Class = null;
@@ -395,7 +398,7 @@
 				}
 			}
 		}
-		
+
 		private function redrawTextField() : void
 		{
 			this.textField_tf.visible = !this.UseDynamicMovieClip;
@@ -406,7 +409,7 @@
 				this.textField_tf.x = this.Justification == JUSTIFY_LEFT?Number(this.IconHolderInstance.width):Number(this.IconHolderInstance.x - this.textField_tf.width);
 			}
 		}
-		
+
 		private function redrawSecondaryButton() : void
 		{
 			this.SecondaryIconHolderInstance.visible = this._buttonHintData.hasSecondaryButton;
@@ -417,14 +420,14 @@
 				this.SecondaryIconHolderInstance.x = !!this.UseDynamicMovieClip?Number(this.DynamicMovieClip.x + this.DynamicMovieClip.width + DYNAMIC_MOVIE_CLIP_BUFFER):Number(this.textField_tf.x + this.textField_tf.width);
 			}
 		}
-		
+
 		private function redrawPrimaryButton() : void
 		{
 			this.UpdateIconTextField(this.IconHolderInstance.IconAnimInstance.Icon_tf,this.ControllerButton);
 			this.IconHolderInstance.alpha = !!this.ButtonDisabled?Number(DISABLED_GREY_OUT_ALPHA):Number(1);
 			this.IconHolderInstance.x = this.Justification == JUSTIFY_LEFT?Number(0):Number(-this.IconHolderInstance.width);
 		}
-		
+
 		private function redrawHitArea() : void
 		{
 			var bounds:* = this.getBounds(this);
@@ -433,7 +436,7 @@
 			this._hitArea.y = bounds.y;
 			this._hitArea.height = bounds.height;
 		}
-		
+
 		private function GetExpectedFont() : String
 		{
 			var expectedFormat:String = null;
@@ -449,7 +452,7 @@
 			}
 			return expectedFormat;
 		}
-		
+
 		private function SetUpTextFields(aTextField:TextField) : *
 		{
 			aTextField.autoSize = TextFieldAutoSize.LEFT;

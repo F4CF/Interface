@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/BSButtonHintBar/Symbol 141" itemID="5dc12b90-00000051" lastModified="1571730685">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/AS3/BSButtonHintBar/BSButtonHintBar_BracketLeft" itemID="5ddac8ae-000007c0" lastModified="1574701169">
   <timeline>
-    <DOMTimeline name="Symbol 141">
+    <DOMTimeline name="BSButtonHintBar_BracketLeft">
       <layers>
-        <DOMLayer name="Layer 1" color="#AEB1BD" current="true" isSelected="true">
+        <DOMLayer name="Shape" color="#666FF0" locked="true" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -13,7 +13,7 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle0="1" edges="!91 600|0 600!0 600|0 640!0 640|131 640!131 640|131 0!131 0|0 0!0 0|0 40!0 40|91 40!91 40|91 600"/>
+                    <Edge fillStyle1="1" edges="!131 40S2|40 40!40 40|40 600!40 600|131 600!131 600|131 640!131 640|0 640!0 640|0 0!0 0|131 0!131 0|131 40"/>
                   </edges>
                 </DOMShape>
               </elements>

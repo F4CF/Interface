@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkGrid" itemID="5dd9f553-0000071e" linkageExportForAS="true" linkageClassName="PerkGrid" lastModified="1574568879">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkGrid" itemID="5dd9f553-0000071e" linkageExportForAS="true" linkageClassName="PerkGrid" lastModified="1587879253">
   <timeline>
     <DOMTimeline name="PerkGrid">
       <layers>
-        <DOMLayer name="Overlay_mc" color="#958FF1" locked="true" autoNamed="false">
+        <DOMLayer name="Overlay_mc" color="#CC0000" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Background" name="Overlay_mc" selected="true" blendMode="multiply">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Background" name="Overlay_mc" blendMode="multiply">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
@@ -22,7 +22,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Header" name="Header_mc" selected="true" centerPoint3DX="1177.6" centerPoint3DY="251.15">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Header" name="Header_mc" centerPoint3DX="1177.6" centerPoint3DY="251.15">
                   <matrix>
                     <Matrix tx="345" ty="232.5"/>
                   </matrix>
@@ -51,7 +51,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/SelectionRect" name="SelectionRect_mc" selected="true" centerPoint3DX="386" centerPoint3DY="375">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/SelectionRect" name="SelectionRect_mc" centerPoint3DX="386" centerPoint3DY="375">
                   <matrix>
                     <Matrix tx="271" ty="295"/>
                   </matrix>
@@ -67,7 +67,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Background" name="Background_mc" selected="true">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Background" name="Background_mc">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>

@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/XPMeter/XPMeter" itemID="5dd9f32f-00000704" linkageExportForAS="true" linkageClassName="XPMeter" lastModified="1574565148">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/XPMeter/XPMeter" itemID="5dd9f32f-00000704" linkageExportForAS="true" linkageClassName="XPMeter" lastModified="1587879160">
   <timeline>
     <DOMTimeline name="XPMeter">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Shared/Border" name="Fill_mc" selected="true" centerPoint3DX="48.15" centerPoint3DY="47.95">
+                <DOMSymbolInstance libraryItemName="Shared/Border" name="Fill_mc" centerPoint3DX="48.15" centerPoint3DY="47.95">
                   <matrix>
                     <Matrix a="2.07684326171875" d="0.260421752929688"/>
                   </matrix>
@@ -22,7 +22,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMShape selected="true" isFloating="true">
+                <DOMShape isFloating="true">
                   <strokes>
                     <StrokeStyle index="1">
                       <SolidStroke scaleMode="normal" caps="square" weight="2" joints="miter">

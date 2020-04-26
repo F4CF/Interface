@@ -1,4 +1,4 @@
-package Shared.AS3.COMPANIONAPP
+﻿package Shared.AS3.COMPANIONAPP
 {
 	import Shared.AS3.BSButtonHint;
 	import flash.display.MovieClip;
@@ -37,9 +37,9 @@ package Shared.AS3.COMPANIONAPP
 			}
 		}
 		
-		override public function onTextClick(MouseEvent:Event) : void
+		override public function onTextClick(event:MouseEvent) : void
 		{
-			super.onTextClick(MouseEvent);
+			super.onTextClick(event);
 			if(!ButtonDisabled && ButtonVisible)
 			{
 				this.setNormalState();
