@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/Misc/PerkRankStar/PerkRankStar" itemID="5dd9f246-000006f3" linkageExportForAS="true" linkageClassName="PerkRankStar" lastModified="1574567623">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/Misc/PerkRankStar/PerkRankStar" itemID="5dd9f246-000006f3" linkageExportForAS="true" linkageClassName="PerkRankStar" lastModified="1587885674">
   <timeline>
-    <DOMTimeline name="PerkRankStar" currentFrame="2">
+    <DOMTimeline name="PerkRankStar">
       <layers>
         <DOMLayer name="Labels" color="#4CFCAF" locked="true" current="true" isSelected="true" autoNamed="false">
           <frames>

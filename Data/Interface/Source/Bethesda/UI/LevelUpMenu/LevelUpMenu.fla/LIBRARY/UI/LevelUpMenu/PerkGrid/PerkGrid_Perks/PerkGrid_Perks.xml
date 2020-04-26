@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkGrid_Perks/PerkGrid_Perks" itemID="5dd9f993-00000739" lastModified="1574567223">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkGrid_Perks/PerkGrid_Perks" itemID="5dd9f993-00000739" lastModified="1587886165">
   <timeline>
     <DOMTimeline name="PerkGrid_Perks">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Perks/PerkGrid_Perks_StarHolder" name="StarHolder_10_6" selected="true" centerPoint3DX="1910.6" centerPoint3DY="2466.3">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Perks/PerkGrid_Perks_StarHolder" name="StarHolder_10_6" centerPoint3DX="1910.6" centerPoint3DY="2466.3">
                   <matrix>
                     <Matrix a="0.550003051757813" d="0.546417236328125" tx="1720" ty="2448"/>
                   </matrix>
@@ -22,7 +22,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Perks/PerkGrid_Perks_StarHolder" name="StarHolder_10_5" selected="true" centerPoint3DX="1671.6" centerPoint3DY="2466.3">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Perks/PerkGrid_Perks_StarHolder" name="StarHolder_10_5" centerPoint3DX="1671.6" centerPoint3DY="2466.3">
                   <matrix>
                     <Matrix a="0.550003051757813" d="0.546417236328125" tx="1481" ty="2448"/>
                   </matrix>
@@ -38,7 +38,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Perks/PerkGrid_Perks_StarHolder" name="StarHolder_10_4" selected="true" centerPoint3DX="1435.6" centerPoint3DY="2466.3">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Perks/PerkGrid_Perks_StarHolder" name="StarHolder_10_4" centerPoint3DX="1435.6" centerPoint3DY="2466.3">
                   <matrix>
                     <Matrix a="0.550003051757813" d="0.546417236328125" tx="1245" ty="2448"/>
                   </matrix>
@@ -54,7 +54,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Perks/PerkGrid_Perks_StarHolder" name="StarHolder_10_3" selected="true" centerPoint3DX="1194.6" centerPoint3DY="2466.3">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Perks/PerkGrid_Perks_StarHolder" name="StarHolder_10_3" centerPoint3DX="1194.6" centerPoint3DY="2466.3">
                   <matrix>
                     <Matrix a="0.550003051757813" d="0.546417236328125" tx="1004" ty="2448"/>
                   </matrix>
@@ -98,7 +98,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer 7" color="#D16354" locked="true" current="true" isSelected="true">
+        <DOMLayer name="Layer 7" color="#D16354" locked="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -230,7 +230,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Perks/PerkGrid_Perks_StarHolder" name="StarHolder_8_6" selected="true" centerPoint3DX="1910.6" centerPoint3DY="2036.3">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Perks/PerkGrid_Perks_StarHolder" name="StarHolder_8_6" centerPoint3DX="1910.6" centerPoint3DY="2036.3">
                   <matrix>
                     <Matrix a="0.550003051757813" d="0.546417236328125" tx="1720" ty="2018"/>
                   </matrix>
@@ -630,7 +630,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Perks/PerkGrid_Perks_StarHolder" name="StarHolder_5_2" selected="true" centerPoint3DX="957.6" centerPoint3DY="1393.3">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Perks/PerkGrid_Perks_StarHolder" name="StarHolder_5_2" centerPoint3DX="957.6" centerPoint3DY="1393.3">
                   <matrix>
                     <Matrix a="0.550003051757813" d="0.546417236328125" tx="767" ty="1375"/>
                   </matrix>
@@ -998,7 +998,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Perks/PerkGrid_Perks_StarHolder" name="StarHolder_2_0" selected="true" centerPoint3DX="478.6" centerPoint3DY="750.3">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Perks/PerkGrid_Perks_StarHolder" name="StarHolder_2_0" centerPoint3DX="478.6" centerPoint3DY="750.3">
                   <matrix>
                     <Matrix a="0.550003051757813" d="0.546417236328125" tx="288" ty="732"/>
                   </matrix>
@@ -1238,7 +1238,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/PerkClip_1d246f" name="PerkAnim_9_4" selected="true" centerPoint3DX="1564.55" centerPoint3DY="2478">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/PerkClip_1d246f" name="PerkAnim_9_4" centerPoint3DX="1564.55" centerPoint3DY="2478">
                   <matrix>
                     <Matrix a="0.518341064453125" d="0.518341064453125" tx="1359.4" ty="2325.5"/>
                   </matrix>
@@ -1254,7 +1254,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/PerkClip_1d248a" name="PerkAnim_9_3" selected="true" centerPoint3DX="1331.95" centerPoint3DY="2496.05">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/PerkClip_1d248a" name="PerkAnim_9_3" centerPoint3DX="1331.95" centerPoint3DY="2496.05">
                   <matrix>
                     <Matrix a="0.487472534179688" d="0.487472534179688" tx="1104.3" ty="2331.65"/>
                   </matrix>
@@ -1286,7 +1286,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 344" name="PerkAnim_7_0" selected="true" centerPoint3DX="605.55" centerPoint3DY="2044.85">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 344" name="PerkAnim_7_0" centerPoint3DX="605.55" centerPoint3DY="2044.85">
                   <matrix>
                     <Matrix a="0.517501831054688" d="0.517501831054688" tx="393.7" ty="1882.55"/>
                   </matrix>
@@ -2038,7 +2038,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1569" name="PerkAnim_6_0" selected="true" centerPoint3DX="594.6" centerPoint3DY="1770.35">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1569" name="PerkAnim_6_0" centerPoint3DX="594.6" centerPoint3DY="1770.35">
                   <matrix>
                     <Matrix a="0.446701049804688" d="0.447662353515625" tx="358" ty="1593.45"/>
                   </matrix>
@@ -2054,7 +2054,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1616" name="PerkAnim_5_1" selected="true" centerPoint3DX="838.75" centerPoint3DY="1645.35">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1616" name="PerkAnim_5_1" centerPoint3DX="838.75" centerPoint3DY="1645.35">
                   <matrix>
                     <Matrix a="0.506881713867188" d="0.50714111328125" tx="581.15" ty="1474.05"/>
                   </matrix>
@@ -2070,7 +2070,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1639" name="PerkAnim_5_0" selected="true" centerPoint3DX="592.65" centerPoint3DY="1610.55">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1639" name="PerkAnim_5_0" centerPoint3DX="592.65" centerPoint3DY="1610.55">
                   <matrix>
                     <Matrix a="0.40283203125" d="0.4036865234375" tx="329.95" ty="1419"/>
                   </matrix>
@@ -2086,7 +2086,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1662" name="PerkAnim_4_1" selected="true" centerPoint3DX="848.55" centerPoint3DY="1399.3">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1662" name="PerkAnim_4_1" centerPoint3DX="848.55" centerPoint3DY="1399.3">
                   <matrix>
                     <Matrix a="0.5087890625" d="0.509124755859375" tx="633.05" ty="1243.3"/>
                   </matrix>
@@ -2102,7 +2102,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1679" name="PerkAnim_4_0" selected="true" centerPoint3DX="638.7" centerPoint3DY="1445.5">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1679" name="PerkAnim_4_0" centerPoint3DX="638.7" centerPoint3DY="1445.5">
                   <matrix>
                     <Matrix a="0.424041748046875" d="0.425018310546875" tx="389" ty="1255.8"/>
                   </matrix>
@@ -2118,7 +2118,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1717" name="PerkAnim_3_6" selected="true" centerPoint3DX="2030.45" centerPoint3DY="1179.35">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1717" name="PerkAnim_3_6" centerPoint3DX="2030.45" centerPoint3DY="1179.35">
                   <matrix>
                     <Matrix a="0.538436889648438" d="0.538604736328125" tx="1824.95" ty="1026.45"/>
                   </matrix>
@@ -2134,7 +2134,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1739" name="PerkAnim_3_1" selected="true" centerPoint3DX="892.15" centerPoint3DY="1193.9">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1739" name="PerkAnim_3_1" centerPoint3DX="892.15" centerPoint3DY="1193.9">
                   <matrix>
                     <Matrix a="0.506118774414063" d="0.506607055664063" tx="635.5" ty="1037.35"/>
                   </matrix>
@@ -2150,7 +2150,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1764" name="PerkAnim_2_1" selected="true" centerPoint3DX="846.55" centerPoint3DY="988.25">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1764" name="PerkAnim_2_1" centerPoint3DX="846.55" centerPoint3DY="988.25">
                   <matrix>
                     <Matrix a="0.50628662109375" d="0.506546020507813" tx="605.05" ty="830.75"/>
                   </matrix>
@@ -2166,7 +2166,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1795" name="PerkAnim_2_0" selected="true" centerPoint3DX="589" centerPoint3DY="957.4">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1795" name="PerkAnim_2_0" centerPoint3DX="589" centerPoint3DY="957.4">
                   <matrix>
                     <Matrix a="0.422882080078125" d="0.42376708984375" tx="334.75" ty="765.8"/>
                   </matrix>
@@ -2182,7 +2182,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1805" name="PerkAnim_1_6" selected="true" centerPoint3DX="2014.3" centerPoint3DY="754.95">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1805" name="PerkAnim_1_6" centerPoint3DX="2014.3" centerPoint3DY="754.95">
                   <matrix>
                     <Matrix a="0.545684814453125" d="0.54595947265625" tx="1819.95" ty="605.35"/>
                   </matrix>
@@ -2198,7 +2198,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1820" name="PerkAnim_1_5" selected="true" centerPoint3DX="1789.35" centerPoint3DY="742.15">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1820" name="PerkAnim_1_5" centerPoint3DX="1789.35" centerPoint3DY="742.15">
                   <matrix>
                     <Matrix a="0.52850341796875" d="0.528839111328125" tx="1582.35" ty="593.15"/>
                   </matrix>
@@ -2214,7 +2214,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1847" name="PerkAnim_1_1" selected="true" centerPoint3DX="841.4" centerPoint3DY="770.25">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1847" name="PerkAnim_1_1" centerPoint3DX="841.4" centerPoint3DY="770.25">
                   <matrix>
                     <Matrix a="0.507156372070313" d="0.507553100585938" tx="622.2" ty="610.35"/>
                   </matrix>
@@ -2230,7 +2230,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1859" name="PerkAnim_1_0" selected="true" centerPoint3DX="603.25" centerPoint3DY="739.2">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1859" name="PerkAnim_1_0" centerPoint3DX="603.25" centerPoint3DY="739.2">
                   <matrix>
                     <Matrix a="0.42529296875" d="0.426177978515625" tx="355.45" ty="555.4"/>
                   </matrix>
@@ -2246,7 +2246,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1870" name="PerkAnim_0_6" selected="true" centerPoint3DX="2001.2" centerPoint3DY="441.4">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1870" name="PerkAnim_0_6" centerPoint3DX="2001.2" centerPoint3DY="441.4">
                   <matrix>
                     <Matrix a="0.653228759765625" d="0.653244018554688" tx="1828.1" ty="309.75"/>
                   </matrix>
@@ -2262,7 +2262,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1877" name="PerkAnim_0_5" selected="true" centerPoint3DX="1722.05" centerPoint3DY="444.6">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1877" name="PerkAnim_0_5" centerPoint3DX="1722.05" centerPoint3DY="444.6">
                   <matrix>
                     <Matrix a="0.65167236328125" d="0.651870727539063" tx="1559.5" ty="323.45"/>
                   </matrix>
@@ -2278,7 +2278,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1891" name="PerkAnim_0_4" selected="true" centerPoint3DX="1514.25" centerPoint3DY="435.85">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1891" name="PerkAnim_0_4" centerPoint3DX="1514.25" centerPoint3DY="435.85">
                   <matrix>
                     <Matrix a="0.66064453125" d="0.661285400390625" tx="1345.45" ty="301.25"/>
                   </matrix>
@@ -2294,7 +2294,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1900" name="PerkAnim_0_3" selected="true" centerPoint3DX="1256.75" centerPoint3DY="439.7">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1900" name="PerkAnim_0_3" centerPoint3DX="1256.75" centerPoint3DY="439.7">
                   <matrix>
                     <Matrix a="0.641632080078125" d="0.642303466796875" tx="1091.5" ty="317.65"/>
                   </matrix>
@@ -2310,7 +2310,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1907" name="PerkAnim_0_2" selected="true" centerPoint3DX="1046.3" centerPoint3DY="459.4">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1907" name="PerkAnim_0_2" centerPoint3DX="1046.3" centerPoint3DY="459.4">
                   <matrix>
                     <Matrix a="0.63348388671875" d="0.633499145507813" tx="879.45" ty="322.85"/>
                   </matrix>
@@ -2326,7 +2326,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1915" name="PerkAnim_0_1" selected="true" centerPoint3DX="771" centerPoint3DY="445.8">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkClips/Symbol 1915" name="PerkAnim_0_1" centerPoint3DX="771" centerPoint3DY="445.8">
                   <matrix>
                     <Matrix a="0.655715942382813" d="0.65606689453125" tx="598.25" ty="315.6"/>
                   </matrix>
@@ -2338,7 +2338,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="PerkAnim_0_0" color="#DDF816" locked="true" autoNamed="false">
+        <DOMLayer name="PerkAnim_0_0" color="#DDF816" outline="true" current="true" isSelected="true" useOutlineView="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

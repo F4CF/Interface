@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/Border" itemID="5dd9f4e6-0000071c" lastModified="1574565143">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Shared/Border" itemID="5dd9f4e6-0000071c" lastModified="1587886253">
   <timeline>
     <DOMTimeline name="Border">
       <layers>
@@ -6,14 +6,14 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMShape selected="true" isFloating="true">
+                <DOMShape>
                   <fills>
                     <FillStyle index="1">
-                      <SolidColor color="#FFFFFF"/>
+                      <SolidColor color="#FFFFFF" alpha="0"/>
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!1926 1919S2|0 1919!0 1919|0 0!0 0|1926 0!1926 0|1926 1919"/>
+                    <Edge fillStyle1="1" edges="!1926 1919|0 1919!0 1919|0 0!0 0|1926 0!1926 0|1926 1919"/>
                   </edges>
                 </DOMShape>
               </elements>

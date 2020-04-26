@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMComponentInstance libraryItemName="Shared/AS3/BSButtonHintBar/BSButtonHintBar" name="ButtonHintBar_mc" selected="true" centerPoint3DX="659.3" centerPoint3DY="677.05" uniqueID="1">
+                <DOMComponentInstance libraryItemName="Shared/AS3/BSButtonHintBar/BSButtonHintBar" name="ButtonHintBar_mc" centerPoint3DX="659.3" centerPoint3DY="677.05" uniqueID="1">
                   <matrix>
                     <Matrix tx="639.85" ty="661.05"/>
                   </matrix>
@@ -54,7 +54,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid" name="GridView_mc" selected="true" centerPoint3DX="1855.95" centerPoint3DY="1316.2">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid" name="GridView_mc" centerPoint3DX="1855.95" centerPoint3DY="1316.2">
                   <matrix>
                     <Matrix a="0.662338256835938" d="0.662338256835938"/>
                   </matrix>

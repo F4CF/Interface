@@ -22,7 +22,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkInfo/StarHolder/StarHolder" name="PerkAnim_mc" selected="true">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkInfo/StarHolder/StarHolder" name="PerkAnim_mc">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>

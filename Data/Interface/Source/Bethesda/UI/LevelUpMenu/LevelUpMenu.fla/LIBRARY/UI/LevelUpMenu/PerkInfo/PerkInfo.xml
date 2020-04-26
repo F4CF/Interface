@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkInfo/PerkInfo" itemID="5dd9f2bf-000006f9" lastModified="1587879158">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkInfo/PerkInfo" itemID="5dd9f2bf-000006f9" lastModified="1587886648">
   <timeline>
     <DOMTimeline name="PerkInfo">
       <layers>
-        <DOMLayer name="Confirm_tf" color="#FF0000" locked="true" autoNamed="false">
+        <DOMLayer name="Confirm_tf" color="#FF0000" locked="true" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -43,7 +43,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMDynamicText name="Reqs_tf" selected="true" width="296" height="21.1" isSelectable="false" renderAsHTML="true">
+                <DOMDynamicText name="Reqs_tf" width="296" height="21.1" isSelectable="false" renderAsHTML="true">
                   <matrix>
                     <Matrix tx="497" ty="117"/>
                   </matrix>
@@ -51,7 +51,7 @@
                     <DOMTextRun>
                       <characters></characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="14.45" bitmapSize="240" face="$MAIN_Font*"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="14.45" bitmapSize="240" face="$MAIN_Font*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -64,7 +64,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMDynamicText name="PerkName_tf" selected="true" fontRenderingMode="standard" width="746" height="35.05" isSelectable="false" renderAsHTML="true">
+                <DOMDynamicText name="PerkName_tf" fontRenderingMode="standard" width="746" height="35.05" isSelectable="false" renderAsHTML="true">
                   <matrix>
                     <Matrix tx="272" ty="14.25"/>
                   </matrix>
@@ -72,7 +72,7 @@
                     <DOMTextRun>
                       <characters></characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="14.45" bitmapSize="240" face="$MAIN_Font_Bold*"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="14.45" bitmapSize="240" face="$MAIN_Font_Bold*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -81,11 +81,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="DescriptionText_tf" color="#FF3399" locked="true" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="DescriptionText_tf" color="#FF3399" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMDynamicText name="DescriptionText_tf" selected="true" width="744.55" height="50" isSelectable="false" renderAsHTML="true" lineType="multiline">
+                <DOMDynamicText name="DescriptionText_tf" width="744.55" height="50" isSelectable="false" renderAsHTML="true" lineType="multiline">
                   <matrix>
                     <Matrix a="1.00187683105469" tx="277" ty="46"/>
                   </matrix>
@@ -93,7 +93,7 @@
                     <DOMTextRun>
                       <characters></characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="14.45" bitmapSize="240" face="$MAIN_Font*"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="14.45" bitmapSize="240" face="$MAIN_Font*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Shared/Border" selected="true" centerPoint3DX="48.15" centerPoint3DY="47.95">
+                <DOMSymbolInstance libraryItemName="Shared/Border" centerPoint3DX="48.15" centerPoint3DY="47.95">
                   <matrix>
                     <Matrix a="3.95843505859375" d="0.3819580078125"/>
                   </matrix>

@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkGrid" itemID="5dd9f553-0000071e" linkageExportForAS="true" linkageClassName="PerkGrid" lastModified="1587879253">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/LevelUpMenu/PerkGrid/PerkGrid" itemID="5dd9f553-0000071e" linkageExportForAS="true" linkageClassName="PerkGrid" lastModified="1587886039">
   <timeline>
     <DOMTimeline name="PerkGrid">
       <layers>
@@ -34,11 +34,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="PerksHolder_mc" color="#00FF00" locked="true" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="PerksHolder_mc" color="#00FF00" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Perks/PerkGrid_Perks" name="PerksHolder_mc" centerPoint3DX="1736.9" centerPoint3DY="1180.25">
+                <DOMSymbolInstance libraryItemName="UI/LevelUpMenu/PerkGrid/PerkGrid_Perks/PerkGrid_Perks" name="PerksHolder_mc" selected="true" centerPoint3DX="1736.9" centerPoint3DY="1180.25">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
