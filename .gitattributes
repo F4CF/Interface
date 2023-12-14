@@ -1,25 +1,25 @@
 * text
 
 # Adobe Flash authoring file
-*.fla  text
+*.fla text
 
 # ActionScript file
-*.as   text
+*.as text
 
 # Flash XML file
-*.xml  text
+*.xml text
 
 # Treat .swf and .swc as binary
 # https://stackoverflow.com/q/1529178
 
 # Compiled Flash file
-*.swf  binary -crlf -diff -merge
+*.swf binary -crlf -diff -merge
 
 # Compiled Flash Library/Script
-*.swc  binary -crlf -diff -merge
+*.swc binary -crlf -diff -merge
 
 # ActionScript Communication file
-*.asc  text
+*.asc text
 
 # Flash JavaScript file
 *.jsfl text
