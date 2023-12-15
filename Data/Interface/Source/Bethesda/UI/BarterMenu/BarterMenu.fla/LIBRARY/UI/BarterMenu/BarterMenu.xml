@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/BarterMenu" itemID="5dc043bd-000001b9" linkageExportForAS="true" linkageClassName="BarterMenu" lastModified="1572882912">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/BarterMenu" itemID="5dc043bd-000001b9" linkageExportForAS="true" linkageClassName="BarterMenu" lastModified="1702583184">
   <timeline>
     <DOMTimeline name="BarterMenu">
       <layers>
@@ -73,7 +73,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/ItemCard/ItemCard" name="ItemCard_mc" centerPoint3DX="722" centerPoint3DY="484.4">
+                <DOMSymbolInstance libraryItemName="Shared/Assets/ItemCard/ItemCard" name="ItemCard_mc" centerPoint3DX="722" centerPoint3DY="484.4">
                   <matrix>
                     <Matrix tx="722" ty="484.4"/>
                   </matrix>
@@ -91,7 +91,7 @@
               <elements>
                 <DOMSymbolInstance libraryItemName="UI/BarterMenu/CapsTransferInfo/CapsTransferInfo" name="CapsTransferInfo_mc" centerPoint3DX="645" centerPoint3DY="576.65">
                   <matrix>
-                    <Matrix a="0.970291137695312" d="0.970001220703125" tx="544" ty="535"/>
+                    <Matrix a="0.97027587890625" d="0.970001220703125" tx="544" ty="535"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
@@ -105,7 +105,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/BSButtonHintBar/BSButtonHintBar" name="ButtonHintBar_mc" centerPoint3DX="659.45" centerPoint3DY="704">
+                <DOMSymbolInstance libraryItemName="Shared/Assets/BSButtonHintBar/BSButtonHintBar" name="ButtonHintBar_mc" centerPoint3DX="659.45" centerPoint3DY="704">
                   <matrix>
                     <Matrix tx="640" ty="688"/>
                   </matrix>

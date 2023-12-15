@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/List/ListHeader" itemID="5dc043db-000001be" linkageExportForAS="true" linkageClassName="ListHeader" lastModified="1572883539">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/List/ListHeader" itemID="5dc043db-000001be" linkageExportForAS="true" linkageClassName="ListHeader" lastModified="1702593873">
   <timeline>
     <DOMTimeline name="ListHeader">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/BarterMenu/List/HeaderArrow" name="LeftArrow" centerPoint3DX="20.65" centerPoint3DY="20.2">
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/List/HeaderArrow" name="LeftArrow" selected="true" centerPoint3DX="20.65" centerPoint3DY="20.2">
                   <matrix>
                     <Matrix a="-0.823287963867188" d="0.822509765625" tx="12" ty="8.65"/>
                   </matrix>
@@ -46,7 +46,7 @@
                     <DOMTextRun>
                       <characters>MY ARMOR</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="0.5" lineSpacing="5" lineHeight="27.95" size="25" bitmapSize="500" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="0.5" lineSpacing="5" lineHeight="27.95" size="25" bitmapSize="500" face="$MAIN_Font_Bold*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>

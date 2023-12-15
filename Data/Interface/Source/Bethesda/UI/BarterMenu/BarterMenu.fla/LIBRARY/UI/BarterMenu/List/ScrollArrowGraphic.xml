@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/List/ScrollArrowGraphic" itemID="5dc04c89-000001fa" symbolType="graphic" lastModified="1572883613">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/List/ScrollArrowGraphic" itemID="5dc04c89-000001fa" symbolType="graphic" lastModified="1702593935">
   <timeline>
     <DOMTimeline name="ScrollArrowGraphic">
       <layers>
@@ -13,7 +13,7 @@
                     </FillStyle>
                   </fills>
                   <edges>
-                    <Edge fillStyle1="1" edges="!0 -97S2|118 22!118 22|98 42!98 42|0 -56!0 -56|-99 42!-99 42|-119 22!-119 22|-1 -97!-1 -97|0 -97!0 53|-99 151!-99 151|-119 131!-119 131|-1 12!-1 12|0 12!0 12|118 131!118 131|98 151!98 151|0 53"/>
+                    <Edge fillStyle1="1" edges="!0 53S2|-99 151!-99 151|-119 131!-119 131|-1 12!-1 12|0 12!0 12|118 131!118 131|98 151!98 151|0 53!0 -97|118 22!118 22|98 42!98 42|0 -56!0 -56|-99 42!-99 42|-119 22!-119 22|-1 -97!-1 -97|0 -97"/>
                   </edges>
                 </DOMShape>
               </elements>

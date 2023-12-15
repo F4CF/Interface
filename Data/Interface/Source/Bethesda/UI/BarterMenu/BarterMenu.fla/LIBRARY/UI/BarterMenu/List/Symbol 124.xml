@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/List/Symbol 124" itemID="5dc0421c-0000005b" lastModified="1572882858">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/List/Symbol 124" itemID="5dc0421c-0000005b" lastModified="1702593950">
   <timeline>
     <DOMTimeline name="Symbol 124">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/BarterMenu/List/Symbol 123" centerPoint3DX="142.25" centerPoint3DY="107.6">
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/List/Symbol 123" selected="true" centerPoint3DX="142.25" centerPoint3DY="107.6">
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>

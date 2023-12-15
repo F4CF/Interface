@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/List/PlayerListEntry" itemID="5dc042f2-00000192" linkageExportForAS="true" linkageClassName="PlayerListEntry" lastModified="1572883685">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/List/PlayerListEntry" itemID="5dc042f2-00000192" linkageExportForAS="true" linkageClassName="PlayerListEntry" lastModified="1702593928">
   <timeline>
     <DOMTimeline name="PlayerListEntry">
       <layers>
@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/ItemCard/FavIcon" name="TaggedForSearchIcon_mc" centerPoint3DX="55.9" centerPoint3DY="30.4">
+                <DOMSymbolInstance libraryItemName="Shared/Assets/ItemCard/FavIcon" name="TaggedForSearchIcon_mc" centerPoint3DX="55.9" centerPoint3DY="30.4">
                   <matrix>
                     <Matrix a="0.399322509765625" d="0.395004272460938" tx="40.9" ty="15.4"/>
                   </matrix>
@@ -66,7 +66,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="textField" color="#7CFB1F" locked="true" autoNamed="false">
+        <DOMLayer name="textField" color="#7CFB1F" locked="true" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -78,7 +78,7 @@
                     <DOMTextRun>
                       <characters>Item</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="0.5" lineSpacing="5" lineHeight="20.1" size="18" bitmapSize="360" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="0.5" lineSpacing="5" lineHeight="20.1" size="18" bitmapSize="360" face="$MAIN_Font*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -87,7 +87,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="border" color="#33C2FF" locked="true" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="border" color="#33C2FF" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

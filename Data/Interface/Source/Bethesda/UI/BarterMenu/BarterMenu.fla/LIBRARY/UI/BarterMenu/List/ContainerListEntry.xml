@@ -1,12 +1,12 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/List/ContainerListEntry" itemID="5dc042f4-00000193" linkageExportForAS="true" linkageClassName="ContainerListEntry" lastModified="1572881140">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/List/ContainerListEntry" itemID="5dc042f4-00000193" linkageExportForAS="true" linkageClassName="ContainerListEntry" lastModified="1702593838">
   <timeline>
     <DOMTimeline name="ContainerListEntry">
       <layers>
-        <DOMLayer name="Layer 1" color="#F6F39D">
+        <DOMLayer name="TaggedForSearchIcon_mc" color="#F6F39D" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/ItemCard/FavIcon" name="TaggedForSearchIcon_mc" centerPoint3DX="51.3" centerPoint3DY="30.25">
+                <DOMSymbolInstance libraryItemName="Shared/Assets/ItemCard/FavIcon" name="TaggedForSearchIcon_mc" selected="true" centerPoint3DX="51.3" centerPoint3DY="30.25">
                   <matrix>
                     <Matrix a="0.399322509765625" d="0.395004272460938" tx="36.3" ty="15.25"/>
                   </matrix>
@@ -18,11 +18,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer 2" color="#8B32F1">
+        <DOMLayer name="LegendaryIcon_mc" color="#8B32F1" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/BarterMenu/LegendaryIcon" name="LegendaryIcon_mc" centerPoint3DX="31.05" centerPoint3DY="12.15">
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/LegendaryIcon" name="LegendaryIcon_mc" selected="true" centerPoint3DX="31.05" centerPoint3DY="12.15">
                   <matrix>
                     <Matrix a="1.48515319824219" d="1.484375" tx="26" ty="7.35"/>
                   </matrix>
@@ -34,11 +34,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer 3" color="#AB72EB">
+        <DOMLayer name="FavoriteIcon_mc" color="#AB72EB" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/BarterMenu/FavoriteIcon" name="FavoriteIcon_mc" centerPoint3DX="18.65" centerPoint3DY="13.35">
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/FavoriteIcon" name="FavoriteIcon_mc" selected="true" centerPoint3DX="18.65" centerPoint3DY="13.35">
                   <matrix>
                     <Matrix tx="13.6" ty="9.35"/>
                   </matrix>
@@ -50,11 +50,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer 4" color="#88F25D">
+        <DOMLayer name="LeftIcon_mc" color="#88F25D" locked="true" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/BarterMenu/LeftIcon" name="LeftIcon_mc" centerPoint3DX="-3.8" centerPoint3DY="13.6">
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/LeftIcon" name="LeftIcon_mc" selected="true" centerPoint3DX="-3.8" centerPoint3DY="13.6">
                   <matrix>
                     <Matrix tx="-9.85" ty="8.55"/>
                   </matrix>
@@ -66,7 +66,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer 5" color="#A64F9D">
+        <DOMLayer name="textField" color="#A64F9D" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -78,7 +78,7 @@
                     <DOMTextRun>
                       <characters>Item</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="0.5" lineSpacing="5" lineHeight="20.1" size="18" bitmapSize="360" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="0.5" lineSpacing="5" lineHeight="20.1" size="18" bitmapSize="360" face="$MAIN_Font*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -87,11 +87,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer 6" color="#BEC4D2" current="true" isSelected="true">
+        <DOMLayer name="border" color="#BEC4D2" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="UI/BarterMenu/List/ListBorder" name="border" centerPoint3DX="191" centerPoint3DY="20.95">
+                <DOMSymbolInstance libraryItemName="UI/BarterMenu/List/ListBorder" name="border" selected="true" centerPoint3DX="191" centerPoint3DY="20.95">
                   <matrix>
                     <Matrix a="0.761276245117188" d="0.649139404296875" tx="-29" ty="1"/>
                   </matrix>

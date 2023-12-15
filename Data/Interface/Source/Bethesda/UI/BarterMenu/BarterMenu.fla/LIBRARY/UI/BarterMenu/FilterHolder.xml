@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/FilterHolder" itemID="5dc043c4-000001ba" linkageExportForAS="true" linkageClassName="BarterMenu_fla.FilterHolder_1" lastModified="1572882918">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/FilterHolder" itemID="5dc043c4-000001ba" linkageExportForAS="true" linkageClassName="BarterMenu_fla.FilterHolder_1" lastModified="1702592409">
   <timeline>
-    <DOMTimeline name="FilterHolder" currentFrame="9">
+    <DOMTimeline name="FilterHolder">
       <layers>
         <DOMLayer name="Menu_mc" color="#FFFF00" locked="true" current="true" isSelected="true" autoNamed="false">
           <frames>

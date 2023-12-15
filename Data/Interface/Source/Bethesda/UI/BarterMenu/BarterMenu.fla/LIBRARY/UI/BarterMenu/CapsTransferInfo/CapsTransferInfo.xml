@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/CapsTransferInfo/CapsTransferInfo" itemID="5dc04511-000001c8" lastModified="1572883806">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="UI/BarterMenu/CapsTransferInfo/CapsTransferInfo" itemID="5dc04511-000001c8" lastModified="1702592398">
   <timeline>
     <DOMTimeline name="CapsTransferInfo">
       <layers>
@@ -30,7 +30,7 @@
                     <DOMTextRun>
                       <characters>$TOTAL COST</characters>
                       <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="22.35" size="20" bitmapSize="400" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineHeight="22.35" size="20" bitmapSize="400" face="$MAIN_Font_Bold*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -39,7 +39,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="TransferCaps_tf" color="#F26FD3" locked="true" autoNamed="false">
+        <DOMLayer name="TransferCaps_tf" color="#F26FD3" locked="true" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -51,7 +51,7 @@
                     <DOMTextRun>
                       <characters>110</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" rotation="true" lineHeight="13.7" bitmapSize="240" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineHeight="13.35" bitmapSize="240" face="$MAIN_Font_Bold*" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
@@ -76,7 +76,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="CapsArrowRight_mc" color="#D25A5A" locked="true" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="CapsArrowRight_mc" color="#D25A5A" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
